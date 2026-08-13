@@ -306,8 +306,8 @@ def select_recent_llm_candidate_ids(limit: int) -> tuple[int, int, list[int], st
 
 def step_llm():
     """打分新增论文 + 生成 TL;DR。如果没有 API key 则跳过 LLM 步骤。"""
-    if not os.getenv("MINIMAX_API_KEY"):
-        print("\n[skip] 无 MINIMAX_API_KEY，跳过 LLM 步骤")
+    if not (os.getenv("LLM_API_KEY") or os.getenv("MINIMAX_API_KEY")):
+        print("\n[skip] 无 LLM_API_KEY，跳过 LLM 步骤")
         return
 
     SAFETY_LIMIT = int(os.getenv("LLM_SAFETY_LIMIT", "500"))

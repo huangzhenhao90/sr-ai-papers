@@ -1,8 +1,9 @@
 """
-MiniMax-M3 LLM client (OpenAI 兼容接口)。
+LLM client (OpenAI 兼容接口)。
 
-注意：M3 是 thinking model，每次调用会消耗大量 reasoning tokens。
-为降低单篇成本，业务层应使用「批量打分」（一次喂多篇）。
+默认供应商：SiliconFlow（deepseek-ai/DeepSeek-V3.2）。
+环境变量：LLM_API_KEY / LLM_BASE_URL / LLM_MODEL（兼容旧的 MINIMAX_* 命名）。
+业务层应使用「批量打分」（一次喂多篇）降低单篇成本。
 """
 
 import os
@@ -13,11 +14,17 @@ import httpx
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 
 
-class MiniMaxClient:
+class LLMClient:
     def __init__(self):
-        self.api_key = os.environ["MINIMAX_API_KEY"]
-        self.base_url = os.environ.get("MINIMAX_BASE_URL", "https://api.minimaxi.com/v1")
-        self.model = os.environ.get("MINIMAX_MODEL", "MiniMax-M3")
+        self.api_key = os.environ.get("LLM_API_KEY") or os.environ["MINIMAX_API_KEY"]
+        self.base_url = os.environ.get(
+            "LLM_BASE_URL",
+            os.environ.get("MINIMAX_BASE_URL", "https://api.siliconflow.cn/v1"),
+        ).rstrip("/")
+        self.model = os.environ.get(
+            "LLM_MODEL",
+            os.environ.get("MINIMAX_MODEL", "deepseek-ai/DeepSeek-V3.2"),
+        )
         self.client = httpx.Client(
             timeout=180,
             headers={
@@ -35,7 +42,7 @@ class MiniMaxClient:
     )
     def chat(self, messages: list[dict], max_tokens: int = 2000, temperature: float = 0.1) -> dict:
         """返回完整 response dict。失败抛异常。"""
-        url = f"{self.base_url}/text/chatcompletion_v2"
+        url = f"{self.base_url}/chat/completions"
         payload = {
             "model": self.model,
             "messages": messages,
@@ -45,10 +52,10 @@ class MiniMaxClient:
         r = self.client.post(url, json=payload)
         r.raise_for_status()
         data = r.json()
-        # MiniMax 失败时 status_code != 0
-        base = data.get("base_resp") or {}
-        if base.get("status_code") not in (0, None):
-            raise RuntimeError(f"MiniMax API error: {base}")
+        # OpenAI 兼容格式：失败时带 error 字段
+        err = data.get("error")
+        if err:
+            raise RuntimeError(f"LLM API error: {err}")
         return data
 
     def chat_text(self, messages: list[dict], max_tokens: int = 2000, temperature: float = 0.1) -> str:
@@ -114,7 +121,8 @@ def _parse_array(text: str):
         return json.loads(text)
     except Exception:
         pass
-    fixed = _fix_bare_json(text)
+    repaired = _escape_inner_quotes(text)
+    fixed = _fix_bare_json(repaired)
     try:
         return json.loads(fixed)
     except Exception:
@@ -125,7 +133,7 @@ def _parse_array(text: str):
     except Exception:
         pass
     try:
-        return json.loads(_fix_bare_json(cleaned))
+        return json.loads(_fix_bare_json(_escape_inner_quotes(cleaned)))
     except Exception:
         pass
 
@@ -162,7 +170,7 @@ def _parse_array(text: str):
                         out.append(json.loads(re.sub(r",(\s*[}\]])", r"\1", obj_str)))
                     except Exception:
                         try:
-                            out.append(json.loads(_fix_bare_json(obj_str)))
+                            out.append(json.loads(_fix_bare_json(_escape_inner_quotes(obj_str))))
                         except Exception:
                             pass
                 start = None
@@ -170,7 +178,7 @@ def _parse_array(text: str):
 
 
 def _fix_bare_json(text: str):
-    """容错：MiniMax 偶发输出 {"id":p2,"ai":5} 这种裸标识符值，把裸值补上引号。"""
+    """容错：LLM 偶发输出 {"id":p2,"ai":5} 这种裸标识符值，把裸值补上引号。"""
     # 值侧："key":bareword -> "key":"bareword"（不碰已带引号的值和数字）
     text = re.sub(
         r'("\s*:\s*)([A-Za-z_][A-Za-z0-9_.\-]*)(\s*[,}\]])',
@@ -184,3 +192,45 @@ def _fix_bare_json(text: str):
         text,
     )
     return text
+
+
+def _escape_inner_quotes(text: str):
+    """容错：模型在中文 TL;DR 里常直接写未转义的 " 号（如 的"算法吸引力"感知），
+    把值字符串内部的裸引号转义为 \\"。
+
+    规则：一个引号串的结束引号后面必须是 , } ] 或 :（对象键），
+    否则说明它只是字符串内部的内容引号，需要转义。
+    """
+    out = []
+    i = 0
+    n = len(text)
+    in_string = False
+    while i < n:
+        ch = text[i]
+        if ch == "\\":
+            out.append(ch)
+            i += 1
+            if i < n:
+                out.append(text[i])
+                i += 1
+            continue
+        if ch == '"':
+            if in_string:
+                k = i + 1
+                while k < n and text[k] in " \t\r\n":
+                    k += 1
+                if k >= n or text[k] in ",}]:":
+                    out.append(ch)
+                    in_string = False
+                    i += 1
+                    continue
+                out.append('\\"')
+                i += 1
+                continue
+            out.append(ch)
+            in_string = True
+            i += 1
+            continue
+        out.append(ch)
+        i += 1
+    return "".join(out)

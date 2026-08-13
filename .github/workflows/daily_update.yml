@@ -71,9 +71,9 @@ jobs:
 
       - name: Run incremental update
         env:
-          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
-          MINIMAX_BASE_URL: https://api.minimaxi.com/v1
-          MINIMAX_MODEL: MiniMax-M3
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: https://api.siliconflow.cn/v1
+          LLM_MODEL: deepseek-ai/DeepSeek-V3.2
           CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
           DB_PATH: ./data/papers.db
           LOOKBACK_DAYS: ${{ inputs.lookback_days || '14' }}

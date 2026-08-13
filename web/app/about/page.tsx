@@ -69,7 +69,7 @@ export default function AboutPage() {
           <li><strong>抓取</strong>：每本期刊/会议从 OpenAlex 和 Crossref 双源全量抓取（不用关键词作召回闸门）；arXiv 用社交关系强信号词预过滤</li>
           <li><strong>规范化 + 去重</strong>：DOI 优先；无 DOI 用 标题+作者+年份+卷期 指纹</li>
           <li><strong>覆盖率审计</strong>：每期对账双源数字（见下方表）</li>
-          <li><strong>LLM 双打分</strong>：MiniMax-M3，对每篇论文给 AI 相关性 (0-5) 和社交关系相关性 (0-5)</li>
+          <li><strong>LLM 双打分</strong>：DeepSeek-V3.2 (SiliconFlow)，对每篇论文给 AI 相关性 (0-5) 和社交关系相关性 (0-5)</li>
           <li><strong>TL;DR + 标签</strong>：仅对双 ≥ 3 的论文生成 200 字中文摘要 + 标签</li>
           <li><strong>标题翻译</strong>：双≥3 的论文标题全部预翻译为中文</li>
         </ol>

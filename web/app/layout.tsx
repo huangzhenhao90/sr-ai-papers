@@ -33,7 +33,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </header>
         <main className="max-w-6xl mx-auto px-4 py-6">{children}</main>
         <footer className="max-w-6xl mx-auto px-4 py-8 text-xs text-stone-500 border-t border-stone-200 mt-10">
-          数据来源：OpenAlex + Crossref + Semantic Scholar · LLM：MiniMax-M2.5-lightning ·
+          数据来源：OpenAlex + Crossref + Semantic Scholar · LLM：DeepSeek-V3.2 (SiliconFlow) ·
           构建：<span className="font-mono">sr-ai-papers</span>
         </footer>
         <Analytics />

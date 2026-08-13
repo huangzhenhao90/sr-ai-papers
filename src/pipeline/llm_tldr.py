@@ -23,7 +23,7 @@ from dotenv import load_dotenv
 from sqlalchemy import select, text
 
 from src.db.schema import get_session, Paper, PaperScore, LlmOutput
-from src.llm.client import MiniMaxClient, extract_json
+from src.llm.client import LLMClient, extract_json
 
 load_dotenv()
 DB_PATH = os.getenv("DB_PATH", "./data/papers.db")
@@ -132,7 +132,7 @@ def run(min_ai: float = 3.0, min_dom: float = 3.0, batch_size: int = BATCH_SIZE,
     global g_in, g_out, g_reason, g_done, g_ok, g_fail
 
     session = get_session(DB_PATH)
-    client = MiniMaxClient()
+    client = LLMClient()
     try:
         existing = set(session.execute(select(LlmOutput.paper_id)).scalars().all())
         wanted_ids = None

@@ -18,7 +18,7 @@ from dotenv import load_dotenv
 from sqlalchemy import select, text, update
 
 from src.db.schema import get_session, Paper, PaperScore
-from src.llm.client import MiniMaxClient, extract_json
+from src.llm.client import LLMClient, extract_json
 
 load_dotenv()
 DB_PATH = os.getenv("DB_PATH", "./data/papers.db")
@@ -94,7 +94,7 @@ def process_batch(client, batch_idx, batch):
 def run(min_ai=3.0, min_dom=3.0, batch_size=BATCH_SIZE, n_workers=N_WORKERS,
         limit=None, candidate_ids=None):
     session = get_session(DB_PATH)
-    client = MiniMaxClient()
+    client = LLMClient()
     try:
         wanted_ids = None
         wanted_order = {}

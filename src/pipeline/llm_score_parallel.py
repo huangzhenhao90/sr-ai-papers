@@ -21,7 +21,7 @@ from dotenv import load_dotenv
 from sqlalchemy import select
 
 from src.db.schema import get_session, Paper, PaperScore
-from src.llm.client import MiniMaxClient, extract_json
+from src.llm.client import LLMClient, extract_json
 
 load_dotenv()
 DB_PATH = os.getenv("DB_PATH", "./data/papers.db")
@@ -89,7 +89,7 @@ def fmt_paper_dict(idx: int, p: dict) -> str:
     return f"[p{idx}] 期刊={p.get('journal_abbr')} 标题: {p.get('title')}{abs_part}"
 
 
-def score_one_batch(client: MiniMaxClient, papers: list[dict]) -> tuple[list[dict], dict, str]:
+def score_one_batch(client: LLMClient, papers: list[dict]) -> tuple[list[dict], dict, str]:
     """返回 (scores, usage, raw_text)。papers 是 dict 列表（避免 ORM 跨线程懒加载）。失败抛异常。"""
     body = "\n\n".join(fmt_paper_dict(i + 1, p) for i, p in enumerate(papers))
     user = USER_TEMPLATE.format(n=len(papers), papers=body)
@@ -113,7 +113,7 @@ n_done_papers = 0
 n_ok = n_fail = 0
 
 
-def process_batch(client: MiniMaxClient, batch_idx: int, batch: list[dict]) -> list[tuple]:
+def process_batch(client: LLMClient, batch_idx: int, batch: list[dict]) -> list[tuple]:
     """worker：跑一个 batch（输入纯 dict 避免 ORM 跨线程问题）。
     返回需写库的 (paper_id, score_data 或 None/error) 列表。"""
     global total_in, total_out, total_reason, n_done_papers, n_ok, n_fail
@@ -157,7 +157,7 @@ def run(limit: int = None, batch_size: int = BATCH_SIZE, n_workers: int = N_WORK
         candidate_ids: list[int] | None = None):
     global total_in, total_out, total_reason, n_done_papers, n_ok, n_fail
     session = get_session(DB_PATH)
-    client = MiniMaxClient()
+    client = LLMClient()
     try:
         scored_ids = set(session.execute(
             select(PaperScore.paper_id).where(PaperScore.ai_relevance.is_not(None))

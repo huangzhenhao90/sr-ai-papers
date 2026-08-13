@@ -18,7 +18,7 @@ GitHub Actions cron（每天 10:00 北京时间）
   ↓ raw_records (永不删)
   ↓ normalizer → deduper → coverage_auditor
   ↓ enrichment_queue (摘要/引用/OA/PDF 补全)
-  ↓ llm_queue (MiniMax-M3: 双打分 + TL;DR + 中文标题)
+  ↓ llm_queue (DeepSeek-V3.2 @ SiliconFlow: 双打分 + TL;DR + 中文标题)
   ↓ publish_index → Next.js 前端
 ```
 
@@ -31,7 +31,7 @@ sr-ai-papers/
 │   ├── connectors/      # crossref, openalex, arxiv, semantic_scholar, unpaywall
 │   ├── pipeline/        # normalize, dedupe, coverage_audit, enrich, llm_score
 │   ├── db/              # schema, migrations
-│   ├── llm/             # MiniMax client, prompts
+│   ├── llm/             # LLM client, prompts
 │   └── utils/           # 通用工具
 ├── data/
 │   ├── raw/             # 原始 API 响应（JSON）

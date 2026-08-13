@@ -24,7 +24,7 @@ from dotenv import load_dotenv
 from sqlalchemy import select, func
 
 from src.db.schema import get_session, Paper, PaperScore
-from src.llm.client import MiniMaxClient, extract_json
+from src.llm.client import LLMClient, extract_json
 
 load_dotenv()
 DB_PATH = os.getenv("DB_PATH", "./data/papers.db")
@@ -88,7 +88,7 @@ def fmt_paper(idx: int, p: Paper) -> str:
     return f"[p{idx}] 期刊={p.journal_abbr} 标题: {p.title}{abs_part}"
 
 
-def score_batch(client: MiniMaxClient, papers: list[Paper]) -> list[dict]:
+def score_batch(client: LLMClient, papers: list[Paper]) -> list[dict]:
     """返回 [{id_idx, ai, domain, reason}, ...]，索引对应 papers 列表位置。"""
     body = "\n\n".join(fmt_paper(i + 1, p) for i, p in enumerate(papers))
     user = USER_TEMPLATE.format(n=len(papers), papers=body)
@@ -107,7 +107,7 @@ def score_batch(client: MiniMaxClient, papers: list[Paper]) -> list[dict]:
 
 def run(limit: int = None, batch_size: int = BATCH_SIZE):
     session = get_session(DB_PATH)
-    client = MiniMaxClient()
+    client = LLMClient()
     try:
         # 选未打分的论文
         scored_ids = set(session.execute(select(PaperScore.paper_id)).scalars().all())

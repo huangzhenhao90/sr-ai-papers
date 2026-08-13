@@ -239,7 +239,7 @@ export default function PaperList({
           <details className="mt-1.5">
             <summary className="text-[11px] text-stone-400 cursor-pointer hover:text-accent">如何打分？</summary>
             <div className="text-[11px] text-stone-500 mt-1 leading-relaxed">
-              每篇用 LLM (MiniMax-M2.5) 打两个分（0-5）：
+              每篇用 LLM (DeepSeek-V3.2) 打两个分（0-5）：
               <strong>AI 相关性</strong>（论文与 AI 议题的关联度）和
               <strong>领域相关性</strong>（与社交关系 / 传播 / 社会心理的关联度）。默认仅展示双 ≥ 3。
               满分 5 = 核心议题；4 = 主要变量；3 = 实质涉及；0-2 = 不相关。
