@@ -28,6 +28,7 @@ node_modules/
 .next/
 out/
 .vercel
+!web/.vercel/project.json
 
 # 日志
 logs/*.log
