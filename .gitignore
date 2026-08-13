@@ -1,0 +1,49 @@
+# 数据库（不入 git）
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# 数据导出（不入 git）
+data/exports/
+data/raw/*.json
+data/raw/*.jsonl
+
+# 但前端用的 JSON 是部署输入，必须入 git
+!web/public/data/*.json
+
+# CNKI 用户手动导出文件保留
+!data/cnki_imports/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+.vercel
+
+# 日志
+logs/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code 个人配置
+.claude/
+
+
+# Next.js build info
+web/tsconfig.tsbuildinfo
+*.tsbuildinfo
+
+# 数据库压缩快照（不入 git，用 release 管理）
+data/papers.db.gz
+*.db.gz

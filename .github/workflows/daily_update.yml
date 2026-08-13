@@ -1,0 +1,108 @@
+name: Daily Incremental Update
+
+on:
+  # 每天 UTC 02:00 (北京时间 10:00) 触发
+  schedule:
+    - cron: "0 2 * * *"
+  # 也允许手动触发（在 GitHub Actions 页面点 Run workflow）
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: "回看天数"
+        required: false
+        default: "14"
+      llm_safety_limit:
+        description: "LLM 安全阀上限（避免烧钱）"
+        required: false
+        default: "500"
+      llm_daily_limit:
+        description: "每日 LLM 处理上限"
+        required: false
+        default: "200"
+      llm_candidate_lookback_days:
+        description: "LLM 候选回看天数"
+        required: false
+        default: "14"
+
+permissions:
+  contents: write  # 需要 commit JSON + 更新 release
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Python deps
+        run: pip install -r requirements.txt
+
+      # 从 GitHub Release 下载现有 SQLite db
+      - name: Download SQLite snapshot from release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p data
+          if gh release download db-snapshot -p "papers.db.gz" -O data/papers.db.gz 2>/dev/null; then
+            gunzip -f data/papers.db.gz
+            echo "✅ DB restored: $(ls -lh data/papers.db | awk '{print $5}')"
+            python -c "
+          import sqlite3
+          c = sqlite3.connect('data/papers.db')
+          for tbl in ['papers', 'paper_scores', 'llm_outputs']:
+              n = c.execute(f'SELECT COUNT(*) FROM {tbl}').fetchone()[0]
+              print(f'  {tbl}: {n}')
+          "
+          else
+            echo "⚠️  无 DB snapshot，将从空库开始"
+          fi
+
+      - name: Run incremental update
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MINIMAX_BASE_URL: https://api.minimaxi.com/v1
+          MINIMAX_MODEL: MiniMax-M3
+          CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
+          DB_PATH: ./data/papers.db
+          LOOKBACK_DAYS: ${{ inputs.lookback_days || '14' }}
+          LLM_SAFETY_LIMIT: ${{ inputs.llm_safety_limit || '500' }}
+          LLM_DAILY_LIMIT: ${{ inputs.llm_daily_limit || '200' }}
+          LLM_CANDIDATE_LOOKBACK_DAYS: ${{ inputs.llm_candidate_lookback_days || '14' }}
+        run: python scripts/incremental_update.py
+
+      - name: Commit updated JSON if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web/public/data/*.json web/public/rss.xml
+          if git diff --cached --quiet; then
+            echo "✨ JSON 无变化，跳过 commit"
+          else
+            DATE=$(date -u +"%Y-%m-%d")
+            git commit -m "chore: 自动增量更新 ${DATE}
+
+          🤖 Daily auto-update via GitHub Actions"
+            git push
+          fi
+
+      # 把更新后的 db 上传回 release（替换旧的）
+      - name: Upload updated SQLite back to release
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gzip -k -9 -f data/papers.db
+          gh release upload db-snapshot data/papers.db.gz --clobber
+          echo "✅ DB snapshot updated"

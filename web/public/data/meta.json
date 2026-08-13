@@ -1,0 +1,421 @@
+{
+  "generated_at": "2026-08-13T04:30:27.075062Z",
+  "totals": {
+    "papers_indexed": 14342,
+    "papers_scored": 1938,
+    "papers_ai_relevant": 158
+  },
+  "journals": [
+    {
+      "abbr": "JCMC",
+      "name_en": "Journal of Computer-Mediated Communication",
+      "name_zh": "计算机中介传播杂志",
+      "publisher": "Oxford University Press",
+      "tier": "A",
+      "domain": [
+        "CMC",
+        "communication"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://academic.oup.com/jcmc",
+      "papers_indexed": 128,
+      "papers_ai_relevant": 14
+    },
+    {
+      "abbr": "NMS",
+      "name_en": "New Media & Society",
+      "name_zh": "新媒介与社会",
+      "publisher": "SAGE",
+      "tier": "A",
+      "domain": [
+        "CMC",
+        "communication"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.sagepub.com/home/nms",
+      "papers_indexed": 964,
+      "papers_ai_relevant": 45
+    },
+    {
+      "abbr": "CHB",
+      "name_en": "Computers in Human Behavior",
+      "name_zh": "人类行为中的计算机",
+      "publisher": "Elsevier",
+      "tier": "A",
+      "domain": [
+        "CMC",
+        "psychology"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://www.sciencedirect.com/journal/computers-in-human-behavior",
+      "papers_indexed": 1384,
+      "papers_ai_relevant": 58
+    },
+    {
+      "abbr": "CR",
+      "name_en": "Communication Research",
+      "name_zh": "传播研究",
+      "publisher": "SAGE",
+      "tier": "A",
+      "domain": [
+        "communication"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.sagepub.com/home/crx",
+      "papers_indexed": 201,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "HCR",
+      "name_en": "Human Communication Research",
+      "name_zh": "人类传播研究",
+      "publisher": "Oxford University Press",
+      "tier": "A",
+      "domain": [
+        "communication"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://academic.oup.com/hcr",
+      "papers_indexed": 117,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "CBSN",
+      "name_en": "Cyberpsychology, Behavior, and Social Networking",
+      "name_zh": "网络心理学、行为与社交网络",
+      "publisher": "Mary Ann Liebert",
+      "tier": "A",
+      "domain": [
+        "CMC",
+        "psychology"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://www.liebertpub.com/loi/cyber",
+      "papers_indexed": 484,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "MediaPsych",
+      "name_en": "Media Psychology",
+      "name_zh": "媒介心理学",
+      "publisher": "Taylor & Francis",
+      "tier": "A",
+      "domain": [
+        "psychology",
+        "communication"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://www.tandfonline.com/journals/hmed20",
+      "papers_indexed": 161,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "SMS",
+      "name_en": "Social Media + Society",
+      "name_zh": "社交媒体与社会",
+      "publisher": "SAGE",
+      "tier": "A",
+      "domain": [
+        "CMC",
+        "communication"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.sagepub.com/home/sms",
+      "papers_indexed": 614,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "TI",
+      "name_en": "Telematics and Informatics",
+      "name_zh": "远程信息处理与信息学",
+      "publisher": "Elsevier",
+      "tier": "A",
+      "domain": [
+        "CMC",
+        "communication"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://www.sciencedirect.com/journal/telematics-and-informatics",
+      "papers_indexed": 315,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "ICS",
+      "name_en": "Information, Communication & Society",
+      "name_zh": "信息、传播与社会",
+      "publisher": "Taylor & Francis",
+      "tier": "A",
+      "domain": [
+        "CMC",
+        "communication"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://www.tandfonline.com/journals/rics20",
+      "papers_indexed": 730,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "MMC",
+      "name_en": "Mobile Media & Communication",
+      "name_zh": "移动媒介与传播",
+      "publisher": "SAGE",
+      "tier": "B",
+      "domain": [
+        "CMC",
+        "communication"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.sagepub.com/home/mmc",
+      "papers_indexed": 166,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "IJHCI",
+      "name_en": "International Journal of Human-Computer Interaction",
+      "name_zh": "国际人机交互杂志",
+      "publisher": "Taylor & Francis",
+      "tier": "A",
+      "domain": [
+        "HCI"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://www.tandfonline.com/journals/hihc20",
+      "papers_indexed": 2921,
+      "papers_ai_relevant": 26
+    },
+    {
+      "abbr": "JSPR",
+      "name_en": "Journal of Social and Personal Relationships",
+      "name_zh": "社会与人际关系杂志",
+      "publisher": "SAGE",
+      "tier": "A",
+      "domain": [
+        "relationships",
+        "social_psychology"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.sagepub.com/home/spr",
+      "papers_indexed": 581,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "PR",
+      "name_en": "Personal Relationships",
+      "name_zh": "人际关系",
+      "publisher": "Wiley",
+      "tier": "B",
+      "domain": [
+        "relationships"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://onlinelibrary.wiley.com/journal/14756811",
+      "papers_indexed": 209,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "JPSP",
+      "name_en": "Journal of Personality and Social Psychology",
+      "name_zh": "人格与社会心理学杂志",
+      "publisher": "American Psychological Association",
+      "tier": "A",
+      "domain": [
+        "social_psychology"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://www.apa.org/pubs/journals/psp",
+      "papers_indexed": 802,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "PSPB",
+      "name_en": "Personality and Social Psychology Bulletin",
+      "name_zh": "人格与社会心理学公报",
+      "publisher": "SAGE",
+      "tier": "A",
+      "domain": [
+        "social_psychology"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.sagepub.com/home/psp",
+      "papers_indexed": 570,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "SPPS",
+      "name_en": "Social Psychological and Personality Science",
+      "name_zh": "社会心理与人格科学",
+      "publisher": "SAGE",
+      "tier": "A",
+      "domain": [
+        "social_psychology"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.sagepub.com/home/spp",
+      "papers_indexed": 288,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "JESP",
+      "name_en": "Journal of Experimental Social Psychology",
+      "name_zh": "实验社会心理学杂志",
+      "publisher": "Elsevier",
+      "tier": "A",
+      "domain": [
+        "social_psychology"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://www.sciencedirect.com/journal/journal-of-experimental-social-psychology",
+      "papers_indexed": 427,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "TOCHI",
+      "name_en": "ACM Transactions on Computer-Human Interaction",
+      "name_zh": "ACM 人机交互汇刊",
+      "publisher": "ACM",
+      "tier": "A",
+      "domain": [
+        "HCI"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://dl.acm.org/journal/tochi",
+      "papers_indexed": 296,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "CHI",
+      "name_en": "ACM CHI Conference on Human Factors in Computing Systems",
+      "name_zh": "ACM CHI 计算系统人因大会",
+      "publisher": "ACM",
+      "tier": "A",
+      "domain": [
+        "HCI"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://dl.acm.org/conference/chi",
+      "papers_indexed": 0,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "CSCW",
+      "name_en": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+      "name_zh": "ACM 计算机支持的协同工作大会",
+      "publisher": "ACM",
+      "tier": "A",
+      "domain": [
+        "HCI",
+        "CSCW"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://dl.acm.org/conference/cscw",
+      "papers_indexed": 0,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "HRI",
+      "name_en": "ACM/IEEE International Conference on Human-Robot Interaction",
+      "name_zh": "ACM/IEEE 人-机器人交互大会",
+      "publisher": "ACM",
+      "tier": "A",
+      "domain": [
+        "HCI",
+        "HRI"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://dl.acm.org/conference/hri",
+      "papers_indexed": 0,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "IUI",
+      "name_en": "International Conference on Intelligent User Interfaces",
+      "name_zh": "国际智能用户界面大会",
+      "publisher": "ACM",
+      "tier": "A",
+      "domain": [
+        "HCI",
+        "AI"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://dl.acm.org/conference/iui",
+      "papers_indexed": 0,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "DIS",
+      "name_en": "ACM Conference on Designing Interactive Systems",
+      "name_zh": "ACM 交互系统设计大会",
+      "publisher": "ACM",
+      "tier": "A",
+      "domain": [
+        "HCI",
+        "design"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://dl.acm.org/conference/dis",
+      "papers_indexed": 0,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "PACM-HCI",
+      "name_en": "Proceedings of the ACM on Human-Computer Interaction",
+      "name_zh": "ACM 人机交互会议录（含 CSCW）",
+      "publisher": "ACM",
+      "tier": "A",
+      "domain": [
+        "HCI",
+        "CSCW"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://dl.acm.org/journal/pacmhci",
+      "papers_indexed": 1817,
+      "papers_ai_relevant": 15
+    },
+    {
+      "abbr": "APS",
+      "name_en": "Acta Psychologica Sinica",
+      "name_zh": "心理学报",
+      "publisher": "中科院心理研究所",
+      "tier": "A",
+      "domain": [
+        "psychology"
+      ],
+      "lang": "zh",
+      "publisher_toc": "https://journal.psych.ac.cn/xlxb/CN/volumn/current.shtml",
+      "papers_indexed": 0,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "arXiv",
+      "name_en": "arXiv preprints",
+      "name_zh": "arXiv 预印本",
+      "publisher": "arXiv",
+      "tier": "—",
+      "domain": [
+        "AI",
+        "preprint"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://arxiv.org/",
+      "papers_indexed": 1167,
+      "papers_ai_relevant": 0
+    }
+  ],
+  "facets": {
+    "years": {
+      "2023": 35,
+      "2024": 33,
+      "2025": 48,
+      "2026": 42
+    },
+    "journals": {
+      "CHB": 58,
+      "NMS": 45,
+      "IJHCI": 26,
+      "PACM-HCI": 15,
+      "JCMC": 14
+    },
+    "topic_tags": {},
+    "ai_type_tags": {}
+  }
+}

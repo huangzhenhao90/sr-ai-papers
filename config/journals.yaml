@@ -1,0 +1,406 @@
+journals:
+- name_en: Journal of Computer-Mediated Communication
+  name_zh: 计算机中介传播杂志
+  abbr: JCMC
+  type: journal
+  issn: 1083-6101
+  eissn: 1083-6101
+  openalex_source_id: S30594836
+  publisher: Oxford University Press
+  publisher_toc: https://academic.oup.com/jcmc
+  rss: ''
+  online_first: ''
+  tier: A
+  domain:
+  - CMC
+  - communication
+  lang: en
+- name_en: New Media & Society
+  name_zh: 新媒介与社会
+  abbr: NMS
+  type: journal
+  issn: 1461-4448
+  eissn: 1461-7315
+  openalex_source_id: S88603889
+  publisher: SAGE
+  publisher_toc: https://journals.sagepub.com/home/nms
+  rss: https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=nmsa&type=etoc&feed=rss
+  online_first: ''
+  tier: A
+  domain:
+  - CMC
+  - communication
+  lang: en
+- name_en: Computers in Human Behavior
+  name_zh: 人类行为中的计算机
+  abbr: CHB
+  type: journal
+  issn: 0747-5632
+  eissn: 1873-769X
+  openalex_source_id: S204030396
+  publisher: Elsevier
+  publisher_toc: https://www.sciencedirect.com/journal/computers-in-human-behavior
+  rss: https://rss.sciencedirect.com/publication/science/07475632
+  online_first: https://www.sciencedirect.com/journal/computers-in-human-behavior/articles-in-press
+  tier: A
+  domain:
+  - CMC
+  - psychology
+  lang: en
+- name_en: Communication Research
+  name_zh: 传播研究
+  abbr: CR
+  type: journal
+  issn: 0093-6502
+  eissn: 1552-3810
+  openalex_source_id: S28604305
+  publisher: SAGE
+  publisher_toc: https://journals.sagepub.com/home/crx
+  rss: https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=crxa&type=etoc&feed=rss
+  online_first: ''
+  tier: A
+  domain:
+  - communication
+  lang: en
+- name_en: Human Communication Research
+  name_zh: 人类传播研究
+  abbr: HCR
+  type: journal
+  issn: 0360-3989
+  eissn: 1468-2958
+  openalex_source_id: S195553305
+  publisher: Oxford University Press
+  publisher_toc: https://academic.oup.com/hcr
+  rss: ''
+  online_first: ''
+  tier: A
+  domain:
+  - communication
+  lang: en
+- name_en: Cyberpsychology, Behavior, and Social Networking
+  name_zh: 网络心理学、行为与社交网络
+  abbr: CBSN
+  type: journal
+  issn: 2152-2715
+  eissn: 2152-2723
+  openalex_source_id: S118036144
+  publisher: Mary Ann Liebert
+  publisher_toc: https://www.liebertpub.com/loi/cyber
+  rss: ''
+  online_first: ''
+  tier: A
+  domain:
+  - CMC
+  - psychology
+  lang: en
+- name_en: Media Psychology
+  name_zh: 媒介心理学
+  abbr: MediaPsych
+  type: journal
+  issn: 1521-3269
+  eissn: 1532-785X
+  openalex_source_id: S97866008
+  publisher: Taylor & Francis
+  publisher_toc: https://www.tandfonline.com/journals/hmed20
+  rss: https://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=hmed20
+  online_first: ''
+  tier: A
+  domain:
+  - psychology
+  - communication
+  lang: en
+- name_en: Social Media + Society
+  name_zh: 社交媒体与社会
+  abbr: SMS
+  type: journal
+  issn: 2056-3051
+  eissn: 2056-3051
+  openalex_source_id: S2764570952
+  publisher: SAGE
+  publisher_toc: https://journals.sagepub.com/home/sms
+  rss: https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=smsa&type=etoc&feed=rss
+  online_first: ''
+  tier: A
+  domain:
+  - CMC
+  - communication
+  lang: en
+- name_en: Telematics and Informatics
+  name_zh: 远程信息处理与信息学
+  abbr: TI
+  type: journal
+  issn: 0736-5853
+  eissn: 1879-324X
+  openalex_source_id: S25720340
+  publisher: Elsevier
+  publisher_toc: https://www.sciencedirect.com/journal/telematics-and-informatics
+  rss: https://rss.sciencedirect.com/publication/science/07365853
+  online_first: ''
+  tier: A
+  domain:
+  - CMC
+  - communication
+  lang: en
+- name_en: Information, Communication & Society
+  name_zh: 信息、传播与社会
+  abbr: ICS
+  type: journal
+  issn: 1369-118X
+  eissn: 1468-4462
+  openalex_source_id: S70010600
+  publisher: Taylor & Francis
+  publisher_toc: https://www.tandfonline.com/journals/rics20
+  rss: https://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=rics20
+  online_first: ''
+  tier: A
+  domain:
+  - CMC
+  - communication
+  lang: en
+- name_en: Mobile Media & Communication
+  name_zh: 移动媒介与传播
+  abbr: MMC
+  type: journal
+  issn: 2050-1579
+  eissn: 2050-1587
+  openalex_source_id: S2764848433
+  publisher: SAGE
+  publisher_toc: https://journals.sagepub.com/home/mmc
+  rss: https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=mmca&type=etoc&feed=rss
+  online_first: ''
+  tier: B
+  domain:
+  - CMC
+  - communication
+  lang: en
+- name_en: International Journal of Human-Computer Interaction
+  name_zh: 国际人机交互杂志
+  abbr: IJHCI
+  type: journal
+  issn: 1044-7318
+  eissn: 1532-7590
+  openalex_source_id: S165559636
+  publisher: Taylor & Francis
+  publisher_toc: https://www.tandfonline.com/journals/hihc20
+  rss: https://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=hihc20
+  online_first: ''
+  tier: A
+  domain:
+  - HCI
+  lang: en
+- name_en: Journal of Social and Personal Relationships
+  name_zh: 社会与人际关系杂志
+  abbr: JSPR
+  type: journal
+  issn: 0265-4075
+  eissn: 1460-3608
+  openalex_source_id: S12430390
+  publisher: SAGE
+  publisher_toc: https://journals.sagepub.com/home/spr
+  rss: https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=spra&type=etoc&feed=rss
+  online_first: ''
+  tier: A
+  domain:
+  - relationships
+  - social_psychology
+  lang: en
+- name_en: Personal Relationships
+  name_zh: 人际关系
+  abbr: PR
+  type: journal
+  issn: 1350-4126
+  eissn: 1475-6811
+  openalex_source_id: S201186940
+  publisher: Wiley
+  publisher_toc: https://onlinelibrary.wiley.com/journal/14756811
+  rss: ''
+  online_first: ''
+  tier: B
+  domain:
+  - relationships
+  lang: en
+- name_en: Journal of Personality and Social Psychology
+  name_zh: 人格与社会心理学杂志
+  abbr: JPSP
+  type: journal
+  issn: 0022-3514
+  eissn: 1939-1315
+  openalex_source_id: S29984966
+  publisher: American Psychological Association
+  publisher_toc: https://www.apa.org/pubs/journals/psp
+  rss: ''
+  online_first: ''
+  tier: A
+  domain:
+  - social_psychology
+  lang: en
+- name_en: Personality and Social Psychology Bulletin
+  name_zh: 人格与社会心理学公报
+  abbr: PSPB
+  type: journal
+  issn: 0146-1672
+  eissn: 1552-7433
+  openalex_source_id: S187348256
+  publisher: SAGE
+  publisher_toc: https://journals.sagepub.com/home/psp
+  rss: ''
+  online_first: ''
+  tier: A
+  domain:
+  - social_psychology
+  lang: en
+- name_en: Social Psychological and Personality Science
+  name_zh: 社会心理与人格科学
+  abbr: SPPS
+  type: journal
+  issn: 1948-5506
+  eissn: 1948-5514
+  openalex_source_id: S138235560
+  publisher: SAGE
+  publisher_toc: https://journals.sagepub.com/home/spp
+  rss: ''
+  online_first: ''
+  tier: A
+  domain:
+  - social_psychology
+  lang: en
+- name_en: Journal of Experimental Social Psychology
+  name_zh: 实验社会心理学杂志
+  abbr: JESP
+  type: journal
+  issn: 0022-1031
+  eissn: 1096-0465
+  openalex_source_id: S12410666
+  publisher: Elsevier
+  publisher_toc: https://www.sciencedirect.com/journal/journal-of-experimental-social-psychology
+  rss: https://rss.sciencedirect.com/publication/science/00221031
+  online_first: ''
+  tier: A
+  domain:
+  - social_psychology
+  lang: en
+- name_en: ACM Transactions on Computer-Human Interaction
+  name_zh: ACM 人机交互汇刊
+  abbr: TOCHI
+  type: journal
+  issn: 1073-0516
+  eissn: 1557-7315
+  openalex_source_id: S89276529
+  publisher: ACM
+  publisher_toc: https://dl.acm.org/journal/tochi
+  rss: https://dl.acm.org/action/showFeed?type=etoc&feed=rss&jc=JTOCI
+  online_first: ''
+  tier: A
+  domain:
+  - HCI
+  lang: en
+- name_en: ACM CHI Conference on Human Factors in Computing Systems
+  name_zh: ACM CHI 计算系统人因大会
+  abbr: CHI
+  type: conference
+  issn: ''
+  eissn: ''
+  openalex_source_id: S4363607743
+  publisher: ACM
+  publisher_toc: https://dl.acm.org/conference/chi
+  rss: ''
+  online_first: ''
+  tier: A
+  domain:
+  - HCI
+  lang: en
+- name_en: ACM Conference on Computer-Supported Cooperative Work and Social Computing
+  name_zh: ACM 计算机支持的协同工作大会
+  abbr: CSCW
+  type: conference
+  issn: ''
+  eissn: ''
+  openalex_source_id: S4363607909
+  publisher: ACM
+  publisher_toc: https://dl.acm.org/conference/cscw
+  rss: ''
+  online_first: ''
+  tier: A
+  domain:
+  - HCI
+  - CSCW
+  lang: en
+- name_en: ACM/IEEE International Conference on Human-Robot Interaction
+  name_zh: ACM/IEEE 人-机器人交互大会
+  abbr: HRI
+  type: conference
+  issn: ''
+  eissn: ''
+  openalex_source_id: S4306418552
+  publisher: ACM
+  publisher_toc: https://dl.acm.org/conference/hri
+  rss: ''
+  online_first: ''
+  tier: A
+  domain:
+  - HCI
+  - HRI
+  lang: en
+- name_en: International Conference on Intelligent User Interfaces
+  name_zh: 国际智能用户界面大会
+  abbr: IUI
+  type: conference
+  issn: ''
+  eissn: ''
+  openalex_source_id: S4306418948
+  publisher: ACM
+  publisher_toc: https://dl.acm.org/conference/iui
+  rss: ''
+  online_first: ''
+  tier: A
+  domain:
+  - HCI
+  - AI
+  lang: en
+- name_en: ACM Conference on Designing Interactive Systems
+  name_zh: ACM 交互系统设计大会
+  abbr: DIS
+  type: conference
+  issn: ''
+  eissn: ''
+  openalex_source_id: S4363608268
+  publisher: ACM
+  publisher_toc: https://dl.acm.org/conference/dis
+  rss: ''
+  online_first: ''
+  tier: A
+  domain:
+  - HCI
+  - design
+  lang: en
+- name_en: Proceedings of the ACM on Human-Computer Interaction
+  name_zh: ACM 人机交互会议录（含 CSCW）
+  abbr: PACM-HCI
+  type: journal
+  issn: 2573-0142
+  eissn: 2573-0142
+  openalex_source_id: S4210183893
+  publisher: ACM
+  publisher_toc: https://dl.acm.org/journal/pacmhci
+  rss: ''
+  online_first: ''
+  tier: A
+  domain:
+  - HCI
+  - CSCW
+  lang: en
+- name_en: Acta Psychologica Sinica
+  name_zh: 心理学报
+  abbr: APS
+  type: journal
+  issn: 0439-755X
+  eissn: 1671-3710
+  openalex_source_id: ''
+  publisher: 中科院心理研究所
+  publisher_toc: https://journal.psych.ac.cn/xlxb/CN/volumn/current.shtml
+  rss: https://journal.psych.ac.cn/xlxb/CN/rss/showRssInfo.do
+  online_first: https://journal.psych.ac.cn/xlxb/CN/article/showOnlineFirstList.do
+  tier: A
+  domain:
+  - psychology
+  lang: zh

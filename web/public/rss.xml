@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SR × AI Papers</title>
+    <link>https://sr-ai-papers.vercel.app</link>
+    <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
+    <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 13 Aug 2026 04:30:27 +0000</lastBuildDate>
+    <generator>sr-ai-papers export pipeline</generator>
+    <item>
+      <title>Power and Play: Investigating "License to Critique" in Teams' AI Ethics Discussions</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11659</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11659</guid>
+      <description>📝 Power and Play: Investigating "License to Critique" in Teams' AI Ethics Discussions
+
+📚 PACM-HCI · 2024 · 引用 13
+👤 David Gray Widder, Laura Dabbish, James D. Herbsleb, Nikolas Martelaro
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://dl.acm.org/doi/pdf/10.1145/3686938</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Speculating on Risks of AI Clones to Selfhood and Relationships: Doppelganger-phobia, Identity Fragmentation, and Living Memories</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11651</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11651</guid>
+      <description>📝 Speculating on Risks of AI Clones to Selfhood and Relationships: Doppelganger-phobia, Identity Fragmentation, and Living Memories
+
+📚 PACM-HCI · 2023 · 引用 43
+👤 Patrick Yung Kang Lee, F. Ning, Ig-Jae Kim, Dongwook Yoon
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://dl.acm.org/doi/pdf/10.1145/3579524</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Social Life Simulation for Non-Cognitive Skills Learning</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11648</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11648</guid>
+      <description>📝 Social Life Simulation for Non-Cognitive Skills Learning
+
+📚 PACM-HCI · 2025 · 引用 6
+👤 Zihan Yan, Yaohong Xiang
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://dl.acm.org/doi/pdf/10.1145/3711068</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Who is Responsible, the Advisor or the AI? Understanding the Effects of Advisors Disclosing Their AI Use on Their Perceived Responsibility and AI Reliance</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11647</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11647</guid>
+      <description>📝 Who is Responsible, the Advisor or the AI? Understanding the Effects of Advisors Disclosing Their AI Use on Their Perceived Responsibility and AI Reliance
+
+📚 PACM-HCI · 2025 · 引用 4
+👤 Tamir Mendel, Soumik Mandal, Oded Nov, Batia M. Wiesenfeld
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://dl.acm.org/doi/pdf/10.1145/3757524</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>"Math is a pain!": Understanding challenges and needs of the Machine Learning community on Stack Overflow</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11627</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11627</guid>
+      <description>📝 "Math is a pain!": Understanding challenges and needs of the Machine Learning community on Stack Overflow
+
+📚 PACM-HCI · 2024 · 引用 1
+👤 Zihan Fang, Yu Huang
+
+AI 分: 3.0 / 领域分: 3.0
+
+📄 PDF: https://dl.acm.org/doi/pdf/10.1145/3686990</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>AI Ethics and Social Norms: Exploring ChatGPT's Capabilities From What to How</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11626</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11626</guid>
+      <description>📝 AI Ethics and Social Norms: Exploring ChatGPT's Capabilities From What to How
+
+📚 PACM-HCI · 2025 · 引用 0
+👤 Omid Veisi, Sasan Bahrami, Roman Englert, Cláudia Müller
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://dl.acm.org/doi/pdf/10.1145/3757397</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Rideshare Transparency: Translating Gig Worker Insights on AI Platform Design to Policy</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11620</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11620</guid>
+      <description>📝 Rideshare Transparency: Translating Gig Worker Insights on AI Platform Design to Policy
+
+📚 PACM-HCI · 2025 · 引用 15
+👤 Varun Nagaraj Rao, Samantha Dalal, Eesha Agarwal, Dan Calacci, Andrés Monroy‐Hernández
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://doi.org/10.1145/3711059</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>WorkAI: A Toolkit for the Design of AI-driven Future of Work</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11603</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11603</guid>
+      <description>📝 WorkAI: A Toolkit for the Design of AI-driven Future of Work
+
+📚 PACM-HCI · 2025 · 引用 2
+👤 Shadan Sadeghian, Miglė Bareikytė, Marcus Burkhardt, Marc Hassenzahl
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://dl.acm.org/doi/pdf/10.1145/3757525</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>'The AI is uncertain, so am I. What now?': Navigating Shortcomings of Uncertainty Representations in Human-AI Collaboration with Capability-focused Guidance</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11599</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11599</guid>
+      <description>📝 'The AI is uncertain, so am I. What now?': Navigating Shortcomings of Uncertainty Representations in Human-AI Collaboration with Capability-focused Guidance
+
+📚 PACM-HCI · 2025 · 引用 6
+👤 Ulrike Schäfer, Lars Sipos, Claudia Müller-Birn
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://dl.acm.org/doi/pdf/10.1145/3757451</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>(Dis)placed Contributions: Uncovering Hidden Hurdles to Collaborative Writing Involving Non-Native Speakers, Native Speakers, and AI-Powered Editing Tools</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11598</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11598</guid>
+      <description>📝 (Dis)placed Contributions: Uncovering Hidden Hurdles to Collaborative Writing Involving Non-Native Speakers, Native Speakers, and AI-Powered Editing Tools
+
+📚 PACM-HCI · 2024 · 引用 9
+👤 Yimin Xiao, Yuewen Chen, Naomi Yamashita, Yuexi Chen, Zhicheng Liu
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://dl.acm.org/doi/pdf/10.1145/3686942</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Beyond Decision Making: Considering Collaboration and Agency in the Design of AI-Based Decision-Support Systems for Fast-Response Medical Teams</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11597</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11597</guid>
+      <description>📝 Beyond Decision Making: Considering Collaboration and Agency in the Design of AI-Based Decision-Support Systems for Fast-Response Medical Teams
+
+📚 PACM-HCI · 2025 · 引用 1
+👤 Angela Mastrianni, Paige Kmetz-Cutrone, Kathryn Chang, Jonathan Y Stein, Aleksandra Sarcevic
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://dl.acm.org/doi/pdf/10.1145/3757457</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Empowering Creators in the Fight Against Online Hate: A Qualitative Exploration of AI-Mediated Counterspeech Tools</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11590</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11590</guid>
+      <description>📝 Empowering Creators in the Fight Against Online Hate: A Qualitative Exploration of AI-Mediated Counterspeech Tools
+
+📚 PACM-HCI · 2025 · 引用 2
+👤 P. Huang, Jiaming Deng, Yingchen Yang, Spencer Williams
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://dl.acm.org/doi/pdf/10.1145/3757589</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Intelligent Coaching Systems: Understanding One-to-many Coaching for Ill-defined Problem Solving</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11576</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11576</guid>
+      <description>📝 Intelligent Coaching Systems: Understanding One-to-many Coaching for Ill-defined Problem Solving
+
+📚 PACM-HCI · 2023 · 引用 8
+👤 Evey Jiaxin Huang, Daniel Rees Lewis, Shubhanshi Gaudani, Matthew W. Easterday, Elizabeth M. Gerber
+
+AI 分: 3.0 / 领域分: 4.0
+
+📄 PDF: https://dl.acm.org/doi/pdf/10.1145/3579614</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>&lt;scp&gt;Remini:&lt;/scp&gt;
+            Leveraging Chatbot-Mediated Mutual Reminiscence for Promoting Positive Affect and Feeling of Connectedness among Loved Ones</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11566</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11566</guid>
+      <description>📝 &amp;lt;scp&amp;gt;Remini:&amp;lt;/scp&amp;gt;
+            Leveraging Chatbot-Mediated Mutual Reminiscence for Promoting Positive Affect and Feeling of Connectedness among Loved Ones
+
+📚 PACM-HCI · 2025 · 引用 5
+👤 Zhuoqun Jiang, ShunYi Yeo, Donovan Seow Wei Xuan, Simon T. Perrault
+
+AI 分: 4.0 / 领域分: 5.0
+
+📄 PDF: https://dl.acm.org/doi/pdf/10.1145/3757650</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Understanding is a Two-Way Street: User-Initiated Repair on Agent Responses and Hearing in Conversational Interfaces</title>
+      <link>https://sr-ai-papers.vercel.app/papers/11539</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/11539</guid>
+      <description>📝 Understanding is a Two-Way Street: User-Initiated Repair on Agent Responses and Hearing in Conversational Interfaces
+
+📚 PACM-HCI · 2024 · 引用 2
+👤 Robert J. Moore, Sungeun An, Olivia H. Marrese
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://dl.acm.org/doi/pdf/10.1145/3641026</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Beyond the “Rainbow Lollipop”: Uncanny Cues in AI-WOM and Its Impact on Trust Erosion and Negative Consumer Responses</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5707</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5707</guid>
+      <description>📝 Beyond the “Rainbow Lollipop”: Uncanny Cues in AI-WOM and Its Impact on Trust Erosion and Negative Consumer Responses
+
+📚 IJHCI · 2026 · 引用 0
+👤 Thi-Thao Nguyen, Thai-Thinh Dang
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Warmth, Competence, and the Determinants of Trust in Artificial Intelligence: A Cross-Sectional Survey from China</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5663</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5663</guid>
+      <description>📝 Warmth, Competence, and the Determinants of Trust in Artificial Intelligence: A Cross-Sectional Survey from China
+
+📚 IJHCI · 2024 · 引用 43
+👤 Yugang Li, Baizhou Wu, Yuqi Huang, Jun Liu, Junhui Wu
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://www.tandfonline.com/doi/pdf/10.1080/10447318.2024.2356909?needAccess=true</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Emotional Comfort or Technological Delusion? Unveiling Public Perceptions and Attitudes Toward AI Companions Based on Video Social Medias</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5662</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5662</guid>
+      <description>📝 Emotional Comfort or Technological Delusion? Unveiling Public Perceptions and Attitudes Toward AI Companions Based on Video Social Medias
+
+📚 IJHCI · 2026 · 引用 1
+👤 Hongcheng Wei, Bo Xiang, Xihui Zheng, Jianlin Yang
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Effects of Identity Cues and Communication Channels in Social Networking Sites Campaign Chatbots on User Perceptions and Behavior Intentions</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5659</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5659</guid>
+      <description>📝 Effects of Identity Cues and Communication Channels in Social Networking Sites Campaign Chatbots on User Perceptions and Behavior Intentions
+
+📚 IJHCI · 2025 · 引用 3
+👤 Fangcao Lu, Stella C. Chia
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Human-Human vs Human-AI Therapy: An Empirical Study</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5651</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5651</guid>
+      <description>📝 Human-Human vs Human-AI Therapy: An Empirical Study
+
+📚 IJHCI · 2024 · 引用 55
+👤 Mohammad Amin Kuhail, Nazik Alturki, Justin Thomas, Amal K. Alkhalifa, Amal Alshardan
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://www.tandfonline.com/doi/pdf/10.1080/10447318.2024.2385001?needAccess=true</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>The Influence of Perceived Anthropomorphism and Social Presence on AI Interface User Experience: A Systematic Review</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5647</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5647</guid>
+      <description>📝 The Influence of Perceived Anthropomorphism and Social Presence on AI Interface User Experience: A Systematic Review
+
+📚 IJHCI · 2025 · 引用 3
+👤 Brett Andrew Williams
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Therapeutic Twins for Creative Digital Mental Health: A Review Through a Trust-in-Automation Lens</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5646</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5646</guid>
+      <description>📝 Therapeutic Twins for Creative Digital Mental Health: A Review Through a Trust-in-Automation Lens
+
+📚 IJHCI · 2026 · 引用 0
+👤 Y Z Zhang, 岳改玲, Zhengming Si
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Evolution of Human–Robot Personality Similarity: A Historical Analysis from 1960 to 2019</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5636</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5636</guid>
+      <description>📝 Evolution of Human–Robot Personality Similarity: A Historical Analysis from 1960 to 2019
+
+📚 IJHCI · 2024 · 引用 4
+👤 Zehua Jiang, Liang Xu
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>With a Little Help from AI: Moral Orientation, Trust in AI, and Acceptance of AI-Based Advice Utilization in Moral Dilemmas Involving Partially Automated Car</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5625</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5625</guid>
+      <description>📝 With a Little Help from AI: Moral Orientation, Trust in AI, and Acceptance of AI-Based Advice Utilization in Moral Dilemmas Involving Partially Automated Car
+
+📚 IJHCI · 2025 · 引用 0
+👤 Reina Takamatsu
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Defining and Measuring Speech Machine Emotion Learning and Its Mechanisms of Influence on Employee AI Anxiety</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5609</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5609</guid>
+      <description>📝 Defining and Measuring Speech Machine Emotion Learning and Its Mechanisms of Influence on Employee AI Anxiety
+
+📚 IJHCI · 2026 · 引用 0
+👤 Yaqi Cui, Xiaofei Zhang, Jiamin Li, Zhenyu Song
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Why Users Reject AI Counselors? The Mediating Role of Trust and Perceived Self-Correction Ability in Imperfect Experiences</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5592</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5592</guid>
+      <description>📝 Why Users Reject AI Counselors? The Mediating Role of Trust and Perceived Self-Correction Ability in Imperfect Experiences
+
+📚 IJHCI · 2025 · 引用 4
+👤 Weizhong Zhang, Rong Lian
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>When Service Quality is Enhanced by Human–Artificial Intelligence Interaction: An Examination of Anthropomorphism, Responsiveness from the Perspectives of Employees and Customers</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5590</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5590</guid>
+      <description>📝 When Service Quality is Enhanced by Human–Artificial Intelligence Interaction: An Examination of Anthropomorphism, Responsiveness from the Perspectives of Employees and Customers
+
+📚 IJHCI · 2023 · 引用 86
+👤 Hui Zhang, Ali Nawaz Khan, Chenglong Zhang, Naseer Abbas Khan
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Emotional Responses to Artificial Intelligence Systems: A Scoping Review of Studied Applications, Key Concepts, and Central Associations</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5584</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5584</guid>
+      <description>📝 Emotional Responses to Artificial Intelligence Systems: A Scoping Review of Studied Applications, Key Concepts, and Central Associations
+
+📚 IJHCI · 2025 · 引用 4
+👤 Pascal D. König, Siddharth Mehrotra
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://research.vu.nl/en/publications/6b9872b8-e39a-4808-81d8-7b0d532c6fa9</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>How to Talk to AI: The Role of Preset Prompt Language Styles in Shaping Conversational Experience</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5581</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5581</guid>
+      <description>📝 How to Talk to AI: The Role of Preset Prompt Language Styles in Shaping Conversational Experience
+
+📚 IJHCI · 2024 · 引用 11
+👤 Xiaoyi Wang, Yuran Wang, Xingyi Qiu
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Designing Chatbots for Misinformation Correction: Examining the Roles of Chatbot Expertise and Anthropomorphism</title>
+      <link>https://sr-ai-papers.vercel.app/papers/5576</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/5576</guid>
+      <description>📝 Designing Chatbots for Misinformation Correction: Examining the Roles of Chatbot Expertise and Anthropomorphism
+
+📚 IJHCI · 2025 · 引用 13
+👤 Shirley S. Ho, Stanley A. Wijaya, Mengxue Ou
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://www.tandfonline.com/doi/pdf/10.1080/10447318.2025.2490703?needAccess=true</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>
+  </channel>
+</rss>
