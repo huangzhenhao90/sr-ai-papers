@@ -6,9 +6,71 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 04:15:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 03:11:16 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>基于IMU与置信度滤波的短时触觉交互中嵌入式光电容积描记传感可行性研究</title>
+      <link>https://sr-ai-papers.vercel.app/papers/21856</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21856</guid>
+      <description>📝 基于IMU与置信度滤波的短时触觉交互中嵌入式光电容积描记传感可行性研究
+EN: Feasibility of Embedded Photoplethysmography Sensing in Short-Duration Tactile Interactions With Pocket-Sized Robots Using IMU- and Confidence-Based Filtering
+
+💡 研究将光电容积描记（PPG）传感器嵌入口袋伴侣机器人（AffectaPocket），以在触觉互动中实现心率监测。针对手持使用中的运动伪影，提出结合惯性测量单元（IMU）和置信度平滑算法的两级过滤方案。在26名参与者的研究中，该系统与腕戴式传感器相比，显著降低了平均绝对百分比误差，并达到了统计等效性。
+
+📚 arXiv · 2026 · 引用 0
+👤 Turjja Datta, Morten Roed Frederiksen
+
+AI 分: 3.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2608.04242</description>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>情感支持</category><category>儿童/老人/无障碍</category><category>社会支持</category><category>社交机器人</category><category>情感识别</category><category>人机交互</category>
+    </item>    <item>
+      <title>车载机器人面部表情符号作为视觉显示刺激：基于具身认知的感知可用性研究</title>
+      <link>https://sr-ai-papers.vercel.app/papers/21735</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21735</guid>
+      <description>📝 车载机器人面部表情符号作为视觉显示刺激：基于具身认知的感知可用性研究
+EN: Face-Emoticons as Visual Display Stimuli for In-Vehicle Robots: A Perceived Usability Study Informed by Embodied Cognition
+
+💡 研究车载机器人中，使用面部表情符号作为视觉显示刺激对用户感知可用性的影响。研究基于具身认知理论，探讨了这种视觉刺激如何影响用户与车载机器人的交互体验和可用性评价。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Siqin Wang
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <category>社会临场</category><category>拟人化</category><category>人机交互(HCI)</category><category>情感连接</category><category>社交机器人</category><category>多模态</category><category>人机交互</category>
+    </item>    <item>
+      <title>基于聊天机器人的学术指导系统对学生参与度的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/21733</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21733</guid>
+      <description>📝 基于聊天机器人的学术指导系统对学生参与度的影响
+EN: Engaging Students With a Chatbot-Based Academic Advising System
+
+💡 探讨基于聊天机器人的学术咨询系统如何吸引学生。研究关注聊天机器人作为学术顾问，在高等教育环境中如何通过对话交互提升学生的参与度、提供个性化支持，并可能影响学生的学业规划与体验。
+
+📚 IJHCI · 2022 · 引用 52
+👤 Mohammad Amin Kuhail, Haseena Al Katheeri, Joao Negreiros, Ahmed Seffah, Omar Alfandi
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <category>聊天机器人</category><category>社会支持</category><category>人机交互(HCI)</category><category>教育技术</category><category>聊天机器人</category><category>对话式 AI</category><category>LLM</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>人工智能时代的说服：AI说服的理论与复杂性</title>
+      <link>https://sr-ai-papers.vercel.app/papers/21687</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21687</guid>
+      <description>📝 人工智能时代的说服：AI说服的理论与复杂性
+EN: Persuasion in the Age of Artificial Intelligence (AI): Theories and Complications of AI-Based Persuasion
+
+💡 探讨人工智能时代的说服理论及其复杂性。将AI说服定义为由通信AI实体生成、增强或修改信息以影响人类反应的过程。通过CASA范式、MAIN模型和启发式-系统式模型等理论视角，分析“薄AI”（机器线索少、社交线索或有、沟通间接）与“厚AI”（机器与社交线索丰富、沟通直接互动）如何以不同方式使说服过程复杂化，并提出了未来研究方向。
+
+📚 HCR · 2022 · 引用 74
+👤 Marco Dehnert, Paul A Mongeau
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>拟人化</category><category>社会临场</category><category>计算机中介传播</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category>
+    </item>    <item>
       <title>哪款 LLM 是您的理想伴侣？基于成人依恋理论评估 LLM 的情感陪伴能力</title>
       <link>https://sr-ai-papers.vercel.app/papers/21599</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21599</guid>
@@ -40,6 +102,21 @@ EN: Predicting the moral consideration of artificial intelligences
 AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <category>伦理</category><category>拟人化</category><category>人机信任</category><category>AI治理</category><category>AI 伦理</category><category>AI 治理</category>
+    </item>    <item>
+      <title>论分享与关怀：机器人自我表露与提问对儿童机器人感知及关系形成的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/21363</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21363</guid>
+      <description>📝 论分享与关怀：机器人自我表露与提问对儿童机器人感知及关系形成的影响
+EN: On sharing and caring: Investigating the effects of a robot's self-disclosure and question- asking on children's robot perceptions and child-robot relationship formation
+
+💡 研究探讨机器人通过自我表露和提问两种策略，对儿童机器人感知及儿童-机器人关系形成的影响。通过实验方法，考察这两种社会互动行为如何塑造儿童对机器人的看法，并促进积极关系的建立。核心发现可能揭示特定交互策略在儿童与社交机器人关系发展中的关键作用。
+
+📚 CHB · 2022 · 引用 37
+👤 Caroline L. van Straten, Jochen Peter, Rinaldo Kühne, Alex Barco
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <category>社交机器人</category><category>儿童/老人/无障碍</category><category>关系形成</category><category>自我表露</category><category>社交机器人</category><category>人机交互</category>
     </item>    <item>
       <title>ComBodied Agents：一种以人为中心的新型具身智能体范式</title>
       <link>https://sr-ai-papers.vercel.app/papers/21329</link>
@@ -90,6 +167,21 @@ AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <category>社交媒体</category><category>在线社群</category><category>计算机中介传播</category><category>性别</category><category>推荐算法</category><category>AI 治理</category><category>AI 伦理</category>
     </item>    <item>
+      <title>共同思考！评估人机团队中的共享心智模型、绩效与信任</title>
+      <link>https://sr-ai-papers.vercel.app/papers/21237</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21237</guid>
+      <description>📝 共同思考！评估人机团队中的共享心智模型、绩效与信任
+EN: Let's Think Together! Assessing Shared Mental Models, Performance, and Trust in Human-Agent Teams
+
+💡 研究探索人-智能体团队与纯人类团队在团队认知、绩效和信任方面的差异。通过混合方法，让团队在不同组成条件下完成团队模拟任务并测量共享心智模型等指标。结果发现，人-智能体团队在团队认知的迭代发展和沟通重要性上与人类团队相似，但行动相关沟通和明确共享目标对其更有益。同时，人-智能体团队对智能体队友的信任度更低，感知的团队认知更少，且团队心智模型的相似性水平不一致。
+
+📚 PACM-HCI · 2022 · 引用 131
+👤 Beau G. Schelble, Christopher Flathmann, Nathan J. McNeese, Guo Freeman, Rohit Mallick
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>团队认知</category><category>计算机中介传播</category><category>智能体/Agent</category><category>人机协作</category><category>人机交互</category>
+    </item>    <item>
       <title>理解用户在辅助决策中对 AI 的依赖</title>
       <link>https://sr-ai-papers.vercel.app/papers/21191</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21191</guid>
@@ -119,6 +211,21 @@ EN: Measuring the Prevalence of Anti-Social Behavior in Online Communities
 AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <category>在线社群</category><category>社交媒体</category><category>计算机中介传播</category><category>AI治理</category><category>AI 治理</category><category>AI 伦理</category><category>人机协作</category>
+    </item>    <item>
+      <title>聊天机器人语言设计：语言变体对旅游助手聊天机器人用户体验的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/21010</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21010</guid>
+      <description>📝 聊天机器人语言设计：语言变体对旅游助手聊天机器人用户体验的影响
+EN: Chatbots Language Design: The Influence of Language Variation on User Experience with Tourist Assistant Chatbots
+
+💡 研究探讨聊天机器人的语言设计，特别是语言变体（语域）如何影响用户体验。基于社会语言学，研究通过创建旅游领域内内容相似但语域不同的平行对话语料库，评估用户对聊天机器人语言选择的偏好。结果显示，语域特征是用户对交互适当性、可信度和整体体验偏好的强预测因子，表明设计符合语域的语言对提升聊天机器人接受度和用户感知至关重要。
+
+📚 TOCHI · 2022 · 引用 69
+👤 Ana Paula Chaves, Jesse Egbert, Toby Hocking, Eck Doerry, Marco Aurelio Gerosa
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>信任</category><category>拟人化</category><category>社会临场</category><category>聊天机器人</category><category>对话式 AI</category><category>人机交互</category>
     </item>    <item>
       <title>人机交互中人工智能的安慰剂效应</title>
       <link>https://sr-ai-papers.vercel.app/papers/20989</link>
@@ -240,6 +347,21 @@ AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <category>人机交互(HCI)</category><category>信任</category><category>社会临场</category><category>人机协作</category><category>人机交互</category><category>可解释 AI</category><category>AI 中介传播</category>
     </item>    <item>
+      <title>教学信念与感知信任对教师接受教育AI工具的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/17647</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/17647</guid>
+      <description>📝 教学信念与感知信任对教师接受教育AI工具的影响
+EN: Influence of Pedagogical Beliefs and Perceived Trust on Teachers’ Acceptance of Educational Artificial Intelligence Tools
+
+💡 探讨教师对教育人工智能工具的接受度如何受到其教学信念和感知信任的影响。研究聚焦于教育领域，分析教师的内在信念（教学观）和对外部技术（AI工具）的信任感，如何共同作用于他们采纳和使用AI教学工具的行为意向。
+
+📚 IJHCI · 2022 · 引用 231
+👤 Seongyune Choi, Yeonju Jang, Hyeoncheol Kim
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机交互(HCI)</category><category>AI治理</category><category>教育/学习</category><category>对话式 AI</category><category>AI 治理</category><category>人机交互</category>
+    </item>    <item>
       <title>可解释人工智能：评估 xAI 对人机交互的客观与主观影响</title>
       <link>https://sr-ai-papers.vercel.app/papers/17641</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/17641</guid>
@@ -270,6 +392,21 @@ AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>人机协作</category><category>人机交互(HCI)</category><category>伦理</category><category>可解释 AI</category><category>人机协作</category><category>AI 治理</category><category>智能体/Agent</category>
     </item>    <item>
+      <title>AI信任及其在AI技术接受中的作用</title>
+      <link>https://sr-ai-papers.vercel.app/papers/17634</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/17634</guid>
+      <description>📝 AI信任及其在AI技术接受中的作用
+EN: Trust in AI and Its Role in the Acceptance of AI Technologies
+
+💡 研究聚焦于对AI的信任及其在AI技术接受度中所扮演的角色。探讨了用户信任如何影响他们对AI技术的采纳和使用意愿，这是人机交互和AI中介传播中的核心议题。
+
+📚 IJHCI · 2022 · 引用 799
+👤 Hyesun Choung, Prabu David, Arun Ross
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机信任</category><category>人机交互(HCI)</category><category>AI中介传播</category><category>AI 治理</category><category>AI 伦理</category><category>可解释 AI</category><category>人机交互</category>
+    </item>    <item>
       <title>AI 心理治疗聊天机器人的融洽关系与社会临场感对用户自我表露的影响</title>
       <link>https://sr-ai-papers.vercel.app/papers/17629</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/17629</guid>
@@ -284,6 +421,21 @@ EN: Influence of Rapport and Social Presence with an AI Psychotherapy Chatbot on
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <category>AI治疗师</category><category>自我表露</category><category>社会临场</category><category>信任</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 治疗师</category><category>情感计算</category>
+    </item>    <item>
+      <title>对话代理引发语义用户模型失准：以视障人士导航支持为例</title>
+      <link>https://sr-ai-papers.vercel.app/papers/17627</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/17627</guid>
+      <description>📝 对话代理引发语义用户模型失准：以视障人士导航支持为例
+EN: Misalignment in Semantic User Model Elicitation via Conversational Agents: A Case Study in Navigation Support for Visually Impaired People
+
+💡 研究探讨了在面向视障人士的导航支持场景中，通过对话式智能体进行语义用户模型引导时出现的错位问题。该案例研究表明，AI系统对用户意图的理解与用户实际需求之间可能存在偏差，这影响了导航辅助的有效性。
+
+📚 IJHCI · 2022 · 引用 10
+👤 Jakub Berka, Jan Balata, Catholijn M. Jonker, Zdenek Mikovec, M. Birna van Riemsdijk
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>无障碍</category><category>信任</category><category>社会支持</category><category>对话式 AI</category><category>聊天机器人</category><category>智能体/Agent</category>
     </item>    <item>
       <title>“我来协助您的旅游”：预测旅游 AI 聊天机器人持续使用意愿，性别真的重要吗？</title>
       <link>https://sr-ai-papers.vercel.app/papers/17594</link>
@@ -314,156 +466,6 @@ EN: Combating Interest Decline with NAO: An Empirical Study on Robot Embodied In
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <category>社会互动</category><category>儿童/老人/无障碍</category><category>人机交互(HCI)</category><category>情感连接</category><category>社交机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>人工智能总体态度量表(GAAIS)：验证及其与人格、企业不信任和普遍信任的关联</title>
-      <link>https://sr-ai-papers.vercel.app/papers/17581</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/17581</guid>
-      <description>📝 人工智能总体态度量表(GAAIS)：验证及其与人格、企业不信任和普遍信任的关联
-EN: The General Attitudes towards Artificial Intelligence Scale (GAAIS): Confirmatory Validation and Associations with Personality, Corporate Distrust, and General Trust
-
-💡 研究旨在对“人工智能总体态度量表”进行验证性分析，并探讨其与人格特质、对企业的不信任感以及普遍信任度之间的关联。通过量表验证与关联研究，揭示影响公众对AI整体态度的心理与社会因素。
-
-📚 IJHCI · 2022 · 引用 416
-👤 Astrid Schepman, Paul Rodway
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>社会心理学</category><category>AI治理</category><category>伦理</category><category>AI 伦理</category><category>AI 治理</category>
-    </item>    <item>
-      <title>迈向以用户为中心的聊天机器人对话设计指南</title>
-      <link>https://sr-ai-papers.vercel.app/papers/17580</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/17580</guid>
-      <description>📝 迈向以用户为中心的聊天机器人对话设计指南
-EN: Towards User-Centric Guidelines for Chatbot Conversational Design
-
-💡 该研究旨在为聊天机器人的对话设计制定以用户为中心的指导原则。它关注如何通过优化对话流程、语言风格和交互模式来提升用户体验、任务完成效率和用户满意度，最终目标是推动更有效、更自然的人机对话交互设计实践。
-
-📚 IJHCI · 2022 · 引用 70
-👤 Geovana Ramos Sousa Silva, Edna Dias Canedo
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>对话式AI</category><category>用户体验</category><category>聊天机器人</category><category>对话式 AI</category><category>人机交互</category>
-    </item>    <item>
-      <title>用户对 AI 赋能系统信任的系统文献综述：HCI 视角</title>
-      <link>https://sr-ai-papers.vercel.app/papers/17565</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/17565</guid>
-      <description>📝 用户对 AI 赋能系统信任的系统文献综述：HCI 视角
-EN: A Systematic Literature Review of User Trust in AI-Enabled Systems: An HCI Perspective
-
-💡 从人机交互（HCI）的视角，对用户对AI赋能系统的信任研究进行系统性文献综述。旨在梳理影响人机信任的关键因素、理论框架、测量方法及未来研究方向，为设计可信的AI系统提供见解。
-
-📚 IJHCI · 2022 · 引用 334
-👤 Tita Alissa Bach, Amna Khan, Harry Hallock, Gabriela Beltrão, Sonia Sousa
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机信任</category><category>信任</category><category>人机交互(HCI)</category><category>AI治理</category><category>可解释 AI</category><category>AI 治理</category><category>AI 伦理</category><category>人机交互</category>
-    </item>    <item>
-      <title>人机初次对话中语言策略使用的内容分析</title>
-      <link>https://sr-ai-papers.vercel.app/papers/17542</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/17542</guid>
-      <description>📝 人机初次对话中语言策略使用的内容分析
-EN: “I Am in Your Computer While We Talk to Each Other” a Content Analysis on the Use of Language-Based Strategies by Humans and a Social Chatbot in Initial Human-Chatbot Interactions
-
-💡 通过内容分析，研究人类与社交聊天机器人在初次互动中使用的语言策略。重点分析双方如何运用语言建立联系、管理印象或处理不确定性，以揭示人机交互初期关系形成的独特动态。
-
-📚 IJHCI · 2022 · 引用 27
-👤 Emmelyn A. J. Croes, Marjolijn L. Antheunis, Martijn B. Goudbeek, Nathan W. Wildman
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <category>关系形成</category><category>社会互动</category><category>自我表露</category><category>计算机中介传播</category><category>聊天机器人</category><category>社交机器人</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>政治深度伪造作为社交媒体“民众之声”的影响研究</title>
-      <link>https://sr-ai-papers.vercel.app/papers/16985</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/16985</guid>
-      <description>📝 政治深度伪造作为社交媒体“民众之声”的影响研究
-EN: You Won’t Believe What They Just Said! The Effects of Political Deepfakes Embedded as Vox Populi on Social Media
-
-💡 研究通过实验探究不同形式（文本操纵 vs. 深度伪造）及社交媒体嵌入方式（无嵌入、由（非）真实公民背书/质疑）的政治虚假信息的影响。发现深度伪造比同主题真实新闻可信度更低，其说服力并不比文本虚假信息更强。虚假信息会影响认同其论点者的可信度感知和信源评价，但社会对深度伪造破坏民主的强烈担忧可能不完全合理。
-
-📚 SMS · 2022 · 引用 53
-👤 Michael Hameleers, Toni G. L. A. van der Meer, Tom Dobber
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>社交媒体</category><category>计算机中介传播</category><category>伦理</category><category>GenAI</category><category>多模态</category><category>图像生成</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>算法响应性的初步概念化：比较跨社交媒体平台的算法感知</title>
-      <link>https://sr-ai-papers.vercel.app/papers/16906</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/16906</guid>
-      <description>📝 算法响应性的初步概念化：比较跨社交媒体平台的算法感知
-EN: An Initial Conceptualization of Algorithm Responsiveness: Comparing Perceptions of Algorithms Across Social Media Platforms
-
-💡 研究将人际沟通理论引入人-算法交互，提出并检验了感知算法响应性(PAR)与感知算法不敏感性(PAI)两个新概念。通过两项预注册研究，比较了不同社交媒体平台（TikTok, Facebook, Instagram）的用户感知，发现TikTok的PAR更高、PAI更低。算法意识与PAR/PAI仅弱相关，而PAR能显著预测用户的社交媒体享受。
-
-📚 SMS · 2022 · 引用 42
-👤 Samuel Hardman Taylor, Mina Choi
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <category>社交媒体</category><category>计算机中介传播</category><category>信任</category><category>人机交互(HCI)</category><category>推荐算法</category><category>人机交互</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>社交脚本与期望违背：人机聊天交互的沟通评估</title>
-      <link>https://sr-ai-papers.vercel.app/papers/16788</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/16788</guid>
-      <description>📝 社交脚本与期望违背：人机聊天交互的沟通评估
-EN: Social Scripts and Expectancy Violations: Evaluating Communication with Human or AI Chatbot Interactants
-
-💡 研究探讨人类与AI聊天机器人交流时，社会脚本与期望违背理论的作用。通过比较人类与AI互动者的沟通，评估对话是否符合或违反既定社会规范，以及这种违背如何影响互动体验与评价。
-
-📚 MediaPsych · 2022 · 引用 68
-👤 Zijian Lew, Joseph B. Walther
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <category>社会互动</category><category>拟人化</category><category>社会临场</category><category>计算机中介传播</category><category>聊天机器人</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>人工智能时代的传播反思</title>
-      <link>https://sr-ai-papers.vercel.app/papers/16441</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/16441</guid>
-      <description>📝 人工智能时代的传播反思
-EN: Rethinking Communication in the Era of Artificial Intelligence
-
-💡 该特刊导论探讨人工智能在传播中的角色，借鉴人机交互与计算机中介传播研究，将AI参与人类传播的类型化，区分其作为传播者或中介者在人际与大众传播中的类比作用。文章梳理了六篇论文，突出人机代理权之间的张力，并对AI在传播过程与效果中的正负影响研究持乐观态度。
-
-📚 HCR · 2022 · 引用 76
-👤 S Shyam Sundar, Eun-Ju Lee
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <category>计算机中介传播</category><category>人机交互(HCI)</category><category>AI中介传播</category><category>伦理</category><category>对话式 AI</category><category>社交机器人</category><category>AI 中介传播</category><category>AI 治理</category>
-    </item>    <item>
-      <title>数字人类在技术增强叙事沉浸感中的驱动作用</title>
-      <link>https://sr-ai-papers.vercel.app/papers/16221</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/16221</guid>
-      <description>📝 数字人类在技术增强叙事沉浸感中的驱动作用
-EN: What drives technology-enhanced storytelling immersion? The role of digital humans
-
-💡 （根据标题推断）研究探索在技术增强的故事讲述（如VR、AR、互动叙事）中，是什么因素驱动了用户的沉浸感。论文聚焦于数字人类（如高度拟真的虚拟角色或AI驱动的虚拟形象）在这一过程中所扮演的角色，可能探讨其如何通过社会临场感、拟人化或情感互动来提升叙事体验。
-
-📚 CHB · 2022 · 引用 88
-👤 Eunyoung (Christine) Sung, Dai-In Danny Han, Sujin Bae, Ohbyung Kwon
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>社会临场</category><category>情感连接</category><category>人机交互(HCI)</category><category>数字人/虚拟形象</category><category>多模态</category><category>GenAI</category><category>情感计算</category>
-    </item>    <item>
-      <title>顾客与一线员工对机器人接受度的（不）平衡如何影响酒店服务质量？</title>
-      <link>https://sr-ai-papers.vercel.app/papers/16126</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/16126</guid>
-      <description>📝 顾客与一线员工对机器人接受度的（不）平衡如何影响酒店服务质量？
-EN: How does (im)balanced acceptance of robots between customers and frontline employees affect hotels’ service quality?
-
-💡 探讨酒店场景中，顾客与一线员工对机器人接受度的平衡或不平衡状态如何影响整体服务质量。研究关注双方态度差异对服务流程、人机协作及最终服务体验的复杂作用。
-
-📚 CHB · 2022 · 引用 44
-👤 Hua Fan, Wei Gao, Bing Han
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <category>社交机器人</category><category>人机交互(HCI)</category><category>服务场景</category><category>社交机器人</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
