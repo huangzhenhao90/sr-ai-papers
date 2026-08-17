@@ -6,7 +6,7 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 16 Aug 2026 03:08:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 03:07:12 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
       <title>有罪的人工心智：民众对 AI 代理犯罪意图与罪责的归因</title>
@@ -287,6 +287,36 @@ AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <category>人机交互(HCI)</category><category>信任</category><category>人机协作</category><category>人机协作</category><category>可解释 AI</category><category>AI 中介传播</category>
     </item>    <item>
+      <title>“我的视频对广告商有多友好？”：YouTuber 与算法内容审核的社会经济互动</title>
+      <link>https://sr-ai-papers.vercel.app/papers/21164</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21164</guid>
+      <description>📝 “我的视频对广告商有多友好？”：YouTuber 与算法内容审核的社会经济互动
+EN: "How advertiser-friendly is my video?": YouTuber's Socioeconomic Interactions with Algorithmic Content Moderation
+
+💡 研究探讨YouTube基于AI的内容审核算法如何通过去货币化等惩罚措施影响视频创作者的社会经济状况。采用算法劳动视角，分析算法不透明与不稳定性如何塑造创作者劳动条件，以及他们如何通过分享和应用关于算法的实践知识来应对。研究揭示了算法审核的社会经济影响，并指出必要的惩罚后支持作为一种恢复性正义，最后提出了算法审核系统的设计考量。
+
+📚 PACM-HCI · 2021 · 引用 78
+👤 Renkai Ma, Yubo Kou
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>算法治理</category><category>社交媒体</category><category>在线社群</category><category>伦理</category><category>推荐算法</category><category>AI 治理</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>如何评估 AI 辅助决策中的信任？实证方法综述</title>
+      <link>https://sr-ai-papers.vercel.app/papers/21147</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21147</guid>
+      <description>📝 如何评估 AI 辅助决策中的信任？实证方法综述
+EN: How to Evaluate Trust in AI-Assisted Decision Making? A Survey of Empirical Methodologies
+
+💡 研究综述了评估人机协作决策中信任的实证方法，指出当前实验设计缺乏标准协议，且常未明确定义信任概念，导致研究发现难以解释和比较。借鉴人际信任的社会与认知研究实践，为在决策情境中研究人机信任提供了改进方法学的实用指南。同时提出了两类研究机会：一是关于信任方法学的进一步探讨，二是关于影响人机信任的因素。
+
+📚 PACM-HCI · 2021 · 引用 207
+👤 Oleksandra Vereschak, Gilles Bailly, Baptiste Caramiaux
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机信任</category><category>人机交互(HCI)</category><category>伦理</category><category>人机协作</category><category>可解释 AI</category><category>AI 伦理</category><category>AI 治理</category>
+    </item>    <item>
       <title>测量在线社区中反社会行为的普遍性</title>
       <link>https://sr-ai-papers.vercel.app/papers/21097</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21097</guid>
@@ -331,6 +361,21 @@ EN: The Placebo Effect of Artificial Intelligence in Human–Computer Interactio
 AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <category>人机交互(HCI)</category><category>信任</category><category>社会心理学</category><category>伦理</category><category>对话式 AI</category><category>人机交互</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>面向自闭症儿童的可预测机器人：机器人行为差异、儿童特质特异性与儿童-机器人参与度</title>
+      <link>https://sr-ai-papers.vercel.app/papers/20978</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/20978</guid>
+      <description>📝 面向自闭症儿童的可预测机器人：机器人行为差异、儿童特质特异性与儿童-机器人参与度
+EN: Predictable Robots for Autistic Children—Variance in Robot Behaviour, Idiosyncrasies in Autistic Children’s Characteristics, and Child–Robot Engagement
+
+💡 研究探讨机器人行为可预测性对自闭症儿童参与度的影响。通过操控机器人行为方差，测量24名自闭症儿童的行为参与和视觉注意力。发现机器人可预测性降低时，儿童行为上仍持续参与，但视觉注意力会从活动相关区域转移，可能影响学习，尤其视觉任务。自闭症特征严重程度和语言表达能力显著影响行为参与。
+
+📚 TOCHI · 2021 · 引用 19
+👤 Bob R. Schadenberg, Dennis Reidsma, Vanessa Evers, Daniel P. Davison, Jamy J. Li
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>社交机器人</category><category>儿童/老人/无障碍</category><category>社会互动</category><category>信任</category><category>社交机器人</category><category>人机交互</category><category>AI 治疗师</category>
     </item>    <item>
       <title>勿追逐自恋型领导：基于关系与多元宇宙视角探究领导自恋与下属敬业度</title>
       <link>https://sr-ai-papers.vercel.app/papers/19802</link>
@@ -421,51 +466,6 @@ EN: Bidirectional Communications in Human-Agent Teaming: The Effects of Communic
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <category>人机交互(HCI)</category><category>人机协作</category><category>信任</category><category>社会互动</category><category>智能体/Agent</category><category>对话式 AI</category><category>人机交互</category>
-    </item>    <item>
-      <title>电子商务中恐怖谷效应对聊天机器人信任、购买意愿与采纳意愿的影响：化身熟悉度的调节作用</title>
-      <link>https://sr-ai-papers.vercel.app/papers/17689</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/17689</guid>
-      <description>📝 电子商务中恐怖谷效应对聊天机器人信任、购买意愿与采纳意愿的影响：化身熟悉度的调节作用
-EN: Uncanny Valley Effects on Chatbot Trust, Purchase Intention, and Adoption Intention in the Context of E-Commerce: The Moderating Role of Avatar Familiarity
-
-💡 研究探讨了在电子商务情境下，聊天机器人引发的恐怖谷效应对用户信任、购买意愿和采纳意愿的影响，并检验了虚拟形象熟悉度的调节作用。核心发现是，当聊天机器人的拟人化程度处于“恐怖谷”区间时，会损害用户信任和商业意图，而用户对虚拟形象的熟悉度可以缓解这种负面影响。
-
-📚 IJHCI · 2022 · 引用 219
-👤 Stephen Wonchul Song, Mincheol Shin
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>拟人化</category><category>社会临场</category><category>人机信任</category><category>聊天机器人</category><category>社交机器人</category>
-    </item>    <item>
-      <title>人机交互的情境感知视角：张力与机遇</title>
-      <link>https://sr-ai-papers.vercel.app/papers/17663</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/17663</guid>
-      <description>📝 人机交互的情境感知视角：张力与机遇
-EN: A Situation Awareness Perspective on Human-AI Interaction: Tensions and Opportunities
-
-💡 从情境感知的视角审视人机交互，探讨其中存在的张力与机遇。该视角强调在动态、复杂的交互环境中，人类对AI系统状态、环境及未来发展的理解。研究可能涉及如何设计AI系统以支持人类的情境感知，以及情境感知不足如何导致误解、误用或信任问题，旨在为人机协作提供新的设计启示。
-
-📚 IJHCI · 2022 · 引用 100
-👤 Jinglu Jiang, Alexander J. Karran, Constantinos K. Coursaris, Pierre-Majorique Léger, Joerg Beringer
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>信任</category><category>社会临场</category><category>人机协作</category><category>人机交互</category><category>可解释 AI</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>教学信念与感知信任对教师接受教育AI工具的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/17647</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/17647</guid>
-      <description>📝 教学信念与感知信任对教师接受教育AI工具的影响
-EN: Influence of Pedagogical Beliefs and Perceived Trust on Teachers’ Acceptance of Educational Artificial Intelligence Tools
-
-💡 探讨教师对教育人工智能工具的接受度如何受到其教学信念和感知信任的影响。研究聚焦于教育领域，分析教师的内在信念（教学观）和对外部技术（AI工具）的信任感，如何共同作用于他们采纳和使用AI教学工具的行为意向。
-
-📚 IJHCI · 2022 · 引用 231
-👤 Seongyune Choi, Yeonju Jang, Hyeoncheol Kim
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机交互(HCI)</category><category>AI治理</category><category>教育/学习</category><category>对话式 AI</category><category>AI 治理</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
