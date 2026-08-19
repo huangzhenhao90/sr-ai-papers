@@ -6,9 +6,103 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:03:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 03:05:19 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>代理推荐系统中的委托不对称性：在线约会中双向接受度的测量</title>
+      <link>https://sr-ai-papers.vercel.app/papers/23677</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23677</guid>
+      <description>📝 代理推荐系统中的委托不对称性：在线约会中双向接受度的测量
+EN: Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating
+
+💡 研究在线约会平台中，用户对代表自己进行对话的LLM智能体（发送方）与接收来自他人智能体消息（接收方）的接受度差异。通过两次大规模用户调查，建立潜在变量测量模型。研究发现，用户部署自己智能体的意愿远高于与对方智能体互动的意愿，存在系统性委托不对称。随机配对反事实分析显示，仅有少数双向互动能同时满足双方条件，且存在显著的性别不平衡。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Daria Leshchikova, Valentina V. Kuskova, Dmitry Zaytsev, Valerii Klimov
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2608.18058v1</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机信任</category><category>拟人化</category><category>社会互动</category><category>计算机中介传播</category><category>LLM</category><category>聊天机器人</category><category>智能体/Agent</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>平衡安全与自主性：面向认知障碍的生成式AI可及性干预</title>
+      <link>https://sr-ai-papers.vercel.app/papers/23675</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23675</guid>
+      <description>📝 平衡安全与自主性：面向认知障碍的生成式AI可及性干预
+EN: Balancing Safety and Autonomy: Accessibility-Oriented Interventions in Generative AI for Cognitive Impairment
+
+💡 探讨生成式AI在支持认知障碍老年人日常任务时，如何在安全与自主性之间取得平衡。通过对45名认知障碍者及其照顾者的定性研究，识别出五种以可及性为导向的系统干预机制：AI能力约束、人工监督嵌入、认知参与维持、人-AI关系调节、风险透明与控制。研究发现，这些机制通过重新分配用户与照顾者之间的决策权来支持或限制用户，其效果因障碍程度而异，强调需要动态设计以适应不同需求。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Yibo Meng, Jingruo Chen, Lyumanshan Ye, Bingyi Liu, Zhicong Lu
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2608.17175v1</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>社会支持</category><category>儿童/老人/无障碍</category><category>伦理</category><category>GenAI</category><category>AI 治疗师</category><category>人机协作</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>代理应如何与群体沟通？群聊讨论中对话代理的沟通策略</title>
+      <link>https://sr-ai-papers.vercel.app/papers/23672</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23672</guid>
+      <description>📝 代理应如何与群体沟通？群聊讨论中对话代理的沟通策略
+EN: How Should the Agent Communicate to the Group? Communication Strategies of a Conversational Agent in Group Chat Discussions
+
+💡 研究在小型在线群组同步聊天讨论中，对话式智能体（CA）应使用何种沟通策略来鼓励贡献不足的成员参与，以促进平衡参与和积极群体动态。通过在线实验测试了五种策略，包括消息发送给不同对象（@个人 vs. @所有人）和通过不同渠道（公开 vs. 私聊），以及一种同伴中介策略。研究发现，CA通过私聊渠道向特定个人发送消息是提高其参与度最有效且最受偏好的方式。同伴中介策略也被认为比CA直接干预更不具侵入性和尴尬感。
+
+📚 PACM-HCI · 2022 · 引用 28
+👤 Hyo Jin Do, Ha-Kyung Kong, Jaewook Lee, Brian P. Bailey
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <category>社交机器人</category><category>社会临场</category><category>在线社群</category><category>人机交互(HCI)</category><category>对话式 AI</category><category>聊天机器人</category><category>社交机器人</category><category>人机交互</category>
+    </item>    <item>
+      <title>“何时终结？”：理解YouTube上的非自愿独身者社区</title>
+      <link>https://sr-ai-papers.vercel.app/papers/23665</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23665</guid>
+      <description>📝 “何时终结？”：理解YouTube上的非自愿独身者社区
+EN: "How over is it?" Understanding the Incel Community on YouTube
+
+💡 研究分析YouTube上非自愿独身者社群的演变及其与平台推荐算法的关系。通过收集Reddit社群分享的视频数据进行表征分析，发现近十年相关视频和评论大幅增长。算法推荐分析显示，用户从非相关视频出发，在五次跳转内有6.3%概率被推荐此类内容，揭示了平台在引导用户接触极端内容中的潜在作用。
+
+📚 PACM-HCI · 2021 · 引用 65
+👤 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <category>在线社群</category><category>社交媒体</category><category>计算机中介传播</category><category>伦理</category><category>推荐算法</category><category>AI 治理</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>用于审议讨论的调解聊天机器人</title>
+      <link>https://sr-ai-papers.vercel.app/papers/23663</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23663</guid>
+      <description>📝 用于审议讨论的调解聊天机器人
+EN: Moderator Chatbot for Deliberative Discussion
+
+💡 在线讨论常因缺乏结构而难以达成深思熟虑的共识。研究探讨聊天机器人作为调解员的可行性，设计了DebateBot来结构化讨论并鼓励沉默者发言。通过2x2组间实验发现：结构化讨论能提升讨论质量，产生更多元观点；机器人引导能促进群体共识与个人意见更一致，贡献更均衡，并提升任务凝聚力和沟通公平感。表明聊天机器人可部分替代人类调解员。
+
+📚 PACM-HCI · 2021 · 引用 84
+👤 Soomin Kim, Jinsu Eun, Joseph Seering, Joonhwan Lee
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <category>社会互动</category><category>在线社群</category><category>计算机中介传播</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>对话式 AI</category><category>社交机器人</category>
+    </item>    <item>
+      <title>对称与非对称建模：理解酒店聊天机器人参与度的驱动因素与后果</title>
+      <link>https://sr-ai-papers.vercel.app/papers/23484</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23484</guid>
+      <description>📝 对称与非对称建模：理解酒店聊天机器人参与度的驱动因素与后果
+EN: Symmetric and Asymmetric Modeling to Understand Drivers and Consequences of Hotel Chatbot Engagement
+
+💡 研究探讨影响酒店聊天机器人用户参与度的驱动因素及其后果。采用对称与非对称建模方法，分析用户与AI互动中的变量关系，以理解促进或阻碍人机交互的关键要素。核心发现揭示了用户参与度的前因变量及其对服务结果的影响机制。
+
+📚 IJHCI · 2022 · 引用 25
+👤 Sandra Maria Correia Loureiro, Faizan Ali, Murad Ali
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>信任</category><category>社会互动</category><category>聊天机器人</category><category>聊天机器人</category><category>对话式 AI</category><category>人机交互</category>
+    </item>    <item>
       <title>MistyPilot：通过多智能体LLM技能编排实现社交机器人控制</title>
       <link>https://sr-ai-papers.vercel.app/papers/23281</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23281</guid>
@@ -116,7 +210,7 @@ EN: When AI Corrects Users: How Communication Design Shapes Autonomy and Social 
 💡 探讨AI纠正用户时，不同的沟通设计如何影响用户的自主感与社会体验。研究关注人机交互中纠正行为的呈现方式（如语气、时机、解释性）对用户心理感受（如自主性、信任、社会临场感）的影响机制。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Shuaifeng Chang, Jiaxuan Li, Qinjian Yuan
+👤 Shuaifeng Chang, Li Jiaxuan, Qinjian Yuan
 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
@@ -378,98 +472,6 @@ EN: Engaging Students With a Chatbot-Based Academic Advising System
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
       <category>聊天机器人</category><category>社会支持</category><category>人机交互(HCI)</category><category>教育技术</category><category>聊天机器人</category><category>对话式 AI</category><category>LLM</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>人工智能时代的说服：AI说服的理论与复杂性</title>
-      <link>https://sr-ai-papers.vercel.app/papers/21687</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21687</guid>
-      <description>📝 人工智能时代的说服：AI说服的理论与复杂性
-EN: Persuasion in the Age of Artificial Intelligence (AI): Theories and Complications of AI-Based Persuasion
-
-💡 探讨人工智能时代的说服理论及其复杂性。将AI说服定义为由通信AI实体生成、增强或修改信息以影响人类反应的过程。通过CASA范式、MAIN模型和启发式-系统式模型等理论视角，分析“薄AI”（机器线索少、社交线索或有、沟通间接）与“厚AI”（机器与社交线索丰富、沟通直接互动）如何以不同方式使说服过程复杂化，并提出了未来研究方向。
-
-📚 HCR · 2022 · 引用 74
-👤 Marco Dehnert, Paul A Mongeau
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>拟人化</category><category>社会临场</category><category>计算机中介传播</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>Reddit上关于机器人技术的情感讨论：生活领域、动机与时间主题的情感分析</title>
-      <link>https://sr-ai-papers.vercel.app/papers/21620</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21620</guid>
-      <description>📝 Reddit上关于机器人技术的情感讨论：生活领域、动机与时间主题的情感分析
-EN: Emotional talk about robotic technologies on Reddit: Sentiment analysis of life domains, motives, and temporal themes
-
-💡 研究基于计算社会科学和社会心理学，分析了Reddit上关于机器人技术的讨论情感。通过VADER和LIWC工具分析超过2800万条评论，发现“机器人”和“AI”术语的正面情感使用较少。涉及休闲、金钱和未来主题的评论与正面情感相关，而涉及家庭、权力和过去主题的则与负面情感相关。结果表明，语境和术语显著影响机器人技术对话的情感基调。
-
-📚 NMS · 2021 · 引用 15
-👤 Nina Savela, David Garcia, Max Pellert, Atte Oksanen
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <category>社交媒体</category><category>社会互动</category><category>拟人化</category><category>网络心理学</category><category>社交机器人</category><category>聊天机器人</category><category>情感识别</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>哪款 LLM 是您的理想伴侣？基于成人依恋理论评估 LLM 的情感陪伴能力</title>
-      <link>https://sr-ai-papers.vercel.app/papers/21599</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21599</guid>
-      <description>📝 哪款 LLM 是您的理想伴侣？基于成人依恋理论评估 LLM 的情感陪伴能力
-EN: Which LLM Is Your Ideal Companion? Evaluating Emotional Companion Capabilities of LLMs Based on Adult Attachment Theory
-
-💡 研究关注大语言模型作为情感伴侣的能力评估。引入成人依恋理论，使用ECR-R量表评估32个LLM的依恋焦虑与回避倾向。构建了涵盖情感支持、协作任务等四个场景的情感陪伴基准ECBench，通过多轮对话评估模型行为。核心发现是LLM表现出不同的依恋模式，这些倾向可通过提示词塑造，为理解和选择情感陪伴型AI提供了心理学视角与实用工具。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Junkai Zhou, Shiting Guan, Zhaoyi Zhang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2608.13168v1</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>依恋</category><category>情感支持</category><category>人机亲密关系</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>Chatbot 应对 COVID-19 疫情相关心理健康问题：用户体验、满意度及影响因素</title>
-      <link>https://sr-ai-papers.vercel.app/papers/21472</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21472</guid>
-      <description>📝 Chatbot 应对 COVID-19 疫情相关心理健康问题：用户体验、满意度及影响因素
-EN: It Is Me, Chatbot: Working to Address the COVID-19 Outbreak-Related Mental Health Issues in China. User Experience, Satisfaction, and Influencing Factors
-
-💡 研究评估了在中国使用聊天机器人应对新冠疫情相关心理健康问题的用户体验、满意度及影响因素。关注聊天机器人作为心理支持工具的有效性及用户接受度，探索其在危机时期提供情感支持的作用。
-
-📚 IJHCI · 2021 · 引用 77
-👤 Yonghan Zhu, Marijn Janssen, Rui Wang, Yang Liu
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <category>AI治疗师</category><category>情感支持</category><category>心理健康</category><category>社会支持</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 治疗师</category><category>情感识别</category>
-    </item>    <item>
-      <title>在线行为定向中的机器凝视：算法拟人化对社会临场感与社会影响的作用</title>
-      <link>https://sr-ai-papers.vercel.app/papers/21390</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21390</guid>
-      <description>📝 在线行为定向中的机器凝视：算法拟人化对社会临场感与社会影响的作用
-EN: Machine gaze in online behavioral targeting: The effects of algorithmic human likeness on social presence and social influence
-
-💡 研究在线行为定向广告中算法呈现的“机器凝视”效应，探究算法拟人化程度对社会临场感及社会影响力的作用。核心在于理解算法如何通过模仿人类特质来增强说服力，影响用户感知与行为。
-
-📚 CHB · 2021 · 引用 40
-👤 Bingjie Liu, Lewen Wei
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>社会临场</category><category>社会影响</category><category>信任</category><category>推荐算法</category><category>情感计算</category><category>人机交互</category>
-    </item>    <item>
-      <title>预测人工智能的道德考量</title>
-      <link>https://sr-ai-papers.vercel.app/papers/21381</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/21381</guid>
-      <description>📝 预测人工智能的道德考量
-EN: Predicting the moral consideration of artificial intelligences
-
-💡 研究探讨人们如何对人工智能进行道德考量。根据标题推断，研究可能通过实验或调查方法，探索影响人们将AI视为道德主体（即值得道德关怀的实体）的因素，例如AI的拟人化程度、能力或互动类型。核心发现可能揭示了预测人们对AI赋予道德地位的心理或社会变量。
-
-📚 CHB · 2022 · 引用 51
-👤 Janet V.T. Pauketat, Jacy Reese Anthis
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>拟人化</category><category>人机信任</category><category>AI治理</category><category>AI 伦理</category><category>AI 治理</category>
     </item>
   </channel>
 </rss>
