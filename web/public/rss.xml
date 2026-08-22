@@ -6,9 +6,54 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 03:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:02:43 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>抵抗技术设计中的种族主义</title>
+      <link>https://sr-ai-papers.vercel.app/papers/24884</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/24884</guid>
+      <description>📝 抵抗技术设计中的种族主义
+EN: Resisting Racism in Tech Design
+
+💡 研究语音界面中的对话代理如何忽视种族问题并延续种族主义。采用黑人女性主义认识论框架，让黑人学生参与设计构思。发现他们偏好以黑人女性为模型、了解黑人文化并能提供生活指导的代理，揭示了当前设计以白人为规范的问题。
+
+📚 PACM-HCI · 2021 · 引用 45
+👤 Yolanda A. Rankin, Kallayah K. Henderson
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>性别</category><category>聊天机器人</category><category>人机交互(HCI)</category><category>对话式 AI</category><category>语音助手</category><category>社交机器人</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>基于神经多样性体验的情感计算社会-情感-感官设计图</title>
+      <link>https://sr-ai-papers.vercel.app/papers/24883</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/24883</guid>
+      <description>📝 基于神经多样性体验的情感计算社会-情感-感官设计图
+EN: Social-Emotional-Sensory Design Map for Affective Computing Informed by Neurodivergent Experiences
+
+💡 针对自闭症谱系成年人的情感体验，挑战情感计算中传统的情感建模与视觉表征方式。通过情境研究和访谈发现，其情感体验是具身的、与社会互动及感官输入交织共构的。贡献了一个社会-情感-感官设计地图，以指导创建更包容、细腻的情感计算界面。
+
+📚 PACM-HCI · 2021 · 引用 39
+👤 Annuska Zolyomi, Jaime Snyder
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <category>情感计算</category><category>共情</category><category>人机交互(HCI)</category><category>儿童/老人/无障碍</category><category>情感计算</category><category>情感识别</category><category>多模态</category><category>AI 治疗师</category>
+    </item>    <item>
+      <title>虚伪诱导：利用聊天机器人促进 COVID-19 社交距离</title>
+      <link>https://sr-ai-papers.vercel.app/papers/24599</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/24599</guid>
+      <description>📝 虚伪诱导：利用聊天机器人促进 COVID-19 社交距离
+EN: Hypocrisy Induction: Using Chatbots to Promote COVID-19 Social Distancing
+
+💡 探讨如何利用聊天机器人（如诱导用户感知自身言行不一）来促进公共卫生行为（如新冠社交距离）。研究可能通过实验或干预设计，检验基于AI的“伪善诱导”策略在改变用户态度和行为上的有效性。
+
+📚 CBSN · 2022 · 引用 28
+👤 WooJin Kim, Yuhosua Ryoo
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <category>社会支持</category><category>信任</category><category>聊天机器人</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>对话式 AI</category><category>GenAI</category>
+    </item>    <item>
       <title>在线约会中对话式AI代理的双向接受度：基于Fledge.Love的双语调查数据</title>
       <link>https://sr-ai-papers.vercel.app/papers/24435</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/24435</guid>
@@ -74,6 +119,21 @@ EN: Designing Conversational Evaluation Tools
 AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <category>对话式AI</category><category>人机交互(HCI)</category><category>教育</category><category>用户体验</category><category>聊天机器人</category><category>对话式 AI</category><category>语音助手</category>
+    </item>    <item>
+      <title>群体与团队中的机器人</title>
+      <link>https://sr-ai-papers.vercel.app/papers/24425</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/24425</guid>
+      <description>📝 群体与团队中的机器人
+EN: Robots in Groups and Teams
+
+💡 研究探讨自主机器人在与人群组而非单人互动时面临的挑战。机器人通过非语言行为和个性特征的微小调整，能够影响群体成员及复杂的群体动态，进而塑造持续的人际互动。综述了机器人在群体中可以扮演的独特角色及其社会影响。
+
+📚 PACM-HCI · 2020 · 引用 146
+👤 Sarah Sebo, Brett Stoll, Brian Scassellati, Malte F. Jung
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <category>社交机器人</category><category>社会互动</category><category>群体动态</category><category>人机交互(HCI)</category><category>社交机器人</category><category>人机交互</category>
     </item>    <item>
       <title>作为积极倾听者的Alexa：回应如何引发自我表露并提升用户体验</title>
       <link>https://sr-ai-papers.vercel.app/papers/24415</link>
@@ -236,9 +296,11 @@ EN: Perceiving Stories, Seeing Selves: Older Adults’ Cognitive and Emotional E
 💡 研究探讨老年人对人类撰写叙事与AI生成图像在认知与情感层面的参与度差异。核心问题在于比较两种媒介如何影响老年人的故事感知与自我认同构建。方法可能涉及实验或质性访谈，测量其认知投入（如理解、记忆）与情感投入（如共鸣、连接）。推断核心发现可能揭示AI生成图像在激发情感或辅助认知方面的独特潜力与局限，及其对老年人自我认知与社会连接的影响。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Amy Shirong Lu, Eesha Gangal, Susanne M. Jaeggi, Aaron Seitz
+👤 Amy Shirong Lu, Eesha Gangal, Susanne M. Jaeggi, Aaron R. Seitz
 
-AI 分: 3.0 / 领域分: 3.0</description>
+AI 分: 3.0 / 领域分: 3.0
+
+📄 PDF: https://www.tandfonline.com/doi/pdf/10.1080/10447318.2026.2713298?needAccess=true</description>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
       <category>老年人/无障碍</category><category>情感连接</category><category>共情</category><category>自我表露</category><category>GenAI</category><category>图像生成</category><category>多模态</category>
     </item>    <item>
@@ -268,7 +330,9 @@ EN: Do People Resist Empathizing with AI? Effects of Empathic Characteristics in
 📚 IJHCI · 2026 · 引用 0
 👤 Yuyue Hao, Yuxin Sheng, Jie He, Siqian He, Zhiyong Fu
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://doi.org/10.1080/10447318.2026.2712099</description>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
       <category>共情</category><category>情感支持</category><category>拟人化</category><category>人机交互(HCI)</category><category>情感识别</category><category>对话式 AI</category><category>聊天机器人</category>
     </item>    <item>
@@ -410,74 +474,6 @@ EN: Symmetric and Asymmetric Modeling to Understand Drivers and Consequences of 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <category>人机交互(HCI)</category><category>信任</category><category>社会互动</category><category>聊天机器人</category><category>聊天机器人</category><category>对话式 AI</category><category>人机交互</category>
-    </item>    <item>
-      <title>MistyPilot：通过多智能体LLM技能编排实现社交机器人控制</title>
-      <link>https://sr-ai-papers.vercel.app/papers/23281</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23281</guid>
-      <description>📝 MistyPilot：通过多智能体LLM技能编排实现社交机器人控制
-EN: MistyPilot: Enabling Social-Robot Control through Multi-Agent LLM Skill Orchestration
-
-💡 提出MistyPilot，一个多智能体LLM框架，用于通过高级自然语言指令控制社交机器人Misty。系统包含任务路由器和两个专用智能体：物理交互智能体处理传感器触发的机器人控制，社交交互智能体管理面向对话的任务状态和上下文相关的多模态响应生成。评估显示其在路由、传感器-技能绑定、任务状态解析等方面具有高准确性，用户研究也报告了积极的可用性和交互质量感知。
-
-📚 arXiv:cs.RO · 2026 · 引用 0
-👤 Xiao Wang, Lu Dong, Ifeoma Nwogu, Srirangaraj Setlur, Venu Govindaraju
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2608.15549v1</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>社交机器人</category><category>人机交互(HCI)</category><category>人机协作</category><category>对话式AI</category><category>LLM</category><category>GenAI</category><category>智能体/Agent</category><category>多模态</category>
-    </item>    <item>
-      <title>“这真像Claude！”：论无需重识别的AI角色识别理论</title>
-      <link>https://sr-ai-papers.vercel.app/papers/23279</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23279</guid>
-      <description>📝 “这真像Claude！”：论无需重识别的AI角色识别理论
-EN: "This Is So Claude!" Towards a Theory of the Recognition of AI Character Without Reidentification
-
-💡 用户常能识别出AI的“风格”（如“这很Claude”），即使无法确认其具体模型或身份。研究区分了三种探究AI身份的方式：基于约束、基于机制和基于识别。研究提出，若在控制品牌和熟悉短语后，用户对陌生任务的“Claudishness”判断仍具一致性和可推广性，则可能表明存在真实、可投射的对话性格。这种性格可能根植于激活空间的紧凑实现。研究强调，可识别的性格连续性可能是用户产生依恋的关键，独立于计算载体的同一性问题。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Michele Loi
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2608.16789v1</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>拟社会关系</category><category>AI伴侣/陪伴</category><category>拟人化</category><category>关系形成</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>FTA-Mem：面向低密度长期对话的事实-时间-情感锚定记忆</title>
-      <link>https://sr-ai-papers.vercel.app/papers/23277</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23277</guid>
-      <description>📝 FTA-Mem：面向低密度长期对话的事实-时间-情感锚定记忆
-EN: FTA-Mem: Fact-Time-Affect Anchored Memory for Low-Density Long-Term Dialogue
-
-💡 针对长期情感支持对话信息密度低、证据分散的特点，提出FTA-Mem结构化记忆框架。该框架使用边界保持窗口分割形成连贯情境片段，并构建融合事实、时间和情感上下文的记忆单元。检索到的单元被合成为结构化上下文以生成回答。在ES-MemEval和LoCoMo基准测试中，FTA-Mem提升了长期记忆问答性能。分析表明，情境级别的记忆构建在证据保留和构建成本间取得了更好平衡，为长期对话记忆提供了有效的粒度权衡。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Chang Liu, Shuyi Zhang, Changsheng Ma, Yongfeng Tao, Minqiang Yang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2608.16303v1</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>AI治疗师</category><category>情感支持</category><category>社会支持</category><category>关系维系</category><category>对话式 AI</category><category>AI 伴侣</category><category>社交机器人</category><category>情感计算</category>
-    </item>    <item>
-      <title>AI时代的爱情：人机浪漫关系的整合过程模型</title>
-      <link>https://sr-ai-papers.vercel.app/papers/23276</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23276</guid>
-      <description>📝 AI时代的爱情：人机浪漫关系的整合过程模型
-EN: Love in the Age of AI: An Integrative Process Model of Romantic Human-Chatbot Relationships
-
-💡 研究整合了73份用户经验数据，首次提出一个基于实证的、关于浪漫人机关系生命周期的整合过程模型。模型包含三个阶段：起始阶段由特定的心理和社会决定因素驱动，塑造用户寻求的需求与满足；关系建设阶段经历探索、情感和稳定期，用户发展出真实的浪漫情感和深度整合的联结；结束阶段表明，关系解体可能引发与人类分手类似的情感和生理反应。该模型旨在弥合现有研究的碎片化，全面理解浪漫人机关系的独特动力与情感投入。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Natalia Szymczyk, Paula Ebner, Jessica M. Szczuka
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2608.16633v1</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>浪漫关系</category><category>人机亲密关系</category><category>关系形成</category><category>关系维系</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category><category>社交机器人</category>
     </item>
   </channel>
 </rss>
