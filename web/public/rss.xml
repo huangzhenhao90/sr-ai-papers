@@ -6,9 +6,84 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 22 Aug 2026 03:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 03:09:43 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>面向众包的可教对话代理：对绩效与信任的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/25090</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/25090</guid>
+      <description>📝 面向众包的可教对话代理：对绩效与信任的影响
+EN: Teachable Conversational Agents for Crowdwork: Effects on Performance and Trust
+
+💡 研究在众包情境下，将传统请求者-工作者关系重构为教师-学习者互动，探索可教导的对话式智能体如何通过“边教边学”影响人类教师的绩效与信任。核心发现是，这种教学互动提升了众包工作者对智能体的感知有用性，并动态构建了信任关系，使工作者更愿意将任务委托给AI。
+
+📚 PACM-HCI · 2022 · 引用 5
+👤 Nalin Chhibber, Joslin Goh, Edith Law
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机信任</category><category>人机协作</category><category>信任</category><category>社会互动</category><category>聊天机器人</category><category>对话式 AI</category><category>智能体/Agent</category><category>人机协作</category>
+    </item>    <item>
+      <title>基于实践的教师提问策略训练与 ELK</title>
+      <link>https://sr-ai-papers.vercel.app/papers/25085</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/25085</guid>
+      <description>📝 基于实践的教师提问策略训练与 ELK
+EN: Practice-Based Teacher Questioning Strategy Training with ELK
+
+💡 研究如何利用角色扮演模拟系统ELK，为职前教师提供反复练习提问策略的机会，以引出学生先验知识。通过混合方法对75名教师进行评估，发现经过三轮使用，教师提问策略有适度提升并产生对学生同情心。初步证据表明，结合角色扮演和评估对话记录可能更有效。
+
+📚 PACM-HCI · 2021 · 引用 12
+👤 Xu Wang, Meredith Thompson, Kexin Yang, Dan Roy, Kenneth R. Koedinger
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <category>社会支持</category><category>人际关系</category><category>人机协作</category><category>教育技术</category><category>对话式 AI</category><category>智能体/Agent</category><category>人机协作</category>
+    </item>    <item>
+      <title>虚拟影响者类型的说服效应：产品卷入度的调节作用</title>
+      <link>https://sr-ai-papers.vercel.app/papers/24946</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/24946</guid>
+      <description>📝 虚拟影响者类型的说服效应：产品卷入度的调节作用
+EN: Human-like or not? The persuasive effects of virtual influencer types: The moderating role of product involvement
+
+💡 研究探讨不同类型虚拟影响者（如高度拟人或非拟人）的说服效果差异，并检验产品卷入度在这一过程中的调节作用。核心发现可能揭示，对于不同卷入度的产品，虚拟影响者的人类相似性特征对消费者态度或行为意图的影响存在差异。
+
+📚 TI · 2026 · 引用 0
+👤 Enkhtaivan Duurenjargal, Hyejin Bang
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>社会临场</category><category>信任</category><category>社交媒体</category><category>社交机器人</category><category>虚拟助手</category><category>图像生成</category>
+    </item>    <item>
+      <title>人与计算机通过负反馈诱发社会压力的效应：对绩效与主观状态的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/24931</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/24931</guid>
+      <description>📝 人与计算机通过负反馈诱发社会压力的效应：对绩效与主观状态的影响
+EN: When humans and computers induce social stress through negative feedback: Effects on performance and subjective state
+
+💡 研究当人类和计算机通过负面反馈引发社会压力时，对个体任务表现和主观状态（如情绪、压力感）的影响。实验方法可能涉及比较来自人类和AI的负反馈效果。核心发现可能揭示计算机中介的负反馈同样能诱发社会压力，影响绩效与心理状态。
+
+📚 CHB · 2022 · 引用 24
+👤 S. Thuillard, M. Adams, G. Jelmini, S. Schmutz, A. Sonderegger
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <category>社会互动</category><category>社会临场</category><category>信任</category><category>人际关系</category><category>对话式 AI</category><category>社交机器人</category><category>人机交互</category>
+    </item>    <item>
+      <title>AI 设备具身化理论及其对幸福感、感知社会支持与采纳的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/24926</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/24926</guid>
+      <description>📝 AI 设备具身化理论及其对幸福感、感知社会支持与采纳的影响
+EN: See what you see, hear what you hear: Theorizing AI Device Embodiment (ADE) and its effects on well-being, perceived social support, and adoption
+
+💡 研究提出“AI设备具身化”理论，探讨AI设备（如智能音箱、机器人）的具身化程度如何影响用户的心理健康、感知社会支持及采纳意愿。核心在于论证设备形态与交互方式（视听等）的整合如何塑造人机关系与用户体验。
+
+📚 CHB · 2026 · 引用 0
+👤 Jih-Hsuan (Tammy) Lin, Huai-Yu Chen, Ji-Wei Yang
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <category>社会临场</category><category>社会支持</category><category>情感连接</category><category>人机交互(HCI)</category><category>社交机器人</category><category>对话式 AI</category><category>语音助手</category><category>多模态</category>
+    </item>    <item>
       <title>抵抗技术设计中的种族主义</title>
       <link>https://sr-ai-papers.vercel.app/papers/24884</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/24884</guid>
@@ -397,83 +472,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2608.18058v1</description>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <category>人机信任</category><category>拟人化</category><category>社会互动</category><category>计算机中介传播</category><category>LLM</category><category>聊天机器人</category><category>智能体/Agent</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>平衡安全与自主性：面向认知障碍的生成式AI可及性干预</title>
-      <link>https://sr-ai-papers.vercel.app/papers/23675</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23675</guid>
-      <description>📝 平衡安全与自主性：面向认知障碍的生成式AI可及性干预
-EN: Balancing Safety and Autonomy: Accessibility-Oriented Interventions in Generative AI for Cognitive Impairment
-
-💡 探讨生成式AI在支持认知障碍老年人日常任务时，如何在安全与自主性之间取得平衡。通过对45名认知障碍者及其照顾者的定性研究，识别出五种以可及性为导向的系统干预机制：AI能力约束、人工监督嵌入、认知参与维持、人-AI关系调节、风险透明与控制。研究发现，这些机制通过重新分配用户与照顾者之间的决策权来支持或限制用户，其效果因障碍程度而异，强调需要动态设计以适应不同需求。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Yibo Meng, Jingruo Chen, Lyumanshan Ye, Bingyi Liu, Zhicong Lu
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2608.17175v1</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>社会支持</category><category>儿童/老人/无障碍</category><category>伦理</category><category>GenAI</category><category>AI 治疗师</category><category>人机协作</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>代理应如何与群体沟通？群聊讨论中对话代理的沟通策略</title>
-      <link>https://sr-ai-papers.vercel.app/papers/23672</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23672</guid>
-      <description>📝 代理应如何与群体沟通？群聊讨论中对话代理的沟通策略
-EN: How Should the Agent Communicate to the Group? Communication Strategies of a Conversational Agent in Group Chat Discussions
-
-💡 研究在小型在线群组同步聊天讨论中，对话式智能体（CA）应使用何种沟通策略来鼓励贡献不足的成员参与，以促进平衡参与和积极群体动态。通过在线实验测试了五种策略，包括消息发送给不同对象（@个人 vs. @所有人）和通过不同渠道（公开 vs. 私聊），以及一种同伴中介策略。研究发现，CA通过私聊渠道向特定个人发送消息是提高其参与度最有效且最受偏好的方式。同伴中介策略也被认为比CA直接干预更不具侵入性和尴尬感。
-
-📚 PACM-HCI · 2022 · 引用 28
-👤 Hyo Jin Do, Ha-Kyung Kong, Jaewook Lee, Brian P. Bailey
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <category>社交机器人</category><category>社会临场</category><category>在线社群</category><category>人机交互(HCI)</category><category>对话式 AI</category><category>聊天机器人</category><category>社交机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>“何时终结？”：理解YouTube上的非自愿独身者社区</title>
-      <link>https://sr-ai-papers.vercel.app/papers/23665</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23665</guid>
-      <description>📝 “何时终结？”：理解YouTube上的非自愿独身者社区
-EN: "How over is it?" Understanding the Incel Community on YouTube
-
-💡 研究分析YouTube上非自愿独身者社群的演变及其与平台推荐算法的关系。通过收集Reddit社群分享的视频数据进行表征分析，发现近十年相关视频和评论大幅增长。算法推荐分析显示，用户从非相关视频出发，在五次跳转内有6.3%概率被推荐此类内容，揭示了平台在引导用户接触极端内容中的潜在作用。
-
-📚 PACM-HCI · 2021 · 引用 65
-👤 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <category>在线社群</category><category>社交媒体</category><category>计算机中介传播</category><category>伦理</category><category>推荐算法</category><category>AI 治理</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>用于审议讨论的调解聊天机器人</title>
-      <link>https://sr-ai-papers.vercel.app/papers/23663</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23663</guid>
-      <description>📝 用于审议讨论的调解聊天机器人
-EN: Moderator Chatbot for Deliberative Discussion
-
-💡 在线讨论常因缺乏结构而难以达成深思熟虑的共识。研究探讨聊天机器人作为调解员的可行性，设计了DebateBot来结构化讨论并鼓励沉默者发言。通过2x2组间实验发现：结构化讨论能提升讨论质量，产生更多元观点；机器人引导能促进群体共识与个人意见更一致，贡献更均衡，并提升任务凝聚力和沟通公平感。表明聊天机器人可部分替代人类调解员。
-
-📚 PACM-HCI · 2021 · 引用 84
-👤 Soomin Kim, Jinsu Eun, Joseph Seering, Joonhwan Lee
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <category>社会互动</category><category>在线社群</category><category>计算机中介传播</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>对话式 AI</category><category>社交机器人</category>
-    </item>    <item>
-      <title>对称与非对称建模：理解酒店聊天机器人参与度的驱动因素与后果</title>
-      <link>https://sr-ai-papers.vercel.app/papers/23484</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/23484</guid>
-      <description>📝 对称与非对称建模：理解酒店聊天机器人参与度的驱动因素与后果
-EN: Symmetric and Asymmetric Modeling to Understand Drivers and Consequences of Hotel Chatbot Engagement
-
-💡 研究探讨影响酒店聊天机器人用户参与度的驱动因素及其后果。采用对称与非对称建模方法，分析用户与AI互动中的变量关系，以理解促进或阻碍人机交互的关键要素。核心发现揭示了用户参与度的前因变量及其对服务结果的影响机制。
-
-📚 IJHCI · 2022 · 引用 25
-👤 Sandra Maria Correia Loureiro, Faizan Ali, Murad Ali
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>信任</category><category>社会互动</category><category>聊天机器人</category><category>聊天机器人</category><category>对话式 AI</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
