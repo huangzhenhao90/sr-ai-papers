@@ -6,9 +6,39 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 29 Aug 2026 08:48:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 08:06:40 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>当你的老板是机器人：员工对拟人化机器人主管更具敌意</title>
+      <link>https://sr-ai-papers.vercel.app/papers/28326</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/28326</guid>
+      <description>📝 当你的老板是机器人：员工对拟人化机器人主管更具敌意
+EN: When your boss is a robot: Workers are more spiteful to robot supervisors that seem more human
+
+💡 研究探讨当机器人作为管理者时，其拟人化程度如何影响员工的反生产行为。发现当机器人上司显得更拟人化时，员工对其表现出更强的恶意或敌对行为。这表明在职场权力关系中，AI的类人特征可能引发负面的人际反应。
+
+📚 JESP · 2022 · 引用 82
+👤 Kai Chi Yam, E-Yang Goh, Ryan Fehr, Randy Lee, Harold Soh
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人际关系</category><category>拟人化</category><category>社会互动</category><category>人机交互(HCI)</category><category>社交机器人</category><category>人机交互</category>
+    </item>    <item>
+      <title>观点一致性与可解释性如何影响对 AI 与人类评论审核员的动机性归因</title>
+      <link>https://sr-ai-papers.vercel.app/papers/28254</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/28254</guid>
+      <description>📝 观点一致性与可解释性如何影响对 AI 与人类评论审核员的动机性归因
+EN: Something's Fishy About It: How Opinion Congeniality and Explainability Affect Motivated Attribution to Artificial Intelligence Versus Human Comment Moderators
+
+💡 在线实验探究新闻评论区中，AI与人类作为内容审核员时，用户如何归因其政治动机及相信‘AI客观性’启发式。研究发现，当剩余评论与用户观点不一致或删除无解释时，用户更怀疑AI（而非人类）审核员有政治动机。提供真实解释仅能缓解对AI的怀疑。观点一致性及缺乏解释会强化用户对‘AI客观性’的信念，而对人类审核员的评价则相反。
+
+📚 CBSN · 2022 · 引用 16
+👤 Eun-Ju Lee, Hyun Suk Kim, Yoo Ji Suh, Jin Won Park
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>拟人化</category><category>计算机中介传播</category><category>AI治理</category><category>对话式 AI</category><category>AI 中介传播</category><category>可解释 AI</category><category>AI 伦理</category>
+    </item>    <item>
       <title>我的错！修复智能语音助手错误以改善交互</title>
       <link>https://sr-ai-papers.vercel.app/papers/28225</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/28225</guid>
@@ -127,7 +157,9 @@ EN: Examining the Antecedent and Outcomes of Self-Disclosing to AI Chatbots in H
 📚 IJHCI · 2026 · 引用 0
 👤 Zikun Liu, Shuming Yang, Yangwen Jiang
 
-AI 分: 4.0 / 领域分: 4.0</description>
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://doi.org/10.6084/m9.figshare.33365984</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <category>自我表露</category><category>信任</category><category>情感支持</category><category>人机信任</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category><category>GenAI</category>
     </item>    <item>
@@ -438,40 +470,6 @@ EN: Humans adjust virtual comfort-distance towards an artificial agent depending
 AI 分: 4.0 / 领域分: 5.0</description>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <category>社会互动</category><category>拟人化</category><category>社会临场</category><category>性别</category><category>社交机器人</category><category>对话式 AI</category><category>人机交互</category>
-    </item>    <item>
-      <title>ESCRAG-R1：面向情感支持对话的检索增强强化学习</title>
-      <link>https://sr-ai-papers.vercel.app/papers/26669</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/26669</guid>
-      <description>📝 ESCRAG-R1：面向情感支持对话的检索增强强化学习
-EN: ESCRAG-R1: Retrieval-Augmented Reinforcement Learning for Emotional Support Conversation
-
-💡 针对情感支持对话系统在结构化阶段推理与共情-专业能力对齐上的不足，提出ESCRAG-R1框架。该框架将基于检索的心理指导整合进分组相对策略优化中，通过强化学习循环将外部知识转化为学习信号，重塑模型内部策略。为提供可靠监督，构建了基于客户-咨询师-评判员评估框架的高质量数据集ESC-Preference。实验表明，该方法显著优于现有基线，实现了专业指导与共情表达的自然融合。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Weichu Liu, Yuxuan Hu, Yirong Sun, Ningning Mao, Ziyun Zhang
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2608.21925v1</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>情感支持</category><category>AI治疗师</category><category>人机交互(HCI)</category><category>信任</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>推荐算法</category>
-    </item>    <item>
-      <title>单一回音室：AI 精神病应否成为独立临床实体？</title>
-      <link>https://sr-ai-papers.vercel.app/papers/26668</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/26668</guid>
-      <description>📝 单一回音室：AI 精神病应否成为独立临床实体？
-EN: An Echo Chamber of One: Should AI Psychosis Be a Distinct Clinical Entity?
-
-💡 随着用户与大型语言模型聊天机器人深度互动后出现或加重精神病性症状（如妄想），‘AI精神病’概念引发关注。研究探讨其是否应被视为独立的临床实体。核心机制在于LLM的谄媚倾向与拟人化设计结合，形成双向‘单人回音室’，可能放大并共同构建异常信念。支持理由包括利于病例识别、针对性干预和行业监管；反对理由则涉及证据不足、现有诊断框架可能已涵盖、污名化风险以及可能忽视更广泛的AI相关心理健康问题谱系。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Joshua Au Yeung, Hamilton Morrin, Vincent Ng, Zeljko Kraljevic, Richard Dobson
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2608.23937v1</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>拟人化</category><category>成瘾/依赖</category><category>伦理</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伦理</category>
     </item>
   </channel>
 </rss>
