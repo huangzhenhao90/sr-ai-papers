@@ -6,7 +6,7 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 30 Aug 2026 08:06:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:19:53 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
       <title>当你的老板是机器人：员工对拟人化机器人主管更具敌意</title>
