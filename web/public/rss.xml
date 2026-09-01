@@ -6,9 +6,56 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 31 Aug 2026 08:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:31:42 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>测量戏剧治疗中的人机“交互鸿沟”</title>
+      <link>https://sr-ai-papers.vercel.app/papers/28727</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/28727</guid>
+      <description>📝 测量戏剧治疗中的人机“交互鸿沟”
+EN: Measuring the "Interaction Gap" in Drama Therapy with AI
+
+💡 研究探索在戏剧治疗中，患者与AI伙伴及人类伙伴互动时自我呈现的差异，即“互动鸿沟”。该鸿沟被视为一种诊断透镜，用以揭示不同社会压力如何塑造自我表达，而非判断哪种情境更真实。研究基于戏剧治疗的角色与审美距离概念，提出了任务设计与测量信号的起点，并探讨了测量引入的观察者效应、隐私悖论等问题。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Sora Kang
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2608.29292v1</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI治疗师</category><category>自我表露</category><category>社会互动</category><category>人机交互(HCI)</category><category>GenAI</category><category>聊天机器人</category><category>对话式 AI</category><category>人机协作</category>
+    </item>    <item>
+      <title>人类评判与机器慰藉：心理预期如何形塑对 AI 支持的体验与感知</title>
+      <link>https://sr-ai-papers.vercel.app/papers/28646</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/28646</guid>
+      <description>📝 人类评判与机器慰藉：心理预期如何形塑对 AI 支持的体验与感知
+EN: Supplemental Material for Judged by Humans, Comforted by Machines: How Psychological Expectations Shape Experiences and Perceptions of AI Support
+
+💡 研究探讨人类对AI支持的心理预期如何影响其体验与感知。当人们被人类评判时，会转而向机器寻求安慰，这表明对AI非评判性的预期塑造了其作为社会支持来源的角色与效果。
+
+📚 JPSP · 2026 · 引用 0
+👤 Unknown
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <category>社会支持</category><category>情感支持</category><category>信任</category><category>拟人化</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
+    </item>    <item>
+      <title>算法信念如何影响在线交友的（线下）成功：一项两波纵向研究</title>
+      <link>https://sr-ai-papers.vercel.app/papers/28503</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/28503</guid>
+      <description>📝 算法信念如何影响在线交友的（线下）成功：一项两波纵向研究
+EN: Exploring How Beliefs About Algorithms Shape (Offline) Success in Online Dating: A Two-Wave Longitudinal Investigation
+
+💡 研究通过两波纵向调查，探索用户对在线约会匹配算法有效性的信念如何影响其线下首次约会的成功。研究发现，算法是否真正有效不如用户是否感知其有效重要。用户越相信匹配过程的效能，其报告的首次约会体验就越好。这揭示了算法信念在塑造线上线下关系成功中的关键作用。
+
+📚 CR · 2020 · 引用 41
+👤 Liesel L. Sharabi
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>浪漫关系</category><category>人际关系</category><category>计算机中介传播</category><category>推荐算法</category><category>AI 中介传播</category>
+    </item>    <item>
       <title>当你的老板是机器人：员工对拟人化机器人主管更具敌意</title>
       <link>https://sr-ai-papers.vercel.app/papers/28326</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/28326</guid>
@@ -283,6 +330,21 @@ AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <category>拟人化</category><category>社会临场</category><category>信任</category><category>聊天机器人</category><category>聊天机器人</category><category>对话式 AI</category><category>推荐算法</category>
     </item>    <item>
+      <title>“Alexa，你是我妈妈吗？”：人工智能在儿童发展中的角色</title>
+      <link>https://sr-ai-papers.vercel.app/papers/27465</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/27465</guid>
+      <description>📝 “Alexa，你是我妈妈吗？”：人工智能在儿童发展中的角色
+EN: “Alexa, Are You My Mom?” The Role of Artificial Intelligence in Child Development
+
+💡 该研究探讨人工智能（如语音助手Alexa）在儿童发展过程中扮演的角色，特别是其如何影响儿童的社会化、学习过程及情感认知。研究可能通过文献综述、案例分析或实验方法，考察儿童与AI的互动模式。核心发现可能揭示AI既可作为教育工具和陪伴者，也可能对儿童的人际关系形成、信任建立及拟社会关系发展产生复杂影响，引发关于儿童发展伦理的讨论。
+
+📚 CBSN · 2018 · 引用 33
+👤 Brenda K. Wiederhold
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <category>儿童/老人/无障碍</category><category>拟社会关系</category><category>社会互动</category><category>伦理</category><category>语音助手</category><category>对话式 AI</category><category>AI 伦理</category>
+    </item>    <item>
       <title>为智能虚拟助手实施合作与竞争性音频游戏化设计</title>
       <link>https://sr-ai-papers.vercel.app/papers/27404</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/27404</guid>
@@ -408,68 +470,6 @@ EN: How Should AI Agents Ask for Donations? Comparison of Emotional and Normativ
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>社会互动</category><category>计算机中介传播</category><category>伦理</category><category>AI 中介传播</category><category>聊天机器人/对话式 AI</category><category>智能体/Agent</category><category>AI 治理/伦理</category>
-    </item>    <item>
-      <title>人工智能感知道德能动性量表土耳其版的心理测量学评估</title>
-      <link>https://sr-ai-papers.vercel.app/papers/26895</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/26895</guid>
-      <description>📝 人工智能感知道德能动性量表土耳其版的心理测量学评估
-EN: Psychometric Evaluation of the Turkish Version of the Perceived Moral Agency Scale for Artificial Intelligence
-
-💡 研究评估了感知人工智能道德主体量表土耳其语版本的心理测量学特性。通过量表翻译、数据收集与统计分析，验证了该量表在土耳其文化背景下的信度与效度，为跨文化研究人工智能道德主体感知提供了可靠工具。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Melike Şahin, Muhammed Huzeyfe Gültekin, FURKAN ERDOĞDU, sevim
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://doi.org/10.5281/zenodo.21236702</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>拟人化</category><category>信任</category><category>AI 伦理</category><category>AI 治理</category>
-    </item>    <item>
-      <title>文盲群体如何与智能语音助手交互？</title>
-      <link>https://sr-ai-papers.vercel.app/papers/26894</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/26894</guid>
-      <description>📝 文盲群体如何与智能语音助手交互？
-EN: How Do Illiterate People Interact with an Intelligent Voice Assistant?
-
-💡 探讨文盲群体如何与智能语音助手进行交互。研究关注这一特殊用户群体在缺乏文字阅读能力的情况下，如何理解、使用语音界面，并可能面临哪些独特的可用性挑战与交互模式，为人机交互的无障碍设计提供洞见。
-
-📚 IJHCI · 2022 · 引用 14
-👤 Thiago H. O. da Silva, Vasco Furtado, Elizabeth Furtado, Marilia Mendes, Virgilio Almeida
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>儿童/老人/无障碍</category><category>社会互动</category><category>语音助手</category><category>对话式 AI</category><category>社交机器人</category>
-    </item>    <item>
-      <title>自私但获社会认可：感知碰撞算法与社会认可对自动驾驶汽车态度的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/26893</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/26893</guid>
-      <description>📝 自私但获社会认可：感知碰撞算法与社会认可对自动驾驶汽车态度的影响
-EN: Selfish but Socially Approved: The Effects of Perceived Collision Algorithms and Social Approval on Attitudes toward Autonomous Vehicles
-
-💡 研究感知到的自动驾驶汽车碰撞算法（利己 vs. 利他）与社会认可度如何影响人们对自动驾驶汽车的态度。实验发现，即使算法被感知为“自私”（优先保护乘客），只要获得社会认可，人们对自动驾驶汽车的态度也可能保持积极。
-
-📚 IJHCI · 2022 · 引用 11
-👤 Yeon Kyoung Joo, Banya Kim
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>信任</category><category>人机交互(HCI)</category><category>AI 伦理</category><category>AI 治理</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>人类根据性取向及对男同性恋的内隐偏见调整与人工代理的虚拟舒适距离</title>
-      <link>https://sr-ai-papers.vercel.app/papers/26781</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/26781</guid>
-      <description>📝 人类根据性取向及对男同性恋的内隐偏见调整与人工代理的虚拟舒适距离
-EN: Humans adjust virtual comfort-distance towards an artificial agent depending on their sexual orientation and implicit prejudice against gay men
-
-💡 研究探讨人类在与人工代理互动时如何调整虚拟舒适距离。研究发现，这种距离调整受到个体性取向以及对男同性恋者内隐偏见的影响，表明社会态度会塑造人机交互中的空间行为。
-
-📚 CHB · 2021 · 引用 15
-👤 Matteo P. Lisi, Martina Fusaro, Gaetano Tieri, Salvatore Maria Aglioti
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <category>社会互动</category><category>拟人化</category><category>社会临场</category><category>性别</category><category>社交机器人</category><category>对话式 AI</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
