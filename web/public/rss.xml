@@ -6,9 +6,39 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 04 Sep 2026 07:08:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 06:52:00 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>解构黑箱：检视人机沟通中的（去）性别分类效应</title>
+      <link>https://sr-ai-papers.vercel.app/papers/29822</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29822</guid>
+      <description>📝 解构黑箱：检视人机沟通中的（去）性别分类效应
+EN: Unpacking the black box: Examining the (de)Gender categorization effect in human-machine communication
+
+💡 研究探讨在人机沟通中，对机器进行性别分类（如“他”或“她”）或去性别化（如“它”）是否以及如何影响人与机器的互动过程与结果。通过实验方法，考察这种性别标签的施加或移除如何塑造用户对机器的感知、态度和行为，揭示社会类别在人机交互中的潜在作用机制。
+
+📚 CHB · 2019 · 引用 29
+👤 Yi Mou, Kun Xu, Kai Xia
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <category>性别</category><category>拟人化</category><category>社会互动</category><category>人机交互(HCI)</category><category>社交机器人</category><category>对话式 AI</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>机器人登门槛策略：在人际机器人交互中使用顺序请求说服策略</title>
+      <link>https://sr-ai-papers.vercel.app/papers/29821</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29821</guid>
+      <description>📝 机器人登门槛策略：在人际机器人交互中使用顺序请求说服策略
+EN: Robotic foot-in-the-door: Using sequential-request persuasive strategies in human-robot interaction
+
+💡 研究检验在人与机器人互动中，机器人是否能够有效运用“登门槛”这一经典社会心理学说服策略，即先提出一个小请求，待对方同意后再提出更大的请求。通过实验设计，探究机器人使用这种顺序请求策略时，用户的依从性、感知及互动体验，为人机说服策略的有效性提供实证依据。
+
+📚 CHB · 2019 · 引用 47
+👤 Seungcheol Austin Lee, Yuhua (Jake) Liang
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <category>社会互动</category><category>信任</category><category>人机交互(HCI)</category><category>社交机器人</category><category>人机交互</category>
+    </item>    <item>
       <title>行为改变应用中的个性化悖论</title>
       <link>https://sr-ai-papers.vercel.app/papers/29771</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29771</guid>
@@ -78,7 +108,7 @@ EN: Judged by humans, comforted by machines: How psychological expectations shap
 💡 研究考察了人类对AI提供社会支持的期望如何影响其实际体验与感知。通过比较人类支持与机器支持的差异，探讨了心理预期在塑造对AI共情、安慰效果评价中的作用，揭示了尽管AI能提供功能性支持，但人类固有的社会认知可能限制其对机器情感支持的深度信任与接纳。
 
 📚 JPSP · 2026 · 引用 0
-👤 Roshni Raveendhran, Trevor A. Foulk
+👤 Roshni Raveendhran, Trevor Foulk
 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
@@ -93,7 +123,7 @@ EN: Influence of Explanation Timing and Content on Passenger Trust and Risk Perc
 💡 研究聚焦于城市空中交通（UAM）场景下的自动驾驶系统，探究了系统解释的时机（如事前、事中、事后）与内容（如决策原因、风险信息）如何影响乘客的信任度与风险感知。通过人机交互实验，旨在为提升自动驾驶系统的透明度和用户接受度提供设计依据。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Jongwoo Park, Siyoung Kim, Yong Gu Ji, Young Woo Kim
+👤 Jong-woo Park, Siyoung Kim, Yong Gu Ji, Young Woo Kim
 
 AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
@@ -137,10 +167,12 @@ EN: Creative or Uncreative Partner: Comparing Humans and AI in Collaborative Cre
 
 💡 研究探讨在协作创意任务中，人类与AI作为合作伙伴的差异。通过比较人类与AI在创意生成过程中的表现与互动，分析AI作为创意伙伴的潜力与局限。核心发现可能涉及人类与AI在创意协作中的互补性、AI对创意流程的影响，以及人类对AI创意输出的感知与评价。
 
-📚 CHB · 2026 · 引用 0
-👤 Clin K.Y. Lai, Simone A. Luchini, Nina Lauharatanahirun, Roger Beaty
+📚 CHB · 2026 · 引用 1
+👤 Clin KY Lai, Simone A Luchini, Nina Lauharatanahirun, Roger E. Beaty
 
-AI 分: 5.0 / 领域分: 4.0</description>
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://osf.io/ey7u4_v1/download</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>社会互动</category><category>人际关系</category><category>信任</category><category>GenAI</category><category>人机协作</category><category>聊天机器人</category><category>对话式 AI</category>
     </item>    <item>
@@ -432,40 +464,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2609.00211v1</description>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <category>社会学习</category><category>人机交互(HCI)</category><category>伦理</category><category>社会支持</category><category>对话式 AI</category><category>LLM</category><category>GenAI</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>CompanionSim：用于评估人—AI关系拟人化的合成数据</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29101</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29101</guid>
-      <description>📝 CompanionSim：用于评估人—AI关系拟人化的合成数据
-EN: CompanionSim: Synthetic Data for Evaluating Anthropomorphism in Human-AI Relationships
-
-💡 研究探讨AI聊天机器人展现陪伴行为（如认可）如何影响人类对其的感知。通过构建CompanionSim模拟框架，生成大量人机对话数据，并结合真实数据，在美国、英国、印度和尼日利亚进行大规模用户实验。核心发现是，聊天机器人的陪伴行为反而降低了其好感度、拟人化程度和可信度，这一效应在女性和年长参与者中更为明显。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Jacy Reese Anthis, Mark Díaz, Renee Shelby
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.00250v1</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <category>拟社会关系</category><category>AI伴侣/陪伴</category><category>信任</category><category>拟人化</category><category>聊天机器人</category><category>对话式 AI</category><category>GenAI</category><category>LLM</category>
-    </item>    <item>
-      <title>面向陪伴智能体评估的披露门控用户模拟</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29100</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29100</guid>
-      <description>📝 面向陪伴智能体评估的披露门控用户模拟
-EN: Disclosure-Gated User Simulation for Companion-Agent Evaluation
-
-💡 针对基于LLM的用户模拟在评估陪伴型AI时因模拟用户过于配合而产生偏差的问题，提出一种基于信息揭露门控的模拟方法。该方法通过五个有序门控（合并为三层）控制信息释放，模拟用户根据AI陪伴者的行为决定是否透露信息。在CompanionBench英文语料上验证，该方法能产生稳定且保留系统排序的评估结果，其排行榜与原基准模拟器相关性达0.993。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Yao Liu, Yu He
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.00982v1</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>人机交互(HCI)</category><category>信任</category><category>关系形成</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
     </item>
   </channel>
 </rss>
