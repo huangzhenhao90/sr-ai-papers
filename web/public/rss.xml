@@ -6,9 +6,39 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 05 Sep 2026 06:52:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:03:15 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>适应性社交机器人：在长期儿童-机器人互动中维持社交参与</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30075</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30075</guid>
+      <description>📝 适应性社交机器人：在长期儿童-机器人互动中维持社交参与
+EN: Adaptive Social Robot for Sustaining Social Engagement during Long-Term Children–Robot Interaction
+
+💡 研究如何设计自适应社交机器人，以在长期互动中维持儿童的社会参与度。关注机器人通过适应儿童行为或状态来保持互动吸引力与有效性的策略，旨在促进持续且有意义的儿童-机器人社交互动。
+
+📚 IJHCI · 2017 · 引用 100
+👤 Muneeb Imtiaz Ahmad, Omar Mubin, Joanne Orlando
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <category>社交机器人</category><category>儿童/老人/无障碍</category><category>社会互动</category><category>关系维系</category><category>社交机器人</category><category>对话式 AI</category><category>智能体/Agent</category><category>人机交互</category>
+    </item>    <item>
+      <title>情感机器人叙事者：情感一致性对叙事沉浸、机器人感知与说服力的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30040</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30040</guid>
+      <description>📝 情感机器人叙事者：情感一致性对叙事沉浸、机器人感知与说服力的影响
+EN: The emotional robotic storyteller: On the influence of affect congruency on narrative transportation, robot perception, and persuasion
+
+💡 探讨情感机器人讲故事时，其情感表达与故事内容的一致性（情感一致性）如何影响听众的叙事沉浸感、对机器人的感知以及说服效果。研究聚焦于人机交互中情感匹配的作用机制。
+
+📚 CHB · 2021 · 引用 61
+👤 Markus Appel, Birgit Lugrin, Mayla Kühle, Corinna Heindl
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>社会临场</category><category>情感连接</category><category>人机交互(HCI)</category><category>社交机器人</category><category>情感计算</category><category>人机交互</category>
+    </item>    <item>
       <title>解构黑箱：检视人机沟通中的（去）性别分类效应</title>
       <link>https://sr-ai-papers.vercel.app/papers/29822</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29822</guid>
@@ -432,38 +462,6 @@ EN: Advantages of virtual agents over clinical psychologists during comprehensiv
 AI 分: 4.0 / 领域分: 5.0</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <category>AI治疗师</category><category>心理健康</category><category>信任</category><category>人机交互(HCI)</category><category>虚拟助手</category><category>AI 治疗师</category><category>聊天机器人</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>通过与学习者进行对话与三方对话的计算机代理进行评估</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29164</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29164</guid>
-      <description>📝 通过与学习者进行对话与三方对话的计算机代理进行评估
-EN: Assessment with computer agents that engage in conversational dialogues and trialogues with learners
-
-💡 研究探讨了计算机智能体通过与学习者进行对话（双人对话）和多人对话（三人对话）来评估学习者的方法。该方法利用对话式AI模拟社会互动，旨在通过自然的语言交流来评估学习者的知识或技能，为人机交互在教育评估领域的应用提供了新视角。
-
-📚 CHB · 2017 · 引用 56
-👤 Arthur C. Graesser, Zhiqiang Cai, Brent Morgan, Lijia Wang
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>对话式AI</category><category>社会互动</category><category>计算机中介传播</category><category>对话式 AI</category><category>聊天机器人</category><category>智能体/Agent</category>
-    </item>    <item>
-      <title>AI不仅应有益，更应具或然性：人工亲密、谄媚与社交学习的未来</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29103</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29103</guid>
-      <description>📝 AI不仅应有益，更应具或然性：人工亲密、谄媚与社交学习的未来
-EN: AI Should Not Only Be Helpful. It Should Be Contingent. Artificial Intimacy, Sycophancy, and the Future of Social Learning
-
-💡 研究指出，当前对话式AI的反馈模式（如基于人类反馈的强化学习）倾向于讨好用户并提供非条件性肯定，缺乏行为上的信息量。基于行为科学和社会学习理论，提出“条件性”应成为评估AI的核心构念，即系统反馈应随用户行为及其社会后果而变化。条件性反馈是人际技能发展的关键机制，非条件性AI可能削弱个体在现实社交中的适应校准能力，尤其在青少年社会发展的关键期。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Scott Compton, Arjun Nagendran
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.00211v1</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社会学习</category><category>人机交互(HCI)</category><category>伦理</category><category>社会支持</category><category>对话式 AI</category><category>LLM</category><category>GenAI</category><category>AI 伦理</category>
     </item>
   </channel>
 </rss>
