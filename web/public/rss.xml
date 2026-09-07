@@ -6,7 +6,7 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 06 Sep 2026 07:03:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:12:58 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
       <title>适应性社交机器人：在长期儿童-机器人互动中维持社交参与</title>
