@@ -6,9 +6,54 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:12:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:07:27 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>“我想看看这个AI有多聪明”：玩家对对抗性AI玩家的心智模型发展</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30381</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30381</guid>
+      <description>📝 “我想看看这个AI有多聪明”：玩家对对抗性AI玩家的心智模型发展
+EN: "I Want To See How Smart This AI Really Is": Player Mental Model Development of an Adversarial AI Player
+
+💡 研究玩家在对抗性AI游戏互动中如何形成和发展心智模型。通过定性研究（10场双人游戏会话）发现，玩家心智模型的发展有两个主导维度：关注点（自上而下vs自下而上）和整合风格（系统化vs反应式）。研究还揭示了玩家如何处理预期不符的情况，为游戏设计者预测玩家-AI互动提供了初步框架。
+
+📚 PACM-HCI · 2022 · 引用 24
+👤 Jennifer Villareale, Casper Harteveld, Jichen Zhu
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>信任</category><category>社会互动</category><category>拟人化</category><category>智能体/Agent</category><category>人机交互</category><category>游戏AI</category>
+    </item>    <item>
+      <title>理解与AI情感及关系投入的三层框架与测量工具包</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30306</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30306</guid>
+      <description>📝 理解与AI情感及关系投入的三层框架与测量工具包
+EN: A Three-Layered Framework and Measurement Toolkit for Understanding Emotional and Relational Engagement with AI
+
+💡 研究如何理解用户与AI互动中的情感和关系投入。提出一个包含三个层次的理论框架和一套测量工具包，旨在系统评估用户在情感和关系层面与AI系统建立连接的深度与性质。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Chuqi Chen, Huiguang Ren, Junsheng Liu, Fangfang Tian, Fanlong Wang
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <category>情感连接</category><category>社会互动</category><category>人机交互(HCI)</category><category>关系形成</category><category>对话式 AI</category><category>社交机器人</category><category>AI 伴侣</category><category>情感计算</category>
+    </item>    <item>
+      <title>打开“黑箱”的预期：人类与自动化代理间的公正感知比较</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30239</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30239</guid>
+      <description>📝 打开“黑箱”的预期：人类与自动化代理间的公正感知比较
+EN: What to expect from opening up ‘black boxes’? Comparing perceptions of justice between human and automated agents
+
+💡 研究当人类与自动化智能体的决策‘黑箱’被打开时，人们对两者公正性的感知差异。探讨了算法透明化（即可解释AI）如何影响用户对决策过程公平性的判断，并比较了人们对人类决策者和AI系统在公正性上的不同期望与评价。
+
+📚 CHB · 2021 · 引用 91
+👤 Nadine Schlicker, Markus Langer, Sonja K. Ötting, Kevin Baum, Cornelius J. König
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>伦理</category><category>AI治理</category><category>人机信任</category><category>可解释 AI</category><category>AI 伦理</category><category>AI 治理</category><category>推荐算法</category>
+    </item>    <item>
       <title>适应性社交机器人：在长期儿童-机器人互动中维持社交参与</title>
       <link>https://sr-ai-papers.vercel.app/papers/30075</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30075</guid>
@@ -417,51 +462,6 @@ EN: Understanding the impact of control levels over emotion-aware chatbots
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <category>人机信任</category><category>控制感</category><category>情感支持</category><category>聊天机器人</category><category>情感识别</category><category>聊天机器人</category><category>对话式 AI</category><category>人机交互</category>
-    </item>    <item>
-      <title>旨在促进移民社会整合及整体整合、健康与心理健康的移动应用：人工智能是否提升成效？</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29184</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29184</guid>
-      <description>📝 旨在促进移民社会整合及整体整合、健康与心理健康的移动应用：人工智能是否提升成效？
-EN: Mobile applications aiming to facilitate immigrants’ societal integration and overall level of integration, health and mental health. Does artificial intelligence enhance outcomes?
-
-💡 研究评估旨在促进移民社会融合及健康/心理健康的移动应用程序，并探究人工智能（AI）是否能够增强这些应用的成效。方法可能涉及对现有应用进行系统综述或对比实验，比较整合AI功能（如个性化推荐、语言翻译、情感支持聊天机器人）的应用与未整合AI的应用。核心发现是，AI的引入（如通过智能匹配、适应性学习或情感陪伴）可能更有效地提供个性化支持，从而在促进移民的社会融合、健康与心理健康方面产生更积极的结果。
-
-📚 CHB · 2021 · 引用 37
-👤 Nick Drydakis
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社会支持</category><category>社会融合</category><category>心理健康</category><category>无障碍</category><category>聊天机器人</category><category>推荐算法</category><category>AI 治疗师</category><category>GenAI</category>
-    </item>    <item>
-      <title>感知来自社交机器人的威胁：媒体在支持素养方面的作用</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29182</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29182</guid>
-      <description>📝 感知来自社交机器人的威胁：媒体在支持素养方面的作用
-EN: Perceived threats from social bots: The media's role in supporting literacy
-
-💡 研究探讨公众如何感知社交机器人带来的威胁，以及媒体在提升公众相关素养方面所扮演的角色。核心关注媒体如何影响人们对自动化社交账户（社交机器人）的认知与应对能力，涉及风险感知与媒介素养教育。
-
-📚 CHB · 2020 · 引用 14
-👤 Desirée Schmuck, Christian von Sikorski
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社交媒体</category><category>信任</category><category>伦理</category><category>社会互动</category><category>社交机器人</category><category>AI 治理</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>虚拟代理在综合心理健康访谈中的优势：一项混合方法研究</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29169</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29169</guid>
-      <description>📝 虚拟代理在综合心理健康访谈中的优势：一项混合方法研究
-EN: Advantages of virtual agents over clinical psychologists during comprehensive mental health interviews using a mixed methods design
-
-💡 研究采用混合方法设计，比较虚拟代理与临床心理学家在进行全面心理健康访谈时的表现。核心发现虚拟代理在某些方面具有超越人类心理学家的优势，探讨了AI在心理健康评估中的应用潜力与特点。
-
-📚 CHB · 2018 · 引用 51
-👤 Kenji Yokotani, Gen Takagi, Kobun Wakashima
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI治疗师</category><category>心理健康</category><category>信任</category><category>人机交互(HCI)</category><category>虚拟助手</category><category>AI 治疗师</category><category>聊天机器人</category><category>对话式 AI</category>
     </item>
   </channel>
 </rss>
