@@ -6,9 +6,165 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:07:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:17:00 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>这不仅是工具：在安全运营中心创建并部署具能动性的AI伴侣</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30669</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30669</guid>
+      <description>📝 这不仅是工具：在安全运营中心创建并部署具能动性的AI伴侣
+EN: It is Not Yet Another Tool: Creating and Deploying an Agentic AI Companion in a Security Operations Center
+
+💡 研究如何在安全运营中心（SOC）中设计并部署一个基于大语言模型的智能体AI伴侣，以协助分析师处理大量工单。通过为期一年的实地参与式设计，发现当AI伴侣与用户在工作现场共同演化时，分析师会主动塑造其行为以满足特定需求。数据显示，分析师对AI输出的信任度与塑造行为正相关，超过90%的工单结案报告复用了AI的输出，提升了工作效率。
+
+📚 arXiv:cs.CR · 2026 · 引用 0
+👤 Kritan Banstola, Faayed Al Faisal, Duy Dao, Ryan Irving, Daniel Lende
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.06250v1</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>工作场所技术</category><category>人机交互(HCI)</category><category>LLM</category><category>智能体/Agent</category><category>GenAI</category><category>人机协作</category>
+    </item>    <item>
+      <title>第一人称视角下的伴侣式问答辅助</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30668</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30668</guid>
+      <description>📝 第一人称视角下的伴侣式问答辅助
+EN: Companion-style QA Assistance in Ego-Vision
+
+💡 研究如何构建能理解第一人称视角视频流、进行日常问答的AI伴侣。针对现有视频问答基准忽略的自我指示表达和交互式链式问题，提出了BuddyVQA数据集和MyBuddy助手。MyBuddy采用多模态思维链推理、问题过滤和多级记忆机制，在流式问答中有效推断用户意图，提升了基础模型的性能，并泛化至其他视频问答任务。
+
+📚 arXiv:cs.CV · 2026 · 引用 0
+👤 Hangyu Qin, Junbin Xiao, Shenglang Zhang, Angela Yao
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2609.06721v1</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>人机交互(HCI)</category><category>社会临场</category><category>情感计算</category><category>多模态</category><category>LLM</category><category>聊天机器人</category><category>AI 伴侣</category>
+    </item>    <item>
+      <title>与AI伴侣共处：持续的AI陪伴通过减少人际互动预测更低幸福感</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30666</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30666</guid>
+      <description>📝 与AI伴侣共处：持续的AI陪伴通过减少人际互动预测更低幸福感
+EN: Living with AI Companions: Sustained AI Companionship Predicts Lower Well-Being Through Lower Human Interaction
+
+💡 通过一项针对CharacterAI用户的两波纵向研究，探讨与AI伴侣的持续社交互动如何随时间演变并影响幸福感。研究发现，互动强度、陪伴使用和自我表露具有时间连续性。持续的AI社交参与与较低的幸福感相关，且这种关联主要由线下人际互动的减少所解释。强调了设计AI伴侣时应支持而非取代人类社交关系。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Yutong Zhang, Dora Zhao, Yixin Wang, Rebecca Anselmetti, Jeffrey T. Hancock
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2609.07243v1</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>孤独感</category><category>社会支持</category><category>自我表露</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category><category>GenAI</category>
+    </item>    <item>
+      <title>迈向混合模型：关于人工智能在咨询督导中应用的专家共识德尔菲研究</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30543</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30543</guid>
+      <description>📝 迈向混合模型：关于人工智能在咨询督导中应用的专家共识德尔菲研究
+EN: Toward a Hybrid Model: A Delphi Study of Expert Consensus on Artificial Intelligence in Counseling Supervision
+
+💡 研究聚焦于人工智能在心理咨询督导中的应用前景与模式构建。通过德尔菲法，汇集领域专家共识，探讨如何将AI技术整合到督导实践中，以形成一种人机协作的混合督导模型。核心在于明确AI在督导中的角色、功能边界及伦理规范，旨在提升督导效率与质量，同时应对技术引入带来的专业挑战。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Mesut Gönültaş, Aykut Kul, Gökmen Arslan
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI治疗师</category><category>人机协作</category><category>伦理</category><category>社会支持</category><category>AI 治疗师</category><category>GenAI</category><category>聊天机器人</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>人机协同创作的动态：以延川拼布为例探究文化创意设计中的张力</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30542</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30542</guid>
+      <description>📝 人机协同创作的动态：以延川拼布为例探究文化创意设计中的张力
+EN: The Dynamics of Human–AI Co-Creation: An Investigation of Design Tensions in Cultural and Creative Design Through a Case of Yanchuan Patchwork
+
+💡 研究探索人机协同创作在文化与创意设计领域的动态过程与内在张力。以延川拼布艺术为具体案例，深入分析设计师与AI在共同创作中面临的挑战、冲突与协作模式。核心在于揭示人机共创如何重塑创意流程，平衡人类创意与算法生成，并处理由此产生的设计理念、控制权及美学价值等方面的矛盾。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Lingyu Peng, Yuanlinxi Li, Bai Xue, Zihan Zhang, Qingchuan Li
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>社交互动</category><category>情感连接</category><category>伦理</category><category>GenAI</category><category>图像生成</category><category>人机协作</category><category>多模态</category>
+    </item>    <item>
+      <title>“那段经历至今困扰着我”：关于AI生成图像性虐待受害的多区域调查</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30540</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30540</guid>
+      <description>📝 “那段经历至今困扰着我”：关于AI生成图像性虐待受害的多区域调查
+EN: “That Experience Still Haunts Me to This Day”: A Multi-Region Survey on AI-Generated Image-Based Sexual Abuse Victimization
+
+💡 研究调查基于AI生成图像的性虐待受害经历及其长期心理影响。通过多区域问卷调查，揭示受害者遭受此类新型技术滥用后的普遍经历、情感创伤与求助困境。核心发现此类受害经历（如深度伪造）对受害者造成持久的身心困扰，并凸显了在AI技术滥用背景下，法律、社会支持与伦理治理的紧迫缺失。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Nicola Henry, Rebecca Umbach, Renee Shelby, Kwynn Gonzalez-Pons
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>AI治理</category><category>隐私</category><category>情感支持</category><category>GenAI</category><category>图像生成</category><category>AI 伦理</category><category>AI治理</category>
+    </item>    <item>
+      <title>信任破裂：仓库环境中拥堵如何破坏工人对AI路径推荐的行为依赖</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30539</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30539</guid>
+      <description>📝 信任破裂：仓库环境中拥堵如何破坏工人对AI路径推荐的行为依赖
+EN: Breaking Trust: How Congestion Disrupts Workers’ Behavioral Reliance on AI’s Routing Recommendation in a Warehouse Environment
+
+💡 研究在仓库环境中，当系统出现拥塞时，如何破坏工人对AI路径推荐的行为依赖。通过考察拥塞这一情境因素，探讨其对人与AI系统间信任关系的影响。核心发现拥塞会中断工人对AI建议的行为依赖，揭示了人机协作中信任的动态性与脆弱性。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Jiawei Zhang, Andong Zhang, Wang Li, Dali Zhang
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机协作</category><category>社会互动</category><category>工作环境</category><category>推荐算法</category><category>人机协作</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>通过公平性缓解人类与安防机器人之间的冲突</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30538</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30538</guid>
+      <description>📝 通过公平性缓解人类与安防机器人之间的冲突
+EN: Mitigating Human–Security Robot Conflict Through Fairness
+
+💡 研究如何通过公平性来缓解人类与安全机器人之间的冲突。探讨在人机共存环境中，公平感知如何影响人类对机器人的接受度与合作意愿。核心发现公平性是减少人机冲突、促进和谐互动的关键因素。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Xin Ye, Lionel P. Robert
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>伦理</category><category>社会互动</category><category>AI治理</category><category>社交机器人</category><category>AI 伦理</category><category>AI 治理</category><category>人机交互</category>
+    </item>    <item>
+      <title>在线与机器人互动：用户对维基百科中自动化程序行为的反应</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30430</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30430</guid>
+      <description>📝 在线与机器人互动：用户对维基百科中自动化程序行为的反应
+EN: Interacting with bots online: Users’ reactions to actions of automated programs in Wikipedia
+
+💡 用户如何感知并回应维基百科等在线平台中自动化程序（机器人）的行为？研究通过分析用户与维基百科机器人的互动数据，探讨用户对机器人行为的反应模式。核心发现用户对机器人的反应复杂，可能包含困惑、感谢或冲突，揭示了人机协作中信任、透明度与社会规范的重要性。
+
+📚 CHB · 2015 · 引用 34
+👤 Maxime Clément, Matthieu J. Guitton
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>信任</category><category>计算机中介传播</category><category>在线社群</category><category>社交机器人</category><category>AI 中介传播</category><category>AI 治理</category>
+    </item>    <item>
+      <title>AI能否增强人们对在线内容审核的支持及对异见政治观点的开放度？</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30390</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30390</guid>
+      <description>📝 AI能否增强人们对在线内容审核的支持及对异见政治观点的开放度？
+EN: Can AI Enhance People’s Support for Online Moderation and Their Openness to Dissimilar Political Views?
+
+💡 通过在三国的六项预注册实验，检验AI在在线内容审核、生成、推荐及呈现对立政治观点时，是否比人类更受青睐、更能促进观点开放。结果与假设相反：除新闻推荐外，参与者普遍认为人类比AI更公正；同时，无论信息源是AI、人类还是AI辅助人类，参与者对对立观点的开放度均未提高。这表明在线环境中人们更偏好人类干预，并倾向于拒绝异见信息。
+
+📚 JCMC · 2021 · 引用 47
+👤 Magdalena Wojcieszak, Arti Thakur, João Fernando Ferreira Gonçalves, Andreu Casas, Ericka Menchen-Trevino
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>信任</category><category>社交媒体</category><category>计算机中介传播</category><category>GenAI</category><category>LLM</category><category>推荐算法</category><category>AI 中介传播</category>
+    </item>    <item>
       <title>“我想看看这个AI有多聪明”：玩家对对抗性AI玩家的心智模型发展</title>
       <link>https://sr-ai-papers.vercel.app/papers/30381</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30381</guid>
@@ -35,7 +191,9 @@ EN: A Three-Layered Framework and Measurement Toolkit for Understanding Emotiona
 📚 IJHCI · 2026 · 引用 0
 👤 Chuqi Chen, Huiguang Ren, Junsheng Liu, Fangfang Tian, Fanlong Wang
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://doi.org/10.2139/ssrn.6346402</description>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <category>情感连接</category><category>社会互动</category><category>人机交互(HCI)</category><category>关系形成</category><category>对话式 AI</category><category>社交机器人</category><category>AI 伴侣</category><category>情感计算</category>
     </item>    <item>
@@ -310,158 +468,6 @@ EN: Persuaded by the machine: The effect of virtual nonverbal cues and individua
 AI 分: 3.0 / 领域分: 4.0</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <category>社会互动</category><category>信任</category><category>拟人化</category><category>社会临场</category><category>社交机器人</category><category>虚拟助手</category><category>多模态</category>
-    </item>    <item>
-      <title>与黑白虚拟代理行为同步对外群体信任的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29501</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29501</guid>
-      <description>📝 与黑白虚拟代理行为同步对外群体信任的影响
-EN: The effect of behavioral synchrony with black or white virtual agents on outgroup trust
-
-💡 研究考察与不同种族（黑人或白人）虚拟智能体进行行为同步（如动作、节奏一致）对外群体信任的影响。核心发现与虚拟外群体成员的行为同步可能作为一种干预手段，影响用户对外群体的信任态度。
-
-📚 CHB · 2018 · 引用 27
-👤 Ron Tamborini, Eric Novotny, Sujay Prabhu, Matthias Hofer, Clare Grall
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>社会互动</category><category>拟人化</category><category>社会临场</category><category>社交机器人</category><category>虚拟助手</category><category>多模态</category>
-    </item>    <item>
-      <title>超越问题解决：大型语言模型在数学学习中的情感与反思支持</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29445</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29445</guid>
-      <description>📝 超越问题解决：大型语言模型在数学学习中的情感与反思支持
-EN: Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-
-💡 研究探索在数学智能辅导系统中整合基于大语言模型的情感支持（正念聊天与反馈）的效果。通过课堂实验对比“正念版”与“纯认知支持版”系统，发现两者均能降低数学焦虑并提升学习效果，但正念干预组学习效率更高（用时更少、求助更少），且学生感知到的教学代理更具支持性和关怀感。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Vera Rief, Mirella Hladký, Minju Yoo, Stephanie Heel, Shintaro Sato
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.02611v1</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>情感支持</category><category>社会支持</category><category>人机交互(HCI)</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>验证人机交互研究中的AI整合道德优势与依赖量表：一项中英教师的跨国研究</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29292</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29292</guid>
-      <description>📝 验证人机交互研究中的AI整合道德优势与依赖量表：一项中英教师的跨国研究
-EN: Validating the Moral Ascendancy and Dependency in AI Integration (MAD-AI) Scale for Human–AI Interaction Research: A Cross-National Study of Teachers in China and England
-
-💡 研究旨在开发并验证一个用于人机交互研究的量表，即“人工智能整合中的道德优越性与依赖性量表”。该研究通过一项针对中国和英国教师的跨国调查，检验该量表在测量人类在与AI互动时可能产生的道德优越感及依赖心理方面的有效性和跨文化适用性。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Shaobo Liang, Evangelina Zhang
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>伦理</category><category>AI治理</category><category>人机信任</category><category>AI 伦理</category><category>AI 治理</category><category>人机交互</category>
-    </item>    <item>
-      <title>神经反馈训练中机器人式学习伴侣的可接受性：来自健康专业人士、临床自述群体及公众的视角</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29290</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29290</guid>
-      <description>📝 神经反馈训练中机器人式学习伴侣的可接受性：来自健康专业人士、临床自述群体及公众的视角
-EN: Acceptability of a Robot-Like Learning Companion for Neurofeedback Training: Perspectives from Health Professionals, Self-Reported Clinical Groups, and the General Public
-
-💡 研究调查不同群体（健康专业人士、自我报告的临床群体、普通公众）对一款用于神经反馈训练的机器人式学习伴侣的接受度。旨在了解这种拟人化AI辅助工具在心理健康或神经训练应用场景中的社会接受程度及其潜在影响因素。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Elise Grevet, Alberta Lupascu, Stefanie Enriquez‐Geppert
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社交机器人</category><category>拟人化</category><category>AI治疗师</category><category>儿童/老人/无障碍</category><category>社交机器人</category><category>AI 伴侣</category><category>AI 治疗师</category>
-    </item>    <item>
-      <title>机器人社交行为对学龄前儿童第二语言学习的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29280</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29280</guid>
-      <description>📝 机器人社交行为对学龄前儿童第二语言学习的影响
-EN: The Influence of Robot Social Behaviors on Second Language Learning in Preschoolers
-
-💡 研究探讨机器人社交行为对学龄前儿童第二语言学习的影响。通过实验法，比较不同社交行为（如表情、互动方式）的机器人在教学场景中的效果。核心发现是，具备恰当社交行为的机器人能有效提升儿童的学习动机、参与度和语言习得效果，表明社会临场感和拟人化互动在教育技术中的重要性。
-
-📚 IJHCI · 2022 · 引用 12
-👤 Jun Yin, Wenjiao Guo, Wei Zheng, Mingyu Ren, Simin Wang
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社会互动</category><category>拟人化</category><category>儿童/老人/无障碍</category><category>教育技术</category><category>社交机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>探究感知队友人工性对人类表现与认知的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29279</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29279</guid>
-      <description>📝 探究感知队友人工性对人类表现与认知的影响
-EN: Investigating the Effects of Perceived Teammate Artificiality on Human Performance and Cognition
-
-💡 研究调查感知到的队友人工性（即队友是AI）对人类任务表现和认知过程的影响。采用实验法，让参与者在协作任务中与不同呈现形式的队友（人类 vs. AI）合作。核心发现是，当参与者认为队友是AI时，其任务策略、心理负荷和信任度可能发生变化，这揭示了人机协作中社会认知因素的关键作用。
-
-📚 IJHCI · 2022 · 引用 33
-👤 Beau G. Schelble, Christopher Flathmann, Nathan J. McNeese, Thomas O’Neill, Richard Pak
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机信任</category><category>社会认知</category><category>人机协作</category><category>团队合作</category><category>社交机器人</category><category>智能体/Agent</category><category>人机交互</category>
-    </item>    <item>
-      <title>虚拟观众提供AI生成情感反应以增强自我介绍中的自我表露</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29278</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29278</guid>
-      <description>📝 虚拟观众提供AI生成情感反应以增强自我介绍中的自我表露
-EN: Virtual Audience Providing AI-Generated Emotional Reactions to Enhance Self-Disclosure in Self-Introduction
-
-💡 研究探讨虚拟观众如何通过AI生成的情感反应来增强用户在自我介绍中的自我表露。方法可能涉及设计一个能提供情感反馈的AI虚拟观众系统，并进行用户实验。核心发现是，AI生成的情感反应（如点头、微笑等）能够营造更安全、支持性的社交环境，从而鼓励用户进行更深层次、更真实的自我表露，提升自我介绍的互动质量。
-
-📚 IJHCI · 2022 · 引用 9
-👤 Inyoung Park, Suhyun Lee, Daeho Lee
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>自我表露</category><category>社会支持</category><category>社会临场</category><category>拟人化</category><category>GenAI</category><category>社交机器人</category><category>情感计算</category>
-    </item>    <item>
-      <title>数字伴侣促进健康生活：反思层级与陈述类型对行为改变的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29271</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29271</guid>
-      <description>📝 数字伴侣促进健康生活：反思层级与陈述类型对行为改变的影响
-EN: Healthier Life with Digital Companions: Effects of Reflection-Level and Statement-Type of Messages on Behavior Change via a Perceived Companion
-
-💡 研究探索数字伴侣如何通过不同反思层级和陈述类型的消息，影响用户感知到的陪伴感，进而促进行为改变以实现更健康的生活。核心在于消息设计如何通过增强陪伴感知来干预健康行为。
-
-📚 IJHCI · 2019 · 引用 14
-👤 Jinkyu Jang, Jinwoo Kim
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>行为改变</category><category>社会支持</category><category>人机交互(HCI)</category><category>对话式 AI</category><category>AI 伴侣</category><category>社交机器人</category>
-    </item>    <item>
-      <title>与医疗人工智能交互：整合自我责任归因、人机信任与人格特质</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29191</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29191</guid>
-      <description>📝 与医疗人工智能交互：整合自我责任归因、人机信任与人格特质
-EN: Interacting with medical artificial intelligence: Integrating self-responsibility attribution, human–computer trust, and personality
-
-💡 研究探索人与医疗人工智能交互时，自我责任归因、人机信任和人格特质三者如何整合并影响交互过程与结果。通过问卷调查或实验法，分析用户在使用医疗AI辅助诊断或建议时的心理机制。核心发现是，用户的人格特质（如神经质）会影响其对AI的信任度，而信任度又与用户将决策责任归于自身还是AI相关，这对设计可信赖的医疗AI系统至关重要。
-
-📚 CHB · 2022 · 引用 79
-👤 Weiwei Huo, Guanghui Zheng, Jiaqi Yan, Le Sun, Liuyi Han
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机信任</category><category>信任</category><category>医疗健康</category><category>人格特质</category><category>责任归因</category><category>AI 治疗师</category><category>对话式 AI</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>理解对情感感知聊天机器人的控制水平之影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29189</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29189</guid>
-      <description>📝 理解对情感感知聊天机器人的控制水平之影响
-EN: Understanding the impact of control levels over emotion-aware chatbots
-
-💡 研究旨在理解用户对情绪感知聊天机器人的控制水平如何影响互动体验与结果。方法可能通过实验操纵用户对聊天机器人情绪识别与反应的控制权（如高、中、低控制），并测量用户满意度、信任度等指标。核心发现是，适当的控制水平（如允许用户校正或调整AI的情绪响应）能提升感知的自主性、信任与人机关系质量，而完全控制或完全失控可能带来负面效果。
-
-📚 CHB · 2022 · 引用 68
-👤 Ivo Benke, Ulrich Gnewuch, Alexander Maedche
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机信任</category><category>控制感</category><category>情感支持</category><category>聊天机器人</category><category>情感识别</category><category>聊天机器人</category><category>对话式 AI</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
