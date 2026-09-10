@@ -6,9 +6,43 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:13:57 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>RESCUE-BENCH：迈向关系感知的多方情感支持对话系统</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30887</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30887</guid>
+      <description>📝 RESCUE-BENCH：迈向关系感知的多方情感支持对话系统
+EN: RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems
+
+💡 现有情感支持对话系统多关注一对一互动，忽视了多轮对话中的人际关系动态。研究提出关系感知情感支持对话新任务，并构建了基于真实伴侣与家庭访谈的RESCUE评测基准，包含六个任务以评估模型的关系理解与关系敏感支持两大核心能力。对十个大语言模型的测试表明，模型在依赖局部情感或干预线索的任务上表现尚可，但在关系模式预测、观点预测等关系密集型任务上存在明显不足，揭示了当前模型在建模人际关系和做出关系敏感支持决策方面的局限。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Haichuan Hu, Yang Xiao, Mingni Tang, Jiawen Duan, Quanjun Zhang
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2609.09657v1</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <category>情感支持</category><category>人际关系</category><category>社会支持</category><category>人机交互(HCI)</category><category>LLM</category><category>对话式 AI</category><category>情感计算</category>
+    </item>    <item>
+      <title>能力线索的传播范围：平台嵌入式 AI 助手中拟人化与差异化信任</title>
+      <link>https://sr-ai-papers.vercel.app/papers/30886</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30886</guid>
+      <description>📝 能力线索的传播范围：平台嵌入式 AI 助手中拟人化与差异化信任
+EN: How Far Do Capability Cues Travel? Anthropomorphism and Differentiated Trust in a Platform-Embedded AI Assistant
+
+💡 研究通过一项2x2随机实验，探究了平台嵌入式AI助手的功能展示数量与解释说明如何影响用户感知与信任。结果显示，展示三项功能能提升感知多功能性，但功能数量或解释说明并未可靠提升感知智能。探索性分析表明，客观AI素养较高的用户对功能展示的接受度更强。在用户感知的关联中，感知多功能性关联感知智能，后者又关联拟人化及信任的三个维度（能力、正直、善意）。拟人化在控制感知智能后，仅与善意信任正相关，揭示了界面效果与用户感知关系的分离，以及信任各维度应被独立评估。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Chenchen Mao, Hanjing Shi, Haiyan Jia, Dominic DiFranzo
+
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.09713v1</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>拟人化</category><category>人机信任</category><category>人机交互(HCI)</category><category>虚拟助手</category><category>AI 治理</category><category>可解释 AI</category>
+    </item>    <item>
       <title>这不仅是工具：在安全运营中心创建并部署具能动性的AI伴侣</title>
       <link>https://sr-ai-papers.vercel.app/papers/30669</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30669</guid>
@@ -438,36 +472,6 @@ EN: Effect of relative status on responsibility attributions in human–robot co
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>信任</category><category>人际关系</category><category>社会互动</category><category>社交机器人</category><category>人机协作</category>
-    </item>    <item>
-      <title>在多代理健康辅导应用中根据用户动机定制辅导策略</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29511</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29511</guid>
-      <description>📝 在多代理健康辅导应用中根据用户动机定制辅导策略
-EN: Tailoring coaching strategies to users’ motivation in a multi-agent health coaching application
-
-💡 研究聚焦于多智能体健康指导应用，探讨如何根据用户的动机水平来定制个性化的教练策略。核心在于通过适应性的交互设计，提升健康干预的效果和用户参与度，实现更精准的行为支持。
-
-📚 CHB · 2021 · 引用 31
-👤 Tessa Beinema, Harm op den Akker, Lex van Velsen, Hermie Hermens
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社会支持</category><category>人机交互(HCI)</category><category>AI治疗师</category><category>情感支持</category><category>多模态</category><category>智能体/Agent</category><category>AI 治疗师</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>被机器说服：虚拟非语言线索与个体差异对经济议价中顺从行为的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29503</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29503</guid>
-      <description>📝 被机器说服：虚拟非语言线索与个体差异对经济议价中顺从行为的影响
-EN: Persuaded by the machine: The effect of virtual nonverbal cues and individual differences on compliance in economic bargaining
-
-💡 研究探讨在虚拟经济谈判中，机器的虚拟非语言线索（如表情、姿态）如何影响人的服从行为，并考察个体差异（如性格、文化背景）对这一影响的调节作用。核心发现虚拟代理的非语言线索能够有效说服用户，但效果因人而异。
-
-📚 CHB · 2018 · 引用 35
-👤 V.J. Harjunen, M. Spapé, I. Ahmed, G. Jacucci, N. Ravaja
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社会互动</category><category>信任</category><category>拟人化</category><category>社会临场</category><category>社交机器人</category><category>虚拟助手</category><category>多模态</category>
     </item>
   </channel>
 </rss>
