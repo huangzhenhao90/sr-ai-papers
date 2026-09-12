@@ -6,9 +6,161 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:12:34 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>探究语音赋能 LLM 在心理健康对话中温情介导的伤害</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31406</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31406</guid>
+      <description>📝 探究语音赋能 LLM 在心理健康对话中温情介导的伤害
+EN: Probing Warmth-Mediated Harm in Speech-Enabled LLMs for Mental-Health Conversations
+
+💡 研究评估了语音大模型在心理健康对话中，其语音输出是否传递关系温暖。基于WHO指南设计了7轮脚本化自我表露探针，对比同一模型在纯文本和语音条件下的响应，并进行声学韵律分析。在532个响应中发现，语音模型在关键表露轮次（如自杀风险）中，声音会变得更短、更快、音调更低、更安静，而非更温暖；感知温暖集中在特定轮次和丧亲表露中。这表明评估语音模型需结合音频与文本的整体体验，而非仅看文本转录。
+
+📚 arXiv · 2026 · 引用 0
+👤 Eugenia Kim, Bolor-Erdene Jagdagdorj, Dina Pekelis, Leah Zulas, Amanda Minnich
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.04256</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI治疗师</category><category>情感支持</category><category>共情</category><category>哀伤/丧亲</category><category>LLM</category><category>多模态</category><category>语音助手</category><category>情感计算</category>
+    </item>    <item>
+      <title>通过 DANTE 提升社会意识：用于聚类对话参与者的深度亲和网络</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31387</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31387</guid>
+      <description>📝 通过 DANTE 提升社会意识：用于聚类对话参与者的深度亲和网络
+EN: Improving Social Awareness Through DANTE: Deep Affinity Network for Clustering Conversational Interactants
+
+💡 研究如何通过数据驱动方法提升对社交场景中对话群体的检测能力。提出深度亲和网络（DANTE），结合深度学习与图聚类技术，通过预测场景中两人属于同一对话群体的可能性来识别大小群体。在多个基准测试中优于现有方法，并在人机交互场景中验证了其实用性，推动了群体检测的理论与实践进展。
+
+📚 PACM-HCI · 2020 · 引用 38
+👤 Mason Swofford, John Peruzzi, Nathan Tsoi, Sydney Thompson, Roberto Martín-Martín
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <category>社会互动</category><category>人机交互(HCI)</category><category>社交机器人</category><category>计算机中介传播</category><category>深度学习</category><category>社交机器人</category><category>人机交互</category><category>情感识别</category>
+    </item>    <item>
+      <title>社会里程：心理社会 ICT 如何促进再社会化与克服监狱困境</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31386</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31386</guid>
+      <description>📝 社会里程：心理社会 ICT 如何促进再社会化与克服监狱困境
+EN: The Social Mile - How (Psychosocial) ICT can Help to Promote Resocialization and to Overcome Prison
+
+💡 探讨如何设计信息通信技术（ICT）以支持监狱囚犯的再社会化。通过设计虚构研究，分析一款名为“Prison AI 2.0”的AI智能镜系统在德国监狱中为期12个月的试用。基于定性数据发现，此类基于AI的智能设备能积极支持康复，对囚犯的心理、社交及个体状态产生积极影响，帮助其改善并维持认知、心理和身体健康，并恢复社会联系。
+
+📚 PACM-HCI · 2019 · 引用 21
+👤 Tanja Ertl, Sebastian Taugerbeck, Margarita Esau, Konstantin Aal, Peter Tolmie
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <category>社会支持</category><category>AI治疗师</category><category>伦理</category><category>成瘾/依赖</category><category>AI 伴侣</category><category>智能体/Agent</category><category>情感计算</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>对话 AI 何时及应问何问题：扩展说服知识模型以解释用户参与与购买意愿</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31259</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31259</guid>
+      <description>📝 对话 AI 何时及应问何问题：扩展说服知识模型以解释用户参与与购买意愿
+EN: When and What Conversational AI Should Ask: Extending the Persuasion Knowledge Model to Explain User Engagement and Purchase Intention
+
+💡 研究探讨对话式AI在何时、提出何种问题，才能有效提升用户参与度和购买意愿。通过扩展说服知识模型，分析用户如何理解并应对AI的劝说策略，揭示影响用户互动与消费决策的关键因素。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Sein Kim, Hayeon Kim, Sang Woo Lee
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>信任</category><category>社会互动</category><category>计算机中介传播</category><category>对话式 AI</category><category>聊天机器人</category><category>GenAI</category><category>LLM</category>
+    </item>    <item>
+      <title>“目的正当化虚假”：公众对 Deepfake 亲社会活动的意义建构</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31257</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31257</guid>
+      <description>📝 “目的正当化虚假”：公众对 Deepfake 亲社会活动的意义建构
+EN: “The End Justifies the Fake”: Public Sense-Making of Deepfake Pro-Social Campaigns
+
+💡 研究公众如何理解与解读利用深度伪造技术制作的亲社会宣传运动。探讨当技术被用于善意目的时，公众对“假”内容的感知、意义建构过程及其背后的伦理考量，揭示了技术手段与传播目的之间的复杂张力。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Nili Steinfeld, Hila Lowenstein, Hananel Rosenberg
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>AI治理</category><category>社交媒体</category><category>信任</category><category>GenAI</category><category>多模态</category><category>图像生成</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>对话代理是有效的故事倾听者吗？豆包与人类倾听者回应的比较研究</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31256</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31256</guid>
+      <description>📝 对话代理是有效的故事倾听者吗？豆包与人类倾听者回应的比较研究
+EN: Is the Conversational Agent an Effective Story Listener? A Comparative Study of Doubao and Human Listener Responses
+
+💡 研究比较对话智能体（以“豆包”为例）与人类听众在倾听故事时的回应效果。通过对比实验，评估AI作为倾听者在共情、理解与互动反馈方面的表现，探讨其能否成为有效的社会支持或陪伴工具。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Yujie Zhu, Shuangyun Yao, Xiaoyu Su
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>共情</category><category>社会支持</category><category>情感连接</category><category>对话式 AI</category><category>聊天机器人</category><category>LLM</category><category>情感识别</category>
+    </item>    <item>
+      <title>十年回顾：基于态势感知的智能体透明度与人机协同</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31253</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31253</guid>
+      <description>📝 十年回顾：基于态势感知的智能体透明度与人机协同
+EN: A Decade in Review: Situation-Awareness-Based Agent Transparency and Human-Machine Teaming
+
+💡 研究回顾了过去十年中基于态势感知的智能体透明度及其对人机协作的影响。通过文献综述方法，探讨了如何通过提升智能体的透明度来增强人类操作员的态势感知能力，从而优化人机团队的整体效能与信任。核心发现强调了透明设计对于复杂动态环境中有效人机协作的关键作用。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Jessie Y.C. Chen, Julia L. Wright
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>人机协作</category><category>信任</category><category>社会临场</category><category>智能体/Agent</category><category>可解释 AI</category><category>人机交互</category>
+    </item>    <item>
+      <title>机器人透明度与团队导向对人机协同的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31247</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31247</guid>
+      <description>📝 机器人透明度与团队导向对人机协同的影响
+EN: Robot Transparency and Team Orientation Effects on Human–Robot Teaming
+
+💡 研究机器人透明度与团队导向对人机团队合作的影响。根据标题推断，该研究可能通过实验等方法，探究机器人的决策或状态透明度（如解释自身行为）以及其是否表现出团队合作导向，如何影响人类对机器人的信任、协作效率及团队整体表现。
+
+📚 IJHCI · 2019 · 引用 51
+👤 S. Guznov, J. Lyons, M. Pfahler, A. Heironimus, M. Woolley
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机信任</category><category>人机交互(HCI)</category><category>信任</category><category>社会临场</category><category>社交机器人</category><category>人机协作</category><category>可解释 AI</category><category>人机交互</category>
+    </item>    <item>
+      <title>人工智能与人类代理何时因过错受责？个体与联合决策后的道德归因</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31237</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31237</guid>
+      <description>📝 人工智能与人类代理何时因过错受责？个体与联合决策后的道德归因
+EN: When are artificial intelligence versus human agents faulted for wrongdoing? Moral attributions after individual and joint decisions
+
+💡 研究探讨在个体决策和联合决策后，当发生错误行为时，人们会将道德责任归咎于人工智能还是人类代理。通过实验方法，考察不同决策情境（单独或合作）如何影响对AI与人类过错方的道德归因。核心发现揭示了在人类-AI协作的背景下，责任归属的复杂性及潜在的偏见。
+
+📚 ICS · 2019 · 引用 96
+👤 Daniel B. Shank, Alyssa DeSanti, Timothy Maninger
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>信任</category><category>人机协作</category><category>AI治理</category><category>AI 伦理</category><category>AI 治理</category><category>智能体/Agent</category><category>人机协作</category>
+    </item>    <item>
+      <title>尊重性提示：LLM 交互中的文化规范与用户体验</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31219</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31219</guid>
+      <description>📝 尊重性提示：LLM 交互中的文化规范与用户体验
+EN: Prompting with Respect: Cultural Norms and User Experience in LLM Interactions
+
+💡 研究探讨了提示语风格如何影响用户与LLM交互的体验，尤其关注文化规范的作用。通过针对韩国女性大学生的对照实验，比较了尊重型提示语（礼貌请求、赞美）与指令型提示语（命令、批评）的效果。结果发现，尊重型提示语能显著提升用户满意度与亲和感，并引发ChatGPT更具社会支持性的回应，而输出质量感知差异不显著。这表明文化沟通惯例塑造主观体验，LLM系统需适应多样化的交流模式。
+
+📚 CBSN · 2026 · 引用 0
+👤 Sujin Yang, Seoyoung Oh, Ha Eun Shim
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <category>对话式AI</category><category>文化</category><category>用户体验</category><category>社会支持</category><category>LLM</category><category>ChatGPT</category><category>对话式 AI</category><category>GenAI</category>
+    </item>    <item>
       <title>移动心理健康应用用户评论分析：“本应让用户感觉更好，却像个笑话”</title>
       <link>https://sr-ai-papers.vercel.app/papers/31143</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31143</guid>
@@ -108,7 +260,7 @@ EN: Effects of AI-Based Chatbot Coaching on Goal Attainment, Self-Efficacy, and 
 💡 研究通过纵向随机实验，检验基于AI的聊天机器人教练对个人目标达成、自我效能感和压力水平的影响。考察AI教练在提供持续指导和支持过程中，如何促进用户行为改变与心理状态改善。
 
 📚 CHB · 2026 · 引用 0
-👤 Marie Luise Ohlms, Patrick D. Dunlop, Markus Langer
+👤 Marie L. Ohlms, Patrick D. Dunlop, Markus Langer
 
 AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
@@ -320,158 +472,6 @@ EN: Can AI Enhance People’s Support for Online Moderation and Their Openness t
 AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <category>AI治理</category><category>信任</category><category>社交媒体</category><category>计算机中介传播</category><category>GenAI</category><category>LLM</category><category>推荐算法</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>“我想看看这个AI有多聪明”：玩家对对抗性AI玩家的心智模型发展</title>
-      <link>https://sr-ai-papers.vercel.app/papers/30381</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30381</guid>
-      <description>📝 “我想看看这个AI有多聪明”：玩家对对抗性AI玩家的心智模型发展
-EN: "I Want To See How Smart This AI Really Is": Player Mental Model Development of an Adversarial AI Player
-
-💡 研究玩家在对抗性AI游戏互动中如何形成和发展心智模型。通过定性研究（10场双人游戏会话）发现，玩家心智模型的发展有两个主导维度：关注点（自上而下vs自下而上）和整合风格（系统化vs反应式）。研究还揭示了玩家如何处理预期不符的情况，为游戏设计者预测玩家-AI互动提供了初步框架。
-
-📚 PACM-HCI · 2022 · 引用 24
-👤 Jennifer Villareale, Casper Harteveld, Jichen Zhu
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>信任</category><category>社会互动</category><category>拟人化</category><category>智能体/Agent</category><category>人机交互</category><category>游戏AI</category>
-    </item>    <item>
-      <title>理解与AI情感及关系投入的三层框架与测量工具包</title>
-      <link>https://sr-ai-papers.vercel.app/papers/30306</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30306</guid>
-      <description>📝 理解与AI情感及关系投入的三层框架与测量工具包
-EN: A Three-Layered Framework and Measurement Toolkit for Understanding Emotional and Relational Engagement with AI
-
-💡 研究如何理解用户与AI互动中的情感和关系投入。提出一个包含三个层次的理论框架和一套测量工具包，旨在系统评估用户在情感和关系层面与AI系统建立连接的深度与性质。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Chuqi Chen, Huiguang Ren, Junsheng Liu, Fangfang Tian, Fanlong Wang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://doi.org/10.2139/ssrn.6346402</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <category>情感连接</category><category>社会互动</category><category>人机交互(HCI)</category><category>关系形成</category><category>对话式 AI</category><category>社交机器人</category><category>AI 伴侣</category><category>情感计算</category>
-    </item>    <item>
-      <title>打开“黑箱”的预期：人类与自动化代理间的公正感知比较</title>
-      <link>https://sr-ai-papers.vercel.app/papers/30239</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30239</guid>
-      <description>📝 打开“黑箱”的预期：人类与自动化代理间的公正感知比较
-EN: What to expect from opening up ‘black boxes’? Comparing perceptions of justice between human and automated agents
-
-💡 研究当人类与自动化智能体的决策‘黑箱’被打开时，人们对两者公正性的感知差异。探讨了算法透明化（即可解释AI）如何影响用户对决策过程公平性的判断，并比较了人们对人类决策者和AI系统在公正性上的不同期望与评价。
-
-📚 CHB · 2021 · 引用 91
-👤 Nadine Schlicker, Markus Langer, Sonja K. Ötting, Kevin Baum, Cornelius J. König
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>伦理</category><category>AI治理</category><category>人机信任</category><category>可解释 AI</category><category>AI 伦理</category><category>AI 治理</category><category>推荐算法</category>
-    </item>    <item>
-      <title>适应性社交机器人：在长期儿童-机器人互动中维持社交参与</title>
-      <link>https://sr-ai-papers.vercel.app/papers/30075</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30075</guid>
-      <description>📝 适应性社交机器人：在长期儿童-机器人互动中维持社交参与
-EN: Adaptive Social Robot for Sustaining Social Engagement during Long-Term Children–Robot Interaction
-
-💡 研究如何设计自适应社交机器人，以在长期互动中维持儿童的社会参与度。关注机器人通过适应儿童行为或状态来保持互动吸引力与有效性的策略，旨在促进持续且有意义的儿童-机器人社交互动。
-
-📚 IJHCI · 2017 · 引用 100
-👤 Muneeb Imtiaz Ahmad, Omar Mubin, Joanne Orlando
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社交机器人</category><category>儿童/老人/无障碍</category><category>社会互动</category><category>关系维系</category><category>社交机器人</category><category>对话式 AI</category><category>智能体/Agent</category><category>人机交互</category>
-    </item>    <item>
-      <title>情感机器人叙事者：情感一致性对叙事沉浸、机器人感知与说服力的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/30040</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30040</guid>
-      <description>📝 情感机器人叙事者：情感一致性对叙事沉浸、机器人感知与说服力的影响
-EN: The emotional robotic storyteller: On the influence of affect congruency on narrative transportation, robot perception, and persuasion
-
-💡 探讨情感机器人讲故事时，其情感表达与故事内容的一致性（情感一致性）如何影响听众的叙事沉浸感、对机器人的感知以及说服效果。研究聚焦于人机交互中情感匹配的作用机制。
-
-📚 CHB · 2021 · 引用 61
-👤 Markus Appel, Birgit Lugrin, Mayla Kühle, Corinna Heindl
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>社会临场</category><category>情感连接</category><category>人机交互(HCI)</category><category>社交机器人</category><category>情感计算</category><category>人机交互</category>
-    </item>    <item>
-      <title>解构黑箱：检视人机沟通中的（去）性别分类效应</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29822</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29822</guid>
-      <description>📝 解构黑箱：检视人机沟通中的（去）性别分类效应
-EN: Unpacking the black box: Examining the (de)Gender categorization effect in human-machine communication
-
-💡 研究探讨在人机沟通中，对机器进行性别分类（如“他”或“她”）或去性别化（如“它”）是否以及如何影响人与机器的互动过程与结果。通过实验方法，考察这种性别标签的施加或移除如何塑造用户对机器的感知、态度和行为，揭示社会类别在人机交互中的潜在作用机制。
-
-📚 CHB · 2019 · 引用 29
-👤 Yi Mou, Kun Xu, Kai Xia
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <category>性别</category><category>拟人化</category><category>社会互动</category><category>人机交互(HCI)</category><category>社交机器人</category><category>对话式 AI</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>机器人登门槛策略：在人际机器人交互中使用顺序请求说服策略</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29821</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29821</guid>
-      <description>📝 机器人登门槛策略：在人际机器人交互中使用顺序请求说服策略
-EN: Robotic foot-in-the-door: Using sequential-request persuasive strategies in human-robot interaction
-
-💡 研究检验在人与机器人互动中，机器人是否能够有效运用“登门槛”这一经典社会心理学说服策略，即先提出一个小请求，待对方同意后再提出更大的请求。通过实验设计，探究机器人使用这种顺序请求策略时，用户的依从性、感知及互动体验，为人机说服策略的有效性提供实证依据。
-
-📚 CHB · 2019 · 引用 47
-👤 Seungcheol Austin Lee, Yuhua (Jake) Liang
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社会互动</category><category>信任</category><category>人机交互(HCI)</category><category>社交机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>行为改变应用中的个性化悖论</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29771</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29771</guid>
-      <description>📝 行为改变应用中的个性化悖论
-EN: Personalization Paradox in Behavior Change Apps
-
-💡 研究探讨在促进身体活动的移动健康应用中，基于人工智能（多臂老虎机）个性化设定社会比较目标的效果。用户研究（n=53）表明，AI个性化社会比较有证据能小幅至中度提升用户动机，但也揭示了“个性化悖论”——用户建模与适应性调整之间的冲突，这是行为改变类个性化应用的关键设计挑战。
-
-📚 PACM-HCI · 2021 · 引用 31
-👤 Jichen Zhu, Diane H. Dallal, Robert C. Gray, Jennifer Villareale, Santiago Ontañón
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社会支持</category><category>社会比较</category><category>行为改变</category><category>人机交互(HCI)</category><category>推荐算法</category><category>智能体/Agent</category><category>人机协作</category>
-    </item>    <item>
-      <title>合作博弈情境中的人机协作</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29769</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29769</guid>
-      <description>📝 合作博弈情境中的人机协作
-EN: Human-AI Collaboration in a Cooperative Game Setting
-
-💡 研究在部分信息可见的协作性词语联想游戏中，考察人机协作。大规模实验（n=164）发现，当参与者认为搭档是人类而非AI时，会认为对方更具亲和力、更聪明、更有创造力、更有默契，并用更多积极词汇描述搭档，尽管游戏结果（如胜率）无差异。研究讨论了AI代理的透明度问题，并为人机协作工具设计提供启示。
-
-📚 PACM-HCI · 2020 · 引用 84
-👤 Zahra Ashktorab, Q. Vera Liao, Casey Dugan, James Johnson, Qian Pan
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>社会临场</category><category>社会互动</category><category>对话式 AI</category><category>智能体/Agent</category><category>人机交互</category>
-    </item>    <item>
-      <title>人机对话中共同基础模型的比较</title>
-      <link>https://sr-ai-papers.vercel.app/papers/29761</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/29761</guid>
-      <description>📝 人机对话中共同基础模型的比较
-EN: Comparison of Common Ground Models for Human--Computer Dialogue
-
-💡 研究比较了用于人机对话的两种共同基础理论模型：基于对齐的模型和基于互补性的模型（后者细分为人际协同与受众设计）。通过四项代表性HCI任务测试，结果支持互补性模型，尤其是其受众设计变体，为人机对话界面设计提供了不同于当前主流方法的指导。
-
-📚 TOCHI · 2021 · 引用 13
-👤 Clayton D. Rothwell, Valerie L. Shalin, Griffin D. Romigh
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>对话式AI</category><category>社会互动</category><category>计算机中介传播</category><category>对话式 AI</category><category>聊天机器人</category><category>人机交互</category><category>LLM</category>
     </item>
   </channel>
 </rss>
