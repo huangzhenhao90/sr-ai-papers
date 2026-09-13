@@ -6,9 +6,39 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Sep 2026 07:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 07:32:25 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>AI 在约会应用中的使用：使用频率、自我效能、自尊与使用意愿的关系</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31451</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31451</guid>
+      <description>📝 AI 在约会应用中的使用：使用频率、自我效能、自尊与使用意愿的关系
+EN: AI on dating apps: links between usage frequency, self-efficacy, self-esteem, and willingness to use AI
+
+💡 探讨在约会应用中使用AI对用户心理与行为的影响。研究可能通过问卷调查等方法，分析用户使用AI功能的频率与其自我效能感、自尊水平之间的关系，并进一步预测用户未来使用AI的意愿。核心发现可能揭示AI工具如何通过影响用户的自我认知，进而塑造其在数字亲密关系场景中的采纳行为。
+
+📚 TI · 2026 · 引用 0
+👤 Alice Binder, Anja Stevic, Jaraslova Kaňková, Jörg Matthes
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人际关系</category><category>浪漫关系</category><category>自我表露</category><category>社交媒体</category><category>聊天机器人</category><category>推荐算法</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>当专家推荐与同伴意见相悖时：效价、群体认同与人工智能的相对社会影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31438</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31438</guid>
+      <description>📝 当专家推荐与同伴意见相悖时：效价、群体认同与人工智能的相对社会影响
+EN: When expert recommendation contradicts peer opinion: Relative social influence of valence, group identity and artificial intelligence
+
+💡 研究在建议冲突情境下，AI专家推荐与同伴意见的相对社会影响力。通过实验法，可能操纵建议的效价（正面/负面）、群体身份认同等因素，比较人们对AI与人类建议的采纳程度。核心发现可能揭示，当AI建议与同伴观点相左时，建议的积极/消极属性、接收者的群体归属感如何调节人们对AI的信任与遵从。
+
+📚 CHB · 2020 · 引用 81
+👤 Jinping Wang, Maria D. Molina, S. Shyam Sundar
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>社会影响</category><category>人机信任</category><category>群体动力学</category><category>推荐算法</category><category>AI 中介传播</category><category>可解释 AI</category>
+    </item>    <item>
       <title>探究语音赋能 LLM 在心理健康对话中温情介导的伤害</title>
       <link>https://sr-ai-papers.vercel.app/papers/31406</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31406</guid>
@@ -442,36 +472,6 @@ EN: Mitigating Human–Security Robot Conflict Through Fairness
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>伦理</category><category>社会互动</category><category>AI治理</category><category>社交机器人</category><category>AI 伦理</category><category>AI 治理</category><category>人机交互</category>
-    </item>    <item>
-      <title>在线与机器人互动：用户对维基百科中自动化程序行为的反应</title>
-      <link>https://sr-ai-papers.vercel.app/papers/30430</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30430</guid>
-      <description>📝 在线与机器人互动：用户对维基百科中自动化程序行为的反应
-EN: Interacting with bots online: Users’ reactions to actions of automated programs in Wikipedia
-
-💡 用户如何感知并回应维基百科等在线平台中自动化程序（机器人）的行为？研究通过分析用户与维基百科机器人的互动数据，探讨用户对机器人行为的反应模式。核心发现用户对机器人的反应复杂，可能包含困惑、感谢或冲突，揭示了人机协作中信任、透明度与社会规范的重要性。
-
-📚 CHB · 2015 · 引用 34
-👤 Maxime Clément, Matthieu J. Guitton
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>信任</category><category>计算机中介传播</category><category>在线社群</category><category>社交机器人</category><category>AI 中介传播</category><category>AI 治理</category>
-    </item>    <item>
-      <title>AI能否增强人们对在线内容审核的支持及对异见政治观点的开放度？</title>
-      <link>https://sr-ai-papers.vercel.app/papers/30390</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30390</guid>
-      <description>📝 AI能否增强人们对在线内容审核的支持及对异见政治观点的开放度？
-EN: Can AI Enhance People’s Support for Online Moderation and Their Openness to Dissimilar Political Views?
-
-💡 通过在三国的六项预注册实验，检验AI在在线内容审核、生成、推荐及呈现对立政治观点时，是否比人类更受青睐、更能促进观点开放。结果与假设相反：除新闻推荐外，参与者普遍认为人类比AI更公正；同时，无论信息源是AI、人类还是AI辅助人类，参与者对对立观点的开放度均未提高。这表明在线环境中人们更偏好人类干预，并倾向于拒绝异见信息。
-
-📚 JCMC · 2021 · 引用 47
-👤 Magdalena Wojcieszak, Arti Thakur, João Fernando Ferreira Gonçalves, Andreu Casas, Ericka Menchen-Trevino
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>信任</category><category>社交媒体</category><category>计算机中介传播</category><category>GenAI</category><category>LLM</category><category>推荐算法</category><category>AI 中介传播</category>
     </item>
   </channel>
 </rss>
