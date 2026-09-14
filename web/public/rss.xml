@@ -6,7 +6,7 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Sep 2026 07:32:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 07:54:53 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
       <title>AI 在约会应用中的使用：使用频率、自我效能、自尊与使用意愿的关系</title>
@@ -18,7 +18,7 @@ EN: AI on dating apps: links between usage frequency, self-efficacy, self-esteem
 💡 探讨在约会应用中使用AI对用户心理与行为的影响。研究可能通过问卷调查等方法，分析用户使用AI功能的频率与其自我效能感、自尊水平之间的关系，并进一步预测用户未来使用AI的意愿。核心发现可能揭示AI工具如何通过影响用户的自我认知，进而塑造其在数字亲密关系场景中的采纳行为。
 
 📚 TI · 2026 · 引用 0
-👤 Alice Binder, Anja Stevic, Jaraslova Kaňková, Jörg Matthes
+👤 Alice Binder, Anja Stević, Jaraslova Kaňková, Jörg Matthes
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
@@ -110,7 +110,7 @@ EN: “The End Justifies the Fake”: Public Sense-Making of Deepfake Pro-Social
 💡 研究公众如何理解与解读利用深度伪造技术制作的亲社会宣传运动。探讨当技术被用于善意目的时，公众对“假”内容的感知、意义建构过程及其背后的伦理考量，揭示了技术手段与传播目的之间的复杂张力。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Nili Steinfeld, Hila Lowenstein, Hananel Rosenberg
+👤 Nili Steinfeld, Hila Lowenstein-Barkai, Hananel Rosenberg
 
 AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
@@ -140,7 +140,7 @@ EN: A Decade in Review: Situation-Awareness-Based Agent Transparency and Human-M
 💡 研究回顾了过去十年中基于态势感知的智能体透明度及其对人机协作的影响。通过文献综述方法，探讨了如何通过提升智能体的透明度来增强人类操作员的态势感知能力，从而优化人机团队的整体效能与信任。核心发现强调了透明设计对于复杂动态环境中有效人机协作的关键作用。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Jessie Y.C. Chen, Julia L. Wright
+👤 Jessie Y. C. Chen, Julia L. Wright
 
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
@@ -187,7 +187,9 @@ EN: Prompting with Respect: Cultural Norms and User Experience in LLM Interactio
 📚 CBSN · 2026 · 引用 0
 👤 Sujin Yang, Seoyoung Oh, Ha Eun Shim
 
-AI 分: 5.0 / 领域分: 4.0</description>
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://doi.org/10.1177/21522715261484255</description>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <category>对话式AI</category><category>文化</category><category>用户体验</category><category>社会支持</category><category>LLM</category><category>ChatGPT</category><category>对话式 AI</category><category>GenAI</category>
     </item>    <item>

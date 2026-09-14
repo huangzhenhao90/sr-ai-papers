@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-13T07:32:25.990690Z",
+  "generated_at": "2026-09-14T07:54:53.956262Z",
   "totals": {
-    "papers_indexed": 31507,
-    "papers_scored": 20542,
+    "papers_indexed": 31548,
+    "papers_scored": 20742,
     "papers_ai_relevant": 2006
   },
   "journals": [
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcmc",
-      "papers_indexed": 463,
+      "papers_indexed": 465,
       "papers_ai_relevant": 23
     },
     {
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/nms",
-      "papers_indexed": 1973,
+      "papers_indexed": 1974,
       "papers_ai_relevant": 64
     },
     {
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/computers-in-human-behavior",
-      "papers_indexed": 4649,
+      "papers_indexed": 4654,
       "papers_ai_relevant": 241
     },
     {
@@ -76,7 +76,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/hcr",
-      "papers_indexed": 444,
+      "papers_indexed": 445,
       "papers_ai_relevant": 6
     },
     {
@@ -91,7 +91,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.liebertpub.com/loi/cyber",
-      "papers_indexed": 1041,
+      "papers_indexed": 1042,
       "papers_ai_relevant": 43
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/sms",
-      "papers_indexed": 1042,
+      "papers_indexed": 1044,
       "papers_ai_relevant": 22
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/telematics-and-informatics",
-      "papers_indexed": 798,
+      "papers_indexed": 802,
       "papers_ai_relevant": 45
     },
     {
@@ -151,7 +151,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.tandfonline.com/journals/rics20",
-      "papers_indexed": 1384,
+      "papers_indexed": 1385,
       "papers_ai_relevant": 28
     },
     {
@@ -195,7 +195,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/spr",
-      "papers_indexed": 1273,
+      "papers_indexed": 1275,
       "papers_ai_relevant": 10
     },
     {
@@ -223,7 +223,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.apa.org/pubs/journals/psp",
-      "papers_indexed": 4397,
+      "papers_indexed": 4413,
       "papers_ai_relevant": 11
     },
     {
@@ -237,7 +237,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/psp",
-      "papers_indexed": 2094,
+      "papers_indexed": 2098,
       "papers_ai_relevant": 4
     },
     {
@@ -265,7 +265,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/journal-of-experimental-social-psychology",
-      "papers_indexed": 1566,
+      "papers_indexed": 1567,
       "papers_ai_relevant": 8
     },
     {
@@ -368,7 +368,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://dl.acm.org/journal/pacmhci",
-      "papers_indexed": 2427,
+      "papers_indexed": 2428,
       "papers_ai_relevant": 227
     },
     {
