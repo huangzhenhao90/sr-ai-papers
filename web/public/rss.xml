@@ -6,9 +6,84 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 14 Sep 2026 07:54:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:36:56 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>从人到提示：理解与人工智能对话中的说服易感性</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31729</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31729</guid>
+      <description>📝 从人到提示：理解与人工智能对话中的说服易感性
+EN: From people to prompts: Understanding susceptibility to persuasion in conversations with artificial intelligence.
+
+💡 研究探讨了人类在与人工智能对话时，对AI说服性信息的易感性。通过比较人际说服与人机说服的差异，揭示了在与AI（如聊天机器人）互动中，用户可能更容易或更不容易被AI的论点所影响的心理机制。核心发现可能涉及AI作为说服者的独特角色及其对用户态度和行为改变的影响。
+
+📚 JPSP · 2026 · 引用 0
+👤 Geoff Tomaino, SungJin Jung
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>信任</category><category>社会互动</category><category>计算机中介传播</category><category>聊天机器人</category><category>对话式 AI</category><category>GenAI</category><category>LLM</category>
+    </item>    <item>
+      <title>感知的AI合法性与人机决策辅助信任：心理与规范评估的双路径视角</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31651</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31651</guid>
+      <description>📝 感知的AI合法性与人机决策辅助信任：心理与规范评估的双路径视角
+EN: Perceived AI Legitimacy and Trust in Human–AI Decision Assistance: A Dual-Path Perspective on Psychological and Normative Evaluation
+
+💡 研究探索了人类对AI决策辅助系统的信任如何形成，提出了一个双路径模型。该模型认为，用户既会从心理层面（如感知有用性、可靠性）评估AI，也会从规范层面（如AI的合法性、公平性）进行评价。核心发现揭示了这两种评价路径如何共同影响用户最终对AI的信任和采纳意愿。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Beomsoo Kim, Dayoung Lee, Hyeonjeong Kim
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机信任</category><category>伦理</category><category>AI治理</category><category>AI 治理</category><category>AI 伦理</category><category>可解释 AI</category><category>人机协作</category>
+    </item>    <item>
+      <title>AI响应选择：效价、唤醒度与支配度如何塑造用户偏好</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31649</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31649</guid>
+      <description>📝 AI响应选择：效价、唤醒度与支配度如何塑造用户偏好
+EN: Choosing Between AI Responses: How Valence, Arousal, and Dominance Shape User Preference
+
+💡 研究考察了AI生成回应的情感维度（效价、唤醒度、支配性）如何影响用户对多个AI回应的偏好选择。通过实验方法，揭示了用户在面临不同情感特质的AI回应时，其选择行为背后的心理机制。核心发现可能表明，用户倾向于偏好特定情感组合的AI回应，这为设计更符合用户期望的对话式AI提供了依据。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Petr Parshakov, Sofiia Paklina
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>情感连接</category><category>社会互动</category><category>对话式AI</category><category>对话式 AI</category><category>GenAI</category><category>LLM</category><category>情感计算</category>
+    </item>    <item>
+      <title>共情AI：可信度感知、拟人化与疫苗误解</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31648</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31648</guid>
+      <description>📝 共情AI：可信度感知、拟人化与疫苗误解
+EN: Empathetic AI: Credibility Perceptions, Anthropomorphism, and Vaccine Misperceptions
+
+💡 研究探讨了共情型AI的可信度感知、拟人化程度与疫苗错误认知之间的关系。通过实验或调查方法，考察用户如何评估具有共情能力的AI信息源的可信度，以及拟人化设计是否会影响用户对疫苗相关信息的接受度与错误观念的纠正。核心发现可能揭示拟人化与可信度感知的复杂互动，及其在健康传播中对纠正错误信息的效果。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Porismita Borah, Xiaohui Cao, Ziyao Zhang, Danielle Ka Lai Lee
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>拟人化</category><category>社会支持</category><category>情感连接</category><category>对话式 AI</category><category>情感识别</category><category>GenAI</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>探索中国大陆微博用户对女同性恋与男同性恋的态度：自然语言处理与机器学习方法</title>
+      <link>https://sr-ai-papers.vercel.app/papers/31600</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31600</guid>
+      <description>📝 探索中国大陆微博用户对女同性恋与男同性恋的态度：自然语言处理与机器学习方法
+EN: Exploring Weibo users’ attitudes toward lesbians and gays in Mainland China: A natural language processing and machine learning approach
+
+💡 研究利用自然语言处理与机器学习方法，探索中国内地微博用户对女同性恋和男同性恋的态度。通过分析社交媒体上的大规模文本数据，自动识别和量化用户表达的情感倾向与态度模式。核心发现可能揭示网络社群中针对特定性少数群体的舆论结构、态度分布及其潜在的社会心理驱动因素。
+
+📚 CHB · 2022 · 引用 25
+👤 Quan Zheng, Ying Guo, Zhen Wang, Frank Andrasik, Ziyi Kuang
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <category>社交媒体</category><category>计算机中介传播</category><category>在线社群</category><category>性别</category><category>NLP</category><category>机器学习</category><category>推荐算法</category><category>AI 中介传播</category>
+    </item>    <item>
       <title>AI 在约会应用中的使用：使用频率、自我效能、自尊与使用意愿的关系</title>
       <link>https://sr-ai-papers.vercel.app/papers/31451</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31451</guid>
@@ -397,83 +472,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2609.07243v1</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <category>AI伴侣/陪伴</category><category>孤独感</category><category>社会支持</category><category>自我表露</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category><category>GenAI</category>
-    </item>    <item>
-      <title>迈向混合模型：关于人工智能在咨询督导中应用的专家共识德尔菲研究</title>
-      <link>https://sr-ai-papers.vercel.app/papers/30543</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30543</guid>
-      <description>📝 迈向混合模型：关于人工智能在咨询督导中应用的专家共识德尔菲研究
-EN: Toward a Hybrid Model: A Delphi Study of Expert Consensus on Artificial Intelligence in Counseling Supervision
-
-💡 研究聚焦于人工智能在心理咨询督导中的应用前景与模式构建。通过德尔菲法，汇集领域专家共识，探讨如何将AI技术整合到督导实践中，以形成一种人机协作的混合督导模型。核心在于明确AI在督导中的角色、功能边界及伦理规范，旨在提升督导效率与质量，同时应对技术引入带来的专业挑战。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Mesut Gönültaş, Aykut Kul, Gökmen Arslan
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI治疗师</category><category>人机协作</category><category>伦理</category><category>社会支持</category><category>AI 治疗师</category><category>GenAI</category><category>聊天机器人</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>人机协同创作的动态：以延川拼布为例探究文化创意设计中的张力</title>
-      <link>https://sr-ai-papers.vercel.app/papers/30542</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30542</guid>
-      <description>📝 人机协同创作的动态：以延川拼布为例探究文化创意设计中的张力
-EN: The Dynamics of Human–AI Co-Creation: An Investigation of Design Tensions in Cultural and Creative Design Through a Case of Yanchuan Patchwork
-
-💡 研究探索人机协同创作在文化与创意设计领域的动态过程与内在张力。以延川拼布艺术为具体案例，深入分析设计师与AI在共同创作中面临的挑战、冲突与协作模式。核心在于揭示人机共创如何重塑创意流程，平衡人类创意与算法生成，并处理由此产生的设计理念、控制权及美学价值等方面的矛盾。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Lingyu Peng, Yuanlinxi Li, Bai Xue, Zihan Zhang, Qingchuan Li
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>社交互动</category><category>情感连接</category><category>伦理</category><category>GenAI</category><category>图像生成</category><category>人机协作</category><category>多模态</category>
-    </item>    <item>
-      <title>“那段经历至今困扰着我”：关于AI生成图像性虐待受害的多区域调查</title>
-      <link>https://sr-ai-papers.vercel.app/papers/30540</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30540</guid>
-      <description>📝 “那段经历至今困扰着我”：关于AI生成图像性虐待受害的多区域调查
-EN: “That Experience Still Haunts Me to This Day”: A Multi-Region Survey on AI-Generated Image-Based Sexual Abuse Victimization
-
-💡 研究调查基于AI生成图像的性虐待受害经历及其长期心理影响。通过多区域问卷调查，揭示受害者遭受此类新型技术滥用后的普遍经历、情感创伤与求助困境。核心发现此类受害经历（如深度伪造）对受害者造成持久的身心困扰，并凸显了在AI技术滥用背景下，法律、社会支持与伦理治理的紧迫缺失。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Nicola Henry, Rebecca Umbach, Renee Shelby, Kwynn M. Gonzalez‐Pons
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1080/10447318.2026.2723677</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>AI治理</category><category>隐私</category><category>情感支持</category><category>GenAI</category><category>图像生成</category><category>AI 伦理</category><category>AI治理</category>
-    </item>    <item>
-      <title>信任破裂：仓库环境中拥堵如何破坏工人对AI路径推荐的行为依赖</title>
-      <link>https://sr-ai-papers.vercel.app/papers/30539</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30539</guid>
-      <description>📝 信任破裂：仓库环境中拥堵如何破坏工人对AI路径推荐的行为依赖
-EN: Breaking Trust: How Congestion Disrupts Workers’ Behavioral Reliance on AI’s Routing Recommendation in a Warehouse Environment
-
-💡 研究在仓库环境中，当系统出现拥塞时，如何破坏工人对AI路径推荐的行为依赖。通过考察拥塞这一情境因素，探讨其对人与AI系统间信任关系的影响。核心发现拥塞会中断工人对AI建议的行为依赖，揭示了人机协作中信任的动态性与脆弱性。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Jiawei Zhang, Andong Zhang, Wang Li, Dali Zhang
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机协作</category><category>社会互动</category><category>工作环境</category><category>推荐算法</category><category>人机协作</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>通过公平性缓解人类与安防机器人之间的冲突</title>
-      <link>https://sr-ai-papers.vercel.app/papers/30538</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/30538</guid>
-      <description>📝 通过公平性缓解人类与安防机器人之间的冲突
-EN: Mitigating Human–Security Robot Conflict Through Fairness
-
-💡 研究如何通过公平性来缓解人类与安全机器人之间的冲突。探讨在人机共存环境中，公平感知如何影响人类对机器人的接受度与合作意愿。核心发现公平性是减少人机冲突、促进和谐互动的关键因素。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Xin Ye, Lionel P. Robert
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>伦理</category><category>社会互动</category><category>AI治理</category><category>社交机器人</category><category>AI 伦理</category><category>AI 治理</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
