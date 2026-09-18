@@ -6,9 +6,105 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:25:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:16:39 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>从记忆到超越：基于长期多模态个人档案的认知历程</title>
+      <link>https://sr-ai-papers.vercel.app/papers/33186</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/33186</guid>
+      <description>📝 从记忆到超越：基于长期多模态个人档案的认知历程
+EN: To Memories and Beyond: From Remembering to Knowing You across Long-Term Multimodal Personal Archives
+
+💡 研究如何评估AI系统对用户长期、多模态个人历史的深度理解能力。针对现有文本基准的局限，构建了首个基于真实多年个人视觉档案的基准ReaLMem，评估模型在事实回忆、人格推断和预测性个性化三个认知层级的表现。提出ChronoProfiler时序加权模块，通过计算用户属性的时间稳定性来解决偏好冲突，并评估前沿多模态大语言模型，发现预测性个性化是当前性能瓶颈。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Wenqi Zhou, Zhuorui Yu, Kaiao Wen, Hao Zheng, Xinyi Zheng
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.19167v1</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>人机交互(HCI)</category><category>人机信任</category><category>拟人化</category><category>多模态</category><category>LLM</category><category>聊天机器人</category><category>智能体/Agent</category>
+    </item>    <item>
+      <title>刻板印象的归属：种族编码AI伴侣的描绘与感知</title>
+      <link>https://sr-ai-papers.vercel.app/papers/33185</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/33185</guid>
+      <description>📝 刻板印象的归属：种族编码AI伴侣的描绘与感知
+EN: Stereotypically Yours: Portrayal and Perception of Race-Coded AI Companions
+
+💡 研究探讨AI伴侣如何被赋予种族特征及其对用户的意义。通过算法审计发现，不同种族编码的AI人格在顺从性、攻击性等特质上存在系统性差异。对12名用户的访谈显示，用户期望AI提供文化熟悉感或外部视角，但对何为有意义的种族表征或刻板印象看法不一。研究强调社会规范和文化期望使得在避免刻板印象的同时支持有意义的种族表征变得复杂。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Wang Claire, Jiayue Melissa Shi, Agam Goyal, Grace Sletten, Renwen Zhang
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2609.20637v1</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>拟人化</category><category>伦理</category><category>性别</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>父母所见：育儿与青少年论坛中AI伴侣使用的分歧叙述</title>
+      <link>https://sr-ai-papers.vercel.app/papers/33184</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/33184</guid>
+      <description>📝 父母所见：育儿与青少年论坛中AI伴侣使用的分歧叙述
+EN: What Parents Can See: Divergent Accounts of Youth AI Companion Use in Parenting and Teenager Subreddits
+
+💡 研究对比了Reddit上家长和青少年社群对青少年使用AI伴侣的讨论。分析1628个帖子发现，双方描述存在显著差异：青少年最常讨论从AI获得情感支持，而家长最关注青少年与AI的浪漫/性互动。青少年也意识到依赖风险，并描述了以风险为中心的分类法未涵盖、家长很少提及的益处（如情感支持）。差异源于不同使用方式在对话之外的可观察性不同。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Thomas Berkane, Anne Bischops, Anika Mellacheruvu, Maimuna Majumder
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2609.20720v1</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>儿童/老人/无障碍</category><category>情感支持</category><category>伦理</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>“那个机器人和我们玩了！”儿童在群体互动后对机器人的感知</title>
+      <link>https://sr-ai-papers.vercel.app/papers/33182</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/33182</guid>
+      <description>📝 “那个机器人和我们玩了！”儿童在群体互动后对机器人的感知
+EN: "That Robot Played with Us!" Children's Perceptions of a Robot after a Child-Robot Group Interaction
+
+💡 研究儿童在与机器人进行小组互动后对机器人的感知。通过半结构化访谈，探究了5-8岁儿童在完成问题解决任务后，对机器人认知可靠性（最优vs次优）和表达性（富有表现力vs中性）两种行为因素的看法。结果表明，机器人的认知可靠性塑造了儿童与机器人之间的帮助关系，而表达性则影响儿童对机器人支持能力和友谊的感知。儿童的感知具有个体性，但良好的集体任务表现能增强他们对机器人友谊和可靠性的看法。
+
+📚 PACM-HCI · 2022 · 引用 11
+👤 Marina Escobar-Planas, Vicky Charisi, Emilia Gomez
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <category>儿童/老人/无障碍</category><category>社交机器人</category><category>友谊</category><category>社会互动</category><category>社交机器人</category><category>人机交互</category>
+    </item>    <item>
+      <title>智能个人助理可用性与隐私赋权对持续使用意愿的影响：基于自我决定理论的整合模型</title>
+      <link>https://sr-ai-papers.vercel.app/papers/32773</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/32773</guid>
+      <description>📝 智能个人助理可用性与隐私赋权对持续使用意愿的影响：基于自我决定理论的整合模型
+EN: The Impact of Intelligent Personal Assistant Usability and Privacy Empowerment on User’s Continuance Intention: An Integrated Model Based on Self-Determination Theory
+
+💡 基于自我决定理论，研究考察智能个人助手（IPA）的可用性和隐私赋权如何通过满足用户的基本心理需求（能力、自主性、关联性）来影响其满意度和持续使用意愿。对532名用户的调查数据分析表明，可用性正向影响所有三种需求，隐私赋权则影响能力和关联性。自主性对满意度预测最强，关联性对持续意愿尤其重要。研究为通过满足心理需求来维持IPA的持续使用提供了路径。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Bumho Lee, Yujong Hwang, Mun Yong Yi
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>隐私</category><category>人机交互(HCI)</category><category>社会支持</category><category>虚拟助手</category><category>语音助手</category><category>人机交互</category><category>AI 治理</category>
+    </item>    <item>
+      <title>虚拟助理中社交线索如何影响担忧与说服：声音与人名的作用</title>
+      <link>https://sr-ai-papers.vercel.app/papers/32718</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/32718</guid>
+      <description>📝 虚拟助理中社交线索如何影响担忧与说服：声音与人名的作用
+EN: How Social Cues in Virtual Assistants Influence Concerns and Persuasion: The Role of Voice and a Human Name
+
+💡 研究虚拟助手中的社交线索（如声音和人类名字）如何影响用户的担忧和说服效果。根据标题推断，该研究可能通过实验法，探讨在虚拟助手设计中融入拟人化社交线索（如人性化语音和姓名）对用户心理反应（如隐私担忧、信任）和行为意图（如被说服的可能性）的影响机制。
+
+📚 CBSN · 2020 · 引用 37
+👤 Hilde A.M. Voorveld, Theo Araujo
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <category>虚拟助手</category><category>拟人化</category><category>信任</category><category>隐私</category><category>虚拟助手</category><category>语音助手</category><category>对话式 AI</category><category>AI 伦理</category>
+    </item>    <item>
       <title>Encypher：舞蹈 Cypher 协作音乐生成中的共享能动性与社会临场感</title>
       <link>https://sr-ai-papers.vercel.app/papers/32590</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/32590</guid>
@@ -397,98 +493,6 @@ EN: Managing workload in human–robot interaction: A review of empirical studie
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <category>人机交互(HCI)</category><category>人机协作</category><category>社交机器人</category><category>社交机器人</category><category>人机交互</category><category>人机协作</category>
-    </item>    <item>
-      <title>从人到提示：理解与人工智能对话中的说服易感性</title>
-      <link>https://sr-ai-papers.vercel.app/papers/31729</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31729</guid>
-      <description>📝 从人到提示：理解与人工智能对话中的说服易感性
-EN: From people to prompts: Understanding susceptibility to persuasion in conversations with artificial intelligence.
-
-💡 研究探讨了人类在与人工智能对话时，对AI说服性信息的易感性。通过比较人际说服与人机说服的差异，揭示了在与AI（如聊天机器人）互动中，用户可能更容易或更不容易被AI的论点所影响的心理机制。核心发现可能涉及AI作为说服者的独特角色及其对用户态度和行为改变的影响。
-
-📚 JPSP · 2026 · 引用 0
-👤 Geoff Tomaino, SungJin Jung
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>信任</category><category>社会互动</category><category>计算机中介传播</category><category>聊天机器人</category><category>对话式 AI</category><category>GenAI</category><category>LLM</category>
-    </item>    <item>
-      <title>感知的AI合法性与人机决策辅助信任：心理与规范评估的双路径视角</title>
-      <link>https://sr-ai-papers.vercel.app/papers/31651</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31651</guid>
-      <description>📝 感知的AI合法性与人机决策辅助信任：心理与规范评估的双路径视角
-EN: Perceived AI Legitimacy and Trust in Human–AI Decision Assistance: A Dual-Path Perspective on Psychological and Normative Evaluation
-
-💡 研究探索了人类对AI决策辅助系统的信任如何形成，提出了一个双路径模型。该模型认为，用户既会从心理层面（如感知有用性、可靠性）评估AI，也会从规范层面（如AI的合法性、公平性）进行评价。核心发现揭示了这两种评价路径如何共同影响用户最终对AI的信任和采纳意愿。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Beomsoo Kim, Dayoung Lee, Hyeonjeong Kim
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1080/10447318.2026.2728939</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机信任</category><category>伦理</category><category>AI治理</category><category>AI 治理</category><category>AI 伦理</category><category>可解释 AI</category><category>人机协作</category>
-    </item>    <item>
-      <title>AI响应选择：效价、唤醒度与支配度如何塑造用户偏好</title>
-      <link>https://sr-ai-papers.vercel.app/papers/31649</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31649</guid>
-      <description>📝 AI响应选择：效价、唤醒度与支配度如何塑造用户偏好
-EN: Choosing Between AI Responses: How Valence, Arousal, and Dominance Shape User Preference
-
-💡 研究考察了AI生成回应的情感维度（效价、唤醒度、支配性）如何影响用户对多个AI回应的偏好选择。通过实验方法，揭示了用户在面临不同情感特质的AI回应时，其选择行为背后的心理机制。核心发现可能表明，用户倾向于偏好特定情感组合的AI回应，这为设计更符合用户期望的对话式AI提供了依据。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Petr Parshakov, Sofia N. Paklina
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>情感连接</category><category>社会互动</category><category>对话式AI</category><category>对话式 AI</category><category>GenAI</category><category>LLM</category><category>情感计算</category>
-    </item>    <item>
-      <title>共情AI：可信度感知、拟人化与疫苗误解</title>
-      <link>https://sr-ai-papers.vercel.app/papers/31648</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31648</guid>
-      <description>📝 共情AI：可信度感知、拟人化与疫苗误解
-EN: Empathetic AI: Credibility Perceptions, Anthropomorphism, and Vaccine Misperceptions
-
-💡 研究探讨了共情型AI的可信度感知、拟人化程度与疫苗错误认知之间的关系。通过实验或调查方法，考察用户如何评估具有共情能力的AI信息源的可信度，以及拟人化设计是否会影响用户对疫苗相关信息的接受度与错误观念的纠正。核心发现可能揭示拟人化与可信度感知的复杂互动，及其在健康传播中对纠正错误信息的效果。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Porismita Borah, Xiaohui Cao, Ziyao Zhang, Danielle Ka Lai Lee
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>拟人化</category><category>社会支持</category><category>情感连接</category><category>对话式 AI</category><category>情感识别</category><category>GenAI</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>探索中国大陆微博用户对女同性恋与男同性恋的态度：自然语言处理与机器学习方法</title>
-      <link>https://sr-ai-papers.vercel.app/papers/31600</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31600</guid>
-      <description>📝 探索中国大陆微博用户对女同性恋与男同性恋的态度：自然语言处理与机器学习方法
-EN: Exploring Weibo users’ attitudes toward lesbians and gays in Mainland China: A natural language processing and machine learning approach
-
-💡 研究利用自然语言处理与机器学习方法，探索中国内地微博用户对女同性恋和男同性恋的态度。通过分析社交媒体上的大规模文本数据，自动识别和量化用户表达的情感倾向与态度模式。核心发现可能揭示网络社群中针对特定性少数群体的舆论结构、态度分布及其潜在的社会心理驱动因素。
-
-📚 CHB · 2022 · 引用 25
-👤 Quan Zheng, Ying Guo, Zhen Wang, Frank Andrasik, Ziyi Kuang
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社交媒体</category><category>计算机中介传播</category><category>在线社群</category><category>性别</category><category>NLP</category><category>机器学习</category><category>推荐算法</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>AI 在约会应用中的使用：使用频率、自我效能、自尊与使用意愿的关系</title>
-      <link>https://sr-ai-papers.vercel.app/papers/31451</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31451</guid>
-      <description>📝 AI 在约会应用中的使用：使用频率、自我效能、自尊与使用意愿的关系
-EN: AI on dating apps: links between usage frequency, self-efficacy, self-esteem, and willingness to use AI
-
-💡 探讨在约会应用中使用AI对用户心理与行为的影响。研究可能通过问卷调查等方法，分析用户使用AI功能的频率与其自我效能感、自尊水平之间的关系，并进一步预测用户未来使用AI的意愿。核心发现可能揭示AI工具如何通过影响用户的自我认知，进而塑造其在数字亲密关系场景中的采纳行为。
-
-📚 TI · 2026 · 引用 0
-👤 Alice Binder, Anja Stević, Jaraslova Kaňková, Jörg Matthes
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人际关系</category><category>浪漫关系</category><category>自我表露</category><category>社交媒体</category><category>聊天机器人</category><category>推荐算法</category><category>AI 中介传播</category>
     </item>
   </channel>
 </rss>
