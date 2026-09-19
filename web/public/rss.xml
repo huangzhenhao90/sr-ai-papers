@@ -6,9 +6,69 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:16:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:13:47 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>归属于此</title>
+      <link>https://sr-ai-papers.vercel.app/papers/33757</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/33757</guid>
+      <description>📝 归属于此
+EN: Belonging There
+
+💡 研究探索XR远程呈现技术如何帮助远程工作者在混合办公环境中被感知为平等、独特的具身存在。VROOM系统在标准移动机器人远程呈现基础上，为本地用户（通过HoloLens）叠加远程用户的虚拟化身以支持其手势和表达，同时为远程用户（通过VR头显）提供机器人上360°相机捕捉的沉浸式本地空间视图。通过配对参与者（一本地一远程）进行协作游戏的研究发现，该系统在支持需要具身性、手势、移动性、空间意识和非语言表达的动态协作活动方面潜力巨大，但也面临本体感觉、物理机器人身体与虚拟化身的混合、他人视图和能力的不确定性、表达保真度等挑战。
+
+📚 PACM-HCI · 2021 · 引用 57
+👤 Brennan Jones, Yaying Zhang, Priscilla N. Y. Wong, Sean Rintel
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <category>社会临场</category><category>归属感</category><category>人机协作</category><category>计算机中介传播</category><category>社交机器人</category><category>多模态</category><category>虚拟助手</category><category>人机交互</category>
+    </item>    <item>
+      <title>体育解说中人机语音交互对可信度感知、情感反应与认知回忆的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/33396</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/33396</guid>
+      <description>📝 体育解说中人机语音交互对可信度感知、情感反应与认知回忆的影响
+EN: Effects of Human-AI Voice Interaction in Sports Commentary on Perceived Credibility, Emotional Response, and Cognitive Recall
+
+💡 研究探讨体育解说中评论源（人类 vs AI）、评论员性别和口音如何影响感知可信度、情感反应和认知回忆。一项2×2×2的被试间实验（N=867）发现，人类语音解说的可信度、受众感知和积极情感评分均高于AI语音，引发的消极情感更低。男性评论员声音普遍获得更高可信度，口音效应微弱。认知回忆在不同性别和口音条件下稳定，评论源差异极小。结果支持在情感激烈部分优先使用人声，在结构化信息部分使用AI语音的情境敏感方法。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Fangni Li, Paul M. Pedersen
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <category>社会临场</category><category>信任</category><category>拟人化</category><category>计算机中介传播</category><category>语音助手</category><category>对话式 AI</category><category>人机交互</category>
+    </item>    <item>
+      <title>机器如我们，人类如你：迈向人机共享体验</title>
+      <link>https://sr-ai-papers.vercel.app/papers/33325</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/33325</guid>
+      <description>📝 机器如我们，人类如你：迈向人机共享体验
+EN: Machines Like Us and People Like You: Toward Human–Robot Shared Experience
+
+💡 当前社交机器人尚不具备理想合作者所需的通用能力，尤其在面对长期真实生活情境时。本文主张，人机协作不仅是并肩完成互补任务，更是一个包含相互理解和相互适应的复杂关系过程。因此，应将研究焦点从“人机交互”转向“人机共享体验”。为实现这种共享体验空间，建模的核心应转向共同适应、主体间性、个体差异和身份等构念，并需改变当前以功能为中心的主流设计方法，发展整合社会认知赋能维度的架构框架。
+
+📚 CBSN · 2021 · 引用 18
+👤 Andrea Gaggioli, Alice Chirico, Daniele Di Lernia, Mario A. Maggioni, Clelia Malighetti
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <category>社交机器人</category><category>人机协作</category><category>社会互动</category><category>人际关系</category><category>社交机器人</category><category>智能体/Agent</category><category>人机交互</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>基于学习风格的推荐代理以优化虚拟协作学习体验</title>
+      <link>https://sr-ai-papers.vercel.app/papers/33262</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/33262</guid>
+      <description>📝 基于学习风格的推荐代理以优化虚拟协作学习体验
+EN: A recommender agent based on learning styles for better virtual collaborative learning experiences
+
+💡 研究如何根据学习风格设计推荐智能体，以提升虚拟协作学习体验。通过构建基于学习风格的推荐代理，旨在个性化匹配学习伙伴或资源，优化协作过程。核心发现是，考虑个体学习偏好的推荐系统能促进更有效的在线协作学习，改善学习成果与参与度。
+
+📚 CHB · 2015 · 引用 72
+👤 Maria-Iuliana Dascalu, Constanta-Nicoleta Bodea, Alin Moldoveanu, Anca Mohora, Miltiadis Lytras
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>在线社群</category><category>社会互动</category><category>计算机中介传播</category><category>推荐算法</category><category>智能体/Agent</category><category>人机交互</category>
+    </item>    <item>
       <title>从记忆到超越：基于长期多模态个人档案的认知历程</title>
       <link>https://sr-ai-papers.vercel.app/papers/33186</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/33186</guid>
@@ -434,65 +494,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2609.16907v1</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <category>AI伴侣/陪伴</category><category>关系维系</category><category>哀伤/丧亲</category><category>伦理</category><category>AI 伴侣</category><category>社交机器人</category><category>AI 治理</category>
-    </item>    <item>
-      <title>vRobotator</title>
-      <link>https://sr-ai-papers.vercel.app/papers/32060</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/32060</guid>
-      <description>📝 vRobotator
-
-💡 研究开发并测试了vRobotator系统，一个在视频会议中使用虚拟化身促进小组在线讨论的系统。化身遵循小组引导最佳实践，活动内容由教师准备。对十年级学生的实验表明，与无引导的活动相比，有化身引导的活动被学生评价为效率更高、更易理解且更能促进参与。在有化身引导时，学生的发言也显著增多。该系统展示了作为K-12学生在线教育讨论引导者的潜力。
-
-📚 PACM-HCI · 2022 · 引用 8
-👤 Elinor Mizrahi, Noa Danzig, Goren Gordon
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社会互动</category><category>在线社群</category><category>儿童/老人/无障碍</category><category>人机交互(HCI)</category><category>社交机器人</category><category>虚拟助手</category><category>人机交互</category>
-    </item>    <item>
-      <title>从无声到有声：通过生成式AI驱动艺术可视化跨文化浪漫伴侣中的文化细微差别</title>
-      <link>https://sr-ai-papers.vercel.app/papers/31905</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31905</guid>
-      <description>📝 从无声到有声：通过生成式AI驱动艺术可视化跨文化浪漫伴侣中的文化细微差别
-EN: Unspoken Into the Spoken: Visualizing Cultural Nuances in Intercultural Romantic Dyads Through Generative AI-Driven Art
-
-💡 （根据标题推断）研究探索如何利用生成式AI驱动的艺术创作，来可视化跨文化浪漫伴侣关系中微妙、未言明的文化差异。该方法可能通过生成反映不同文化背景、价值观或互动模式的视觉图像，帮助伴侣理解和沟通彼此文化背景下的非言语或隐含的差异，从而促进跨文化亲密关系中的相互理解与连接。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Hyerin Im, Sungho Kim, Seungho Baek, Haedong Jeong, Sunok Lee
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>浪漫关系</category><category>跨文化沟通</category><category>生成式艺术</category><category>亲密关系</category><category>GenAI</category><category>图像生成</category><category>多模态</category>
-    </item>    <item>
-      <title>面向自闭症成人的虚拟对话伙伴</title>
-      <link>https://sr-ai-papers.vercel.app/papers/31864</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31864</guid>
-      <description>📝 面向自闭症成人的虚拟对话伙伴
-EN: Virtual Conversation Partner for Adults with Autism
-
-💡 研究探讨为自闭症成人设计虚拟对话伙伴的可行性与效果。通过开发或评估对话式AI系统，旨在为这一群体提供社交互动训练或支持。核心发现可能涉及虚拟伙伴在提升社交技能、减少社交焦虑或提供可预测的互动环境方面的潜力，但也需考虑个体差异与技术适配性。
-
-📚 CBSN · 2011 · 引用 43
-👤 Cheryl Y. Trepagnier, Dale E. Olsen, Laura Boteler, Corinne A. Bell
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社交机器人</category><category>社会支持</category><category>人机交互(HCI)</category><category>儿童/老人/无障碍</category><category>对话式 AI</category><category>社交机器人</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>人机交互中的工作负荷管理：实证研究综述</title>
-      <link>https://sr-ai-papers.vercel.app/papers/31814</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/31814</guid>
-      <description>📝 人机交互中的工作负荷管理：实证研究综述
-EN: Managing workload in human–robot interaction: A review of empirical studies
-
-💡 研究回顾了人机交互中工作负荷管理的实证文献。通过系统梳理现有研究，分析人类在与机器人协作或互动时所承受的认知、生理及时间负荷，以及影响负荷的因素与调控策略。核心发现可能总结了减轻负荷、优化交互效率的设计原则与干预措施，并指出未来研究方向。
-
-📚 CHB · 2010 · 引用 98
-👤 Matthew S. Prewett, Ryan C. Johnson, Kristin N. Saboe, Linda R. Elliott, Michael D. Coovert
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>人机协作</category><category>社交机器人</category><category>社交机器人</category><category>人机交互</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
