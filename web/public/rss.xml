@@ -6,9 +6,24 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:13:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 07:40:10 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>智能体、守门人与毒品贩子</title>
+      <link>https://sr-ai-papers.vercel.app/papers/34165</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/34165</guid>
+      <description>📝 智能体、守门人与毒品贩子
+EN: Agent, Gatekeeper, Drug Dealer
+
+💡 YouTube内容创作者如何理解平台不透明的推荐算法？研究通过访谈、视频内容分析和在线社群调查发现，创作者通过赋予算法拟人化特征来解释其行为，提出了“算法人格”概念，具体表现为三种角色：代理人（Agent）、守门人（Gatekeeper）和毒品贩子（Drug Dealer）。这一框架揭示了算法在社会世界中的新角色，有助于理解算法权力关系与问责机制。
+
+📚 PACM-HCI · 2019 · 引用 49
+👤 Eva Yiwei Wu, Emily Pedersen, Niloufar Salehi
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>社交媒体</category><category>在线社群</category><category>伦理</category><category>推荐算法</category><category>AI 治理</category><category>AI 伦理</category>
+    </item>    <item>
       <title>归属于此</title>
       <link>https://sr-ai-papers.vercel.app/papers/33757</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/33757</guid>
@@ -477,23 +492,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2609.14843v1</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <category>AI伴侣/陪伴</category><category>青少年</category><category>自我表露</category><category>依恋</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category><category>GenAI</category>
-    </item>    <item>
-      <title>中断的陪伴：AI伴侣中断的心理社会反应风险评估框架与跨平台量化分析</title>
-      <link>https://sr-ai-papers.vercel.app/papers/32062</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/32062</guid>
-      <description>📝 中断的陪伴：AI伴侣中断的心理社会反应风险评估框架与跨平台量化分析
-EN: Disrupted Companionship: A Risk Assessment Framework and Cross-Platform Quantitative Analysis of Psychosocial Responses to AI Companion Disruptions
-
-💡 研究关注平台变更导致的AI伴侣关系中断（如功能改变或服务终止）及其社会心理影响。通过分析30起中断事件，构建了包含六种中断类型、三种原因的分类法，并提出一个基于关系连续性、用户脆弱性、沟通缺失和过渡支持缺失四维度的风险评估框架。利用Reddit纵向数据与贝叶斯中断时间序列模型分析发现，中断发生与社区层面的焦虑、压力、自杀表达及哀伤激活的即时增加相关，其中关系连续性和过渡支持缺失与更负面的即时反应关联更强。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Chau Do, Yunhao Yuan, Koustuv Saha, Renwen Zhang, Talayeh Aledavood
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.16907v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>关系维系</category><category>哀伤/丧亲</category><category>伦理</category><category>AI 伴侣</category><category>社交机器人</category><category>AI 治理</category>
     </item>
   </channel>
 </rss>
