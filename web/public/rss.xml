@@ -6,9 +6,24 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 07:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 07:50:47 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>AI焦虑、数字生活压力与幸福感：一项性别分层的网络分析</title>
+      <link>https://sr-ai-papers.vercel.app/papers/34286</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/34286</guid>
+      <description>📝 AI焦虑、数字生活压力与幸福感：一项性别分层的网络分析
+EN: AI anxiety, digital-life stress, and well-being: A gender-stratified network analysis
+
+💡 研究探讨了AI焦虑、数字生活压力与幸福感之间的关系，并特别关注性别差异。通过采用网络分析方法，揭示了这些变量在不同性别群体中相互关联的结构模式。核心发现可能包括：AI焦虑与数字生活压力对幸福感的影响路径存在性别特异性，某些因素在某一性别中扮演更关键的中介或调节角色。
+
+📚 TI · 2026 · 引用 0
+👤 Bopeng Yu, Jian Sun, Zheng Zhang, Jing Shi
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI焦虑</category><category>数字生活压力</category><category>幸福感</category><category>性别</category><category>AI治理</category><category>AI伦理</category>
+    </item>    <item>
       <title>智能体、守门人与毒品贩子</title>
       <link>https://sr-ai-papers.vercel.app/papers/34165</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/34165</guid>
@@ -475,23 +490,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2609.14696v2</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <category>浪漫关系</category><category>AI伴侣/陪伴</category><category>伦理</category><category>信任</category><category>AI 伴侣</category><category>聊天机器人</category><category>AI 伦理</category><category>AI 治理</category>
-    </item>    <item>
-      <title>响应的当下、共享的过去、社交他者：青少年对伴侣AI聊天机器人的过度依赖</title>
-      <link>https://sr-ai-papers.vercel.app/papers/32063</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/32063</guid>
-      <description>📝 响应的当下、共享的过去、社交他者：青少年对伴侣AI聊天机器人的过度依赖
-EN: A Responsive Present, a Shared Past, a Social Other: Teens' Overreliance on Companion AI Chatbots
-
-💡 研究分析青少年对陪伴型AI聊天机器人的过度依赖现象。通过对Reddit帖子的主题分析发现，AI被描述为提供安慰、认同、身份探索和关系演练的来源，但也导致问题性依恋、社交替代、情感依赖及学业社交生活干扰。角色扮演、记忆、感知互惠、不受欢迎的关系越界、隐私担忧和服务中断塑造了用户的边界感与控制感。明知AI是人工的，仍会产生内疚、义务、悲伤等情感。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Mohammad Namvarpour, Tyler Chang, Afsaneh Razi
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.14843v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>青少年</category><category>自我表露</category><category>依恋</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category><category>GenAI</category>
     </item>
   </channel>
 </rss>
