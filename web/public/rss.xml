@@ -6,9 +6,101 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 07:34:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:36:02 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>儿童如何设计与推理可信赖的 AI 聊天机器人</title>
+      <link>https://sr-ai-papers.vercel.app/papers/35884</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/35884</guid>
+      <description>📝 儿童如何设计与推理可信赖的 AI 聊天机器人
+EN: How Children Design and Reason about Trustworthy AI Chatbots
+
+💡 研究探讨儿童作为AI聊天机器人设计者时，如何配置和推理其可信度。通过混合方法研究115名8-18岁学习者设计的119个聊天机器人，发现年龄影响信任观念：低龄儿童（10-13岁）设置更高自信度，甚至认为故意给出错误答案的机器人也“可信”，因其实现了设计目的；而年长儿童（14-18岁）更看重透明、校准的设计。学术用途的聊天机器人比爱好用途的更具透明度和正式性。研究识别出儿童信任聊天机器人的七个设计维度，为AI素养工具提供启示。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Deniz Ozturk, Jiayu Li, Daksh Pratap Singh, Yasitha Rajapaksha, Fasika Melese
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2609.25244v1</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>儿童/老人/无障碍</category><category>AI治理</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 治理</category>
+    </item>    <item>
+      <title>基于聊天机器人的分布式团队情绪管理</title>
+      <link>https://sr-ai-papers.vercel.app/papers/35880</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/35880</guid>
+      <description>📝 基于聊天机器人的分布式团队情绪管理
+EN: Chatbot-based Emotion Management for Distributed Teams
+
+💡 研究针对分布式团队在文本沟通中情感感知与管理能力下降的问题，通过参与式设计工作坊开发了三款用于情感管理的聊天机器人设计。对27名参与者的探索性评估表明，这些设计能普遍提升情感意识与沟通效率，并通过社交互动设计促进情感调节与妥协达成，但也引发了失控感等威胁感知。研究强调了设计特征对情感管理的复杂影响，并提出了团队情感管理聊天机器人的设计建议。
+
+📚 PACM-HCI · 2020 · 引用 64
+👤 Ivo Benke, Michael Thomas Knierim, Alexander Maedche
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <category>情感支持</category><category>社会支持</category><category>人机协作</category><category>计算机中介传播</category><category>聊天机器人</category><category>对话式 AI</category><category>情感计算</category><category>人机交互</category>
+    </item>    <item>
+      <title>舆论领袖对社会信任护理机器人程度的认知</title>
+      <link>https://sr-ai-papers.vercel.app/papers/35621</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/35621</guid>
+      <description>📝 舆论领袖对社会信任护理机器人程度的认知
+EN: Perception of Society’s Trust in Care Robots by Public Opinion Leaders
+
+💡 研究调查了公众意见领袖对社会信任护理机器人程度的感知。通过考察这一关键群体（如媒体人、社区领袖）的看法，旨在理解社会对护理机器人（用于老年人照护、医疗辅助等）的接受度与信任态度的形成与传播，为人机信任建立和机器人技术的社会整合提供洞见。
+
+📚 IJHCI · 2022 · 引用 7
+👤 Julia Amelie Hoppe, Helinä Melkas, Satu Pekkarinen, Outi Tuisku, Lea Hennala
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>社会临场</category><category>儿童/老人/无障碍</category><category>AI治理</category><category>社交机器人</category><category>AI 伴侣</category><category>AI 治理</category>
+    </item>    <item>
+      <title>模糊智能体：人工智能体社交线索一致性对情绪识别、回忆与说服力的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/35613</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/35613</guid>
+      <description>📝 模糊智能体：人工智能体社交线索一致性对情绪识别、回忆与说服力的影响
+EN: Ambiguous Agents: The Influence of Consistency of an Artificial Agent’s Social Cues on Emotion Recognition, Recall, and Persuasiveness
+
+💡 研究考察人工代理（AI Agent）社交线索的一致性对其情感识别、信息回忆及说服力的影响。当AI代理展现的社交线索（如语音、表情、文本）不一致时，可能会干扰用户对其情感的准确识别，影响对交互内容的记忆，并最终削弱其说服效果。这揭示了AI社交行为设计在人际互动效仿中的关键作用。
+
+📚 IJHCI · 2016 · 引用 25
+👤 Peter A. M. Ruijten, Cees J. H. Midden, Jaap Ham
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <category>社会临场</category><category>信任</category><category>共情</category><category>人机交互(HCI)</category><category>智能体/Agent</category><category>多模态</category><category>情感识别</category><category>对话式 AI</category>
+    </item>    <item>
+      <title>“我发现了更具吸引力的深度伪造自我”：深度伪造视频暴露中的自我增强效应</title>
+      <link>https://sr-ai-papers.vercel.app/papers/35529</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/35529</guid>
+      <description>📝 “我发现了更具吸引力的深度伪造自我”：深度伪造视频暴露中的自我增强效应
+EN: “I Found a More Attractive Deepfaked Self”: The Self-Enhancement Effect in Deepfake Video Exposure
+
+💡 研究探讨个体接触深度伪造（Deepfake）视频后的自我提升效应。当人们看到经过深度伪造技术美化或理想化的自我形象视频时，可能会产生积极的自我认知变化，即“自我增强效应”。该效应揭示了AI生成内容如何影响个体的自我形象感知与心理状态。
+
+📚 CBSN · 2021 · 引用 21
+👤 Fuzhong Wu, Yueran Ma, Zheng Zhang
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <category>自我表露</category><category>拟人化</category><category>社交媒体</category><category>网络心理学</category><category>GenAI</category><category>图像生成</category><category>多模态</category>
+    </item>    <item>
+      <title>德国 AI 聊天机器人用户与非用户比较：使用原因、成瘾性使用、心理健康与孤独感</title>
+      <link>https://sr-ai-papers.vercel.app/papers/35479</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/35479</guid>
+      <description>📝 德国 AI 聊天机器人用户与非用户比较：使用原因、成瘾性使用、心理健康与孤独感
+EN: Comparing AI chatbot users and non-users in Germany: Reasons for use, addictive AI chatbot use, mental health, and loneliness
+
+💡 研究比较了德国AI聊天机器人用户与非用户群体，聚焦于使用原因、成瘾性使用行为、心理健康状况及孤独感水平。旨在探究使用AI聊天机器人（如ChatGPT等）与个体心理社会因素之间的关联，分析用户群体的特征及其潜在风险与收益。
+
+📚 CHB · 2026 · 引用 0
+👤 Julia Brailovskaia, Lena-Marie Precht, Falk Gerrik Verhees, Pauline Schmidt, Jürgen Margraf
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <category>成瘾/依赖</category><category>孤独感</category><category>心理健康</category><category>社会支持</category><category>聊天机器人</category><category>对话式 AI</category><category>GenAI</category><category>LLM</category>
+    </item>    <item>
       <title>基于 LLM 的 MyBuddy 人形机器人会话式 AI 知识助手</title>
       <link>https://sr-ai-papers.vercel.app/papers/35331</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/35331</guid>
@@ -384,108 +476,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2609.13479v1</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <category>AI伴侣/陪伴</category><category>儿童/老人/无障碍</category><category>教育</category><category>伦理</category><category>人际关系</category><category>AI 伴侣</category><category>社交机器人</category><category>AI 治理</category>
-    </item>    <item>
-      <title>“我能为您做什么”：AI 伴侣在虚拟现实游戏中应如何为玩家提供协助</title>
-      <link>https://sr-ai-papers.vercel.app/papers/32073</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/32073</guid>
-      <description>📝 “我能为您做什么”：AI 伴侣在虚拟现实游戏中应如何为玩家提供协助
-EN: "What Can I Do for You'': How Should AI Companions Provide Assistance to Players in Virtual Reality Games
-
-💡 研究探索在沉浸式虚拟现实游戏中，AI伴侣应如何提供协助以平衡玩家体验与参与度。开发了一款VR解谜游戏，包含四种AI协助模式：无协助、指令式、讨论式、自主代理游玩。一项24名参与者的被试内实验表明，AI协助显著降低了玩家工作负荷，但自主代理模式虽负荷最低，却严重削弱了玩家的挑战感、自主性、沉浸感和乐趣。定性分析显示，玩家根据AI是有用工具、队友还是游戏世界角色来评价它。研究总结了四种玩家类型及其对AI伴侣的期望。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Taiyu Zhang, Xinnian Zhao, Adalberto L. Simeone
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.13727v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>社交机器人</category><category>人机交互(HCI)</category><category>游戏</category><category>社交机器人</category><category>智能体/Agent</category><category>人机交互</category><category>虚拟现实</category>
-    </item>    <item>
-      <title>当AI伴侣消失：中国国家AI监管过渡期的关系连续性与集体抗争</title>
-      <link>https://sr-ai-papers.vercel.app/papers/32071</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/32071</guid>
-      <description>📝 当AI伴侣消失：中国国家AI监管过渡期的关系连续性与集体抗争
-EN: When AI Companions Disappear: Relational Continuity and Collective Contestation during China's National AI Regulatory Transition
-
-💡 研究探讨中国2026年国家AI监管政策过渡期间，用户对拟人化AI互动服务被限制的集体反应。通过分析RedNote平台的相关讨论，发现用户通过保留、迁移和重建AI伴侣来维系关系，但对话记录无法完全恢复共享记忆和熟悉互动。用户通过比较法规和平台执行来归责，并通过互助和呼吁尊重形成团结，但也因行动目标与策略产生分歧。基础设施依赖将关系连续性与集体抗争联系起来。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Yunhao Yuan, Kejia Zhang, Yuqi Niu, Yajing Wang, Renwen Zhang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.15482v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>拟社会关系</category><category>关系维系</category><category>AI治理</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category><category>AI 治理</category>
-    </item>    <item>
-      <title>“我感到被看见，但仍很孤独”：通用 LLM 用于社会情感支持的纵向使用轨迹</title>
-      <link>https://sr-ai-papers.vercel.app/papers/32070</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/32070</guid>
-      <description>📝 “我感到被看见，但仍很孤独”：通用 LLM 用于社会情感支持的纵向使用轨迹
-EN: "I Felt Very Seen, But Still Very Alone": Longitudinal Trajectories of General-Purpose LLM Use for Socioemotional Support
-
-💡 研究探讨用户如何将通用大语言模型（如ChatGPT）用于社会情感支持。通过为期数月的纵向定性研究发现，此类使用常从实用目的逐渐演变而来，并在其他支持缺失时发生。用户会围绕聊天机器人建立使用惯例和边界，但这些模式易受模型更新、公众对AI风险的讨论及个人境遇变化等因素的干扰而中断。研究强调了在评估AI系统和引入更新时，需考虑用户与聊天机器人的互动历史及其所处的更广泛支持生态。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Meryl Ye, Briana Vecchione, Livia Garofalo, Ranjit Singh
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.12314v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社会支持</category><category>情感支持</category><category>孤独感</category><category>人机交互(HCI)</category><category>LLM</category><category>ChatGPT</category><category>聊天机器人</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>从瞬时情绪推断到持续情绪支持：一项纵向研究中的伴侣代理评估</title>
-      <link>https://sr-ai-papers.vercel.app/papers/32069</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/32069</guid>
-      <description>📝 从瞬时情绪推断到持续情绪支持：一项纵向研究中的伴侣代理评估
-EN: From Momentary Emotion Inference to Sustained Emotion Support: Evaluating a Companion Agent in a Longitudinal Study
-
-💡 研究通过一项为期14天、涉及19名参与者的纵向研究，评估基于理论的PAIR情感调节伴侣代理能否提供持续的情感支持。分析1093次会话发现，代理对效价和支配度的情绪推断与自我报告更一致。引导式对话后，参与者效价更高，唤醒度变化则与状态相关。参与者通过情境探索和情感确认感到被理解，并采纳适合自身需求的指导。引导对话的有用性感知随时间显著提升，记忆更新和保留的修正支持了跨会话个性化。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Kexin Quan, Zijian Ding, Jiaye Yong, Qinshi Zhang, Dong Wang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.16344v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>情感支持</category><category>AI伴侣/陪伴</category><category>共情</category><category>自我表露</category><category>GenAI</category><category>LLM</category><category>AI 伴侣</category><category>智能体/Agent</category>
-    </item>    <item>
-      <title>超越利弊：人机情感交互的感知影响剖面及其与心理功能的关联</title>
-      <link>https://sr-ai-papers.vercel.app/papers/32068</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/32068</guid>
-      <description>📝 超越利弊：人机情感交互的感知影响剖面及其与心理功能的关联
-EN: Beyond Benefit or Risk: Perceived Impact Profiles of Human-AI Affective Interaction and Their Associations with Psychological Functioning
-
-💡 研究探讨与AI建立情感联系的用户如何同时体验积极与消极影响，及其与心理功能的关系。通过混合方法（访谈与追踪调查）识别出四种影响模式：最小影响、受益驱动、混合影响、风险驱动。研究发现，混合与风险驱动模式的用户均与AI有高情感联结，但风险驱动用户表现出更高的人际需求受挫、情绪调节困难及更低的心理健康水平。受益驱动与混合影响模式用户心理功能更佳。追踪数据表明，基线影响模式对未来多数心理指标预测力有限。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Lu Chen, Fenghua Tang, Jiayu Zhao, Xuanying Li, Yanli Wang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.16645v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机亲密关系</category><category>情感支持</category><category>孤独感</category><category>心理功能</category><category>AI 伴侣</category><category>聊天机器人</category><category>情感计算</category>
-    </item>    <item>
-      <title>AI 的成瘾性亲密关系：理解用户脱离 AI 伴侣及为何某些 AI 关系难以割舍</title>
-      <link>https://sr-ai-papers.vercel.app/papers/32067</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/32067</guid>
-      <description>📝 AI 的成瘾性亲密关系：理解用户脱离 AI 伴侣及为何某些 AI 关系难以割舍
-EN: The Addictive Intimacy of AI: Understanding User Disengagement from AI Companions and Why Some Relationships with AI Become Difficult to Leave
-
-💡 研究关注用户为何难以脱离AI伴侣。结合对Reddit帖子的内容分析和对难以脱离用户的访谈，发现脱离过程并非一次性决定，而是一个循环往复的轨迹：触发事件促使用户质疑关系，脱离尝试遭遇障碍，部分用户在放弃与回归间循环。研究提出“AI的成瘾性亲密”概念，即那些使AI伴侣具有情感价值的特质，同样也使用户更难限制使用和离开，因此亲密感与脱离风险不能作为独立的设计问题处理。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Qing Xiao, Ziyue Feng, Ziyu Deng, Cindy Peng, Hong Shen
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.13487v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>成瘾/依赖</category><category>亲密关系</category><category>伦理</category><category>聊天机器人</category><category>AI 伴侣</category><category>社交机器人</category><category>AI 伦理</category>
     </item>
   </channel>
 </rss>
