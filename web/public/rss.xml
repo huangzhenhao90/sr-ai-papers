@@ -6,9 +6,39 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Sep 2026 07:22:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:16:39 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>指导抑或准则？解构生成式AI在传播科学中的应用与隐忧</title>
+      <link>https://sr-ai-papers.vercel.app/papers/37681</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37681</guid>
+      <description>📝 指导抑或准则？解构生成式AI在传播科学中的应用与隐忧
+EN: Guidance over guidelines? Unpacking the uses and concerns of generative AI in communication science
+
+💡 该研究探讨生成式人工智能在传播科学领域的应用与潜在问题，对比了具体指导与抽象准则的实际效用差异，旨在揭示该技术在学术研究与实践中的采纳模式及其引发的伦理与治理关切。
+
+📚 ICS · 2026 · 引用 0
+👤 Justin Chun-ting Ho, Hannes Cools, Joanna Strycharz, A. Marthe Möller, Zeph M. C. van Berlo
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>伦理</category><category>计算机中介传播</category><category>AI中介传播</category><category>GenAI</category><category>LLM</category><category>AI伦理</category><category>AI治理</category>
+    </item>    <item>
+      <title>LENS—LLM对新闻审查的影响：AI中介新闻中的影响、委托与记忆</title>
+      <link>https://sr-ai-papers.vercel.app/papers/37648</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37648</guid>
+      <description>📝 LENS—LLM对新闻审查的影响：AI中介新闻中的影响、委托与记忆
+EN: LENS—LLM Effects on News Scrutiny: Influence, Delegation, and Memory in AI-Mediated News
+
+💡 研究聚焦于大型语言模型如何影响用户对新闻的审视行为，探讨了AI在新闻消费中介入后，对用户的影响力感知、信息核查责任的委托以及相关记忆形成等关键心理与行为机制的变化。
+
+📚 CBSN · 2026 · 引用 0
+👤 Lorenzo Reina, Stefania La Rocca, Federico Longoni, Giuseppe Riva
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>社交媒体</category><category>计算机中介传播</category><category>网络心理学</category><category>LLM</category><category>聊天机器人</category><category>对话式AI</category><category>AI中介传播</category>
+    </item>    <item>
       <title>利用自动智能体提升非母语者在多语言群体中的参与度</title>
       <link>https://sr-ai-papers.vercel.app/papers/37543</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37543</guid>
@@ -83,6 +113,35 @@ EN: Understanding Cross-lingual Pragmatic Misunderstandings in Email Communicati
 AI 分: 3.0 / 领域分: 4.0</description>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <category>计算机中介传播</category><category>社会互动</category><category>信任</category><category>跨文化沟通</category><category>机器翻译</category><category>AI中介传播</category>
+    </item>    <item>
+      <title>CASS</title>
+      <link>https://sr-ai-papers.vercel.app/papers/37387</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37387</guid>
+      <description>📝 CASS
+
+💡 针对现有聊天机器人系统在对话灵活性与社群影响方面的不足，研究提出了一个基于神经网络的通用架构CASS，旨在为在线健康社区成员提供社交支持。通过实地实验证明，该系统能有效响应用户新输入并提供情感支持，同时填补了聊天机器人如何影响整个社区参与度的研究空白。
+
+📚 PACM-HCI · 2021 · 引用 66
+👤 Liuping Wang, Dakuo Wang, Feng Tian, Zhenhui Peng, Xiangmin Fan
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>社交支持</category><category>情感支持</category><category>在线社群</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>对话式AI</category><category>GenAI</category><category>情感计算</category>
+    </item>    <item>
+      <title>会话基础在支持人与数字助理共生关系中的作用</title>
+      <link>https://sr-ai-papers.vercel.app/papers/37351</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37351</guid>
+      <description>📝 会话基础在支持人与数字助理共生关系中的作用
+EN: The Role of Conversational Grounding in Supporting Symbiosis Between People and Digital Assistants
+
+💡 研究探讨如何通过对话基础促进人与数字助手（如Google Home）的共生关系。当前助手常以‘抱歉，我不知道’回应，导致用户放弃探索。通过20名参与者的用户研究及基于应用对话分析法的转录分析，发现虽然助手有时会给出奇怪但略有关联的答案，但这些回应比完全无反馈更能鼓励用户继续提问和互动，从而支持共生关系的形成。
+
+📚 PACM-HCI · 2020 · 引用 43
+👤 Janghee Cho, Emilee Rader
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>对话式AI</category><category>信任</category><category>社会互动</category><category>对话式 AI</category><category>语音助手</category><category>社交机器人</category><category>人机交互</category>
     </item>    <item>
       <title>共生驯化：老年人如何在日常生活中与生成式AI智能体协商</title>
       <link>https://sr-ai-papers.vercel.app/papers/36943</link>
@@ -436,74 +495,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://doi.org/10.1145/3816950</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <category>伦理</category><category>AI治理</category><category>在线社群</category><category>社会互动</category><category>GenAI</category><category>图像生成</category><category>AI伦理</category>
-    </item>    <item>
-      <title>人类还是 AI 算命：探索用户在寻求关系建议时对人类与 AI 易经占卜的期望与信任形成</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36579</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36579</guid>
-      <description>📝 人类还是 AI 算命：探索用户在寻求关系建议时对人类与 AI 易经占卜的期望与信任形成
-EN: Human or AI Fortune-Telling: Exploring Users’ Expectations and Trust Formation in Relationship Advice-Seeking with Human vs. AI I-Ching Divination
-
-💡 研究比较了人类与AI在浪漫关系建议寻求中的角色。参与者提交关系问题，分别收到人类《易经》占卜师和LLM《易经》工具的文本回复，并被要求识别来源并解读。研究发现参与者基于内容线索区分来源，特定回复特征塑造了其对可信度的感知。信任与可信度由情感对齐和解释开放性共同塑造。研究借鉴占卜思维和快速信任理论，呼吁在亲密、情感复杂情境中采用关系性、体验中心的LLM评估框架。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Yuhan Hou, Jialuo Yang, Richmond Y. Wong, Noura Howell
-
-AI 分: 4.0 / 领域分: 5.0
-
-📄 PDF: https://doi.org/10.1145/3816945</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>浪漫关系</category><category>信任</category><category>人机信任</category><category>社会支持</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>AI建议的礼貌策略如何影响邮件写作与社会认知：以母语与非母语使用者为例</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36576</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36576</guid>
-      <description>📝 AI建议的礼貌策略如何影响邮件写作与社会认知：以母语与非母语使用者为例
-EN: "Hi Alex" or "Dear Dr. Morgan"?: Exploring How AI-suggested Politeness Strategies Influence Email Writing and Social Perception Among Native and Non-native Speakers
-
-💡 研究探索AI写作助手建议的礼貌策略如何影响邮件写作与社会感知。通过一项52人的组内在线实验，发现人类写作者倾向于模仿AI建议的礼貌策略类型。非英语母语者比母语者更易受AI影响，这种更高的易感性部分源于对AI工具的更高依赖。此外，写作者的社会感知也受AI影响：接触更恭敬的礼貌策略建议后，他们倾向于认为社会关系更疏远。研究强调需要设计能考虑社会语境和个体差异的AI写作助手。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Zibo Zhang, Yuna Choi, Ziang Xiao, Qingzi Vera Liao, Jian Tao Zhao
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1145/3816942</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人际关系</category><category>计算机中介传播</category><category>社会互动</category><category>人机交互(HCI)</category><category>对话式 AI</category><category>虚拟助手</category><category>GenAI</category><category>人机协作</category>
-    </item>    <item>
-      <title>生成式AI作为创作者协作的中介：挑战、设计机遇与关切</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36574</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36574</guid>
-      <description>📝 生成式AI作为创作者协作的中介：挑战、设计机遇与关切
-EN: Generative AI as a Mediator in Creator Collaboration: Challenges, Design Opportunities, and Concerns
-
-💡 生成式AI在跨领域创作者协作中扮演何种角色？研究通过游戏开发场景下的多方法研究，发现GenAI不仅是工具，更是协作中介，能协调创意意图、维持共同理解并减少人际摩擦。但同时也可能削弱创作者间的直接沟通与相互信任，重塑协作动态。研究据此提出了旨在促进协同增效并保留人类创造力的设计机会。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Hajun Kim, Jini Kim, Yunjae Josephine Choi
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1145/3816940</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>人际关系</category><category>信任</category><category>社会互动</category><category>GenAI</category><category>人机协作</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>探索AI驱动的创意支持工具对专业创意工作流程的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36567</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36567</guid>
-      <description>📝 探索AI驱动的创意支持工具对专业创意工作流程的影响
-EN: Exploring the Impact of AI-powered Creativity Support Tools on Professional Creative Workflows
-
-💡 AI驱动的创意支持工具如何影响专业创意工作流？研究通过对创意专业人士的探索性多阶段调研，考察了AI-CSTs在工作流各阶段的应用。研究识别了工具开发的关键成功点、挑战与愿景，并反思了AI如何影响协作创意实践，特别是在可及性、专业知识和创意自主性方面。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Caterina Moruzzi, Charlotte Bird, Laura Mariah Herman
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://doi.org/10.1145/3816933</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>人际关系</category><category>社会互动</category><category>GenAI</category><category>AI 伴侣</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
