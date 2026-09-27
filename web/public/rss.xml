@@ -6,9 +6,24 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 07:16:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 07:48:28 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>自主道德：心智推断预测牺牲性道德困境中 AI 行为的接受度</title>
+      <link>https://sr-ai-papers.vercel.app/papers/37907</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37907</guid>
+      <description>📝 自主道德：心智推断预测牺牲性道德困境中 AI 行为的接受度
+EN: Autonomous morals: Inferences of mind predict acceptance of AI behavior in sacrificial moral dilemmas
+
+💡 研究探讨在牺牲性道德困境中，人们如何根据对AI心智的推断来决定是否接受其行为。核心发现是，当人们认为AI具有类似人类的思维（如意图、情感）时，更可能接受其做出的道德决策，这表明对AI心智的感知是影响人机道德互动接受度的关键因素。
+
+📚 JESP · 2019 · 引用 79
+👤 April D. Young, Andrew E. Monroe
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>信任</category><category>拟人化</category><category>人机交互(HCI)</category><category>AI 伦理</category><category>可解释 AI</category><category>智能体/Agent</category>
+    </item>    <item>
       <title>指导抑或准则？解构生成式AI在传播科学中的应用与隐忧</title>
       <link>https://sr-ai-papers.vercel.app/papers/37681</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37681</guid>
@@ -18,9 +33,11 @@ EN: Guidance over guidelines? Unpacking the uses and concerns of generative AI i
 💡 该研究探讨生成式人工智能在传播科学领域的应用与潜在问题，对比了具体指导与抽象准则的实际效用差异，旨在揭示该技术在学术研究与实践中的采纳模式及其引发的伦理与治理关切。
 
 📚 ICS · 2026 · 引用 0
-👤 Justin Chun-ting Ho, Hannes Cools, Joanna Strycharz, A. Marthe Möller, Zeph M. C. van Berlo
+👤 Justin Chun‐ting Ho, Hannes Cools, Joanna Strycharz, A. Marthe Möller, Zeph M. C. van Berlo
 
-AI 分: 5.0 / 领域分: 4.0</description>
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://doi.org/10.1080/1369118x.2026.2736810</description>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
       <category>AI治理</category><category>伦理</category><category>计算机中介传播</category><category>AI中介传播</category><category>GenAI</category><category>LLM</category><category>AI伦理</category><category>AI治理</category>
     </item>    <item>
@@ -143,6 +160,50 @@ AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <category>人机交互(HCI)</category><category>对话式AI</category><category>信任</category><category>社会互动</category><category>对话式 AI</category><category>语音助手</category><category>社交机器人</category><category>人机交互</category>
     </item>    <item>
+      <title>协调临床团队</title>
+      <link>https://sr-ai-papers.vercel.app/papers/37340</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37340</guid>
+      <description>📝 协调临床团队
+EN: Coordinating Clinical Teams
+
+💡 研究探讨如何利用机器人中心团队支持系统（RoboTSS）在安全关键医疗环境中赋能护士，以改善因等级结构和权力不对称导致的团队沟通障碍。通过与五家美国医院的护士进行为期三个月的协同设计，发现护士希望利用RoboTSS引导复苏程序、生成团队空间重组的编排方案，以提升效率、减少错误，从而增强跨专业团队协作与患者安全。
+
+📚 PACM-HCI · 2019 · 引用 52
+👤 Angelique Taylor, Hee Rin Lee, Alyssa Kubota, Laurel D. Riek
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>社会支持</category><category>团队协作</category><category>医疗健康</category><category>社交机器人</category><category>智能体/Agent</category><category>人机交互</category>
+    </item>    <item>
+      <title>Feedpal</title>
+      <link>https://sr-ai-papers.vercel.app/papers/37326</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37326</guid>
+      <description>📝 Feedpal
+
+💡 研究通过Wizard-of-Oz实验，探索聊天机器人在印度德里贫民窟地区为母乳喂养母亲和社区卫生工作者提供教育支持的潜力。分析22名参与者的互动模式、感知和使用情境，发现聊天机器人主要被视为一线支持工具，能有效回答大多数（88%）问题。研究强调设计需关注积极强化、情境敏感性，并讨论了在公共健康话题中应用的社会与伦理问题。
+
+📚 PACM-HCI · 2019 · 引用 90
+👤 Deepika Yadav, Prerna Malik, Kirti Dabas, Pushpendra Singh
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>聊天机器人</category><category>社会支持</category><category>健康教育</category><category>伦理</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>演讲者对现场观众流预测的感知与反应</title>
+      <link>https://sr-ai-papers.vercel.app/papers/37322</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37322</guid>
+      <description>📝 演讲者对现场观众流预测的感知与反应
+EN: How Presenters Perceive and React to Audience Flow Prediction In-situ
+
+💡 研究探索在线直播讲座中，演讲者如何感知和应对基于实时面部表情分析的观众心流状态预测。通过一个实验系统为8位讲师提供整体观众心流体验的可视化聚合视图。评估发现，这种实时预测与可视化能为讲师提供价值，揭示了讲师对此的感知与反应模式，为未来构建AI辅助在线演讲系统提供了启示。
+
+📚 PACM-HCI · 2019 · 引用 23
+👤 Wei Sun, Yunzhi Li, Feng Tian, Xiangmin Fan, Hongan Wang
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>社会临场</category><category>在线社群</category><category>计算机中介传播</category><category>情感识别</category><category>AI 中介传播</category><category>人机交互</category>
+    </item>    <item>
       <title>共生驯化：老年人如何在日常生活中与生成式AI智能体协商</title>
       <link>https://sr-ai-papers.vercel.app/papers/36943</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36943</guid>
@@ -172,6 +233,21 @@ EN: Explanation Transparency and Trust Perception After Generative AI Failure: A
 AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>人机信任</category><category>可解释 AI</category><category>AI治理</category><category>GenAI</category><category>可解释 AI</category><category>AI 伦理</category><category>聊天机器人</category>
+    </item>    <item>
+      <title>人机协作中的协商与互惠交换结构</title>
+      <link>https://sr-ai-papers.vercel.app/papers/36811</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36811</guid>
+      <description>📝 人机协作中的协商与互惠交换结构
+EN: Negotiated and reciprocal exchange structures in human-agent cooperation
+
+💡 研究比较了人类与智能体（AI代理）合作中的协商式与互惠式交换结构。核心发现是，不同的交换结构（如直接协商或基于互惠的轮流给予）会影响合作效率、公平感知与人机信任，揭示了设计促进有效人机协作的社会互动机制的重要性。
+
+📚 CHB · 2019 · 引用 22
+👤 Erin K. Chiou, John D. Lee, Tianshuo Su
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>社会互动</category><category>人际关系</category><category>智能体/Agent</category><category>社交机器人</category><category>人机交互</category>
     </item>    <item>
       <title>英国大型语言模型：公众使用、信任与态度</title>
       <link>https://sr-ai-papers.vercel.app/papers/36682</link>
@@ -410,91 +486,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://doi.org/10.1145/3816972</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>人机信任</category><category>教育/课堂</category><category>社会互动</category><category>AI 治理</category><category>AI 伦理</category><category>对话式 AI</category><category>社交机器人</category>
-    </item>    <item>
-      <title>LLMs 在维基百科：调查 LLMs 如何影响知识社区的参与</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36598</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36598</guid>
-      <description>📝 LLMs 在维基百科：调查 LLMs 如何影响知识社区的参与
-EN: LLMs in Wikipedia: Investigating How LLMs Impact Participation in Knowledge Communities
-
-💡 研究探讨了大型语言模型如何影响维基百科等知识社区的参与。通过对不同经验水平的编辑进行访谈，从知识搜集、社区规范对齐、同行反馈三个维度，揭示了LLM使用中由专业知识水平介导的参与鸿沟。研究挑战了关于新手编辑参与的现有模型，并为LLM支持社区参与提出了设计启示。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Moyan Zhou, Soobin Cho, Loren Terveen
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1145/3816964</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>在线社群</category><category>计算机中介传播</category><category>信任</category><category>社会互动</category><category>LLM</category><category>GenAI</category><category>ChatGPT</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>利用 AI 进行针对网络欺凌的直接旁观者干预</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36597</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36597</guid>
-      <description>📝 利用 AI 进行针对网络欺凌的直接旁观者干预
-EN: Leveraging AI for Direct Bystander Intervention Against Cyberbullying
-
-💡 网络欺凌中，直接旁观者干预因技能不足和效能感低而难以实现。研究开发了AI工具EmojiGen，用户仅需选择表情符号，系统即可结合欺凌语境生成干预回复。在90人参与的实验中，该工具显著提升了支持受害者和对抗欺凌者的直接干预频率，增强了帮助意愿和防御效能感，同时降低了干预的感知负担和焦虑。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Peinuan Qin, Jiting Cheng, Jungup Lee, Junti Zhang, Zhixing Liu
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1145/3816963</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>网络欺凌</category><category>社会支持</category><category>人机交互(HCI)</category><category>计算机中介传播</category><category>GenAI</category><category>聊天机器人</category><category>对话式 AI</category><category>人机协作</category>
-    </item>    <item>
-      <title>“这真的是人类同伴支持者吗？”：LLM 支持互动中同伴支持者与专家的错位</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36590</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36590</guid>
-      <description>📝 “这真的是人类同伴支持者吗？”：LLM 支持互动中同伴支持者与专家的错位
-EN: "Is This Really a Human Peer Supporter?": Misalignments Between Peer Supporters and Experts in LLM-Supported Interactions
-
-💡 研究探讨了LLM在增强心理健康同伴支持互动中的作用，系统包含模拟求助者、情境化建议和实时情绪可视化。通过对12名同伴支持者和6名专家的混合方法研究，发现双方都认可其提升培训和互动质量的潜力。但关键矛盾在于，专家持续指出同伴支持者回复中的关键问题（如忽略痛苦信号、过早给建议），这突显了在情感激烈、安全至关重要的情境下，当前同伴支持培训的潜在局限。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Kellie Yu Hui Sim, Roy Ka-Wei Lee, Kenny Tsu Wei Choo
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://doi.org/10.1145/3816956</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI治疗师</category><category>社会支持</category><category>情感支持</category><category>信任</category><category>LLM</category><category>GenAI</category><category>AI 治疗师</category><category>情感识别</category>
-    </item>    <item>
-      <title>研究权力失衡群体决策中 LLM 赋能的少数异议支持：作为干预策略的反驳与调解</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36588</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36588</guid>
-      <description>📝 研究权力失衡群体决策中 LLM 赋能的少数异议支持：作为干预策略的反驳与调解
-EN: Investigating LLM-Powered Dissenting Minority Support in Power-Imbalanced Group Decision-Making: Counterargument and Mediation as Intervention Strategies
-
-💡 在权力不平衡的群体决策中，少数派观点常被压制。研究开发了LLM驱动的少数派支持系统，通过AI生成反驳论点或AI调解信息来促进对少数派观点的关注。一项涉及96名参与者的混合方法实验发现，AI反驳论点营造了更灵活的氛围并提升了满意度，而AI调解信息增加了少数派参与度，却意外降低了其心理安全感。这揭示了参与度和心理安全之间的支持悖论。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Soohwan Lee, Seoyeong Hwang, Mingyu Kim, D. S. Kim, Kyungho Lee
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1145/3816954</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>社会互动</category><category>信任</category><category>AI治理</category><category>LLM</category><category>GenAI</category><category>智能体/Agent</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>“我只是不想我的作品被喂进 AI 搅拌机”：酷儿艺术家论拒绝与抵制生成式 AI</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36584</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36584</guid>
-      <description>📝 “我只是不想我的作品被喂进 AI 搅拌机”：酷儿艺术家论拒绝与抵制生成式 AI
-EN: "I Just Don't Want My Work Being Fed Into The AI Blender": Queer Artists on Refusing and Resisting Generative AI
-
-💡 研究探讨生成式AI对酷儿艺术社群的冲击。通过对15位酷儿艺术家的半结构化访谈，发现其集体性、政治性的艺术实践与生成式AI开发使用中感知到的“反关系性”存在显著张力。参与者主要通过拒绝和抵制来回应，仅认可AI在创造超现实主义图像等特定美学上的有限潜力。研究基于酷儿理论，呼吁CSCW研究者拒绝主流AI想象，支持酷儿世界构建。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Jordan Taylor, Joel Mire, Alicia DeVrio, Maarten Sap, Haiyi Zhu
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1145/3816950</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>AI治理</category><category>在线社群</category><category>社会互动</category><category>GenAI</category><category>图像生成</category><category>AI伦理</category>
     </item>
   </channel>
 </rss>
