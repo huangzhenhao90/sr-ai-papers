@@ -6,9 +6,56 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 27 Sep 2026 07:48:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 08:29:29 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>采样安全未来：拟人化AI中个性化安全的多模态轨迹规划</title>
+      <link>https://sr-ai-papers.vercel.app/papers/38791</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/38791</guid>
+      <description>📝 采样安全未来：拟人化AI中个性化安全的多模态轨迹规划
+EN: Sampling Safe Futures: Multimodal Trajectory Planning for Personalized Safety in Anthropomorphic AI
+
+💡 研究关注拟人化AI系统因长期互动累积关系风险的问题。现有安全措施基于单轮对话，无法评估连续互动对特定用户的累积危害。提出个性化轨迹级安全框架，将关系安全视为基于用户潜在升级状态的序列决策问题。通过生成流网络采样多样未来轨迹，筛选并选择能保留最多安全、有用后续互动的策略。模拟评估表明，该方法能显著减少有害状态发生频率。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Benedetta Picano, Dusit Niyato
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2609.30780v1</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>人机亲密关系</category><category>AI治理</category><category>伦理</category><category>对话式 AI</category><category>GenAI</category><category>AI 伴侣</category><category>AI 治理</category>
+    </item>    <item>
+      <title>算法风险评估对人类预测的影响及其众包研究分析</title>
+      <link>https://sr-ai-papers.vercel.app/papers/38789</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/38789</guid>
+      <description>📝 算法风险评估对人类预测的影响及其众包研究分析
+EN: The Impact of Algorithmic Risk Assessments on Human Predictions and its Analysis via Crowdsourcing Studies
+
+💡 研究探讨算法风险评估工具（RAI）对人工预测的影响。通过众包实验，让非专业人士根据小故事预测再逮捕可能性。发现：1）参与者常在主观评估再逮捕概率远低于50%时仍预测会再逮捕；2）参与者未锚定RAI的预测；3）参与者决策时间差异大，多数评估在10秒内完成；4）与参与者预测不同，司法判决部分取决于与再逮捕可能性无关的因素。研究揭示了众包研究设计的关键影响和可推广性挑战。
+
+📚 PACM-HCI · 2021 · 引用 23
+👤 Riccardo Fogliato, Alexandra Chouldechova, Zachary Lipton
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机协作</category><category>AI治理</category><category>伦理</category><category>推荐算法</category><category>AI 治理</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>具有意图的对象</title>
+      <link>https://sr-ai-papers.vercel.app/papers/38776</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/38776</guid>
+      <description>📝 具有意图的对象
+EN: Objects with Intent
+
+💡 研究提出“有意图的物体”作为人机交互中新兴的智能体类型，其智能与能动性植根于日常物品的意义之中。文章回顾了相关研究，阐述了OwI如何为人-智能体交互提供新视角，并借鉴丹尼特的意向性理论和列昂捷夫的活动理论进行理论构建。通过设计案例Fizzy（一个用于激励住院儿童进行身体玩耍的机器人球）加以说明。最后讨论了OwI的性质、价值及设计挑战。
+
+📚 TOCHI · 2019 · 引用 58
+👤 Marco C. Rozendaal, Boudewijn Boon, Victor Kaptelinin
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>社会临场</category><category>人机交互(HCI)</category><category>儿童/老人/无障碍</category><category>社交机器人</category><category>智能体/Agent</category><category>人机交互</category>
+    </item>    <item>
       <title>自主道德：心智推断预测牺牲性道德困境中 AI 行为的接受度</title>
       <link>https://sr-ai-papers.vercel.app/papers/37907</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37907</guid>
@@ -435,57 +482,6 @@ AI 分: 4.0 / 领域分: 3.0
 📄 PDF: https://doi.org/10.1145/3816982</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <category>参与式设计</category><category>护理工作</category><category>AI治理</category><category>人机交互(HCI)</category><category>AI 治理</category><category>AI 伦理</category><category>人机交互</category>
-    </item>    <item>
-      <title>一个问题，四种声音：阿尔茨海默症照护建议在照护者、临床医生与大型语言模型间的差异</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36614</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36614</guid>
-      <description>📝 一个问题，四种声音：阿尔茨海默症照护建议在照护者、临床医生与大型语言模型间的差异
-EN: One Question, Four Voices: How Advice for Alzheimer's Caregiving Differs Between Caregivers, Clinicians, and Large Language Models
-
-💡 研究系统比较了针对阿尔茨海默病照护者同一问题的四种不同来源的回答：同辈照护者、医生、ChatGPT以及基于同辈讨论检索增强的CareGPT。对85个真实问题的回答从语言形式、情感支持、信息支持和主题范围等28个维度进行评估。发现存在一致的沟通分工：同辈提供基于时间的叙事和社群共鸣；医生提供简洁、以建议为主、有临床边界的指导；而大语言模型则生成正式、冗长、全面的回答。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Congning Ni, Jinkyung Park, Yang Li, Sarvech Qadir, Sean S. Huang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://doi.org/10.1145/3816980</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社会支持</category><category>情感支持</category><category>在线社群</category><category>AI治疗师</category><category>LLM</category><category>ChatGPT</category><category>聊天机器人</category><category>AI 治疗师</category>
-    </item>    <item>
-      <title>“不只是我和待办清单”：理解 ADHD 成人任务管理挑战及对 AI 增强社会支架的需求</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36612</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36612</guid>
-      <description>📝 “不只是我和待办清单”：理解 ADHD 成人任务管理挑战及对 AI 增强社会支架的需求
-EN: "Not Just Me and My To-Do List": Understanding Challenges of Task Management for Adults with ADHD and the Need for AI-Augmented Social Scaffolds
-
-💡 研究探讨了患有ADHD的成年人在任务管理中的挑战，发现其本质是情感与关系共同构建的过程，而非孤立行为。通过访谈和设计概念评估，揭示了现有工具与神经多样性认知需求的不匹配。研究提出设计具有社会意识的AI系统，以支持共同调节和非线性的注意力节奏，并明确了用户偏好的AI支持特征。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Jingruo Chen, Yibo Meng, Kexin Nie
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1145/3816978</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社会支持</category><category>人机协作</category><category>人际关系</category><category>儿童/老人/无障碍</category><category>AI 伴侣</category><category>人机协作</category><category>聊天机器人</category><category>情感计算</category>
-    </item>    <item>
-      <title>警惕信任鸿沟：识别 K-12 课堂 AI 中师生对控制与能动性看法的（错）位</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36606</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36606</guid>
-      <description>📝 警惕信任鸿沟：识别 K-12 课堂 AI 中师生对控制与能动性看法的（错）位
-EN: Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI
-
-💡 研究调查了K-12课堂中教师与学生对AI决策控制权的看法差异。通过故事板速度约会法发现，双方在信任AI、AI对学生学习的社会情感影响等关键议题上存在错位。研究强调了非AI情境下的师生关系如何塑造双方的观点与互动，揭示了教师-学生-AI三方互动偏好的复杂性。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Tomohiro Nagashima, Lisa Siegrist, Niklas Scholz, Shintaro Sato, Martina Vincoli
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1145/3816972</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机信任</category><category>教育/课堂</category><category>社会互动</category><category>AI 治理</category><category>AI 伦理</category><category>对话式 AI</category><category>社交机器人</category>
     </item>
   </channel>
 </rss>
