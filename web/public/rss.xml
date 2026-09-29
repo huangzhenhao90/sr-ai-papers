@@ -6,9 +6,118 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Sep 2026 08:29:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:08:36 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>EP-Mem：面向社交关系感知 LLM 代理的弹性隐私内存</title>
+      <link>https://sr-ai-papers.vercel.app/papers/39241</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39241</guid>
+      <description>📝 EP-Mem：面向社交关系感知 LLM 代理的弹性隐私内存
+EN: EP-Mem: Elastic Privacy Memory for Social Relationship-Aware LLM Agents
+
+💡 LLM代理在人际代理沟通中面临隐私泄露风险，需理解用户社会关系并遵守情境化的信息揭露边界。研究提出弹性隐私记忆架构，将隐私重构为用户对跨社会角色的边界控制。该架构包含基于用户可配置隐私策略的令牌级记忆，以及一个可插拔的隐私引擎。实验表明，该方法在保持检索性能的同时，显著提升了隐私分类准确性和权限判断，并大幅减少了隐私泄露。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Fengzhou Sun, Yuan Zhang, Xintong Yu, Jinyao Yan
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.35233v1</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <category>隐私</category><category>社会互动</category><category>人际关系</category><category>信任</category><category>LLM</category><category>聊天机器人</category><category>智能体/Agent</category><category>AI 治理</category>
+    </item>    <item>
+      <title>从用户视角表征人机交互中 LLM 的记忆错位</title>
+      <link>https://sr-ai-papers.vercel.app/papers/39240</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39240</guid>
+      <description>📝 从用户视角表征人机交互中 LLM 的记忆错位
+EN: Characterizing Memory Misalignment in Human-LLM Interaction From User Perspectives
+
+💡 研究探讨了基于LLM的对话代理中，记忆功能与用户期望不符（记忆错位）的问题。通过混合方法（用户数据收集、日记研究、共同设计研讨会、快速约会），识别出记忆摄入、存储管理、检索解释三个阶段中的14种错位类型，并构建了包含12种交互策略的设计空间。研究发现用户偏好主动控制而非认知负荷高的因果图检查，揭示了用户监督权与交互开销之间的张力，主张设计平衡用户监督与对话流畅性的“摩擦感知”记忆系统。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Jingruo Chen, Shuning Zhang, Eryue Xu, Jianing Li, Xin Yi
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.33623v1</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>信任</category><category>人机信任</category><category>隐私</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
+    </item>    <item>
+      <title>一种声音适合所有人？</title>
+      <link>https://sr-ai-papers.vercel.app/papers/39206</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39206</guid>
+      <description>📝 一种声音适合所有人？
+EN: One Voice Fits All?
+
+💡 智能设备语音设计如何影响用户感知与互动？研究基于计算机作为社会行动者范式，结合人机交互研究，提出一个理解语音设计社会影响的框架。该框架指出，语音设计效果取决于用户特征、设备特性和使用情境三者的复杂交互。尽管语音合成技术已能生成多样且逼真的声音，但当前主流语音助手默认声音多为女性化、礼貌且活泼。研究旨在通过该框架提出指导性问题，以推动未来智能设备语音设计研究。
+
+📚 PACM-HCI · 2019 · 引用 114
+👤 Julia Cambre, Chinmay Kulkarni
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>社会临场</category><category>人机交互(HCI)</category><category>性别</category><category>语音助手</category><category>对话式 AI</category><category>社交机器人</category>
+    </item>    <item>
+      <title>从理解到协作：解构街头官僚与人工智能协作的黑箱</title>
+      <link>https://sr-ai-papers.vercel.app/papers/38976</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/38976</guid>
+      <description>📝 从理解到协作：解构街头官僚与人工智能协作的黑箱
+EN: From Understanding to Collaboration: Unpacking the Black Box of Collaboration Between Street-Level Bureaucrats and Artificial Intelligence
+
+💡 研究探讨基层官僚与人工智能之间的协作机制，旨在揭示这一协作过程的“黑箱”。通过理解双方如何从初步认知走向有效合作，研究可能涉及协作模式、信任建立、任务分配及人机交互动态。该研究对于优化公共服务中的人机协作效率与效果具有理论和实践意义。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Jian Wu, Yuxin Liu, Yuang Panwang, Li Liao
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>社会互动</category><category>AI 中介传播</category><category>人机协作</category><category>智能体/Agent</category>
+    </item>    <item>
+      <title>角色驱动聊天机器人的社会支持是否鼓励持续求助？在线心理健康社区中的情绪缓解作用</title>
+      <link>https://sr-ai-papers.vercel.app/papers/38973</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/38973</guid>
+      <description>📝 角色驱动聊天机器人的社会支持是否鼓励持续求助？在线心理健康社区中的情绪缓解作用
+EN: Does Social Support from Persona-Driven Chatbots Encourage Continued Help-Seeking? The Role of Emotional Relief in Online Mental Health Communities
+
+💡 研究探讨在线心理健康社区中，由角色驱动的聊天机器人提供的社会支持，是否以及如何通过情感缓解机制，鼓励用户持续寻求帮助。核心在于检验情感缓解在聊天机器人的社会支持与用户持续求助行为之间的中介作用，以评估角色化AI在心理健康支持中的长期有效性。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Muhammad Salman Latif, Gang Li, Jian-Jun Wang, Mohsin Shahzad
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>社会支持</category><category>情感支持</category><category>在线社群</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 治疗师</category><category>情感计算</category>
+    </item>    <item>
+      <title>AI 能否成为内容生成器？内容生成器与信息传递方式对消费者心理的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/38927</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/38927</guid>
+      <description>📝 AI 能否成为内容生成器？内容生成器与信息传递方式对消费者心理的影响
+EN: Can AI be a content generator? Effects of content generators and information delivery methods on the psychology of content consumers
+
+💡 （根据标题推断）研究探讨了AI作为内容生成者，以及不同信息传递方式，对内容消费者心理的影响。可能通过实验等方法，比较AI生成内容与人类生成内容，或不同呈现方式（如文本、音频、视频），如何影响消费者的感知、态度、信任或行为意图，以理解AI在内容生产与传播中的角色及其心理效应。
+
+📚 TI · 2020 · 引用 38
+👤 Jina Kim, Soyeon Shin, Kunwoo Bae, Soyoung Oh, Eunil Park
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>拟人化</category><category>社会互动</category><category>网络心理学</category><category>GenAI</category><category>LLM</category><category>对话式 AI</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>你关心谁标记了此帖？审核者可见性对旁观者行为的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/38799</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/38799</guid>
+      <description>📝 你关心谁标记了此帖？审核者可见性对旁观者行为的影响
+EN: Do You Care Who Flagged This Post? Effects of Moderator Visibility on Bystander Behavior
+
+💡 研究评估了社交媒体上内容审核者身份信息的可见性，如何影响旁观者对后续未审核骚扰评论的举报意愿。通过一项为期两天的预注册实验，在模拟社交媒体环境中，参与者遇到由其他用户、AI系统或未指明来源标记的骚扰评论。结果显示，当审核来源可见时，会抑制旁观者后续的举报行为，可能是因为他们认为自己的努力是多余的。此外，与其他用户相比，AI作为审核来源会通过改变感知社会规范，间接影响后续举报。研究表明，提高审核透明度可能无意中抑制旁观者干预。
+
+📚 JCMC · 2021 · 引用 39
+👤 Aparajita Bhandari, Marie Ozanne, Natalya N. Bazarova, Dominic DiFranzo
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <category>社交媒体</category><category>计算机中介传播</category><category>网络心理学</category><category>伦理</category><category>AI 治理</category><category>推荐算法</category>
+    </item>    <item>
       <title>采样安全未来：拟人化AI中个性化安全的多模态轨迹规划</title>
       <link>https://sr-ai-papers.vercel.app/papers/38791</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/38791</guid>
@@ -363,125 +472,6 @@ AI 分: 4.0 / 领域分: 5.0
 📄 PDF: https://doi.org/10.1145/3817039</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <category>AI治疗师</category><category>社会支持</category><category>情感支持</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>虚拟助手</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>理解与支持在线讨论：基于观点性聊天机器人的研究</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36658</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36658</guid>
-      <description>📝 理解与支持在线讨论：基于观点性聊天机器人的研究
-EN: Understanding and Supporting Online Discussion with Opinionated Chatbots
-
-💡 研究探索了持有特定观点的聊天机器人如何影响用户后续的在线讨论。实验让参与者与表达反对、支持或平衡观点的聊天机器人互动，发现与持反对观点的机器人互动能更大程度改变用户意见，而与支持观点的机器人互动则使用户在后续对话中更倾向于采用赞同的沟通风格。不同机器人类型也影响了用户信任度及对机器人与人类对话者的感知。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Tianqi Song, Chi-Lan Yang, Zihan Liu, Zhengtao Xu, Yibin Feng
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1145/3817024</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>聊天机器人</category><category>社会互动</category><category>信任</category><category>计算机中介传播</category><category>聊天机器人</category><category>对话式 AI</category><category>LLM</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>生成式 AI 鸿沟：知识贡献者异质性适应的描述性分析</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36645</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36645</guid>
-      <description>📝 生成式 AI 鸿沟：知识贡献者异质性适应的描述性分析
-EN: The Generative AI Divide: A Descriptive Analysis of Heterogeneous Adaptation Among Knowledge Contributors
-
-💡 研究分析了生成式AI（以ChatGPT为例）出现后，在线知识社区（以Stack Overflow为例）中不同类型贡献者参与模式的异质性变化。通过对近40万用户进行聚类和面板比较，发现所有贡献者类型的参与度均下降，但下降幅度存在差异。最坚韧的用户（如“坚定贡献者”）下降相对温和，而“帖子撤回者”等群体下降更剧烈。结果表明，尽管存在异质性，但整体下降趋势是普遍的。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Jaeyoon Song, Arman Vossoughi, Hongzun Zhang, Dokyun Lee
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://doi.org/10.1145/3817011</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>在线社群</category><category>计算机中介传播</category><category>AI治理</category><category>人机协作</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category><category>推荐算法</category>
-    </item>    <item>
-      <title>情境化使用与协商有效性：对 GenAI 赋能痴呆症患者回忆干预的批判性考量</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36636</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36636</guid>
-      <description>📝 情境化使用与协商有效性：对 GenAI 赋能痴呆症患者回忆干预的批判性考量
-EN: Situated Use and Negotiated Effectiveness: Critical Considerations of GenAI-Powered Reminiscence Intervention for People with Dementia
-
-💡 研究探讨生成式AI工具如何有效支持针对痴呆症患者的怀旧疗法。通过包含专业治疗师参与的形成性研究、迭代式参与式设计及实地评估的三阶段研究，发现工具的实际有效性并非仅由其理论设计决定，而是在分布式、多利益相关者的护理实践中，通过角色延伸和协商使用而涌现。研究为未来AI干预技术提供了实践启示。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Yuling Sun, Zhennan Yi, Junyan Mao, Minglong Tang, Xiaojuan Ma
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1145/3817002</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI治疗师</category><category>社会支持</category><category>情感支持</category><category>人机交互(HCI)</category><category>GenAI</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>人与聊天机器人的共享相似性：探索人类向聊天机器人寻求社会支持的意愿</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36632</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36632</guid>
-      <description>📝 人与聊天机器人的共享相似性：探索人类向聊天机器人寻求社会支持的意愿
-EN: Shared Similarity Between Humans and Chatbots: Exploring Human Willingness to Seek Social Support From Chatbots
-
-💡 研究基于社会认同理论，通过三个实验探讨人与聊天机器人在态度、性格和经历上的相似性如何影响人们向聊天机器人寻求社会支持的意愿。结果显示，态度和经历相似以及外向性格能提升寻求意愿。态度相似通过增强亲密感，经历相似则通过提升亲密感和感知到的支持能力来发挥作用。研究对设计提供社会支持的聊天机器人具有启示。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Zicheng Zhu, Tianqi Song, Jefferson Lim, Chi-Lan Yang, Yi‐Chieh Lee
-
-AI 分: 4.0 / 领域分: 5.0
-
-📄 PDF: https://doi.org/10.1145/3816998</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社会支持</category><category>情感支持</category><category>信任</category><category>拟人化</category><category>聊天机器人</category><category>对话式 AI</category><category>LLM</category>
-    </item>    <item>
-      <title>“重述命运以便我相信”：中国用户社群如何参与并解读基于 GenAI 的算命</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36622</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36622</guid>
-      <description>📝 “重述命运以便我相信”：中国用户社群如何参与并解读基于 GenAI 的算命
-EN: "Re-Tell the Fortune so I Can Believe It": How Chinese User Communities Engage with and Interpret GenAI-based Fortune-Telling
-
-💡 研究通过访谈22名习惯使用生成式AI进行占卜的中国用户，并结合对1842个社区帖子的数字民族志，探讨人们如何使用和解读AI占卜。寻求心理安慰的用户更易接受AI决策，他们看重AI的可及性、便利性和效率，但认为其缺乏灵性神秘感。用户社区通过分享、讨论和重复查询以强化符合期望的解读，揭示了AI技术如何改变人们参与传统文化实践的方式。
-
-📚 PACM-HCI · 2026 · 引用 1
-👤 Long Ling, Xiyu Zheng, Gengchen Cao, Ray Lc
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1145/3816988</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>在线社群</category><category>计算机中介传播</category><category>社会支持</category><category>情感支持</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>PAPEL：学龄前游戏化英语学习中家长指导的协作系统</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36617</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36617</guid>
-      <description>📝 PAPEL：学龄前游戏化英语学习中家长指导的协作系统
-EN: PAPEL: A Collaborative System for Parental Guidance during Preschool Play-Based English Learning
-
-💡 研究探索AI如何支持家长在学龄前儿童基于游戏的英语学习中提供指导。通过访谈和Wizard-of-Oz研究，识别出内容选择、语言表达、平衡教学与游戏、问题解决四大挑战。据此开发了PAPEL系统，该系统能根据实时游戏场景提供建议，包含内容生成、语言适应等模块。一项16对亲子参与的对照研究发现，相比轻量级聊天机器人基线，PAPEL能促使家长发出更多融合游戏与教学内容的言语，并增加亲子对话轮次。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Xutong Wang, Yu Mei, Qinwei Li, Muyu Liu, Xiwen Yao
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1145/3816983</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>亲子互动</category><category>教育技术</category><category>人机协作</category><category>社会支持</category><category>聊天机器人</category><category>对话式 AI</category><category>人机协作</category>
-    </item>    <item>
-      <title>面向一线护理工作的参与式人工智能：技术专家的概念框架</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36616</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36616</guid>
-      <description>📝 面向一线护理工作的参与式人工智能：技术专家的概念框架
-EN: Orienting Participatory AI for Frontline Care Work: A Conceptual Framework for Technologists
-
-💡 研究关注如何将参与式设计（PD）与人工智能（AI）结合，以有意义地纳入一线护理工作者（FCWs）在技术开发中的声音。基于CSCW和参与式AI的学术研究及作者在护理领域开发AI系统的经验，提出了一个概念框架。该框架旨在应对护理工作的关系性、难以标准化以及利益相关者需求平衡等挑战。通过家庭护理中的排班匹配和医护人员倦怠识别两个案例研究进行阐释，并讨论了实施中的张力与公平性问题。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Joy Ming, Ian René Solano-Kamaiko, Emily Tseng
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://doi.org/10.1145/3816982</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>参与式设计</category><category>护理工作</category><category>AI治理</category><category>人机交互(HCI)</category><category>AI 治理</category><category>AI 伦理</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
