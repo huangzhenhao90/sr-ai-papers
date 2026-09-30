@@ -6,9 +6,75 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:08:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 08:15:41 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>MultiTalk：将全双工语音模型扩展至长时、多方、双语对话</title>
+      <link>https://sr-ai-papers.vercel.app/papers/39816</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39816</guid>
+      <description>📝 MultiTalk：将全双工语音模型扩展至长时、多方、双语对话
+EN: MultiTalk: Scaling Full-Duplex Speech Models to Long, Multi-Party, Bilingual Conversation
+
+💡 研究旨在解决端到端全双工语音模型在长上下文鲁棒性和多方互动方面的局限。通过发布包含57.6千小时英中双语、长时、多方、全双工会话的合成训练数据集，并构建基于真实录音的评估基准，以支持模型在长时间、多说话人场景下的跟踪、情境化和响应能力。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Ke Wang, Houxing Ren, Zimu Lu, Yunqiao Yang, Zhuofan Zong
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.36903v1</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <category>社交机器人</category><category>社会互动</category><category>人机交互(HCI)</category><category>计算机中介传播</category><category>对话式 AI</category><category>多模态</category><category>语音助手</category><category>社交机器人</category>
+    </item>    <item>
+      <title>AnthroDial：在自主社交互动中评估LLM拟人化</title>
+      <link>https://sr-ai-papers.vercel.app/papers/39815</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39815</guid>
+      <description>📝 AnthroDial：在自主社交互动中评估LLM拟人化
+EN: AnthroDial: Benchmarking LLM Anthropomorphism in Autonomous Social Interaction
+
+💡 研究关注大型语言模型作为社会智能体时，如何实现更可信的拟人化自主社交互动。提出了AnthroDial统一框架，包含支持自主异步通信的MindFlow、评估拟人化认知-情感-行为维度的CAPS-Eval，以及结合环境扩展与能力优化的训练范式。实验验证了该框架在提升交互自主性、自然度及评估有效性方面的作用。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Wentao Liu, Xi Chen, Siyu Song, Biao Yuan, Yu Zhang
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2609.37853v1</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <category>拟社会关系</category><category>拟人化</category><category>社交机器人</category><category>人机交互(HCI)</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category><category>社交机器人</category>
+    </item>    <item>
+      <title>ThuRunel：结构化咨询对话的动态解耦</title>
+      <link>https://sr-ai-papers.vercel.app/papers/39813</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39813</guid>
+      <description>📝 ThuRunel：结构化咨询对话的动态解耦
+EN: ThuRunel: Dynamic Decoupling for Structured Advisory Dialogue
+
+💡 高风险咨询领域（如医美、法律、教育规划）存在早期需共情支持、后期需专业判断的两阶段结构。研究核心挑战是动态解耦：AI顾问如何决定提问内容、何时停止、自主解决哪些问题、何时转接专家。提出ThuRunel系统，结合有限状态信念管理框架、思维链教师合成协议和学习生成适配器。相比11个基线，该系统在信息收集完整性和专家简报质量上均有提升，并已作为双语Web应用部署。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Yuyan Chen
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.36340v1</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI治疗师</category><category>社会支持</category><category>情感支持</category><category>人机交互(HCI)</category><category>人机信任</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
+    </item>    <item>
+      <title>AI介导的心理健康支持：依恋取向与心理困扰的作用</title>
+      <link>https://sr-ai-papers.vercel.app/papers/39396</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39396</guid>
+      <description>📝 AI介导的心理健康支持：依恋取向与心理困扰的作用
+EN: AI-Mediated Mental Health Support: The Role of Attachment Orientation and Psychological Distress
+
+💡 研究探讨了通用生成式AI作为准社会代理，在非正式心理健康支持中的作用。基于584名以色列成年用户的调查发现，29.3%的人曾使用AI寻求情感支持或心理帮助，在严重心理困扰者中这一比例达47.0%。心理困扰是使用的最强预测因素，依恋焦虑与使用的关联在控制困扰后不再显著，依恋回避则呈不显著的负相关。
+
+📚 CBSN · 2026 · 引用 0
+👤 Dorit Hadar Shoval, Elad Refoua, Karny Gigi, Yuval Haber, Inbar Levkovich
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>社会支持</category><category>情感支持</category><category>心理健康</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>AI 治疗师</category>
+    </item>    <item>
       <title>EP-Mem：面向社交关系感知 LLM 代理的弹性隐私内存</title>
       <link>https://sr-ai-papers.vercel.app/papers/39241</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39241</guid>
@@ -67,9 +133,11 @@ EN: From Understanding to Collaboration: Unpacking the Black Box of Collaborati
 💡 研究探讨基层官僚与人工智能之间的协作机制，旨在揭示这一协作过程的“黑箱”。通过理解双方如何从初步认知走向有效合作，研究可能涉及协作模式、信任建立、任务分配及人机交互动态。该研究对于优化公共服务中的人机协作效率与效果具有理论和实践意义。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Jian Wu, Yuxin Liu, Yuang Panwang, Li Liao
+👤 Jian Wu, Yuxin "Myles" Liu, Yuang Panwang, Li Liao
 
-AI 分: 4.0 / 领域分: 3.0</description>
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://doi.org/10.1080/10447318.2026.2734055</description>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>信任</category><category>社会互动</category><category>AI 中介传播</category><category>人机协作</category><category>智能体/Agent</category>
     </item>    <item>
@@ -82,7 +150,7 @@ EN: Does Social Support from Persona-Driven Chatbots Encourage Continued Help-Se
 💡 研究探讨在线心理健康社区中，由角色驱动的聊天机器人提供的社会支持，是否以及如何通过情感缓解机制，鼓励用户持续寻求帮助。核心在于检验情感缓解在聊天机器人的社会支持与用户持续求助行为之间的中介作用，以评估角色化AI在心理健康支持中的长期有效性。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Muhammad Salman Latif, Gang Li, Jian-Jun Wang, Mohsin Shahzad
+👤 Muhammad Salman Latif, Gang Li, Jianjun Wang, Mohsin Shahzad
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
@@ -404,74 +472,6 @@ EN: Negotiated and reciprocal exchange structures in human-agent cooperation
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>信任</category><category>社会互动</category><category>人际关系</category><category>智能体/Agent</category><category>社交机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>英国大型语言模型：公众使用、信任与态度</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36682</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36682</guid>
-      <description>📝 英国大型语言模型：公众使用、信任与态度
-EN: Large Language Models in the UK: Public Use, Trust, and Attitudes
-
-💡 研究调查了英国公众对大型语言模型（LLMs）的使用、信任和态度。通过对2002名成年人的全国代表性样本调查发现，尽管实用任务是最常见的用途，但近三分之一的常规用户会向LLMs寻求个人和情感支持，如倾诉问题或寻求决策帮助。这表明LLMs正从工具性应用扩展到提供社会情感支持的角色。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Florence E. Enock, Helen Z. Margetts
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.28176v1</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社会支持</category><category>情感支持</category><category>信任</category><category>人机交互(HCI)</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>倾听与镜像：言语调适与行为模仿对 VR 中具身 AI 代理社交与共情感知的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36680</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36680</guid>
-      <description>📝 倾听与镜像：言语调适与行为模仿对 VR 中具身 AI 代理社交与共情感知的影响
-EN: Listening and Mirroring: The Effects of Verbal Attunement and Behavioral Mimicry on Social and Empathic Perceptions of Embodied AI Agents in VR
-
-💡 研究探索了在VR环境中，具身AI代理的言语协调和行为模仿如何影响用户的社会和共情感知。通过开发一个结合对话AI与实时面部表情、姿势模仿的具身AI咨询师，并进行2x2被试内实验发现，言语协调是驱动感知共情的最可靠因素，而行为模仿与感知人性化有边际关联，对女性参与者尤其显示出与共情、积极性和人性化的初步正向关联。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Nathalia Gomez, Haig Shamlian, Omar Khan, Tiffany D. Do
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.27246v1</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>共情</category><category>拟人化</category><category>社会临场</category><category>AI治疗师</category><category>对话式 AI</category><category>社交机器人</category><category>多模态</category><category>情感计算</category>
-    </item>    <item>
-      <title>作为 NLP 任务的治疗：比较 LLM 与人类同伴在 CBT 会话中的行为</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36678</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36678</guid>
-      <description>📝 作为 NLP 任务的治疗：比较 LLM 与人类同伴在 CBT 会话中的行为
-EN: Therapy as an NLP Task: Comparing LLMs and Human Peers Behaviors in CBT Sessions
-
-💡 研究比较了大型语言模型（LLMs）与人类同伴咨询师在认知行为疗法（CBT）多轮会话中的行为差异。通过混合方法研究发现，人类咨询师擅长运用关系技巧（如闲聊、自我表露）来解读微妙线索、建立融洽关系并适应来访者文化背景，但常牺牲会话结构和治疗焦点。LLM咨询师则在方法遵循和会话结构上表现更佳，但缺乏人类的关系灵活性，揭示了在AI辅助治疗中技术与关系性之间的权衡。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Zainab Iftikhar, Sean Ransom, Amy Wei Xiao, Nicole R. Nugent, Jeff J. S. Huang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://doi.org/10.1145/3817112</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI治疗师</category><category>共情</category><category>自我表露</category><category>关系形成</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>“看到 Jodie 时我感到放松”：考察虚拟支持者在远程心理治疗中的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/36673</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/36673</guid>
-      <description>📝 “看到 Jodie 时我感到放松”：考察虚拟支持者在远程心理治疗中的影响
-EN: "When I see Jodie, I feel relaxed": Examining the Impact of a Virtual Supporter in Remote Psychotherapy
-
-💡 研究探讨了在Zoom远程心理治疗中引入虚拟支持者的影响。通过两阶段研究，先理解人类支持者的角色，再开发具备日常模式和治疗模式的虚拟支持者。用户研究发现，该虚拟支持者能有效提升心理安全感、降低焦虑、促进情绪表达，且不干扰治疗进程，但也需警惕过度依赖和边界问题。
-
-📚 PACM-HCI · 2026 · 引用 1
-👤 Jiashuo Cao, Chen Li, Wujie Gao, Simon Hoermann, Nilufar Baghaei
-
-AI 分: 4.0 / 领域分: 5.0
-
-📄 PDF: https://doi.org/10.1145/3817039</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI治疗师</category><category>社会支持</category><category>情感支持</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>虚拟助手</category><category>AI 伴侣</category>
     </item>
   </channel>
 </rss>
