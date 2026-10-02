@@ -6,9 +6,118 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Oct 2026 08:35:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:24:03 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>社交机器人调解中的多模态语音活动预测：预期行为与部署约束</title>
+      <link>https://sr-ai-papers.vercel.app/papers/40843</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40843</guid>
+      <description>📝 社交机器人调解中的多模态语音活动预测：预期行为与部署约束
+EN: Multimodal Voice Activity Projection for Social Robot Mediation: Expected Behavior and Deployment Constraints
+
+💡 研究为社交机器人作为人际互动中介设计了一种多模态语音活动预测模型，用于预测对话轮次转换。模型通过同步视听证据预估对话“发言权”的未来演变，并推断保持、转换、预测转换、预测反馈等事件，以支持机器人进行注视准备、积极倾听和保守干预。同时讨论了实时推理、延迟等部署约束。
+
+📚 arXiv · 2026 · 引用 0
+👤 Antonio Cano, Guillermo Pérez, Luis Merino, Randy Gomez
+
+AI 分: 4.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2609.28317</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社交机器人</category><category>社会互动</category><category>人机交互(HCI)</category><category>共情</category><category>社交机器人</category><category>多模态</category><category>情感识别</category><category>人机交互</category>
+    </item>    <item>
+      <title>RealCompanion：基于纵向真实世界对话推理的人类理解基准测试</title>
+      <link>https://sr-ai-papers.vercel.app/papers/40841</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40841</guid>
+      <description>📝 RealCompanion：基于纵向真实世界对话推理的人类理解基准测试
+EN: RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations
+
+💡 研究评估AI伴侣在长期真实对话中理解人类的能力。基于10段真实人机对话记录（共27,218条消息），构建包含个人资料、问答的基准测试。核心发现：对话中极少需要调用遥远记忆，95.9%的提问仅需近期消息；现有系统难以判断何时需要记忆，人工标注可显著提升记忆使用率；不同AI系统重建用户画像的准确率相近，但成本差异高达31倍。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Arman Behnam, Sunglyoung Kim, Liangwei Yang
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.01780v1</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>人际关系</category><category>聊天机器人</category><category>对话式AI</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category><category>智能体/Agent</category>
+    </item>    <item>
+      <title>设计与评估用于教育任务的苏格拉底式支架对话AI助手：跨群体有效性、用户感知与努力特征</title>
+      <link>https://sr-ai-papers.vercel.app/papers/40498</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40498</guid>
+      <description>📝 设计与评估用于教育任务的苏格拉底式支架对话AI助手：跨群体有效性、用户感知与努力特征
+EN: Designing and Evaluating a Socratic-Scaffolded Conversational AI Assistant for Educational Tasks: Cross-Cohort Effectiveness, User Perception, and the Effort Signature
+
+💡 研究设计并评估一种采用苏格拉底式支架教学法的对话式AI助手在教育任务中的应用。通过跨群体实验，考察其有效性、用户感知以及用户投入的“努力特征”。核心关注该AI助手如何通过引导式提问促进学习，以及不同用户群体对其的接受度和使用体验差异。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Kuei-Hao Li, Chia-Kai Chang
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>对话式AI</category><category>人机交互(HCI)</category><category>教育</category><category>人机协作</category><category>对话式 AI</category><category>聊天机器人</category><category>虚拟助手</category><category>人机协作</category>
+    </item>    <item>
+      <title>被完美注视：AI伴侣系统中的情感捕获、关系风险与自视镜效应</title>
+      <link>https://sr-ai-papers.vercel.app/papers/40441</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40441</guid>
+      <description>📝 被完美注视：AI伴侣系统中的情感捕获、关系风险与自视镜效应
+EN: Being perfectly seen: Affective capture, relational risk, and the Autopticon effect in AI companion systems
+
+💡 探讨AI伴侣系统中的“自视镜”效应，即用户因被AI完美“看见”和情感捕获而面临的关系风险。分析这种持续、全面的可见性如何塑造用户与AI的亲密关系，可能引发的情感依赖、自我表露过度及隐私侵蚀等问题。核心在于揭示AI伴侣在提供陪伴的同时所隐含的监控与权力动态。
+
+📚 TI · 2026 · 引用 0
+👤 Shiyi Zhang, Shiyu (Sharon) Zheng
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>人机亲密关系</category><category>隐私</category><category>伦理</category><category>情感连接</category><category>AI 伴侣</category><category>社交机器人</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>程序化之梦：中国聊天机器人审查的技术志探究</title>
+      <link>https://sr-ai-papers.vercel.app/papers/40431</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40431</guid>
+      <description>📝 程序化之梦：中国聊天机器人审查的技术志探究
+EN: Programmatic Dreams: Technographic Inquiry into Censorship of Chinese Chatbots
+
+💡 研究探讨腾讯微信平台上中国AI聊天机器人遭遇的审查现象。采用技术民族志方法，将机器人视为对话者和信息提供者，通过与其交谈来理解其设计意图。研究发现，对聊天机器人的这种探究方法，可能揭示中国审查机器内部的裂痕与缺陷，从而为颠覆性空间提供可能。研究不仅关注AI驱动未来中人性的界限，也提出了在人机交互中构想新研究模式的方法论关切。
+
+📚 SMS · 2018 · 引用 10
+👤 Yizhou (Joe) Xu
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>聊天机器人</category><category>AI治理</category><category>伦理</category><category>计算机中介传播</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 治理</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>社交焦虑对机器人训练伙伴采纳的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/40423</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40423</guid>
+      <description>📝 社交焦虑对机器人训练伙伴采纳的影响
+EN: Effect of Social Anxiety on the Adoption of Robotic Training Partner
+
+💡 研究考察社交焦虑对机器人训练伙伴采纳意愿的影响。发现社交焦虑程度高的大学生更倾向于选择机器人而非人类作为训练伙伴。中介分析表明，与机器人训练伙伴相处时的放松感，中介了社交焦虑对采纳意愿的正向影响。研究指出开发训练机器人对商业利益和社交焦虑者健康均有意义。
+
+📚 CBSN · 2021 · 引用 17
+👤 Dong Hong Zhu, Zhong Zhun Deng
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社交机器人</category><category>孤独感</category><category>社会支持</category><category>人际关系</category><category>社交机器人</category><category>AI 伴侣</category><category>情感支持</category>
+    </item>    <item>
+      <title>促进者还是幻觉陷阱？生成式AI辅助二语写作中AI生成错误信息处理的社会认知解释</title>
+      <link>https://sr-ai-papers.vercel.app/papers/40390</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40390</guid>
+      <description>📝 促进者还是幻觉陷阱？生成式AI辅助二语写作中AI生成错误信息处理的社会认知解释
+EN: Facilitator or Hallucination Trap? A Social-Cognitive Account of AI-Generated Misinformation Handling in GenAI-Assisted L2 Writing
+
+💡 研究探讨在生成式AI辅助的第二语言写作中，AI是作为信息处理的促进者，还是导致错误信息处理的幻觉陷阱。基于社会认知理论，分析学习者如何处理AI生成的可能错误信息，揭示了人机协作中认知与社会因素对信息评估与采纳的影响。
+
+📚 CHB · 2026 · 引用 0
+👤 Yilong Yang, Jia Li, Yadan Li, Shuyi Zhang, Kai Guo
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>计算机中介传播</category><category>AI治理</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>AI 中介传播</category>
+    </item>    <item>
       <title>超越模式崩溃：通过生成流网络生成多样化的合成专家对话</title>
       <link>https://sr-ai-papers.vercel.app/papers/40296</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40296</guid>
@@ -380,113 +489,6 @@ EN: The Impact of Algorithmic Risk Assessments on Human Predictions and its Anal
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>人机协作</category><category>AI治理</category><category>伦理</category><category>推荐算法</category><category>AI 治理</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>具有意图的对象</title>
-      <link>https://sr-ai-papers.vercel.app/papers/38776</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/38776</guid>
-      <description>📝 具有意图的对象
-EN: Objects with Intent
-
-💡 研究提出“有意图的物体”作为人机交互中新兴的智能体类型，其智能与能动性植根于日常物品的意义之中。文章回顾了相关研究，阐述了OwI如何为人-智能体交互提供新视角，并借鉴丹尼特的意向性理论和列昂捷夫的活动理论进行理论构建。通过设计案例Fizzy（一个用于激励住院儿童进行身体玩耍的机器人球）加以说明。最后讨论了OwI的性质、价值及设计挑战。
-
-📚 TOCHI · 2019 · 引用 58
-👤 Marco C. Rozendaal, Boudewijn Boon, Victor Kaptelinin
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>社会临场</category><category>人机交互(HCI)</category><category>儿童/老人/无障碍</category><category>社交机器人</category><category>智能体/Agent</category><category>人机交互</category>
-    </item>    <item>
-      <title>自主道德：心智推断预测牺牲性道德困境中 AI 行为的接受度</title>
-      <link>https://sr-ai-papers.vercel.app/papers/37907</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37907</guid>
-      <description>📝 自主道德：心智推断预测牺牲性道德困境中 AI 行为的接受度
-EN: Autonomous morals: Inferences of mind predict acceptance of AI behavior in sacrificial moral dilemmas
-
-💡 研究探讨在牺牲性道德困境中，人们如何根据对AI心智的推断来决定是否接受其行为。核心发现是，当人们认为AI具有类似人类的思维（如意图、情感）时，更可能接受其做出的道德决策，这表明对AI心智的感知是影响人机道德互动接受度的关键因素。
-
-📚 JESP · 2019 · 引用 79
-👤 April D. Young, Andrew E. Monroe
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>信任</category><category>拟人化</category><category>人机交互(HCI)</category><category>AI 伦理</category><category>可解释 AI</category><category>智能体/Agent</category>
-    </item>    <item>
-      <title>指导抑或准则？解构生成式AI在传播科学中的应用与隐忧</title>
-      <link>https://sr-ai-papers.vercel.app/papers/37681</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37681</guid>
-      <description>📝 指导抑或准则？解构生成式AI在传播科学中的应用与隐忧
-EN: Guidance over guidelines? Unpacking the uses and concerns of generative AI in communication science
-
-💡 该研究探讨生成式人工智能在传播科学领域的应用与潜在问题，对比了具体指导与抽象准则的实际效用差异，旨在揭示该技术在学术研究与实践中的采纳模式及其引发的伦理与治理关切。
-
-📚 ICS · 2026 · 引用 0
-👤 Justin Chun‐ting Ho, Hannes Cools, Joanna Strycharz, A. Marthe Möller, Zeph M. C. van Berlo
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1080/1369118x.2026.2736810</description>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>伦理</category><category>计算机中介传播</category><category>AI中介传播</category><category>GenAI</category><category>LLM</category><category>AI伦理</category><category>AI治理</category>
-    </item>    <item>
-      <title>LENS—LLM对新闻审查的影响：AI中介新闻中的影响、委托与记忆</title>
-      <link>https://sr-ai-papers.vercel.app/papers/37648</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37648</guid>
-      <description>📝 LENS—LLM对新闻审查的影响：AI中介新闻中的影响、委托与记忆
-EN: LENS—LLM Effects on News Scrutiny: Influence, Delegation, and Memory in AI-Mediated News
-
-💡 研究聚焦于大型语言模型如何影响用户对新闻的审视行为，探讨了AI在新闻消费中介入后，对用户的影响力感知、信息核查责任的委托以及相关记忆形成等关键心理与行为机制的变化。
-
-📚 CBSN · 2026 · 引用 0
-👤 Lorenzo Reina, Stefania La Rocca, Federico Longoni, Giuseppe Riva
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>社交媒体</category><category>计算机中介传播</category><category>网络心理学</category><category>LLM</category><category>聊天机器人</category><category>对话式AI</category><category>AI中介传播</category>
-    </item>    <item>
-      <title>利用自动智能体提升非母语者在多语言群体中的参与度</title>
-      <link>https://sr-ai-papers.vercel.app/papers/37543</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37543</guid>
-      <description>📝 利用自动智能体提升非母语者在多语言群体中的参与度
-EN: Improving Non-Native Speakers' Participation with an Automatic Agent in Multilingual Groups
-
-💡 研究开发并测试一种对话智能体，旨在改善非母语者在多语言小组讨论中的参与度。实验发现，当母语者连续发言一定轮次后自动介入的智能体，能有效鼓励非母语者发言，但母语者可能因感知不公而反感这种打断。结果凸显了干预的必要性及设计挑战。
-
-📚 PACM-HCI · 2022 · 引用 27
-👤 Xiaoyan Li, Naomi Yamashita, Wen Duan, Yoshinari Shirai, Susan R. Fussell
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>社会互动</category><category>人机协作</category><category>计算机中介传播</category><category>对话式 AI</category><category>智能体/Agent</category><category>人机协作</category><category>聊天机器人</category>
-    </item>    <item>
-      <title>“你设想的未来是什么？”：迈向哮喘护理数据工作中的人机协同增效</title>
-      <link>https://sr-ai-papers.vercel.app/papers/37523</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37523</guid>
-      <description>📝 “你设想的未来是什么？”：迈向哮喘护理数据工作中的人机协同增效
-EN: "What is Your Envisioned Future?": Toward Human-AI Enrichment in Data Work of Asthma Care
-
-💡 研究探讨哮喘护理中，医护人员如何设想未来AI系统利用患者生成健康数据进行协作。通过访谈20名医护人员，发现他们期望AI能分析数据以评估风险和预测病情恶化，但也担忧AI可能导致数据不平等、增加负担、缺乏信任及替代风险。医护人员期望一种相互依存的人机协作未来，AI提升临床实践，而人类则使AI输出更可信和人性化。研究基于数据女性主义视角，强调设计人机互惠系统前需考虑情境和协调复杂的人类基础设施。
-
-📚 PACM-HCI · 2022 · 引用 22
-👤 Zhaoyuan Su, Lu He, Sunit P Jariwala, Kai Zheng, Yunan Chen
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>AI治理</category><category>医疗健康</category><category>AI 中介传播</category><category>人机协作</category><category>AI 治理</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>魔法画笔：一种基于AI、聚焦内在动机的痴呆症预防服务</title>
-      <link>https://sr-ai-papers.vercel.app/papers/37495</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/37495</guid>
-      <description>📝 魔法画笔：一种基于AI、聚焦内在动机的痴呆症预防服务
-EN: Magic Brush: An AI-based Service for Dementia Prevention focused on Intrinsic Motivation
-
-💡 研究提出基于AI的应用“Magic Brush”，旨在通过增强内在动机来预防中年人群的痴呆症。依据自我决定理论，设计聚焦于自主性、能力和关联性三大内在动机要素，并特别针对老年人常见的低能力感导致的动机缺失，开发了基于神经风格迁移技术的“魔法画笔”功能以打破此链接。针对50岁以上用户的混合方法研究表明，用户体验积极，结构方程模型分析显示内在动机与感知有用性共同影响使用意愿，且AI治疗师的亲和力及对自身表现的感知能促进内在动机。
-
-📚 PACM-HCI · 2022 · 引用 5
-👤 Migyeong Yang, Kyungha Lee, Eunji Kim, Yeosol Song, Sewang Lee
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI治疗师</category><category>内在动机</category><category>老年人/无障碍</category><category>健康干预</category><category>AI 治疗师</category><category>GenAI</category><category>图像生成</category><category>情感计算</category>
     </item>
   </channel>
 </rss>
