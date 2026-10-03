@@ -6,9 +6,24 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2026 08:24:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 07:51:16 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>部分自动化在提升数字游戏可及性中的作用</title>
+      <link>https://sr-ai-papers.vercel.app/papers/41126</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/41126</guid>
+      <description>📝 部分自动化在提升数字游戏可及性中的作用
+EN: The Role of Partial Automation in Increasing the Accessibility of Digital Games
+
+💡 数字游戏通常依赖特定硬件操作，对运动障碍玩家构成障碍。研究引入“部分自动化”作为可及性技术，将玩家无法完成的游戏输入委托给AI伙伴执行。该方法是对通用设计、玩家平衡和界面适配等现有方案的补充。通过在两个脊髓损伤康复游戏中演示，六名运动能力各异的参与者均能成功游玩。参与者欣赏其带来的个性化体验，但也对AI行为的某些方面感到困惑。
+
+📚 PACM-HCI · 2021 · 引用 21
+👤 Gabriele Cimolino, Sussan Askari, T.C. Nicholas Graham
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <category>无障碍</category><category>人机协作</category><category>社会支持</category><category>人机交互(HCI)</category><category>AI 伴侣</category><category>人机协作</category><category>智能体/Agent</category>
+    </item>    <item>
       <title>社交机器人调解中的多模态语音活动预测：预期行为与部署约束</title>
       <link>https://sr-ai-papers.vercel.app/papers/40843</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40843</guid>
@@ -474,21 +489,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2609.30780v1</description>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <category>拟人化</category><category>人机亲密关系</category><category>AI治理</category><category>伦理</category><category>对话式 AI</category><category>GenAI</category><category>AI 伴侣</category><category>AI 治理</category>
-    </item>    <item>
-      <title>算法风险评估对人类预测的影响及其众包研究分析</title>
-      <link>https://sr-ai-papers.vercel.app/papers/38789</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/38789</guid>
-      <description>📝 算法风险评估对人类预测的影响及其众包研究分析
-EN: The Impact of Algorithmic Risk Assessments on Human Predictions and its Analysis via Crowdsourcing Studies
-
-💡 研究探讨算法风险评估工具（RAI）对人工预测的影响。通过众包实验，让非专业人士根据小故事预测再逮捕可能性。发现：1）参与者常在主观评估再逮捕概率远低于50%时仍预测会再逮捕；2）参与者未锚定RAI的预测；3）参与者决策时间差异大，多数评估在10秒内完成；4）与参与者预测不同，司法判决部分取决于与再逮捕可能性无关的因素。研究揭示了众包研究设计的关键影响和可推广性挑战。
-
-📚 PACM-HCI · 2021 · 引用 23
-👤 Riccardo Fogliato, Alexandra Chouldechova, Zachary Lipton
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机协作</category><category>AI治理</category><category>伦理</category><category>推荐算法</category><category>AI 治理</category><category>AI 伦理</category>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-02T08:24:03.875885Z",
+  "generated_at": "2026-10-03T07:51:16.788482Z",
   "totals": {
-    "papers_indexed": 40852,
-    "papers_scored": 24342,
-    "papers_ai_relevant": 2148
+    "papers_indexed": 41126,
+    "papers_scored": 24542,
+    "papers_ai_relevant": 2149
   },
   "journals": [
     {
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcmc",
-      "papers_indexed": 648,
+      "papers_indexed": 656,
       "papers_ai_relevant": 24
     },
     {
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/nms",
-      "papers_indexed": 2343,
+      "papers_indexed": 2349,
       "papers_ai_relevant": 65
     },
     {
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/computers-in-human-behavior",
-      "papers_indexed": 5838,
+      "papers_indexed": 5872,
       "papers_ai_relevant": 254
     },
     {
@@ -62,7 +62,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/crx",
-      "papers_indexed": 877,
+      "papers_indexed": 889,
       "papers_ai_relevant": 10
     },
     {
@@ -76,7 +76,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/hcr",
-      "papers_indexed": 605,
+      "papers_indexed": 616,
       "papers_ai_relevant": 6
     },
     {
@@ -91,7 +91,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.liebertpub.com/loi/cyber",
-      "papers_indexed": 1308,
+      "papers_indexed": 1312,
       "papers_ai_relevant": 52
     },
     {
@@ -106,7 +106,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.tandfonline.com/journals/hmed20",
-      "papers_indexed": 471,
+      "papers_indexed": 473,
       "papers_ai_relevant": 4
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/sms",
-      "papers_indexed": 1165,
+      "papers_indexed": 1169,
       "papers_ai_relevant": 23
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/telematics-and-informatics",
-      "papers_indexed": 993,
+      "papers_indexed": 1002,
       "papers_ai_relevant": 48
     },
     {
@@ -151,7 +151,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.tandfonline.com/journals/rics20",
-      "papers_indexed": 1679,
+      "papers_indexed": 1689,
       "papers_ai_relevant": 30
     },
     {
@@ -166,7 +166,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/mmc",
-      "papers_indexed": 300,
+      "papers_indexed": 301,
       "papers_ai_relevant": 4
     },
     {
@@ -180,7 +180,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.tandfonline.com/journals/hihc20",
-      "papers_indexed": 4004,
+      "papers_indexed": 4020,
       "papers_ai_relevant": 559
     },
     {
@@ -195,7 +195,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/spr",
-      "papers_indexed": 1567,
+      "papers_indexed": 1576,
       "papers_ai_relevant": 10
     },
     {
@@ -209,7 +209,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14756811",
-      "papers_indexed": 615,
+      "papers_indexed": 617,
       "papers_ai_relevant": 2
     },
     {
@@ -223,7 +223,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.apa.org/pubs/journals/psp",
-      "papers_indexed": 6609,
+      "papers_indexed": 6678,
       "papers_ai_relevant": 12
     },
     {
@@ -237,7 +237,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/psp",
-      "papers_indexed": 3144,
+      "papers_indexed": 3180,
       "papers_ai_relevant": 4
     },
     {
@@ -251,7 +251,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/spp",
-      "papers_indexed": 992,
+      "papers_indexed": 997,
       "papers_ai_relevant": 3
     },
     {
@@ -265,7 +265,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/journal-of-experimental-social-psychology",
-      "papers_indexed": 2498,
+      "papers_indexed": 2526,
       "papers_ai_relevant": 9
     },
     {
@@ -279,7 +279,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://dl.acm.org/journal/tochi",
-      "papers_indexed": 777,
+      "papers_indexed": 781,
       "papers_ai_relevant": 30
     },
     {
@@ -368,8 +368,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://dl.acm.org/journal/pacmhci",
-      "papers_indexed": 3111,
-      "papers_ai_relevant": 280
+      "papers_indexed": 3115,
+      "papers_ai_relevant": 281
     },
     {
       "abbr": "APS",
@@ -412,7 +412,7 @@
       "2018": 6,
       "2019": 24,
       "2020": 38,
-      "2021": 86,
+      "2021": 87,
       "2022": 129,
       "2023": 240,
       "2024": 317,
@@ -423,7 +423,7 @@
     "journals": {
       "IJHCI": 559,
       "arXiv:cs.HC": 366,
-      "PACM-HCI": 280,
+      "PACM-HCI": 281,
       "CHB": 254,
       "arXiv:cs.CL": 141,
       "arXiv": 90,
@@ -455,7 +455,7 @@
       "arXiv:cs.MM": 1
     },
     "topic_tags": {
-      "人机交互(HCI)": 1255,
+      "人机交互(HCI)": 1256,
       "拟人化": 614,
       "信任": 464,
       "人机信任": 432,
@@ -464,12 +464,12 @@
       "情感支持": 284,
       "AI治理": 280,
       "社会互动": 267,
-      "人机协作": 261,
+      "人机协作": 262,
       "社交机器人": 256,
       "社会临场": 241,
       "聊天机器人": 229,
+      "社会支持": 212,
       "AI伴侣/陪伴": 211,
-      "社会支持": 211,
       "情感连接": 211,
       "共情": 195,
       "AI伦理": 188,
@@ -512,13 +512,13 @@
       "聊天机器人": 563,
       "GenAI": 562,
       "社交机器人": 443,
-      "智能体/Agent": 403,
+      "智能体/Agent": 404,
       "人机交互": 369,
-      "人机协作": 241,
+      "人机协作": 242,
       "对话式AI": 211,
       "多模态": 205,
       "AI 伦理": 158,
-      "AI 伴侣": 139,
+      "AI 伴侣": 140,
       "推荐算法": 131,
       "ChatGPT": 127,
       "AI 治理": 125,
