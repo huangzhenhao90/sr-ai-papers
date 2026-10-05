@@ -6,9 +6,41 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 04 Oct 2026 08:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:40:18 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>DyadMem：智能体与用户协作的长期记忆基准</title>
+      <link>https://sr-ai-papers.vercel.app/papers/41942</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/41942</guid>
+      <description>📝 DyadMem：智能体与用户协作的长期记忆基准
+EN: DyadMem: A Long-Term Memory Benchmark of How Agents Work with Users
+
+💡 研究智能体如何在与用户的长期互动中形成并维护关系性记忆。提出用户条件关系智能体记忆新定义，并构建DyadMem基准，包含多会话轨迹中的用户记忆与关系记忆联合标注。评估发现，主流大模型在黄金记忆问答上表现良好，但在包含记忆捕获与更新的全流程任务中性能骤降，揭示了现有模型在关系记忆捕获、完整性及安全删除方面的不足。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Yifei Tao, Xinyu Zhong, Henry Hengyuan Zhao, Fanyi Wang, Tengda Guo
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.03020v1</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>关系形成</category><category>关系维系</category><category>信任</category><category>LLM</category><category>智能体/Agent</category><category>对话式 AI</category><category>AI 伴侣</category>
+    </item>    <item>
+      <title>人工智能客服令人满意吗？基于微博数据与用户访谈的洞察</title>
+      <link>https://sr-ai-papers.vercel.app/papers/41656</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/41656</guid>
+      <description>📝 人工智能客服令人满意吗？基于微博数据与用户访谈的洞察
+EN: Is Artificial Intelligence Customer Service Satisfactory? Insights Based on Microblog Data and User Interviews
+
+💡 探究消费者对AI客服的满意度。通过微博数据分析与用户访谈发现，消费者对AI客服的总体态度比人工客服更负面，不满主要源于其解决问题能力差、响应不及时及缺乏人情味。正面反馈则多与语音特质和服务态度相关。研究同时发现，消费者认为AI客服具有一定拟人性和缓解社交压力的作用。
+
+📚 CBSN · 2022 · 引用 27
+👤 Tengfei Zhao, Jingjing Cui, Jiayu Hu, Yan Dai, Yang Zhou
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <category>聊天机器人</category><category>社会支持</category><category>拟人化</category><category>信任</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 中介传播</category><category>情感识别</category>
+    </item>    <item>
       <title>社会临场感是否提升感知能力？</title>
       <link>https://sr-ai-papers.vercel.app/papers/41570</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/41570</guid>
@@ -162,6 +194,21 @@ EN: Facilitator or Hallucination Trap? A Social-Cognitive Account of AI-Generate
 AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>信任</category><category>计算机中介传播</category><category>AI治理</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>与虚拟人对话：合成情感与人类反应</title>
+      <link>https://sr-ai-papers.vercel.app/papers/40368</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40368</guid>
+      <description>📝 与虚拟人对话：合成情感与人类反应
+EN: Conversations with a virtual human: Synthetic emotions and human responses
+
+💡 探讨虚拟人类（如聊天机器人或虚拟伴侣）表达合成情绪时，人类的反应模式。研究聚焦于人机互动中，由AI生成的情感表达如何影响用户的感知、情感连接及互动行为，涉及社会临场感、共情与人际关系形成等议题。
+
+📚 CHB · 2014 · 引用 45
+👤 Chao Qu, Willem-Paul Brinkman, Yun Ling, Pascal Wiggers, Ingrid Heynderickx
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>虚拟伴侣</category><category>情感连接</category><category>共情</category><category>社会临场</category><category>聊天机器人</category><category>对话式 AI</category><category>虚拟助手</category><category>情感计算</category>
     </item>    <item>
       <title>超越模式崩溃：通过生成流网络生成多样化的合成专家对话</title>
       <link>https://sr-ai-papers.vercel.app/papers/40296</link>
@@ -440,53 +487,6 @@ EN: One Voice Fits All?
 AI 分: 3.0 / 领域分: 5.0</description>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <category>拟人化</category><category>社会临场</category><category>人机交互(HCI)</category><category>性别</category><category>语音助手</category><category>对话式 AI</category><category>社交机器人</category>
-    </item>    <item>
-      <title>从理解到协作：解构街头官僚与人工智能协作的黑箱</title>
-      <link>https://sr-ai-papers.vercel.app/papers/38976</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/38976</guid>
-      <description>📝 从理解到协作：解构街头官僚与人工智能协作的黑箱
-EN: From Understanding to Collaboration: Unpacking the Black Box of Collaboration Between Street-Level Bureaucrats and Artificial Intelligence
-
-💡 研究探讨基层官僚与人工智能之间的协作机制，旨在揭示这一协作过程的“黑箱”。通过理解双方如何从初步认知走向有效合作，研究可能涉及协作模式、信任建立、任务分配及人机交互动态。该研究对于优化公共服务中的人机协作效率与效果具有理论和实践意义。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Jian Wu, Yuxin "Myles" Liu, Yuang Panwang, Li Liao
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://doi.org/10.1080/10447318.2026.2734055</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>社会互动</category><category>AI 中介传播</category><category>人机协作</category><category>智能体/Agent</category>
-    </item>    <item>
-      <title>角色驱动聊天机器人的社会支持是否鼓励持续求助？在线心理健康社区中的情绪缓解作用</title>
-      <link>https://sr-ai-papers.vercel.app/papers/38973</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/38973</guid>
-      <description>📝 角色驱动聊天机器人的社会支持是否鼓励持续求助？在线心理健康社区中的情绪缓解作用
-EN: Does Social Support from Persona-Driven Chatbots Encourage Continued Help-Seeking? The Role of Emotional Relief in Online Mental Health Communities
-
-💡 研究探讨在线心理健康社区中，由角色驱动的聊天机器人提供的社会支持，是否以及如何通过情感缓解机制，鼓励用户持续寻求帮助。核心在于检验情感缓解在聊天机器人的社会支持与用户持续求助行为之间的中介作用，以评估角色化AI在心理健康支持中的长期有效性。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Muhammad Salman Latif, Gang Li, Jianjun Wang, Mohsin Shahzad
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>社会支持</category><category>情感支持</category><category>在线社群</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 治疗师</category><category>情感计算</category>
-    </item>    <item>
-      <title>AI 能否成为内容生成器？内容生成器与信息传递方式对消费者心理的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/38927</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/38927</guid>
-      <description>📝 AI 能否成为内容生成器？内容生成器与信息传递方式对消费者心理的影响
-EN: Can AI be a content generator? Effects of content generators and information delivery methods on the psychology of content consumers
-
-💡 （根据标题推断）研究探讨了AI作为内容生成者，以及不同信息传递方式，对内容消费者心理的影响。可能通过实验等方法，比较AI生成内容与人类生成内容，或不同呈现方式（如文本、音频、视频），如何影响消费者的感知、态度、信任或行为意图，以理解AI在内容生产与传播中的角色及其心理效应。
-
-📚 TI · 2020 · 引用 38
-👤 Jina Kim, Soyeon Shin, Kunwoo Bae, Soyoung Oh, Eunil Park
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>拟人化</category><category>社会互动</category><category>网络心理学</category><category>GenAI</category><category>LLM</category><category>对话式 AI</category><category>AI 中介传播</category>
     </item>
   </channel>
 </rss>
