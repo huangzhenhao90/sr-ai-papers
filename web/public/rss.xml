@@ -6,9 +6,103 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 05 Oct 2026 08:40:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:48:22 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>主动式人工智能：从对话轮次到可重规划的对话时间线</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42443</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42443</guid>
+      <description>📝 主动式人工智能：从对话轮次到可重规划的对话时间线
+EN: Proactive AI: From Turns to Replannable Dialogue Timelines
+
+💡 针对传统LLM聊天界面被动响应的局限，提出“主动式AI”框架，将对话视为连续时间线，管理可重新规划的待发送消息队列。该框架允许AI在无新请求时主动发起交流、进行持续跟进，并能在上下文变化时修订、撤回或执行已计划的对话行为，从而模拟人类异步通信的灵活性。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Zijie Yang
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.05159v1</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>对话式AI</category><category>人机交互(HCI)</category><category>社会互动</category><category>计算机中介传播</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>智能体/Agent</category>
+    </item>    <item>
+      <title>心智感知对人工智能陪伴性感知的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42442</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42442</guid>
+      <description>📝 心智感知对人工智能陪伴性感知的影响
+EN: Mind Perception Influences Perceived AI Companionability
+
+💡 研究检验心智感知（感知AI具有能动性或体验性）是否影响人类对AI伴侣的陪伴感。通过实验操纵对AI的心智描述，发现能动性心智感知预测了AI作为提升自我资源的潜力，而体验性心智感知预测了其作为协调陪伴的潜力。生命意义感调节了能动性感知与陪伴感的关系，但仅对已有较高存在目的者有效。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Jaime Banks, Zhixin Li
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.06681v1</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>拟人化</category><category>心智感知</category><category>社会支持</category><category>AI 伴侣</category><category>聊天机器人</category><category>对话式 AI</category><category>社交机器人</category>
+    </item>    <item>
+      <title>角色情境化视觉决策支持：会话推荐界面中适老化家具的信任与决策信心评估路径</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42120</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42120</guid>
+      <description>📝 角色情境化视觉决策支持：会话推荐界面中适老化家具的信任与决策信心评估路径
+EN: Role-Contingent Visual Decision Support for Age-Friendly Furniture in Conversational Recommendation Interfaces: Appraisal Pathways to Trust and Decision Confidence
+
+💡 研究探讨在对话式推荐界面中，如何通过角色相关的视觉决策支持，帮助老年人选择适老家具，以提升其对系统的信任和决策信心。方法涉及设计特定角色（如老年人）的视觉辅助，并评估其对信任和信心的影响路径。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Mingzhu Li, Junjie Shu, Fangyuan Chang, Tao Peng, Xingyan Chen
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>信任</category><category>社会支持</category><category>老人/无障碍</category><category>对话式 AI</category><category>推荐算法</category><category>人机交互</category>
+    </item>    <item>
+      <title>人机任务型通信中解释与论证的透明度机制</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42110</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42110</guid>
+      <description>📝 人机任务型通信中解释与论证的透明度机制
+EN: Transparency through Explanations and Justifications in Human-Robot Task-Based Communications
+
+💡 研究在人与机器人基于任务的沟通中，提供解释和理由如何影响透明度。方法未明确，但标题暗示关注人机交互中的沟通清晰度与可理解性。核心发现指向解释和理由作为提升人机协作透明度的关键机制。
+
+📚 IJHCI · 2022 · 引用 20
+👤 Matthias Scheutz, Ravenna Thielstrom, Mitchell Abrams
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>信任</category><category>社会互动</category><category>可解释 AI</category><category>社交机器人</category><category>人机交互</category><category>可解释 AI</category>
+    </item>    <item>
+      <title>“Crystal 令人不安却酷炫”：自动化人格识别算法的民间理论与响应映射</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42076</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42076</guid>
+      <description>📝 “Crystal 令人不安却酷炫”：自动化人格识别算法的民间理论与响应映射
+EN: “Crystal Is Creepy, but Cool”: Mapping Folk Theories and Responses to Automated Personality Recognition Algorithms
+
+💡 研究公众对Crystal Knows等自动化人格识别算法的民间理论构建与反应。通过向37名参与者展示其算法生成的人格画像并进行定性访谈，探究他们如何从数据来源、范围、收集过程和输出四个维度解释算法运作，以及这些民间理论如何引发特定反应、恐惧和合理化行为。
+
+📚 SMS · 2021 · 引用 16
+👤 Tony Liao, Olivia Tyson
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>算法透明度</category><category>隐私</category><category>信任</category><category>社交媒体</category><category>推荐算法</category><category>情感识别</category><category>AI 治理</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>人工智能更安全：个人信息类型与代理对隐私风险感知与担忧的交互影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42067</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42067</guid>
+      <description>📝 人工智能更安全：个人信息类型与代理对隐私风险感知与担忧的交互影响
+EN: Artificial Intelligence Is Safer for My Privacy: Interplay Between Types of Personal Information and Agents on Perceived Privacy Risk and Concerns
+
+💡 探讨个人信息类型（数字生活、数字足迹、自我表达、人口统计）与信息接收方（人类 vs. AI）如何影响用户的隐私风险感知与担忧。研究发现，当向人类而非AI提供数字生活和数字足迹信息时，用户的隐私风险感知和担忧最高；对于自我表达和人口统计信息，则无显著差异。
+
+📚 CBSN · 2022 · 引用 10
+👤 Jungwon Kim, Yongjun Sung
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>隐私</category><category>信任</category><category>人机交互(HCI)</category><category>AI伦理</category><category>AI 治理</category><category>AI 伦理</category><category>聊天机器人</category><category>对话式 AI</category>
+    </item>    <item>
       <title>DyadMem：智能体与用户协作的长期记忆基准</title>
       <link>https://sr-ai-papers.vercel.app/papers/41942</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/41942</guid>
@@ -387,106 +481,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2609.36903v1</description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <category>社交机器人</category><category>社会互动</category><category>人机交互(HCI)</category><category>计算机中介传播</category><category>对话式 AI</category><category>多模态</category><category>语音助手</category><category>社交机器人</category>
-    </item>    <item>
-      <title>AnthroDial：在自主社交互动中评估LLM拟人化</title>
-      <link>https://sr-ai-papers.vercel.app/papers/39815</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39815</guid>
-      <description>📝 AnthroDial：在自主社交互动中评估LLM拟人化
-EN: AnthroDial: Benchmarking LLM Anthropomorphism in Autonomous Social Interaction
-
-💡 研究关注大型语言模型作为社会智能体时，如何实现更可信的拟人化自主社交互动。提出了AnthroDial统一框架，包含支持自主异步通信的MindFlow、评估拟人化认知-情感-行为维度的CAPS-Eval，以及结合环境扩展与能力优化的训练范式。实验验证了该框架在提升交互自主性、自然度及评估有效性方面的作用。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Wentao Liu, Xi Chen, Siyu Song, Biao Yuan, Yu Zhang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.37853v1</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <category>拟社会关系</category><category>拟人化</category><category>社交机器人</category><category>人机交互(HCI)</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category><category>社交机器人</category>
-    </item>    <item>
-      <title>ThuRunel：结构化咨询对话的动态解耦</title>
-      <link>https://sr-ai-papers.vercel.app/papers/39813</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39813</guid>
-      <description>📝 ThuRunel：结构化咨询对话的动态解耦
-EN: ThuRunel: Dynamic Decoupling for Structured Advisory Dialogue
-
-💡 高风险咨询领域（如医美、法律、教育规划）存在早期需共情支持、后期需专业判断的两阶段结构。研究核心挑战是动态解耦：AI顾问如何决定提问内容、何时停止、自主解决哪些问题、何时转接专家。提出ThuRunel系统，结合有限状态信念管理框架、思维链教师合成协议和学习生成适配器。相比11个基线，该系统在信息收集完整性和专家简报质量上均有提升，并已作为双语Web应用部署。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Yuyan Chen
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.36340v1</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI治疗师</category><category>社会支持</category><category>情感支持</category><category>人机交互(HCI)</category><category>人机信任</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>AI介导的心理健康支持：依恋取向与心理困扰的作用</title>
-      <link>https://sr-ai-papers.vercel.app/papers/39396</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39396</guid>
-      <description>📝 AI介导的心理健康支持：依恋取向与心理困扰的作用
-EN: AI-Mediated Mental Health Support: The Role of Attachment Orientation and Psychological Distress
-
-💡 研究探讨了通用生成式AI作为准社会代理，在非正式心理健康支持中的作用。基于584名以色列成年用户的调查发现，29.3%的人曾使用AI寻求情感支持或心理帮助，在严重心理困扰者中这一比例达47.0%。心理困扰是使用的最强预测因素，依恋焦虑与使用的关联在控制困扰后不再显著，依恋回避则呈不显著的负相关。
-
-📚 CBSN · 2026 · 引用 1
-👤 Dorit Hadar Shoval, Elad Refoua, Karny Gigi, Yuval Haber, Inbar Levkovich
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://doi.org/10.31234/osf.io/vfz2s_v1</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>社会支持</category><category>情感支持</category><category>心理健康</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>AI 治疗师</category>
-    </item>    <item>
-      <title>EP-Mem：面向社交关系感知 LLM 代理的弹性隐私内存</title>
-      <link>https://sr-ai-papers.vercel.app/papers/39241</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39241</guid>
-      <description>📝 EP-Mem：面向社交关系感知 LLM 代理的弹性隐私内存
-EN: EP-Mem: Elastic Privacy Memory for Social Relationship-Aware LLM Agents
-
-💡 LLM代理在人际代理沟通中面临隐私泄露风险，需理解用户社会关系并遵守情境化的信息揭露边界。研究提出弹性隐私记忆架构，将隐私重构为用户对跨社会角色的边界控制。该架构包含基于用户可配置隐私策略的令牌级记忆，以及一个可插拔的隐私引擎。实验表明，该方法在保持检索性能的同时，显著提升了隐私分类准确性和权限判断，并大幅减少了隐私泄露。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Fengzhou Sun, Yuan Zhang, Xintong Yu, Jinyao Yan
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.35233v1</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>隐私</category><category>社会互动</category><category>人际关系</category><category>信任</category><category>LLM</category><category>聊天机器人</category><category>智能体/Agent</category><category>AI 治理</category>
-    </item>    <item>
-      <title>从用户视角表征人机交互中 LLM 的记忆错位</title>
-      <link>https://sr-ai-papers.vercel.app/papers/39240</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39240</guid>
-      <description>📝 从用户视角表征人机交互中 LLM 的记忆错位
-EN: Characterizing Memory Misalignment in Human-LLM Interaction From User Perspectives
-
-💡 研究探讨了基于LLM的对话代理中，记忆功能与用户期望不符（记忆错位）的问题。通过混合方法（用户数据收集、日记研究、共同设计研讨会、快速约会），识别出记忆摄入、存储管理、检索解释三个阶段中的14种错位类型，并构建了包含12种交互策略的设计空间。研究发现用户偏好主动控制而非认知负荷高的因果图检查，揭示了用户监督权与交互开销之间的张力，主张设计平衡用户监督与对话流畅性的“摩擦感知”记忆系统。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Jingruo Chen, Shuning Zhang, Eryue Xu, Jianing Li, Xin Yi
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.33623v1</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>信任</category><category>人机信任</category><category>隐私</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>一种声音适合所有人？</title>
-      <link>https://sr-ai-papers.vercel.app/papers/39206</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39206</guid>
-      <description>📝 一种声音适合所有人？
-EN: One Voice Fits All?
-
-💡 智能设备语音设计如何影响用户感知与互动？研究基于计算机作为社会行动者范式，结合人机交互研究，提出一个理解语音设计社会影响的框架。该框架指出，语音设计效果取决于用户特征、设备特性和使用情境三者的复杂交互。尽管语音合成技术已能生成多样且逼真的声音，但当前主流语音助手默认声音多为女性化、礼貌且活泼。研究旨在通过该框架提出指导性问题，以推动未来智能设备语音设计研究。
-
-📚 PACM-HCI · 2019 · 引用 114
-👤 Julia Cambre, Chinmay Kulkarni
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>社会临场</category><category>人机交互(HCI)</category><category>性别</category><category>语音助手</category><category>对话式 AI</category><category>社交机器人</category>
     </item>
   </channel>
 </rss>
