@@ -6,9 +6,56 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Oct 2026 08:48:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:23:34 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>PAIR：实时多模态对话代理中的感知情感推理与调节</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42733</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42733</guid>
+      <description>📝 PAIR：实时多模态对话代理中的感知情感推理与调节
+EN: PAIR: Perceptual Affective Inference and Regulation in a Real-Time Multimodal Conversational Agent
+
+💡 研究如何为生成式智能体构建持续的情感支持能力，提出PAIR系统，通过实时多模态感知评估事件、推断情绪状态（效价-唤醒度-支配度），并提供结合对话、语音、颜色和虚拟形象的调节指导。一项为期14天、涉及19名参与者的部署研究显示，系统对效价和支配度预测较好，情感改善效果在初始消极情绪时最明显；感知到的理解比数值预测误差更能关联积极改变；长期使用中，帮助感提升，对话趋于个性化与陪伴感。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Kexin Quan, Zijian Ding, Jiaye Yong, Qinshi Zhang, Dong Wang
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.07523v1</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <category>情感支持</category><category>共情</category><category>社会支持</category><category>AI伴侣/陪伴</category><category>GenAI</category><category>多模态</category><category>情感识别</category><category>智能体/Agent</category>
+    </item>    <item>
+      <title>拥有与共享</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42727</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42727</guid>
+      <description>📝 拥有与共享
+EN: Owning and Sharing
+
+💡 研究智能个人助手（如Alexa）在多用户家庭共享场景下的隐私、同意与所有权问题。通过对10名家庭内用户（账户所有者与同住者）和9名访客的访谈发现，经常互动的同住者虽无账户控制权，仍自视为设备所有者；存在基于信任的边界管理礼仪（智能音箱礼仪）。所有用户均对数据使用、设备持续监听及操作不透明表示担忧。研究讨论了用户的系统理解、担忧及保护策略，并就避免共享设备引发的紧张关系提出建议。
+
+📚 PACM-HCI · 2021 · 引用 49
+👤 Nicole Meng, Dilara Keküllüoğlu, Kami Vaniea
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <category>隐私</category><category>信任</category><category>人际关系</category><category>AI治理</category><category>虚拟助手</category><category>语音助手</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>媒介素养聊天机器人中的用户能动性陷阱：交互评估形式、不完美披露与视觉虚假信息辨识</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42568</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42568</guid>
+      <description>📝 媒介素养聊天机器人中的用户能动性陷阱：交互评估形式、不完美披露与视觉虚假信息辨识
+EN: The User Agency Trap in Media Literacy Chatbots: Interactive Evaluation Format, Imperfection Disclosure, and Visual Misinformation Discernment
+
+💡 研究探讨媒体素养聊天机器人中的用户能动性陷阱，关注交互式评估形式、系统不完美性披露如何影响用户对视觉虚假信息的辨别能力。标题暗示研究可能通过实验方法，考察这些设计因素对用户批判性思维和决策的潜在负面影响。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Jiyoung Lee, Suhyun Kim, Hakjun Lee, Jiwon Hwang
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <category>聊天机器人</category><category>人机交互(HCI)</category><category>信任</category><category>AI治理</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 中介传播</category>
+    </item>    <item>
       <title>主动式人工智能：从对话轮次到可重规划的对话时间线</title>
       <link>https://sr-ai-papers.vercel.app/papers/42443</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42443</guid>
@@ -434,53 +481,6 @@ EN: The Effect of Audio-Visual Smiles on Social Influence in a Cooperative Human
 AI 分: 4.0 / 领域分: 5.0</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <category>社会临场</category><category>共情</category><category>社会互动</category><category>拟人化</category><category>多模态</category><category>社交机器人</category><category>情感识别</category><category>人机交互</category>
-    </item>    <item>
-      <title>认知摩擦与控制幻觉：医疗AI交互中能动感与责任归因的实证研究</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40019</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40019</guid>
-      <description>📝 认知摩擦与控制幻觉：医疗AI交互中能动感与责任归因的实证研究
-EN: Cognitive Friction and the Illusion of Control: An Empirical Study on Sense of Agency and Responsibility Attribution in Medical AI Interactions
-
-💡 研究探讨在医疗AI交互中，用户的控制感与责任归因问题。标题暗示，认知摩擦可能导致用户产生控制错觉。研究通过实证方法，分析用户在与医疗AI互动时，如何感知自身能动性（控制感）以及如何将决策责任归因于AI系统或自身，这涉及人机信任与伦理议题。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Liwen Fan, Aojie Feng, Yuxuan Li, Zhifeng Zhao
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机信任</category><category>伦理</category><category>人机交互(HCI)</category><category>AI 治疗师</category><category>人机协作</category><category>AI 伦理</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>DE-ENIGMA：面向自闭症儿童社交想象力教学与拓展的多模态人-机器人交互</title>
-      <link>https://sr-ai-papers.vercel.app/papers/39950</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39950</guid>
-      <description>📝 DE-ENIGMA：面向自闭症儿童社交想象力教学与拓展的多模态人-机器人交互
-EN: DE-ENIGMA: Multimodal Human–Robot Interaction for Teaching and Expanding Social Imagination in Autistic Children
-
-💡 研究探索如何利用多模态人机交互技术，通过社交机器人向自闭症儿童教授社交技能并拓展其社会想象力。方法涉及开发一个名为DE-ENIGMA的多模态人机交互系统，旨在通过机器人引导的互动活动，帮助自闭症儿童理解和练习社交线索与想象。核心发现是，这种技术干预可能为自闭症儿童的社会情感学习提供一种新颖、可及且具吸引力的支持途径。
-
-📚 CBSN · 2020 · 引用 5
-👤 Giuseppe Riva, Eleonora Riva
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社交机器人</category><category>儿童/老人/无障碍</category><category>社会互动</category><category>社会支持</category><category>社交机器人</category><category>多模态</category><category>人机交互</category>
-    </item>    <item>
-      <title>MultiTalk：将全双工语音模型扩展至长时、多方、双语对话</title>
-      <link>https://sr-ai-papers.vercel.app/papers/39816</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/39816</guid>
-      <description>📝 MultiTalk：将全双工语音模型扩展至长时、多方、双语对话
-EN: MultiTalk: Scaling Full-Duplex Speech Models to Long, Multi-Party, Bilingual Conversation
-
-💡 研究旨在解决端到端全双工语音模型在长上下文鲁棒性和多方互动方面的局限。通过发布包含57.6千小时英中双语、长时、多方、全双工会话的合成训练数据集，并构建基于真实录音的评估基准，以支持模型在长时间、多说话人场景下的跟踪、情境化和响应能力。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Ke Wang, Houxing Ren, Zimu Lu, Yunqiao Yang, Zhuofan Zong
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.36903v1</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <category>社交机器人</category><category>社会互动</category><category>人机交互(HCI)</category><category>计算机中介传播</category><category>对话式 AI</category><category>多模态</category><category>语音助手</category><category>社交机器人</category>
     </item>
   </channel>
 </rss>
