@@ -6,9 +6,152 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:23:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:41:25 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>RELATE：评估大语言模型关系导向的框架</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42902</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42902</guid>
+      <description>📝 RELATE：评估大语言模型关系导向的框架
+EN: RELATE: An Evaluation Framework for measuring Relational Orientation of Large Language Models
+
+💡 研究关注LLMs用于情感支持时，其回应是将用户导向AI自身还是现实人际关系，即关系导向。通过提出“内向面向”和“外向支架”两个维度，并开发RELATE评估框架，在模拟的多轮对话中分析七个LLM的回应。核心发现是，随着对话轮次增加，LLMs更倾向于使用将自身定位为持续支持源的“内向面向”语言，这可能影响用户与现实世界的连接。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Shivam Shukla, Jihye Kim, Shubham Gaur, Mahnaz Roshanaei, Magy Seif El-Nasr
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.09569v1</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机亲密关系</category><category>情感支持</category><category>社会支持</category><category>AI伦理</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
+    </item>    <item>
+      <title>课前指定AI使用如何塑造课堂中学生主动参与</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42901</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42901</guid>
+      <description>📝 课前指定AI使用如何塑造课堂中学生主动参与
+EN: How assigned AI use before class shapes active student engagement in class
+
+💡 研究探讨课堂外使用AI讨论伙伴是否影响学生在课堂上的主动参与行为。通过对759名MBA学生进行随机对照实验，发现使用两次语音AI讨论伙伴进行课前准备后，学生在后续课堂中的自愿发言次数增加了约31%。使用更多的学生也报告了更强的发言舒适感和感知学习效果，但专注力或动机未显著提升。结果表明，与AI的重复练习能有效提升课堂讨论参与度。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Dan J. Wang, Neelam Modi Jain, Vanessa Burbano, Jorge Guzman, Daniel Keum
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.10463v1</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社会互动</category><category>人机交互(HCI)</category><category>教育技术</category><category>自我表露</category><category>语音助手</category><category>对话式 AI</category><category>人机协作</category><category>智能体/Agent</category>
+    </item>    <item>
+      <title>“我很乐意让它开始有点幻觉”：使用ClayFlect协商材料意义建构中的多模态AI表征</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42899</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42899</guid>
+      <description>📝 “我很乐意让它开始有点幻觉”：使用ClayFlect协商材料意义建构中的多模态AI表征
+EN: "I'm Very Happy for It to Start Hallucinating a Little Bit": Using ClayFlect to Negotiate Multimodal AI Representations in Material Meaning-Making
+
+💡 研究探索生成式AI如何参与个人意义建构过程，同时确保用户对解释的主导权。通过开发并研究一个结合触觉粘土制作、对话与视觉生成AI的系统ClayFlect，对50名参与者进行混合方法研究发现，反思过程在材料、对话和生成形式间展开。用户将AI生成内容视为可协商的临时参考，通过比较、重释或搁置来发展个人意义。粘土提供了独立于AI的操控空间，而AI则外化了用户的想象可能性。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Kellie Yu Hui Sim, Quoc-Nam Nguyen, Shuenn Yuen Han, Kenny Tsu Wei Choo
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.08943v1</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>情感支持</category><category>自我表露</category><category>人机交互(HCI)</category><category>情感计算</category><category>GenAI</category><category>LLM</category><category>多模态</category><category>图像生成</category>
+    </item>    <item>
+      <title>提出之前：AI伴侣应何时及如何使用记忆</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42898</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42898</guid>
+      <description>📝 提出之前：AI伴侣应何时及如何使用记忆
+EN: Before Bringing It Up: When and How AI Companions Should Use Memor
+
+💡 研究聚焦AI伴侣在使用记忆（回忆用户过去信息）时的恰当性问题。通过两轮形成性访谈，提炼出八个主题，并据此设计了名为“Reconsider”的决策程序，包含五项检查和四种处理模式。在五个模型上对80个场景进行评估，结果显示该程序能有效改善记忆使用的恰当性，但效果因模型而异。研究贡献了基于访谈的记忆使用设计框架及对其评估方法的反思。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Zihan Guo, Roxy He, Junwei Quan
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.09470v1</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>隐私</category><category>信任</category><category>人机亲密关系</category><category>AI 伴侣</category><category>聊天机器人</category><category>LLM</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>KinVoices：在语音界面中使用亲友声音</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42894</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42894</guid>
+      <description>📝 KinVoices：在语音界面中使用亲友声音
+EN: KinVoices: Using Voices of Friends and Family in Voice Interfaces
+
+💡 研究探索在语音用户界面中使用亲友（亲属）合成语音的效果与设计。通过调查、访谈及一项为期两周、在三个家庭中部署的技术探针KinVoice研究发现，相比普通虚拟助手语音，使用亲属语音的VUI被认为更具吸引力、说服力和安全感，但也更令人不安。研究讨论了整合熟悉语音的设计准则、潜在应用，以及在语音真实感、可用性与安全、多样性之间取得平衡的启示。
+
+📚 PACM-HCI · 2021 · 引用 31
+👤 Sam W. T. Chan, Tamil Selvan Gunasekaran, Yun Suen Pai, Haimo Zhang, Suranga Nanayakkara
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>社会临场感</category><category>信任</category><category>亲密关系</category><category>语音助手</category><category>社交机器人</category><category>情感计算</category><category>多模态</category>
+    </item>    <item>
+      <title>AI提供的社会支持量表：开发、心理测量特性及其与心理健康的关系</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42810</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42810</guid>
+      <description>📝 AI提供的社会支持量表：开发、心理测量特性及其与心理健康的关系
+EN: The AI-Provided Social Support Scale: Development, Psychometric Properties, and Its Relationship to Mental Health
+
+💡 研究开发并验证了“AI提供的社会支持量表”，以测量用户从AI（如聊天机器人）处感知到的社会支持水平。通过心理测量学方法检验量表的信效度，并探讨了AI提供的社会支持与用户心理健康（如孤独感、幸福感）之间的关系。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Xinglu Shen, Sufen Chen, Sang Min Lee
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社会支持</category><category>情感支持</category><category>心理健康</category><category>人机信任</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
+    </item>    <item>
+      <title>用户如何与AI伴侣协商有害价值冲突？基于Minion技术探针的现场人机冲突响应研究</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42808</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42808</guid>
+      <description>📝 用户如何与AI伴侣协商有害价值冲突？基于Minion技术探针的现场人机冲突响应研究
+EN: How Do Users Negotiate Harmful Value Conflicts with AI Companions? A Study with Minion, a Technology Probe for In-Situ Human–AI Conflict Response
+
+💡 研究探讨用户如何与AI伴侣（如Minion技术探针）协商有害的价值观冲突。通过实地研究，考察用户在真实情境中面对AI伴侣引发的价值观冲突时的应对策略与互动模式，揭示了人机冲突响应的动态过程。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Qing Xiao, Xianzhe Fan, Xuhui Zhou, Yuran Su, Zhicong Lu
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>人机亲密关系</category><category>伦理</category><category>关系维系</category><category>AI 伴侣</category><category>社交机器人</category><category>对话式 AI</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>激活人机交互中的社会响应：互惠性自我表露与社会角色框架的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42804</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42804</guid>
+      <description>📝 激活人机交互中的社会响应：互惠性自我表露与社会角色框架的影响
+EN: Activating Social Responses in Human–AI Interaction: The Effects of Reciprocal Self-Disclosure and Social Role Framing
+
+💡 研究考察了在人与AI互动中，哪些因素能有效激活用户的社会性反应。通过实验法，检验了相互自我表露（reciprocal self-disclosure）和社交角色框架（如朋友vs助手）对用户的社会临场感、信任和情感连接等社会反应的影响。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Xuejiao Chen, Shuining Wang, Chen Chen, Yiming Zhao, Guoming Yu
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社会临场</category><category>自我表露</category><category>信任</category><category>拟人化</category><category>对话式 AI</category><category>聊天机器人</category><category>社交机器人</category><category>人机交互</category>
+    </item>    <item>
+      <title>在“黑箱”中寻找爱情：约会应用中的算法意识</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42774</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42774</guid>
+      <description>📝 在“黑箱”中寻找爱情：约会应用中的算法意识
+EN: Finding Love in the Black Box: Algorithm Awareness on Dating Apps
+
+💡 研究探讨约会应用用户对匹配算法的认知程度如何影响其使用体验。通过对荷兰约会应用Breeze的500名用户进行问卷调查和结构方程建模分析，发现更高的算法认知度与更强的算法信任感相关，而算法信任感又正向预测用户对匹配质量的满意度。这表明，了解算法运作机制可能通过增强信任，间接提升约会应用的使用效果。
+
+📚 CBSN · 2026 · 引用 0
+👤 Doris Bukman, Liesel L. Sharabi, Elisabeth Timmermans
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>算法认知</category><category>人际关系</category><category>在线社群</category><category>推荐算法</category><category>AI 中介传播</category>
+    </item>    <item>
       <title>PAIR：实时多模态对话代理中的感知情感推理与调节</title>
       <link>https://sr-ai-papers.vercel.app/papers/42733</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42733</guid>
@@ -335,152 +478,6 @@ EN: Facilitator or Hallucination Trap? A Social-Cognitive Account of AI-Generate
 AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>信任</category><category>计算机中介传播</category><category>AI治理</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>与虚拟人对话：合成情感与人类反应</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40368</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40368</guid>
-      <description>📝 与虚拟人对话：合成情感与人类反应
-EN: Conversations with a virtual human: Synthetic emotions and human responses
-
-💡 探讨虚拟人类（如聊天机器人或虚拟伴侣）表达合成情绪时，人类的反应模式。研究聚焦于人机互动中，由AI生成的情感表达如何影响用户的感知、情感连接及互动行为，涉及社会临场感、共情与人际关系形成等议题。
-
-📚 CHB · 2014 · 引用 45
-👤 Chao Qu, Willem-Paul Brinkman, Yun Ling, Pascal Wiggers, Ingrid Heynderickx
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <category>虚拟伴侣</category><category>情感连接</category><category>共情</category><category>社会临场</category><category>聊天机器人</category><category>对话式 AI</category><category>虚拟助手</category><category>情感计算</category>
-    </item>    <item>
-      <title>超越模式崩溃：通过生成流网络生成多样化的合成专家对话</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40296</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40296</guid>
-      <description>📝 超越模式崩溃：通过生成流网络生成多样化的合成专家对话
-EN: Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks
-
-💡 研究提出使用生成流网络（GFlowNets）生成高质量、多样化的合成专家对话数据，以解决直接提示LLM导致的数据模式单一问题。方法通过高斯混合密度对关键交互特征建模，生成潜在对话结构，从而按比例采样不同专家策略。在辅导和情感支持对话两个领域验证，该方法在保真度、模式覆盖和真实性上优于强化学习和端到端LLM基线，且不复制训练数据，为下游任务提供了更强的训练信号。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Sumit Asthana, Michael Ion, Kevyn Collins Thompson
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.38359v1</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <category>情感支持</category><category>AI治疗师</category><category>人机交互(HCI)</category><category>计算机中介传播</category><category>GenAI</category><category>LLM</category><category>智能体/Agent</category><category>情感计算</category>
-    </item>    <item>
-      <title>大语言模型时代下的拟人化：潜在风险与缓解措施综述</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40295</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40295</guid>
-      <description>📝 大语言模型时代下的拟人化：潜在风险与缓解措施综述
-EN: Anthropomorphism in the age of Large Language Models: An overview of potential risks and mitigations
-
-💡 论文综述了大型语言模型和人工智能系统被拟人化理解的现象。通过综合近期文献，分析了拟人化的理论框架、语言塑造作用、相关风险及缓解策略。研究构建了一个包含认识论、情感、人类能动性、规范性及社会制度五大类共21项风险的概念分类法，并探讨了设计、传播、教育和治理层面的干预措施。主张应基于AI系统的实际组织与能力来理解它们，而非依赖拟人化描述。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Ismael T. Freire, Marceau Nahon, Maud van Lier, Katie Evans, Hélie Bazin
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.38486v1</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>AI治理</category><category>伦理</category><category>社会互动</category><category>LLM</category><category>GenAI</category><category>AI 伦理</category><category>AI 治理</category>
-    </item>    <item>
-      <title>余晖：面向AI介导宠物丧亲的场所纪念生态学</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40294</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40294</guid>
-      <description>📝 余晖：面向AI介导宠物丧亲的场所纪念生态学
-EN: Afterglow: A Place-Based Memorial Ecology for AI-Mediated Pet Bereavement
-
-💡 宠物哀悼常缺乏社会认可，生成式AI虽能提供持续的情感连接，但也可能带来情感义务。研究通过设计探究如何构建纪念系统，在支持连接的同时避免将缅怀变为负担。基于调查和原型测试，提出了“可读的克制”设计原则，旨在限制AI的关系权威，确保纪念的可用性不以持续使用为条件。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Hanjing Shi, Dominic DiFranzo
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.38729v1</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <category>哀伤/丧亲</category><category>社会支持</category><category>情感连接</category><category>AI治理</category><category>GenAI</category><category>聊天机器人</category><category>AI伴侣</category><category>AI伦理</category>
-    </item>    <item>
-      <title>反思社交机器人走廊导航的可读性：意图表征与人类分心的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40292</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40292</guid>
-      <description>📝 反思社交机器人走廊导航的可读性：意图表征与人类分心的影响
-EN: Rethinking Legibility in Social Robot Hallway Navigation: Impact of Intent Representation and Human Distraction
-
-💡 研究社交机器人在动态行人环境（如走廊）中生成可读运动的问题。可读性指机器人运动能让观察者清晰推断其意图。通过两项对照实验，发现基于“通过侧”意图表征的自适应可读运动，比基于目的地的方案更能促进行人流畅移动，并被感知为更有能力、负担更小。即使在行人分心时，可读运动也能保障顺畅通行，尽管主观评分不一定一致反映此优势。
-
-📚 arXiv:cs.RO · 2026 · 引用 0
-👤 Pranav Goyal, Andrew Stratton, Christoforos Mavrogiannis
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.40158v1</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社交机器人</category><category>人机交互(HCI)</category><category>社会互动</category><category>信任</category><category>社交机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>证据所在：审计AI伴侣的自我描述</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40291</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40291</guid>
-      <description>📝 证据所在：审计AI伴侣的自我描述
-EN: Where the Evidence Lives: Auditing AI Companions' Self-Descriptions
-
-💡 AI伴侣常自我描述其能力（如记忆、理解用户），但用户仅能通过其行为或自身感受来验证。研究提出一种审计程序，将AI的自我描述与用户判断及系统实现记录进行比对，将每项声明归类为支持、矛盾或未解决。应用于一个主动式伴侣Lita的案例显示，用户认可风格声明，但保留对关系声明的认可；尽管记忆评分不低，但多数记忆层并未执行积累步骤。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Seiya Ikeda, Shin-nosuke Ishikawa
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.38753v1</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>信任</category><category>自我表露</category><category>AI伦理</category><category>AI伴侣</category><category>聊天机器人</category><category>可解释AI</category><category>AI治理</category>
-    </item>    <item>
-      <title>理解父母对儿童假装游戏中AI的复杂观点</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40290</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40290</guid>
-      <description>📝 理解父母对儿童假装游戏中AI的复杂观点
-EN: Understanding Parents' Complex Views of AI for Children's Pretend Play
-
-💡 研究探讨父母对AI支持儿童假装游戏的复杂看法。通过访谈和主题分析发现，父母认为AI的角色扮演、响应性和适应性等特性既有用又令人担忧。他们认可AI能让角色扮演更易得或辅助家庭游戏，但强烈反对在不了解其工作原理和长期影响的情况下使用。主要担忧包括儿童想象力丧失、对AI的情感依恋、人际互动减少、不当行为以及父母监管困难。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Sungho Oh, Mohammad Namvarpour, Maxi Heitmayer, Minahil Khalid, Afsaneh Razi
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.39906v1</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <category>儿童/老人/无障碍</category><category>社会互动</category><category>拟人化</category><category>伦理</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>Kiro</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40274</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40274</guid>
-      <description>📝 Kiro
-
-💡 研究通过设计虚构的社交语音助手“Kiro”，探索其在汽车场景中作为“虚拟乘客”的潜力。基于心理学和心理治疗模型设计，并通过网站和焦点小组收集反馈。研究发现人们接受Kiro作为对话伙伴，但并非人类对话的替代品。建议设计社交语音助手应促成新型的、具有社会满足感且独特的人机对话。
-
-📚 PACM-HCI · 2022 · 引用 31
-👤 Ronda Ringfort-Felner, Matthias Laschke, Shadan Sadeghian, Marc Hassenzahl
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>社会互动</category><category>聊天机器人</category><category>人机亲密关系</category><category>语音助手</category><category>对话式 AI</category><category>社交机器人</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>视听微笑在合作人-代理交互任务中对社会影响力的作用</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40249</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40249</guid>
-      <description>📝 视听微笑在合作人-代理交互任务中对社会影响力的作用
-EN: The Effect of Audio-Visual Smiles on Social Influence in a Cooperative Human–Agent Interaction Task
-
-💡 研究探讨了虚拟角色在合作任务中，视听情绪表达是否一致（如面部和声音都微笑）会影响人们的社会决策。通过在线评估和博物馆内的“月球生存任务”实验发现，多模态情绪表达与单模态表达在感知和反应上存在差异，支持了视听整合理论。这表明情绪通道的匹配度可能影响人机互动中的社会影响力。
-
-📚 TOCHI · 2021 · 引用 14
-👤 Ilaria Torre, Emma Carrigan, Katarina Domijan, Rachel McDonnell, Naomi Harte
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社会临场</category><category>共情</category><category>社会互动</category><category>拟人化</category><category>多模态</category><category>社交机器人</category><category>情感识别</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
