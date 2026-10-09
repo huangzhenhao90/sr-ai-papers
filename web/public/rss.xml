@@ -6,9 +6,129 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 08:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:42:55 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>设计 PairBuddy——一个用于结对编程的对话代理</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43045</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43045</guid>
+      <description>📝 设计 PairBuddy——一个用于结对编程的对话代理
+EN: Designing PairBuddy—A Conversational Agent for Pair Programming
+
+💡 研究探索为编程任务设计对话式智能体的可能性。通过构建名为PairBuddy的结对编程伙伴原型，并采用Wizard-of-Oz方法进行迭代设计研究，发现其作为导航者时应用的软技能（适应性、激励、社会临场感）能提升程序员的信心与信任，而作为驱动者时的技术技能（代码贡献、即时反馈、创意支持）则帮助参与者实现自身解决方案。该研究为类似Alexa的编程伙伴迈出了第一步。
+
+📚 TOCHI · 2022 · 引用 45
+👤 Peter Robe, Sandeep Kaur Kuttal
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>社会临场</category><category>信任</category><category>人机交互(HCI)</category><category>对话式 AI</category><category>聊天机器人</category><category>AI 伴侣</category><category>人机协作</category>
+    </item>    <item>
+      <title>关系角色归因：人机交互中的统一建构</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42984</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42984</guid>
+      <description>📝 关系角色归因：人机交互中的统一建构
+EN: Relational Role Attribution: A Unifying Construct in Human–AI Interaction
+
+💡 研究探讨人机交互中一个统一的概念框架——关系角色归因。该研究旨在理解人类如何将社会角色（如助手、伴侣、顾问）赋予人工智能系统，以及这种归因如何影响互动过程与结果。核心发现可能揭示了角色归因是驱动用户感知、信任和行为的关键机制，为理解复杂的人机社会关系提供了整合视角。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Michael J. Gazzanigo, Xiao Yang
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>社会互动</category><category>人机交互(HCI)</category><category>信任</category><category>社交机器人</category><category>对话式 AI</category><category>人机交互</category>
+    </item>    <item>
+      <title>情感慰藉的代价：社交聊天机器人使用对日常孤独感、幸福感与人际互动的动态作用</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42980</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42980</guid>
+      <description>📝 情感慰藉的代价：社交聊天机器人使用对日常孤独感、幸福感与人际互动的动态作用
+EN: Emotional Comfort at a Cost: The Dynamic Role of Social Chatbot Use in Daily Loneliness, Well-Being, and Interpersonal Interaction
+
+💡 研究考察日常使用社交聊天机器人对孤独感、幸福感和人际互动的动态影响。通过日记法等追踪方法，发现使用社交聊天机器人能在短期内提供情感安慰，缓解孤独感，但可能伴随长期成本，如减少现实人际互动或对幸福感产生复杂影响。核心在于揭示这种使用行为在提供即时情感支持与潜在社会替代之间的权衡关系。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Yun Chen, Yue Ding, Lin-Xin Wang, Yu Kou
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>孤独感</category><category>情感支持</category><category>社会支持</category><category>人际关系</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
+    </item>    <item>
+      <title>基于非言语行为识别的 AI 驱动信息亭对老年人的支持</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42974</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42974</guid>
+      <description>📝 基于非言语行为识别的 AI 驱动信息亭对老年人的支持
+EN: AI-Driven Kiosk Support for Older Adults Through Nonverbal Behavior Recognition
+
+💡 研究开发并评估一种基于人工智能的非语言行为识别系统，用于支持老年人使用自助服务终端（如ATM、信息亭）。该系统通过识别老年人的困惑、犹豫等非语言线索，提供适时、恰当的辅助，旨在降低技术使用门槛，增强老年用户的自主性与体验。核心发现可能证明了AI驱动的适应性支持能有效提升老年人在数字环境中的可达性与包容性。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Gayoung Kim, Hyun K. Kim
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>儿童/老人/无障碍</category><category>社会支持</category><category>人机交互(HCI)</category><category>情感识别</category><category>多模态</category><category>人机交互</category>
+    </item>    <item>
+      <title>对话式人工智能交互与青年轻躁狂持续性倾向：基于刺激-机体-反应视角的情绪与睡眠相关通路</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42973</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42973</guid>
+      <description>📝 对话式人工智能交互与青年轻躁狂持续性倾向：基于刺激-机体-反应视角的情绪与睡眠相关通路
+EN: Conversational Artificial Intelligence Interaction and Hypomanic Persistence Tendency in Young Adults: A Stimulus–Organism–Response Perspective on Emotional and Sleep-Related Pathways
+
+💡 研究探讨青年群体与对话式人工智能互动如何通过情感与睡眠相关路径，影响其轻躁狂持续倾向。基于刺激-机体-反应理论框架，分析AI互动作为刺激，如何通过影响用户情绪状态和睡眠模式，最终导致特定的心理行为倾向。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Yiding Bu, Zhentai Zhang, Yuxin Li, Shuyi Wang
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>情感支持</category><category>成瘾/依赖</category><category>心理健康</category><category>对话式 AI</category><category>聊天机器人</category><category>情感识别</category>
+    </item>    <item>
+      <title>用户-AI-医生协作在自我用药中的决策权重分配与持续使用意愿</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42972</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42972</guid>
+      <description>📝 用户-AI-医生协作在自我用药中的决策权重分配与持续使用意愿
+EN: User–AI–Physician Collaboration in Self-Medication: Decision Weight Allocation and Continuance Intention
+
+💡 研究探索在自我用药场景下，用户、AI与医生三方协作的动态。重点关注用户如何在协作中分配决策权重给AI与医生，以及这种协作模式如何影响其持续使用AI辅助决策的意愿。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Guyue Tang
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>社会支持</category><category>AI治疗师</category><category>AI 伴侣</category><category>聊天机器人</category><category>推荐算法</category><category>人机协作</category>
+    </item>    <item>
+      <title>过犹不及：匿名图像板中讽刺性群体风格如何变得政治化</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42946</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42946</guid>
+      <description>📝 过犹不及：匿名图像板中讽刺性群体风格如何变得政治化
+EN: Going Overboard: How Ironic Group Style Becomes Political on an Anonymous Imageboard
+
+💡 研究探讨匿名图片论坛Overboard上的群体风格如何变得政治化。通过卷积神经网络分析该社区对“政治”的语言理解特征，结合主题建模与定性分析，发现约十分之一的信息可识别为“政治性”，常以讽刺风格表达极右翼观点，且其流行度在增加。研究认为，强烈的内外群体边界与讽刺、愤世嫉俗的言论规范形成了成员间的纽带，这种群体风格易于将集体政治化。
+
+📚 SMS · 2020 · 引用 14
+👤 Tuukka Ylä-Anttila, Veikko Eranti, Sam Hardwick
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>在线社群</category><category>社交媒体</category><category>计算机中介传播</category><category>网络心理学</category><category>情感识别</category><category>推荐算法</category>
+    </item>    <item>
+      <title>人际真诚中的序列复制效应：来自 AI 中介道歉与感激的证据</title>
+      <link>https://sr-ai-papers.vercel.app/papers/42907</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42907</guid>
+      <description>📝 人际真诚中的序列复制效应：来自 AI 中介道歉与感激的证据
+EN: The sequential replicant effect in interpersonal sincerity: evidence from AI-mediated apology and gratitude
+
+💡 研究将“复制人效应”从信息信任扩展到人际真诚领域，探究AI中介传播意识与AI参与线索如何影响对道歉和感谢场景中真诚度的判断及后续关系反应。两项预注册研究发现，AI参与线索会降低感知真诚度；AI中介传播意识通过引发怀疑，对后续无线索评估产生序列影响；高模糊性AI线索仅在感谢场景中产生序列效应。结果表明人-AI混合创作重塑了人际真诚的推断与验证方式，其影响取决于线索清晰度与关系语境。
+
+📚 JCMC · 2026 · 引用 0
+👤 Bolin Cao, Zhenming Li
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI中介传播</category><category>信任</category><category>共情</category><category>人际关系</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>AI 中介传播</category>
+    </item>    <item>
       <title>RELATE：评估大语言模型关系导向的框架</title>
       <link>https://sr-ai-papers.vercel.app/papers/42902</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42902</guid>
@@ -103,7 +223,9 @@ EN: The AI-Provided Social Support Scale: Development, Psychometric Properties, 
 📚 IJHCI · 2026 · 引用 0
 👤 Xinglu Shen, Sufen Chen, Sang Min Lee
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://doi.org/10.1080/10447318.2026.2740881</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <category>社会支持</category><category>情感支持</category><category>心理健康</category><category>人机信任</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
     </item>    <item>
@@ -354,130 +476,6 @@ EN: A social cognition perspective on autonomous technology
 AI 分: 3.0 / 领域分: 3.0</description>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
       <category>拟人化</category><category>信任</category><category>社会互动</category><category>人机交互(HCI)</category><category>社交机器人</category><category>AI 治理</category><category>AI 伦理</category><category>人机交互</category>
-    </item>    <item>
-      <title>部分自动化在提升数字游戏可及性中的作用</title>
-      <link>https://sr-ai-papers.vercel.app/papers/41126</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/41126</guid>
-      <description>📝 部分自动化在提升数字游戏可及性中的作用
-EN: The Role of Partial Automation in Increasing the Accessibility of Digital Games
-
-💡 数字游戏通常依赖特定硬件操作，对运动障碍玩家构成障碍。研究引入“部分自动化”作为可及性技术，将玩家无法完成的游戏输入委托给AI伙伴执行。该方法是对通用设计、玩家平衡和界面适配等现有方案的补充。通过在两个脊髓损伤康复游戏中演示，六名运动能力各异的参与者均能成功游玩。参与者欣赏其带来的个性化体验，但也对AI行为的某些方面感到困惑。
-
-📚 PACM-HCI · 2021 · 引用 21
-👤 Gabriele Cimolino, Sussan Askari, T.C. Nicholas Graham
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-      <category>无障碍</category><category>人机协作</category><category>社会支持</category><category>人机交互(HCI)</category><category>AI 伴侣</category><category>人机协作</category><category>智能体/Agent</category>
-    </item>    <item>
-      <title>社交机器人调解中的多模态语音活动预测：预期行为与部署约束</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40843</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40843</guid>
-      <description>📝 社交机器人调解中的多模态语音活动预测：预期行为与部署约束
-EN: Multimodal Voice Activity Projection for Social Robot Mediation: Expected Behavior and Deployment Constraints
-
-💡 研究为社交机器人作为人际互动中介设计了一种多模态语音活动预测模型，用于预测对话轮次转换。模型通过同步视听证据预估对话“发言权”的未来演变，并推断保持、转换、预测转换、预测反馈等事件，以支持机器人进行注视准备、积极倾听和保守干预。同时讨论了实时推理、延迟等部署约束。
-
-📚 arXiv · 2026 · 引用 0
-👤 Antonio Cano, Guillermo Pérez, Luis Merino, Randy Gomez
-
-AI 分: 4.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.28317</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社交机器人</category><category>社会互动</category><category>人机交互(HCI)</category><category>共情</category><category>社交机器人</category><category>多模态</category><category>情感识别</category><category>人机交互</category>
-    </item>    <item>
-      <title>RealCompanion：基于纵向真实世界对话推理的人类理解基准测试</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40841</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40841</guid>
-      <description>📝 RealCompanion：基于纵向真实世界对话推理的人类理解基准测试
-EN: RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations
-
-💡 研究评估AI伴侣在长期真实对话中理解人类的能力。基于10段真实人机对话记录（共27,218条消息），构建包含个人资料、问答的基准测试。核心发现：对话中极少需要调用遥远记忆，95.9%的提问仅需近期消息；现有系统难以判断何时需要记忆，人工标注可显著提升记忆使用率；不同AI系统重建用户画像的准确率相近，但成本差异高达31倍。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Arman Behnam, Sunglyoung Kim, Liangwei Yang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.01780v1</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>人际关系</category><category>聊天机器人</category><category>对话式AI</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category><category>智能体/Agent</category>
-    </item>    <item>
-      <title>设计与评估用于教育任务的苏格拉底式支架对话AI助手：跨群体有效性、用户感知与努力特征</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40498</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40498</guid>
-      <description>📝 设计与评估用于教育任务的苏格拉底式支架对话AI助手：跨群体有效性、用户感知与努力特征
-EN: Designing and Evaluating a Socratic-Scaffolded Conversational AI Assistant for Educational Tasks: Cross-Cohort Effectiveness, User Perception, and the Effort Signature
-
-💡 研究设计并评估一种采用苏格拉底式支架教学法的对话式AI助手在教育任务中的应用。通过跨群体实验，考察其有效性、用户感知以及用户投入的“努力特征”。核心关注该AI助手如何通过引导式提问促进学习，以及不同用户群体对其的接受度和使用体验差异。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Kuei-Hao Li, Chia-Kai Chang
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <category>对话式AI</category><category>人机交互(HCI)</category><category>教育</category><category>人机协作</category><category>对话式 AI</category><category>聊天机器人</category><category>虚拟助手</category><category>人机协作</category>
-    </item>    <item>
-      <title>被完美注视：AI伴侣系统中的情感捕获、关系风险与自视镜效应</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40441</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40441</guid>
-      <description>📝 被完美注视：AI伴侣系统中的情感捕获、关系风险与自视镜效应
-EN: Being perfectly seen: Affective capture, relational risk, and the Autopticon effect in AI companion systems
-
-💡 探讨AI伴侣系统中的“自视镜”效应，即用户因被AI完美“看见”和情感捕获而面临的关系风险。分析这种持续、全面的可见性如何塑造用户与AI的亲密关系，可能引发的情感依赖、自我表露过度及隐私侵蚀等问题。核心在于揭示AI伴侣在提供陪伴的同时所隐含的监控与权力动态。
-
-📚 TI · 2026 · 引用 0
-👤 Shiyi Zhang, Shiyu (Sharon) Zheng
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>人机亲密关系</category><category>隐私</category><category>伦理</category><category>情感连接</category><category>AI 伴侣</category><category>社交机器人</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>程序化之梦：中国聊天机器人审查的技术志探究</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40431</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40431</guid>
-      <description>📝 程序化之梦：中国聊天机器人审查的技术志探究
-EN: Programmatic Dreams: Technographic Inquiry into Censorship of Chinese Chatbots
-
-💡 研究探讨腾讯微信平台上中国AI聊天机器人遭遇的审查现象。采用技术民族志方法，将机器人视为对话者和信息提供者，通过与其交谈来理解其设计意图。研究发现，对聊天机器人的这种探究方法，可能揭示中国审查机器内部的裂痕与缺陷，从而为颠覆性空间提供可能。研究不仅关注AI驱动未来中人性的界限，也提出了在人机交互中构想新研究模式的方法论关切。
-
-📚 SMS · 2018 · 引用 10
-👤 Yizhou (Joe) Xu
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <category>聊天机器人</category><category>AI治理</category><category>伦理</category><category>计算机中介传播</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 治理</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>社交焦虑对机器人训练伙伴采纳的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40423</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40423</guid>
-      <description>📝 社交焦虑对机器人训练伙伴采纳的影响
-EN: Effect of Social Anxiety on the Adoption of Robotic Training Partner
-
-💡 研究考察社交焦虑对机器人训练伙伴采纳意愿的影响。发现社交焦虑程度高的大学生更倾向于选择机器人而非人类作为训练伙伴。中介分析表明，与机器人训练伙伴相处时的放松感，中介了社交焦虑对采纳意愿的正向影响。研究指出开发训练机器人对商业利益和社交焦虑者健康均有意义。
-
-📚 CBSN · 2021 · 引用 17
-👤 Dong Hong Zhu, Zhong Zhun Deng
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社交机器人</category><category>孤独感</category><category>社会支持</category><category>人际关系</category><category>社交机器人</category><category>AI 伴侣</category><category>情感支持</category>
-    </item>    <item>
-      <title>促进者还是幻觉陷阱？生成式AI辅助二语写作中AI生成错误信息处理的社会认知解释</title>
-      <link>https://sr-ai-papers.vercel.app/papers/40390</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/40390</guid>
-      <description>📝 促进者还是幻觉陷阱？生成式AI辅助二语写作中AI生成错误信息处理的社会认知解释
-EN: Facilitator or Hallucination Trap? A Social-Cognitive Account of AI-Generated Misinformation Handling in GenAI-Assisted L2 Writing
-
-💡 研究探讨在生成式AI辅助的第二语言写作中，AI是作为信息处理的促进者，还是导致错误信息处理的幻觉陷阱。基于社会认知理论，分析学习者如何处理AI生成的可能错误信息，揭示了人机协作中认知与社会因素对信息评估与采纳的影响。
-
-📚 CHB · 2026 · 引用 0
-👤 Yilong Yang, Jia Li, Yadan Li, Shuyi Zhang, Kai Guo
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>计算机中介传播</category><category>AI治理</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>AI 中介传播</category>
     </item>
   </channel>
 </rss>
