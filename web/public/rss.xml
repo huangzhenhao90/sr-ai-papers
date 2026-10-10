@@ -6,9 +6,39 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 09 Oct 2026 08:42:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:20:01 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>同伴支持匹配：探索在线心理健康社区的算法匹配</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43209</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43209</guid>
+      <description>📝 同伴支持匹配：探索在线心理健康社区的算法匹配
+EN: Matching for Peer Support: Exploring Algorithmic Matching for Online Mental Health Communities
+
+💡 在线心理健康社群（OMHCs）是获取同伴支持的重要途径，但用户难以找到合适的支持关系。本研究通过混合方法（用户访谈与行为日志分析）探索了在7Cups.com平台上的核心挑战，并评估了基于性别、年龄等属性的算法匹配如何改善用户体验，尤其对弱势群体效果显著。研究同时指出，设计此类匹配系统需加强审核，以避免算法可能加剧的骚扰行为。
+
+📚 PACM-HCI · 2022 · 引用 20
+👤 Anna Fang, Haiyi Zhu
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社会支持</category><category>在线社群</category><category>人际关系</category><category>伦理</category><category>推荐算法</category><category>AI 中介传播</category><category>AI 治理</category>
+    </item>    <item>
+      <title>算法信任：在线约会中的偏见评估与情感助推</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43130</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43130</guid>
+      <description>📝 算法信任：在线约会中的偏见评估与情感助推
+EN: Trust in algorithms biased appraisal and boosted affect in online dating
+
+💡 研究探讨在线约会场景中，用户对算法推荐的信任如何影响其评估与情感反应。标题暗示，算法偏见可能导致用户对匹配对象产生不准确的评价（偏颇评估），并可能增强积极或消极的情感体验（情感提升）。
+
+📚 ICS · 2026 · 引用 0
+👤 Junwen M. Hu, Yoo Jung Oh
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人际关系</category><category>在线社群</category><category>计算机中介传播</category><category>推荐算法</category><category>AI 中介传播</category>
+    </item>    <item>
       <title>设计 PairBuddy——一个用于结对编程的对话代理</title>
       <link>https://sr-ai-papers.vercel.app/papers/43045</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43045</guid>
@@ -78,7 +108,7 @@ EN: Conversational Artificial Intelligence Interaction and Hypomanic Persistence
 💡 研究探讨青年群体与对话式人工智能互动如何通过情感与睡眠相关路径，影响其轻躁狂持续倾向。基于刺激-机体-反应理论框架，分析AI互动作为刺激，如何通过影响用户情绪状态和睡眠模式，最终导致特定的心理行为倾向。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Yiding Bu, Zhentai Zhang, Yuxin Li, Shuyi Wang
+👤 Yiding Bu, 震台 张, 雨欣 黎, ShuYi Wang
 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
@@ -446,36 +476,6 @@ EN: Is Artificial Intelligence Customer Service Satisfactory? Insights Based on 
 AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <category>聊天机器人</category><category>社会支持</category><category>拟人化</category><category>信任</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 中介传播</category><category>情感识别</category>
-    </item>    <item>
-      <title>社会临场感是否提升感知能力？</title>
-      <link>https://sr-ai-papers.vercel.app/papers/41570</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/41570</guid>
-      <description>📝 社会临场感是否提升感知能力？
-EN: Does Social Presence Increase Perceived Competence?
-
-💡 研究对话式代理（CA）的社会临场感如何影响其在服务场景（如金融咨询）中被感知的能力。通过视频在线调查，评估了三种不同社会临场感设计的CA原型，并置于两人一CA的三方交互情境中。核心发现：社会临场感强的CA被认为能力更强，支持‘计算机是社会行动者’范式；同时，CA的能力感知与人类顾问的能力感知呈正相关，表明CA可作为团队一员提升整体服务印象。
-
-📚 PACM-HCI · 2022 · 引用 23
-👤 Damaris Schmid, Dario Staehelin, Andreas Bucher, Mateusz Dolata, Gerhard Schwabe
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社会临场</category><category>信任</category><category>人机交互(HCI)</category><category>计算机中介传播</category><category>对话式 AI</category><category>聊天机器人</category><category>社交机器人</category>
-    </item>    <item>
-      <title>自主技术的社会认知视角</title>
-      <link>https://sr-ai-papers.vercel.app/papers/41193</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/41193</guid>
-      <description>📝 自主技术的社会认知视角
-EN: A social cognition perspective on autonomous technology
-
-💡 （根据标题推断）该研究从社会认知的理论视角出发，探讨人类如何理解、感知和评估自主技术（如AI、机器人）。可能涉及人类如何将社会规则、意图或特质赋予技术，以及这种认知过程如何影响人机信任、接受度与互动行为。
-
-📚 CHB · 2021 · 引用 38
-👤 Ruth Frischknecht
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>信任</category><category>社会互动</category><category>人机交互(HCI)</category><category>社交机器人</category><category>AI 治理</category><category>AI 伦理</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
