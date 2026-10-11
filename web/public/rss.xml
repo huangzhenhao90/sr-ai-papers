@@ -6,9 +6,24 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 08:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 08:29:53 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>AI 陪伴质量如何及何时提升用户心理健康</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43243</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43243</guid>
+      <description>📝 AI 陪伴质量如何及何时提升用户心理健康
+EN: How and when AI companionship quality enhances user mental well-being
+
+💡 研究探讨AI陪伴质量（如情感支持、互动深度）如何以及在何种条件下（如用户孤独感水平、使用频率）能有效提升用户的心理幸福感。通过实证调查或实验，分析AI陪伴的不同维度（如共情、可靠性）对用户情绪、孤独感、生活满意度等心理健康指标的影响机制与边界条件。
+
+📚 TI · 2026 · 引用 0
+👤 Pengyi Shen, Dehui Peng, Jinan Xu
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>社会支持</category><category>情感支持</category><category>心理健康</category><category>AI 伴侣</category><category>聊天机器人</category><category>对话式 AI</category>
+    </item>    <item>
       <title>同伴支持匹配：探索在线心理健康社区的算法匹配</title>
       <link>https://sr-ai-papers.vercel.app/papers/43209</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43209</guid>
@@ -33,9 +48,11 @@ EN: Trust in algorithms biased appraisal and boosted affect in online dating
 💡 研究探讨在线约会场景中，用户对算法推荐的信任如何影响其评估与情感反应。标题暗示，算法偏见可能导致用户对匹配对象产生不准确的评价（偏颇评估），并可能增强积极或消极的情感体验（情感提升）。
 
 📚 ICS · 2026 · 引用 0
-👤 Junwen M. Hu, Yoo Jung Oh
+👤 Jian Ming Hu, Yoo Jung Oh
 
-AI 分: 4.0 / 领域分: 4.0</description>
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://doi.org/10.1080/1369118x.2026.2743730</description>
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>人际关系</category><category>在线社群</category><category>计算机中介传播</category><category>推荐算法</category><category>AI 中介传播</category>
     </item>    <item>
@@ -63,7 +80,7 @@ EN: Relational Role Attribution: A Unifying Construct in Human–AI Interaction
 💡 研究探讨人机交互中一个统一的概念框架——关系角色归因。该研究旨在理解人类如何将社会角色（如助手、伴侣、顾问）赋予人工智能系统，以及这种归因如何影响互动过程与结果。核心发现可能揭示了角色归因是驱动用户感知、信任和行为的关键机制，为理解复杂的人机社会关系提供了整合视角。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Michael J. Gazzanigo, Xiao Yang
+👤 Michael J Gazzanigo, Xiao Yang
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
@@ -78,7 +95,7 @@ EN: Emotional Comfort at a Cost: The Dynamic Role of Social Chatbot Use in Daily
 💡 研究考察日常使用社交聊天机器人对孤独感、幸福感和人际互动的动态影响。通过日记法等追踪方法，发现使用社交聊天机器人能在短期内提供情感安慰，缓解孤独感，但可能伴随长期成本，如减少现实人际互动或对幸福感产生复杂影响。核心在于揭示这种使用行为在提供即时情感支持与潜在社会替代之间的权衡关系。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Yun Chen, Yue Ding, Lin-Xin Wang, Yu Kou
+👤 Yun Chen, Yue DING, Linxin Wang, Yu Kou
 
 AI 分: 4.0 / 领域分: 5.0</description>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
@@ -461,21 +478,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2610.03020v1</description>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <category>人机交互(HCI)</category><category>关系形成</category><category>关系维系</category><category>信任</category><category>LLM</category><category>智能体/Agent</category><category>对话式 AI</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>人工智能客服令人满意吗？基于微博数据与用户访谈的洞察</title>
-      <link>https://sr-ai-papers.vercel.app/papers/41656</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/41656</guid>
-      <description>📝 人工智能客服令人满意吗？基于微博数据与用户访谈的洞察
-EN: Is Artificial Intelligence Customer Service Satisfactory? Insights Based on Microblog Data and User Interviews
-
-💡 探究消费者对AI客服的满意度。通过微博数据分析与用户访谈发现，消费者对AI客服的总体态度比人工客服更负面，不满主要源于其解决问题能力差、响应不及时及缺乏人情味。正面反馈则多与语音特质和服务态度相关。研究同时发现，消费者认为AI客服具有一定拟人性和缓解社交压力的作用。
-
-📚 CBSN · 2022 · 引用 27
-👤 Tengfei Zhao, Jingjing Cui, Jiayu Hu, Yan Dai, Yang Zhou
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>聊天机器人</category><category>社会支持</category><category>拟人化</category><category>信任</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 中介传播</category><category>情感识别</category>
     </item>
   </channel>
 </rss>
