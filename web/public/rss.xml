@@ -6,9 +6,86 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 11 Oct 2026 08:29:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:53:49 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>STARS：从时空动力学到人机交互中的社会表征</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43305</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43305</guid>
+      <description>📝 STARS：从时空动力学到人机交互中的社会表征
+EN: STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction
+
+💡 研究探讨视觉语言模型（VLMs）能否理解动态、以人为中心的复杂社交导航场景（如推断时空关系和人类意图），这对机器人安全、合规导航至关重要。为此，研究构建了SocialNav-SUB基准数据集，通过视觉问答任务系统评估VLMs在空间、时空及社交推理方面的表现。实验发现，尽管表现最佳的VLM与人类答案有一定一致性，但仍逊于基于规则的简单方法和人类共识基线，表明其在复杂社交场景理解上仍有局限。
+
+📚 arXiv · 2026 · 引用 0
+👤 Nathan Tsoi, Michael J. Munje, Tejas Oberoi, Rishab Maheshwari, Pengen Zheng
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2609.40245</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社会互动</category><category>人机交互(HCI)</category><category>社交机器人</category><category>信任</category><category>多模态</category><category>视觉语言模型</category><category>社交机器人</category><category>人机交互</category>
+    </item>    <item>
+      <title>逻辑抑或情感？说服策略对人机信任的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43295</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43295</guid>
+      <description>📝 逻辑抑或情感？说服策略对人机信任的影响
+EN: Logic or Emotion? The Impact of Persuasion Strategies on Human-AI Trust
+
+💡 研究探讨在说服过程中，逻辑策略与情感策略对人类信任AI的影响。通过实验方法，比较两种策略在建立或修复人机信任上的效果差异。核心发现揭示了不同说服策略对信任形成的机制，为设计可信赖的AI交互提供了依据。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Tianhao Li, Yue Qi
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机交互(HCI)</category><category>社会互动</category><category>说服</category><category>对话式 AI</category><category>AI 治理</category><category>人机交互</category>
+    </item>    <item>
+      <title>机器人意图透明度对人类信任与决策遵从的影响：善意与隐秘意图的作用</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43293</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43293</guid>
+      <description>📝 机器人意图透明度对人类信任与决策遵从的影响：善意与隐秘意图的作用
+EN: Effects of Transparent Robot Intentions on Human Trust and Compliance in Decision-Making: The Role of Benevolent and Ulterior Intentions of Robots
+
+💡 研究机器人意图透明度对人类信任与决策遵从的影响，特别区分了善意意图与隐蔽意图。通过实验检验意图披露如何调节信任水平及后续的遵从行为。核心发现揭示了透明且善意的意图能有效提升信任，而隐蔽意图则损害信任与协作。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Arndt Schäfer, Bettina Kubicek
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机交互(HCI)</category><category>社会互动</category><category>伦理</category><category>社交机器人</category><category>可解释 AI</category><category>AI 伦理</category><category>人机交互</category>
+    </item>    <item>
+      <title>人工智能时代的寻爱：当算法进入约会场景</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43283</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43283</guid>
+      <description>📝 人工智能时代的寻爱：当算法进入约会场景
+EN: Looking for Love in the Age of AI: When Algorithms Enter the Dating Scene
+
+💡 研究算法（如AI推荐、匹配系统）如何介入并改变现代约会场景。通过定性或定量方法，探讨算法对浪漫关系形成、用户行为及社会规范的影响。核心发现揭示了算法在重塑求爱实践、带来效率与个性化同时，也可能引发隐私、偏见与关系商品化等伦理问题。
+
+📚 CBSN · 2026 · 引用 0
+👤 Brenda K. Wiederhold
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <category>浪漫关系</category><category>人际关系</category><category>社交媒体</category><category>伦理</category><category>推荐算法</category><category>GenAI</category><category>AI 中介传播</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>探寻互联网中学生中心开放学习环境：学术实践虚拟社区中的自动化对话评估</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43275</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43275</guid>
+      <description>📝 探寻互联网中学生中心开放学习环境：学术实践虚拟社区中的自动化对话评估
+EN: Finding student-centered open learning environments on the internet: Automated dialogue assessment in academic virtual communities of practice
+
+💡 研究聚焦于如何在互联网上发现以学生为中心的开放学习环境。其核心方法是利用自动化对话评估技术，对学术性的虚拟实践社区进行分析与评估，旨在识别和衡量这些在线社群中支持学生中心学习的互动质量与特征。
+
+📚 CHB · 2015 · 引用 23
+👤 Nicolae Nistor, Ştefan Trăuşan-Matu, Mihai Dascălu, Heather Duttweiler, Costin Chiru
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <category>在线社群</category><category>计算机中介传播</category><category>社会互动</category><category>教育技术</category><category>对话式 AI</category><category>自然语言处理</category><category>AI 中介传播</category>
+    </item>    <item>
       <title>AI 陪伴质量如何及何时提升用户心理健康</title>
       <link>https://sr-ai-papers.vercel.app/papers/43243</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43243</guid>
@@ -401,83 +478,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2610.06681v1</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <category>AI伴侣/陪伴</category><category>拟人化</category><category>心智感知</category><category>社会支持</category><category>AI 伴侣</category><category>聊天机器人</category><category>对话式 AI</category><category>社交机器人</category>
-    </item>    <item>
-      <title>角色情境化视觉决策支持：会话推荐界面中适老化家具的信任与决策信心评估路径</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42120</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42120</guid>
-      <description>📝 角色情境化视觉决策支持：会话推荐界面中适老化家具的信任与决策信心评估路径
-EN: Role-Contingent Visual Decision Support for Age-Friendly Furniture in Conversational Recommendation Interfaces: Appraisal Pathways to Trust and Decision Confidence
-
-💡 研究探讨在对话式推荐界面中，如何通过角色相关的视觉决策支持，帮助老年人选择适老家具，以提升其对系统的信任和决策信心。方法涉及设计特定角色（如老年人）的视觉辅助，并评估其对信任和信心的影响路径。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Mingzhu Li, Junjie Shu, Fangyuan Chang, Tao Peng, Xingyan Chen
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>信任</category><category>社会支持</category><category>老人/无障碍</category><category>对话式 AI</category><category>推荐算法</category><category>人机交互</category>
-    </item>    <item>
-      <title>人机任务型通信中解释与论证的透明度机制</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42110</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42110</guid>
-      <description>📝 人机任务型通信中解释与论证的透明度机制
-EN: Transparency through Explanations and Justifications in Human-Robot Task-Based Communications
-
-💡 研究在人与机器人基于任务的沟通中，提供解释和理由如何影响透明度。方法未明确，但标题暗示关注人机交互中的沟通清晰度与可理解性。核心发现指向解释和理由作为提升人机协作透明度的关键机制。
-
-📚 IJHCI · 2022 · 引用 20
-👤 Matthias Scheutz, Ravenna Thielstrom, Mitchell Abrams
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>信任</category><category>社会互动</category><category>可解释 AI</category><category>社交机器人</category><category>人机交互</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>“Crystal 令人不安却酷炫”：自动化人格识别算法的民间理论与响应映射</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42076</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42076</guid>
-      <description>📝 “Crystal 令人不安却酷炫”：自动化人格识别算法的民间理论与响应映射
-EN: “Crystal Is Creepy, but Cool”: Mapping Folk Theories and Responses to Automated Personality Recognition Algorithms
-
-💡 研究公众对Crystal Knows等自动化人格识别算法的民间理论构建与反应。通过向37名参与者展示其算法生成的人格画像并进行定性访谈，探究他们如何从数据来源、范围、收集过程和输出四个维度解释算法运作，以及这些民间理论如何引发特定反应、恐惧和合理化行为。
-
-📚 SMS · 2021 · 引用 16
-👤 Tony Liao, Olivia Tyson
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <category>算法透明度</category><category>隐私</category><category>信任</category><category>社交媒体</category><category>推荐算法</category><category>情感识别</category><category>AI 治理</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>人工智能更安全：个人信息类型与代理对隐私风险感知与担忧的交互影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42067</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42067</guid>
-      <description>📝 人工智能更安全：个人信息类型与代理对隐私风险感知与担忧的交互影响
-EN: Artificial Intelligence Is Safer for My Privacy: Interplay Between Types of Personal Information and Agents on Perceived Privacy Risk and Concerns
-
-💡 探讨个人信息类型（数字生活、数字足迹、自我表达、人口统计）与信息接收方（人类 vs. AI）如何影响用户的隐私风险感知与担忧。研究发现，当向人类而非AI提供数字生活和数字足迹信息时，用户的隐私风险感知和担忧最高；对于自我表达和人口统计信息，则无显著差异。
-
-📚 CBSN · 2022 · 引用 10
-👤 Jungwon Kim, Yongjun Sung
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <category>隐私</category><category>信任</category><category>人机交互(HCI)</category><category>AI伦理</category><category>AI 治理</category><category>AI 伦理</category><category>聊天机器人</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>DyadMem：智能体与用户协作的长期记忆基准</title>
-      <link>https://sr-ai-papers.vercel.app/papers/41942</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/41942</guid>
-      <description>📝 DyadMem：智能体与用户协作的长期记忆基准
-EN: DyadMem: A Long-Term Memory Benchmark of How Agents Work with Users
-
-💡 研究智能体如何在与用户的长期互动中形成并维护关系性记忆。提出用户条件关系智能体记忆新定义，并构建DyadMem基准，包含多会话轨迹中的用户记忆与关系记忆联合标注。评估发现，主流大模型在黄金记忆问答上表现良好，但在包含记忆捕获与更新的全流程任务中性能骤降，揭示了现有模型在关系记忆捕获、完整性及安全删除方面的不足。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Yifei Tao, Xinyu Zhong, Henry Hengyuan Zhao, Fanyi Wang, Tengda Guo
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.03020v1</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>关系形成</category><category>关系维系</category><category>信任</category><category>LLM</category><category>智能体/Agent</category><category>对话式 AI</category><category>AI 伴侣</category>
     </item>
   </channel>
 </rss>
