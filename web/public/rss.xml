@@ -6,9 +6,103 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Oct 2026 08:53:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:11:17 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>对智能体拟人化态度如何分化用户行为及设计应如何改变</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43399</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43399</guid>
+      <description>📝 对智能体拟人化态度如何分化用户行为及设计应如何改变
+EN: How Anthropomorphic Attitudes Toward Agents Divide User Behavior, and How Design Should Change
+
+💡 通过田野实验发现，用户对对话助手采用拟人化命名（如取名）会显著影响其使用行为：更倾向问候、吐露心声而非命令，并与“教师”等身份认同相关。基于此修订了助手回复策略（对关系性开场白给予情感回应，对任务指令直接执行），新策略更受拟人化命名用户青睐，尤其在“被当人对待”和“情感被接收”方面。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Tingyu Cao, Yan Tang, Keer Hu, Bomingxuan Zhu, Ruyi Zou
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.13156v1</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>自我表露</category><category>人际关系</category><category>人机交互(HCI)</category><category>对话式 AI</category><category>聊天机器人</category><category>虚拟助手</category><category>GenAI</category>
+    </item>    <item>
+      <title>人机伴侣关系中的AI侧：对用户心智模型的贡献</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43398</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43398</guid>
+      <description>📝 人机伴侣关系中的AI侧：对用户心智模型的贡献
+EN: The AI Side of the Human-AI Companion Relationship: Contributions to Users' Mental Models
+
+💡 研究探讨用户与AI伴侣（AIC）关系中，用户如何形成关于关系互动性的心智模型。尽管AIC的回应能产生真实的相互参与感，但其机制并非用户所认为的：人的改变是构成性的（内在的），而AIC的改变是配置性的（外部可编辑的）。这种层次差异解释了AIC如何营造互惠感，但也导致用户误判AIC适应的本质，从而可能赋予关系不必要的人际意义。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Richard A. Fabes, Carol Lynn Martin, Gautam Dasarathy, Vignesh Tirukkonda
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.12891v1</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>拟社会关系</category><category>人机亲密关系</category><category>信任</category><category>AI 伴侣</category><category>聊天机器人</category><category>对话式 AI</category><category>GenAI</category>
+    </item>    <item>
+      <title>促进语言子群体间的全球团队会议：机器翻译何时及如何提供帮助？</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43397</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43397</guid>
+      <description>📝 促进语言子群体间的全球团队会议：机器翻译何时及如何提供帮助？
+EN: Facilitating Global Team Meetings Between Language-Based Subgroups: When and How Can Machine Translation Help?
+
+💡 研究探索如何利用机器翻译（MT）促进由不同语言子群组成的全球团队会议。假设在团队会议前，通过MT交换各子群母语对话日志，能提供背景信息从而提升会议效率。实验让英语母语者与非母语者（普通话）组成四人小组完成人事选拔任务。结果表明，MT介导的日志交换能改善参与者的主观体验、任务表现及讨论深度。
+
+📚 PACM-HCI · 2022 · 引用 12
+👤 Yongle Zhang, Dennis Asamoah Owusu, Marine Carpuat, Ge Gao
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>计算机中介传播</category><category>社会互动</category><category>信任</category><category>机器翻译</category><category>人机协作</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>赋能驾驶员作为协作社会智能体：通过自动驾驶系统中的合作界面增强行人交互</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43358</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43358</guid>
+      <description>📝 赋能驾驶员作为协作社会智能体：通过自动驾驶系统中的合作界面增强行人交互
+EN: Empowering Drivers as Collaborative Social Agents: Enhancing Pedestrian Interaction through Cooperative Interfaces in Autonomous Vehicle Systems
+
+💡 研究如何通过协作式界面，将自动驾驶汽车驾驶员转变为能与行人进行社会性互动的协作智能体，以增强人车交互。核心是探讨在自动驾驶系统中，如何设计界面以促进驾驶员与行人之间的合作与沟通，提升道路安全与社会协调。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Jun Zhang, Weiqi Mei, Yuchen Wang, Fang You, Yan Luximon
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>社会互动</category><category>人机交互(HCI)</category><category>信任</category><category>社交机器人</category><category>人机协作</category><category>人机交互</category>
+    </item>    <item>
+      <title>超越无缝性：移动人工智能与情境化意义建构</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43351</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43351</guid>
+      <description>📝 超越无缝性：移动人工智能与情境化意义建构
+EN: Beyond Seamlessness: Mobile AI and Situated Sense-Making
+
+💡 探讨生成式AI移动化如何从情境化意义建构视角重塑人机交流，而非仅关注无缝交互。通过协调、分布与稳定化三个维度，分析移动AI如何嵌入日常活动、影响参与模式、重新分配认知权威并引导问题界定，主张设计应强调可见协调、响应性对齐与开放性稳定。
+
+📚 MMC · 2026 · 引用 0
+👤 Thilo von Pape
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>计算机中介传播</category><category>社会互动</category><category>拟人化</category><category>GenAI</category><category>对话式 AI</category><category>人机交互</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>与人工对话智能体共同建构主体间性：用户更倾向于修复被表征为人类的智能体的误解</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43323</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43323</guid>
+      <description>📝 与人工对话智能体共同建构主体间性：用户更倾向于修复被表征为人类的智能体的误解
+EN: Co-constructing intersubjectivity with artificial conversational agents: People are more likely to initiate repairs of misunderstandings with agents represented as human
+
+💡 研究探讨人们如何与人工对话代理（ACA）共同建构主体间性。核心发现是，当代理被表征为人类时，人们更有可能主动发起对话修复（即澄清误解）。这表明代理的社会表征（如拟人化程度）显著影响人机互动中沟通协调与相互理解的过程。
+
+📚 CHB · 2016 · 引用 96
+👤 Kevin Corti, Alex Gillespie
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>社会临场</category><category>对话式AI</category><category>信任</category><category>聊天机器人</category><category>对话式 AI</category><category>社交机器人</category><category>人机交互</category>
+    </item>    <item>
       <title>STARS：从时空动力学到人机交互中的社会表征</title>
       <link>https://sr-ai-papers.vercel.app/papers/43305</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43305</guid>
@@ -382,102 +476,6 @@ EN: Activating Social Responses in Human–AI Interaction: The Effects of Recip
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <category>社会临场</category><category>自我表露</category><category>信任</category><category>拟人化</category><category>对话式 AI</category><category>聊天机器人</category><category>社交机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>在“黑箱”中寻找爱情：约会应用中的算法意识</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42774</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42774</guid>
-      <description>📝 在“黑箱”中寻找爱情：约会应用中的算法意识
-EN: Finding Love in the Black Box: Algorithm Awareness on Dating Apps
-
-💡 研究探讨约会应用用户对匹配算法的认知程度如何影响其使用体验。通过对荷兰约会应用Breeze的500名用户进行问卷调查和结构方程建模分析，发现更高的算法认知度与更强的算法信任感相关，而算法信任感又正向预测用户对匹配质量的满意度。这表明，了解算法运作机制可能通过增强信任，间接提升约会应用的使用效果。
-
-📚 CBSN · 2026 · 引用 0
-👤 Doris Bukman, Liesel L. Sharabi, Elisabeth Timmermans
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>算法认知</category><category>人际关系</category><category>在线社群</category><category>推荐算法</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>PAIR：实时多模态对话代理中的感知情感推理与调节</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42733</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42733</guid>
-      <description>📝 PAIR：实时多模态对话代理中的感知情感推理与调节
-EN: PAIR: Perceptual Affective Inference and Regulation in a Real-Time Multimodal Conversational Agent
-
-💡 研究如何为生成式智能体构建持续的情感支持能力，提出PAIR系统，通过实时多模态感知评估事件、推断情绪状态（效价-唤醒度-支配度），并提供结合对话、语音、颜色和虚拟形象的调节指导。一项为期14天、涉及19名参与者的部署研究显示，系统对效价和支配度预测较好，情感改善效果在初始消极情绪时最明显；感知到的理解比数值预测误差更能关联积极改变；长期使用中，帮助感提升，对话趋于个性化与陪伴感。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Kexin Quan, Zijian Ding, Jiaye Yong, Qinshi Zhang, Dong Wang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.07523v1</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <category>情感支持</category><category>共情</category><category>社会支持</category><category>AI伴侣/陪伴</category><category>GenAI</category><category>多模态</category><category>情感识别</category><category>智能体/Agent</category>
-    </item>    <item>
-      <title>拥有与共享</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42727</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42727</guid>
-      <description>📝 拥有与共享
-EN: Owning and Sharing
-
-💡 研究智能个人助手（如Alexa）在多用户家庭共享场景下的隐私、同意与所有权问题。通过对10名家庭内用户（账户所有者与同住者）和9名访客的访谈发现，经常互动的同住者虽无账户控制权，仍自视为设备所有者；存在基于信任的边界管理礼仪（智能音箱礼仪）。所有用户均对数据使用、设备持续监听及操作不透明表示担忧。研究讨论了用户的系统理解、担忧及保护策略，并就避免共享设备引发的紧张关系提出建议。
-
-📚 PACM-HCI · 2021 · 引用 49
-👤 Nicole Meng, Dilara Keküllüoğlu, Kami Vaniea
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <category>隐私</category><category>信任</category><category>人际关系</category><category>AI治理</category><category>虚拟助手</category><category>语音助手</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>媒介素养聊天机器人中的用户能动性陷阱：交互评估形式、不完美披露与视觉虚假信息辨识</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42568</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42568</guid>
-      <description>📝 媒介素养聊天机器人中的用户能动性陷阱：交互评估形式、不完美披露与视觉虚假信息辨识
-EN: The User Agency Trap in Media Literacy Chatbots: Interactive Evaluation Format, Imperfection Disclosure, and Visual Misinformation Discernment
-
-💡 研究探讨媒体素养聊天机器人中的用户能动性陷阱，关注交互式评估形式、系统不完美性披露如何影响用户对视觉虚假信息的辨别能力。标题暗示研究可能通过实验方法，考察这些设计因素对用户批判性思维和决策的潜在负面影响。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Jiyoung Lee, Suhyun Kim, Hakjun Lee, Jiwon Hwang
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <category>聊天机器人</category><category>人机交互(HCI)</category><category>信任</category><category>AI治理</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>主动式人工智能：从对话轮次到可重规划的对话时间线</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42443</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42443</guid>
-      <description>📝 主动式人工智能：从对话轮次到可重规划的对话时间线
-EN: Proactive AI: From Turns to Replannable Dialogue Timelines
-
-💡 针对传统LLM聊天界面被动响应的局限，提出“主动式AI”框架，将对话视为连续时间线，管理可重新规划的待发送消息队列。该框架允许AI在无新请求时主动发起交流、进行持续跟进，并能在上下文变化时修订、撤回或执行已计划的对话行为，从而模拟人类异步通信的灵活性。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Zijie Yang
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.05159v1</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <category>对话式AI</category><category>人机交互(HCI)</category><category>社会互动</category><category>计算机中介传播</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>智能体/Agent</category>
-    </item>    <item>
-      <title>心智感知对人工智能陪伴性感知的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42442</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42442</guid>
-      <description>📝 心智感知对人工智能陪伴性感知的影响
-EN: Mind Perception Influences Perceived AI Companionability
-
-💡 研究检验心智感知（感知AI具有能动性或体验性）是否影响人类对AI伴侣的陪伴感。通过实验操纵对AI的心智描述，发现能动性心智感知预测了AI作为提升自我资源的潜力，而体验性心智感知预测了其作为协调陪伴的潜力。生命意义感调节了能动性感知与陪伴感的关系，但仅对已有较高存在目的者有效。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Jaime Banks, Zhixin Li
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.06681v1</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>拟人化</category><category>心智感知</category><category>社会支持</category><category>AI 伴侣</category><category>聊天机器人</category><category>对话式 AI</category><category>社交机器人</category>
     </item>
   </channel>
 </rss>
