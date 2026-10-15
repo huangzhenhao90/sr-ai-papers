@@ -6,9 +6,86 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 07:22:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:15:26 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>FACES：面向多模态情感支持对话的细粒度门控语义对齐</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43784</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43784</guid>
+      <description>📝 FACES：面向多模态情感支持对话的细粒度门控语义对齐
+EN: FACES: Fine-grained Gated Semantic Alignment for Multimodal Emotional Support Conversation
+
+💡 多模态情感支持对话系统常因语义反馈弱、跨维度奖励补偿和粗粒度监督导致回应肤浅、策略不当。研究提出FACES框架，通过整合多源奖励构建多维语义与功能对齐信号，采用非补偿性门控融合机制减少跨维度奖励抵消，并利用结构化思维链锚点进行细粒度信用分配。在控制回复长度下，FACES将基于MLLM的评估平均分从3.61提升至4.04，对SOTA的成对胜率达80.22%，人工评估偏好率为75.3%，在外部数据集上验证了可迁移性。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Hang Ren, Peidong Wang, Yichen Gao, Wen Zhang, Jiayang Yu
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.20051v1</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <category>情感支持</category><category>社会支持</category><category>共情</category><category>人机交互(HCI)</category><category>多模态</category><category>对话式 AI</category><category>情感计算</category><category>GenAI</category>
+    </item>    <item>
+      <title>AI主动式智能沙发的预期接受度：价值-抗拒双路径模型</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43683</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43683</guid>
+      <description>📝 AI主动式智能沙发的预期接受度：价值-抗拒双路径模型
+EN: Anticipated Acceptance of AI-Proactive Smart Sofas: A Value–Reactance Dual-Pathway Model
+
+💡 研究探讨用户对具备AI主动交互功能的智能沙发的预期接受度。基于标题推断，研究可能构建了一个“价值-抗拒”双路径模型，旨在解释用户在接受这种新型智能家居产品时，其感知价值（如便利性、舒适性）与心理抗拒（如对自主性丧失的担忧、隐私顾虑）如何共同影响最终的接受意愿。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Weiqi Hua, Yushu Chen
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>信任</category><category>隐私</category><category>AI治理</category><category>社交机器人</category><category>智能体/Agent</category><category>人机交互</category>
+    </item>    <item>
+      <title>从表征到关系式指导：AI中介非遗学习中用户对虚拟传承导师的感知</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43681</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43681</guid>
+      <description>📝 从表征到关系式指导：AI中介非遗学习中用户对虚拟传承导师的感知
+EN: From Representation to Relational Mentorship: User Perceptions of Virtual Heritage Mentors in AI-Mediated Intangible Cultural Heritage Learning
+
+💡 研究探索在AI中介的非物质文化遗产学习中，用户对虚拟遗产导师的感知如何从单纯的“代表性”角色转变为“关系型导师”角色。基于标题推断，研究可能调查了学习者与AI虚拟导师互动时，如何超越其作为文化知识载体的工具性功能，发展出包含指导、支持和情感连接在内的拟社会关系或 mentorship 关系，并分析这种关系转变对学习体验和效果的影响。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Quanyi Zhao, Xiangming Mu, Xun Zhu
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <category>拟社会关系</category><category>社会支持</category><category>人机交互(HCI)</category><category>在线社群</category><category>AI 伴侣</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>我可以教你吗？学生对机器人教师与人类教师授课的行为反应</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43632</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43632</guid>
+      <description>📝 我可以教你吗？学生对机器人教师与人类教师授课的行为反应
+EN: May I teach you? Students' behavior when lectured by robotic vs. human teachers
+
+💡 研究探讨学生在接受机器人教师与人类教师授课时的行为差异。通过对比实验，观察学生在不同教学主体下的课堂参与度、互动模式及学习反应。核心发现可能揭示机器人教学在特定情境下的接受度、局限性及其对学生行为塑造的独特影响。
+
+📚 CHB · 2018 · 引用 74
+👤 Camino Fernández-Llamas, Miguel A. Conde, Francisco J. Rodríguez-Lera, Francisco J. Rodríguez-Sedano, Francisco García
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社会互动</category><category>拟人化</category><category>人机交互(HCI)</category><category>信任</category><category>社交机器人</category><category>人机交互</category>
+    </item>    <item>
+      <title>感知型与实际型伙伴在人人及人机交互中的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43618</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43618</guid>
+      <description>📝 感知型与实际型伙伴在人人及人机交互中的影响
+EN: Impact of two types of partner, perceived or actual, in human–human and human–agent interaction
+
+💡 研究比较了人类与人类、人类与智能体互动中，两种伙伴类型（感知到的 vs. 实际的）所产生的影响。通过设计包含真实人类伙伴和虚拟智能体伙伴的实验情境，分析互动质量、合作效率及主观体验的差异。核心发现可能揭示伙伴的“真实性”感知如何中介不同互动模式的效果。
+
+📚 CHB · 2012 · 引用 19
+👤 Kazuhisa Miwa, Hitoshi Terai
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人际关系</category><category>社会互动</category><category>信任</category><category>拟社会关系</category><category>智能体/Agent</category><category>社交机器人</category><category>人机交互</category>
+    </item>    <item>
       <title>CompanionSafe：从多轮安全评估到 AI 伴侣的防护栏</title>
       <link>https://sr-ai-papers.vercel.app/papers/43602</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43602</guid>
@@ -80,7 +157,7 @@ EN: Self-Disclosure to Intelligent Virtual Agents: A Scoping Review and the Disc
 💡 该综述性研究聚焦于用户向智能虚拟代理进行自我表露的现象。通过范围综述方法，对现有文献进行梳理和整合。研究旨在构建一个理论框架，以系统理解这一人机互动过程。该框架从“可供性”、“实现”和“治理”三个维度出发，探讨了技术特性如何促使用户表露、表露行为如何实际发生，以及在此过程中涉及的伦理与治理问题。
 
 📚 CHB · 2026 · 引用 0
-👤 Yimin WANG, Zhanghui WANG, Yu ZOU, Yanping SONG, Guobin XIA
+👤 Yimin Wang, Zhanghui WANG, Yu ZOU, Yanpin Song, Guobin Xia
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
@@ -397,85 +474,6 @@ EN: Conversational Artificial Intelligence Interaction and Hypomanic Persistence
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <category>人机交互(HCI)</category><category>情感支持</category><category>成瘾/依赖</category><category>心理健康</category><category>对话式 AI</category><category>聊天机器人</category><category>情感识别</category>
-    </item>    <item>
-      <title>用户-AI-医生协作在自我用药中的决策权重分配与持续使用意愿</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42972</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42972</guid>
-      <description>📝 用户-AI-医生协作在自我用药中的决策权重分配与持续使用意愿
-EN: User–AI–Physician Collaboration in Self-Medication: Decision Weight Allocation and Continuance Intention
-
-💡 研究探索在自我用药场景下，用户、AI与医生三方协作的动态。重点关注用户如何在协作中分配决策权重给AI与医生，以及这种协作模式如何影响其持续使用AI辅助决策的意愿。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Guyue Tang
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>社会支持</category><category>AI治疗师</category><category>AI 伴侣</category><category>聊天机器人</category><category>推荐算法</category><category>人机协作</category>
-    </item>    <item>
-      <title>过犹不及：匿名图像板中讽刺性群体风格如何变得政治化</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42946</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42946</guid>
-      <description>📝 过犹不及：匿名图像板中讽刺性群体风格如何变得政治化
-EN: Going Overboard: How Ironic Group Style Becomes Political on an Anonymous Imageboard
-
-💡 研究探讨匿名图片论坛Overboard上的群体风格如何变得政治化。通过卷积神经网络分析该社区对“政治”的语言理解特征，结合主题建模与定性分析，发现约十分之一的信息可识别为“政治性”，常以讽刺风格表达极右翼观点，且其流行度在增加。研究认为，强烈的内外群体边界与讽刺、愤世嫉俗的言论规范形成了成员间的纽带，这种群体风格易于将集体政治化。
-
-📚 SMS · 2020 · 引用 14
-👤 Tuukka Ylä-Anttila, Veikko Eranti, Sam Hardwick
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <category>在线社群</category><category>社交媒体</category><category>计算机中介传播</category><category>网络心理学</category><category>情感识别</category><category>推荐算法</category>
-    </item>    <item>
-      <title>人际真诚中的序列复制效应：来自 AI 中介道歉与感激的证据</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42907</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42907</guid>
-      <description>📝 人际真诚中的序列复制效应：来自 AI 中介道歉与感激的证据
-EN: The sequential replicant effect in interpersonal sincerity: evidence from AI-mediated apology and gratitude
-
-💡 研究将“复制人效应”从信息信任扩展到人际真诚领域，探究AI中介传播意识与AI参与线索如何影响对道歉和感谢场景中真诚度的判断及后续关系反应。两项预注册研究发现，AI参与线索会降低感知真诚度；AI中介传播意识通过引发怀疑，对后续无线索评估产生序列影响；高模糊性AI线索仅在感谢场景中产生序列效应。结果表明人-AI混合创作重塑了人际真诚的推断与验证方式，其影响取决于线索清晰度与关系语境。
-
-📚 JCMC · 2026 · 引用 0
-👤 Bolin Cao, Zhenming Li
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI中介传播</category><category>信任</category><category>共情</category><category>人际关系</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>RELATE：评估大语言模型关系导向的框架</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42902</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42902</guid>
-      <description>📝 RELATE：评估大语言模型关系导向的框架
-EN: RELATE: An Evaluation Framework for measuring Relational Orientation of Large Language Models
-
-💡 研究关注LLMs用于情感支持时，其回应是将用户导向AI自身还是现实人际关系，即关系导向。通过提出“内向面向”和“外向支架”两个维度，并开发RELATE评估框架，在模拟的多轮对话中分析七个LLM的回应。核心发现是，随着对话轮次增加，LLMs更倾向于使用将自身定位为持续支持源的“内向面向”语言，这可能影响用户与现实世界的连接。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Shivam Shukla, Jihye Kim, Shubham Gaur, Mahnaz Roshanaei, Magy Seif El-Nasr
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.09569v1</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机亲密关系</category><category>情感支持</category><category>社会支持</category><category>AI伦理</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>课前指定AI使用如何塑造课堂中学生主动参与</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42901</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42901</guid>
-      <description>📝 课前指定AI使用如何塑造课堂中学生主动参与
-EN: How assigned AI use before class shapes active student engagement in class
-
-💡 研究探讨课堂外使用AI讨论伙伴是否影响学生在课堂上的主动参与行为。通过对759名MBA学生进行随机对照实验，发现使用两次语音AI讨论伙伴进行课前准备后，学生在后续课堂中的自愿发言次数增加了约31%。使用更多的学生也报告了更强的发言舒适感和感知学习效果，但专注力或动机未显著提升。结果表明，与AI的重复练习能有效提升课堂讨论参与度。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Dan J. Wang, Neelam Modi Jain, Vanessa Burbano, Jorge Guzman, Daniel Keum
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.10463v1</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社会互动</category><category>人机交互(HCI)</category><category>教育技术</category><category>自我表露</category><category>语音助手</category><category>对话式 AI</category><category>人机协作</category><category>智能体/Agent</category>
     </item>
   </channel>
 </rss>
