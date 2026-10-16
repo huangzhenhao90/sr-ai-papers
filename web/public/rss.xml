@@ -6,9 +6,39 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 07:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:56:22 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>自动化影响：社交机器人如何重塑在线行动主义的话语机会</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43829</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43829</guid>
+      <description>📝 自动化影响：社交机器人如何重塑在线行动主义的话语机会
+EN: Automated Influence: How Social Bots Reshape Discursive Opportunities in Online Activism
+
+💡 研究探讨社交机器人如何重塑在线抗议活动中的话语机会结构。通过将话语机会结构框架（可见性、共鸣、合法性）适配于数字抗议，并对“黑人的命也是命”和“反抗灭绝”运动中机器人活动进行计算机辅助内容分析，发现机器人并非单一破坏力量。支持与反对抗议的机器人策略在不同维度上分布各异：在BLM中，支持抗议机器人聚焦文化共鸣，反对者则攻击合法性；在XR中，支持者用于建立合法性与参与可见性，反对者则削弱运动显著性。
+
+📚 SMS · 2026 · 引用 0
+👤 Linda Li, Helen Margetts
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社交媒体</category><category>计算机中介传播</category><category>在线社群</category><category>AI治理</category><category>社交机器人</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>社交机器人 Sophia 如何通过 YouTube 视频被中介化</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43795</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43795</guid>
+      <description>📝 社交机器人 Sophia 如何通过 YouTube 视频被中介化
+EN: How the social robot Sophia is mediated by a YouTube video
+
+💡 研究通过YouTube视频考察高度类人的机器人Sophia如何被感知。以大学生为便利样本，探究其对Sophia类人程度的感知、赋予其的心理能力与情感，以及设想的应用。研究发现，通过视频媒介，Sophia的形态学类人特征在参与者表征中并不突出。参与者仅赋予其部分心理功能，未赋予情感。对其用途的想象则与刻板化的女性职业和角色相关，但并非完全吻合。
+
+📚 NMS · 2022 · 引用 5
+👤 Leopoldina Fortunati, Anna Maria Manganelli, Joachim Höflich, Giovanni Ferrin
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>社会临场</category><category>社交机器人</category><category>性别</category><category>社交机器人</category><category>多模态</category>
+    </item>    <item>
       <title>FACES：面向多模态情感支持对话的细粒度门控语义对齐</title>
       <link>https://sr-ai-papers.vercel.app/papers/43784</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43784</guid>
@@ -444,36 +474,6 @@ EN: Emotional Comfort at a Cost: The Dynamic Role of Social Chatbot Use in Daily
 AI 分: 4.0 / 领域分: 5.0</description>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <category>孤独感</category><category>情感支持</category><category>社会支持</category><category>人际关系</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>基于非言语行为识别的 AI 驱动信息亭对老年人的支持</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42974</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42974</guid>
-      <description>📝 基于非言语行为识别的 AI 驱动信息亭对老年人的支持
-EN: AI-Driven Kiosk Support for Older Adults Through Nonverbal Behavior Recognition
-
-💡 研究开发并评估一种基于人工智能的非语言行为识别系统，用于支持老年人使用自助服务终端（如ATM、信息亭）。该系统通过识别老年人的困惑、犹豫等非语言线索，提供适时、恰当的辅助，旨在降低技术使用门槛，增强老年用户的自主性与体验。核心发现可能证明了AI驱动的适应性支持能有效提升老年人在数字环境中的可达性与包容性。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Gayoung Kim, Hyun K. Kim
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <category>儿童/老人/无障碍</category><category>社会支持</category><category>人机交互(HCI)</category><category>情感识别</category><category>多模态</category><category>人机交互</category>
-    </item>    <item>
-      <title>对话式人工智能交互与青年轻躁狂持续性倾向：基于刺激-机体-反应视角的情绪与睡眠相关通路</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42973</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42973</guid>
-      <description>📝 对话式人工智能交互与青年轻躁狂持续性倾向：基于刺激-机体-反应视角的情绪与睡眠相关通路
-EN: Conversational Artificial Intelligence Interaction and Hypomanic Persistence Tendency in Young Adults: A Stimulus–Organism–Response Perspective on Emotional and Sleep-Related Pathways
-
-💡 研究探讨青年群体与对话式人工智能互动如何通过情感与睡眠相关路径，影响其轻躁狂持续倾向。基于刺激-机体-反应理论框架，分析AI互动作为刺激，如何通过影响用户情绪状态和睡眠模式，最终导致特定的心理行为倾向。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Yiding Bu, 震台 张, 雨欣 黎, ShuYi Wang
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>情感支持</category><category>成瘾/依赖</category><category>心理健康</category><category>对话式 AI</category><category>聊天机器人</category><category>情感识别</category>
     </item>
   </channel>
 </rss>
