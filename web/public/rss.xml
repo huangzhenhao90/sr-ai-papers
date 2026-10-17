@@ -6,9 +6,54 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 16 Oct 2026 06:56:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:52:20 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>EchoWeave：面向产品设计研究访谈的 AI 驱动对话代理系统设计</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43940</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43940</guid>
+      <description>📝 EchoWeave：面向产品设计研究访谈的 AI 驱动对话代理系统设计
+EN: EchoWeave: Designing an AI-Driven Conversational Agent System for Product Design Research Interviews
+
+💡 研究如何设计一个名为EchoWeave的AI对话代理系统，以支持产品设计研究中的访谈环节。该方法聚焦于利用AI驱动的对话技术，旨在提升访谈的效率和深度。核心发现是提出了一种专门针对设计研究访谈场景的对话代理系统设计框架。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Xin Chen, Lianye Zhang, Le Xu, Bao Liyuan, Cecilia E. García-Cena
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>人机协作</category><category>计算机中介传播</category><category>对话式 AI</category><category>聊天机器人</category><category>智能体/Agent</category>
+    </item>    <item>
+      <title>衡量人机协作中的成功合作：感知合作性与团队感知量表的开发与验证</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43938</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43938</guid>
+      <description>📝 衡量人机协作中的成功合作：感知合作性与团队感知量表的开发与验证
+EN: Measuring Successful Cooperation in Human-AI Teamwork: Development and Validation of the Perceived Cooperativity and Teaming Perception Scales
+
+💡 研究如何测量人机团队合作中的成功协作。方法是通过开发和验证两个量表：“感知合作性”量表和“团队感知”量表。核心发现是提供了用于量化评估人机团队合作质量的有效测量工具。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Christiane Attig, Christiane Wiebel-Herboth, Patricia Wollstadt, Tim Schrills, Mourad Zoubir
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>人机协作</category><category>信任</category><category>人机协作</category><category>智能体/Agent</category>
+    </item>    <item>
+      <title>讨论什么？——面向健康辅导对话的蓝图主题模型与对话代理</title>
+      <link>https://sr-ai-papers.vercel.app/papers/43935</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43935</guid>
+      <description>📝 讨论什么？——面向健康辅导对话的蓝图主题模型与对话代理
+EN: What to Discuss?—A Blueprint Topic Model for Health Coaching Dialogues With Conversational Agents
+
+💡 研究如何为健康教练对话中的对话代理生成或规划讨论话题。方法是通过提出一个蓝图主题模型，旨在结构化健康指导对话的内容。核心发现是提供了一个模型框架，以引导对话代理在健康辅导场景中进行更有效、有针对性的交流。
+
+📚 IJHCI · 2022 · 引用 12
+👤 Tessa Beinema, Harm op den Akker, Hermie J. Hermens, Lex van Velsen
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI治疗师</category><category>社会支持</category><category>健康行为</category><category>人机交互(HCI)</category><category>对话式 AI</category><category>聊天机器人</category><category>AI 治疗师</category>
+    </item>    <item>
       <title>自动化影响：社交机器人如何重塑在线行动主义的话语机会</title>
       <link>https://sr-ai-papers.vercel.app/papers/43829</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43829</guid>
@@ -429,51 +474,6 @@ AI 分: 4.0 / 领域分: 4.0
 📄 PDF: https://doi.org/10.1080/1369118x.2026.2743730</description>
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>人际关系</category><category>在线社群</category><category>计算机中介传播</category><category>推荐算法</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>设计 PairBuddy——一个用于结对编程的对话代理</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43045</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43045</guid>
-      <description>📝 设计 PairBuddy——一个用于结对编程的对话代理
-EN: Designing PairBuddy—A Conversational Agent for Pair Programming
-
-💡 研究探索为编程任务设计对话式智能体的可能性。通过构建名为PairBuddy的结对编程伙伴原型，并采用Wizard-of-Oz方法进行迭代设计研究，发现其作为导航者时应用的软技能（适应性、激励、社会临场感）能提升程序员的信心与信任，而作为驱动者时的技术技能（代码贡献、即时反馈、创意支持）则帮助参与者实现自身解决方案。该研究为类似Alexa的编程伙伴迈出了第一步。
-
-📚 TOCHI · 2022 · 引用 45
-👤 Peter Robe, Sandeep Kaur Kuttal
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>社会临场</category><category>信任</category><category>人机交互(HCI)</category><category>对话式 AI</category><category>聊天机器人</category><category>AI 伴侣</category><category>人机协作</category>
-    </item>    <item>
-      <title>关系角色归因：人机交互中的统一建构</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42984</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42984</guid>
-      <description>📝 关系角色归因：人机交互中的统一建构
-EN: Relational Role Attribution: A Unifying Construct in Human–AI Interaction
-
-💡 研究探讨人机交互中一个统一的概念框架——关系角色归因。该研究旨在理解人类如何将社会角色（如助手、伴侣、顾问）赋予人工智能系统，以及这种归因如何影响互动过程与结果。核心发现可能揭示了角色归因是驱动用户感知、信任和行为的关键机制，为理解复杂的人机社会关系提供了整合视角。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Michael J Gazzanigo, Xiao Yang
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>社会互动</category><category>人机交互(HCI)</category><category>信任</category><category>社交机器人</category><category>对话式 AI</category><category>人机交互</category>
-    </item>    <item>
-      <title>情感慰藉的代价：社交聊天机器人使用对日常孤独感、幸福感与人际互动的动态作用</title>
-      <link>https://sr-ai-papers.vercel.app/papers/42980</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/42980</guid>
-      <description>📝 情感慰藉的代价：社交聊天机器人使用对日常孤独感、幸福感与人际互动的动态作用
-EN: Emotional Comfort at a Cost: The Dynamic Role of Social Chatbot Use in Daily Loneliness, Well-Being, and Interpersonal Interaction
-
-💡 研究考察日常使用社交聊天机器人对孤独感、幸福感和人际互动的动态影响。通过日记法等追踪方法，发现使用社交聊天机器人能在短期内提供情感安慰，缓解孤独感，但可能伴随长期成本，如减少现实人际互动或对幸福感产生复杂影响。核心在于揭示这种使用行为在提供即时情感支持与潜在社会替代之间的权衡关系。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Yun Chen, Yue DING, Linxin Wang, Yu Kou
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <category>孤独感</category><category>情感支持</category><category>社会支持</category><category>人际关系</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
     </item>
   </channel>
 </rss>
