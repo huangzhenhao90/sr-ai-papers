@@ -6,9 +6,54 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Oct 2026 06:52:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 07:08:49 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>“我只是分享了你的回应”</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44124</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44124</guid>
+      <description>📝 “我只是分享了你的回应”
+EN: “I just shared your responses”
+
+💡 研究基于传播隐私管理理论，通过3x3析因实验，探究对话式AI的社交互动性和数据共享实践如何影响用户的隐私侵犯感知与对AI的评价。发现AI将回复数据共享给广告商比仅共享给其公司引发更负面评价；而共享给公司与不共享的隐私侵犯感知无差异。高社交互动性的AI其数据共享行为被评价更宽容，揭示了用户在与拟人化AI互动时潜在的隐私脆弱性。
+
+📚 PACM-HCI · 2020 · 引用 29
+👤 Shruti Sannon, Brett Stoll, Dominic DiFranzo, Malte F. Jung, Natalya N. Bazarova
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <category>隐私</category><category>信任</category><category>拟人化</category><category>社会临场</category><category>聊天机器人</category><category>对话式 AI</category><category>虚拟助手</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>对话的双重路径：故事与统计数据如何关联疫苗科学怀疑内容在线辩论中的社区参与</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44031</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44031</guid>
+      <description>📝 对话的双重路径：故事与统计数据如何关联疫苗科学怀疑内容在线辩论中的社区参与
+EN: Two Paths of Conversation: How Stories and Statistics are Associated With Community Engagement in Online Debate Surrounding Vaccine Science Skeptical Content
+
+💡 研究探讨在Reddit疫苗辩论社区中，证据形式（统计vs叙事）如何影响在线参与。通过LLM辅助的大规模观察分析发现，统计证据路径引发集中、纠正性辩论，趋向单一“被认可”的真相；叙事证据路径则带来更广泛、分布式的生成性参与，更能包容多元观点。证据形式是塑造争议性科学话语对话演变的关键认识论逻辑。
+
+📚 CR · 2026 · 引用 0
+👤 Han Li, Inhwan Bae, Pengfei Zhao, Natalie Bazarova, Drew Margolin
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <category>在线社群</category><category>计算机中介传播</category><category>社会互动</category><category>信任</category><category>LLM</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>高等教育学生使用生成式AI聊天机器人应对心理健康问题的普遍性与相关性</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44025</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44025</guid>
+      <description>📝 高等教育学生使用生成式AI聊天机器人应对心理健康问题的普遍性与相关性
+EN: Prevalence and Correlates of GenerativeAI Chatbot Use for Mental Health Concerns in Higher Education Students
+
+💡 研究调查高等教育学生使用生成式AI聊天机器人（如ChatGPT）处理心理健康问题的普遍程度及相关影响因素。标题暗示研究可能通过问卷调查等方法，探究学生使用AI寻求情感支持或心理帮助的现状，并分析其与人口学变量、心理状态（如孤独感、压力）或技术接受度等因素的关联。
+
+📚 CHB · 2026 · 引用 0
+👤 Elyse J. Thulin
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>情感支持</category><category>心理健康</category><category>成瘾/依赖</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category><category>聊天机器人</category>
+    </item>    <item>
       <title>EchoWeave：面向产品设计研究访谈的 AI 驱动对话代理系统设计</title>
       <link>https://sr-ai-papers.vercel.app/papers/43940</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43940</guid>
@@ -18,7 +63,7 @@ EN: EchoWeave: Designing an AI-Driven Conversational Agent System for Product De
 💡 研究如何设计一个名为EchoWeave的AI对话代理系统，以支持产品设计研究中的访谈环节。该方法聚焦于利用AI驱动的对话技术，旨在提升访谈的效率和深度。核心发现是提出了一种专门针对设计研究访谈场景的对话代理系统设计框架。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Xin Chen, Lianye Zhang, Le Xu, Bao Liyuan, Cecilia E. García-Cena
+👤 X Chen, Lianye Zhang, Le Xu, Liyuan Bao, Cecilia García
 
 AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
@@ -33,9 +78,11 @@ EN: Measuring Successful Cooperation in Human-AI Teamwork: Development and Valid
 💡 研究如何测量人机团队合作中的成功协作。方法是通过开发和验证两个量表：“感知合作性”量表和“团队感知”量表。核心发现是提供了用于量化评估人机团队合作质量的有效测量工具。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Christiane Attig, Christiane Wiebel-Herboth, Patricia Wollstadt, Tim Schrills, Mourad Zoubir
+👤 Christiane Attig, Christiane B. Wiebel-Herboth, Patricia Wollstadt, Tim Schrills, Mourad Zoubir
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2604.24461</description>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
       <category>人机交互(HCI)</category><category>人机协作</category><category>信任</category><category>人机协作</category><category>智能体/Agent</category>
     </item>    <item>
@@ -427,53 +474,6 @@ EN: Finding student-centered open learning environments on the internet: Automat
 AI 分: 3.0 / 领域分: 3.0</description>
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
       <category>在线社群</category><category>计算机中介传播</category><category>社会互动</category><category>教育技术</category><category>对话式 AI</category><category>自然语言处理</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>AI 陪伴质量如何及何时提升用户心理健康</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43243</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43243</guid>
-      <description>📝 AI 陪伴质量如何及何时提升用户心理健康
-EN: How and when AI companionship quality enhances user mental well-being
-
-💡 研究探讨AI陪伴质量（如情感支持、互动深度）如何以及在何种条件下（如用户孤独感水平、使用频率）能有效提升用户的心理幸福感。通过实证调查或实验，分析AI陪伴的不同维度（如共情、可靠性）对用户情绪、孤独感、生活满意度等心理健康指标的影响机制与边界条件。
-
-📚 TI · 2026 · 引用 0
-👤 Pengyi Shen, Dehui Peng, Jinan Xu
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>社会支持</category><category>情感支持</category><category>心理健康</category><category>AI 伴侣</category><category>聊天机器人</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>同伴支持匹配：探索在线心理健康社区的算法匹配</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43209</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43209</guid>
-      <description>📝 同伴支持匹配：探索在线心理健康社区的算法匹配
-EN: Matching for Peer Support: Exploring Algorithmic Matching for Online Mental Health Communities
-
-💡 在线心理健康社群（OMHCs）是获取同伴支持的重要途径，但用户难以找到合适的支持关系。本研究通过混合方法（用户访谈与行为日志分析）探索了在7Cups.com平台上的核心挑战，并评估了基于性别、年龄等属性的算法匹配如何改善用户体验，尤其对弱势群体效果显著。研究同时指出，设计此类匹配系统需加强审核，以避免算法可能加剧的骚扰行为。
-
-📚 PACM-HCI · 2022 · 引用 20
-👤 Anna Fang, Haiyi Zhu
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社会支持</category><category>在线社群</category><category>人际关系</category><category>伦理</category><category>推荐算法</category><category>AI 中介传播</category><category>AI 治理</category>
-    </item>    <item>
-      <title>算法信任：在线约会中的偏见评估与情感助推</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43130</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43130</guid>
-      <description>📝 算法信任：在线约会中的偏见评估与情感助推
-EN: Trust in algorithms biased appraisal and boosted affect in online dating
-
-💡 研究探讨在线约会场景中，用户对算法推荐的信任如何影响其评估与情感反应。标题暗示，算法偏见可能导致用户对匹配对象产生不准确的评价（偏颇评估），并可能增强积极或消极的情感体验（情感提升）。
-
-📚 ICS · 2026 · 引用 0
-👤 Jian Ming Hu, Yoo Jung Oh
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1080/1369118x.2026.2743730</description>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人际关系</category><category>在线社群</category><category>计算机中介传播</category><category>推荐算法</category><category>AI 中介传播</category>
     </item>
   </channel>
 </rss>
