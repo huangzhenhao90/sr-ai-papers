@@ -6,9 +6,41 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 18 Oct 2026 07:08:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:31:55 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>等待它：VR中LLM智能体延迟反馈机制的组件级分析</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44229</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44229</guid>
+      <description>📝 等待它：VR中LLM智能体延迟反馈机制的组件级分析
+EN: Wait for It: A Component-Level Analysis of Latency Feedback Mechanisms for LLM Agents in VR
+
+💡 研究针对VR中LLM智能体响应延迟问题，比较了三种反馈机制：言语填充词、视觉加载指示器和具身手势。通过18名参与者的组内实验发现，具身手势在提升智能体拟人化程度和社会临场感方面显著优于视觉指示器，后者因迫使用户转向技术心智模型而损害沉浸感。研究结果为设计更自然的AI VR智能体提供了实证指导。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Pratham Arora, Abhinav Lodha, Siddharth Siddharth
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.23336v1</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社会临场</category><category>拟人化</category><category>人机交互(HCI)</category><category>信任</category><category>LLM</category><category>智能体/Agent</category><category>多模态</category><category>人机交互</category>
+    </item>    <item>
+      <title>谁使用对话式AI及其原因：不同用户画像与人格、依恋及幸福感的关联</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44153</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44153</guid>
+      <description>📝 谁使用对话式AI及其原因：不同用户画像与人格、依恋及幸福感的关联
+EN: Who Uses Conversational AI and Why? Distinct User Profiles and Their Links to Personality, Attachment, and Well-Being
+
+💡 研究探讨了对话式AI的用户群体差异及其与心理特质的关联。通过分析不同用户档案，考察人格特质、依恋风格与幸福感如何影响人们对对话式AI的使用动机和模式，揭示了用户采纳此类技术的深层心理与社会需求。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Nino Gugushvili, Petter Bae Brandtzaeg, Marita Bjaaland Skjuve
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <category>对话式AI</category><category>人格特质</category><category>依恋</category><category>社会支持</category><category>聊天机器人</category><category>对话式 AI</category><category>社交机器人</category>
+    </item>    <item>
       <title>“我只是分享了你的回应”</title>
       <link>https://sr-ai-papers.vercel.app/papers/44124</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44124</guid>
@@ -33,7 +65,7 @@ EN: Two Paths of Conversation: How Stories and Statistics are Associated With Co
 💡 研究探讨在Reddit疫苗辩论社区中，证据形式（统计vs叙事）如何影响在线参与。通过LLM辅助的大规模观察分析发现，统计证据路径引发集中、纠正性辩论，趋向单一“被认可”的真相；叙事证据路径则带来更广泛、分布式的生成性参与，更能包容多元观点。证据形式是塑造争议性科学话语对话演变的关键认识论逻辑。
 
 📚 CR · 2026 · 引用 0
-👤 Han Li, Inhwan Bae, Pengfei Zhao, Natalie Bazarova, Drew Margolin
+👤 Han Zao Li, Inhwan Bae, Pengfei Zhao, Natalya N. Bazarova, Drew Margolin
 
 AI 分: 3.0 / 领域分: 3.0</description>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
@@ -444,36 +476,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://www.tandfonline.com/doi/pdf/10.1080/10447318.2026.2732835?needAccess=true</description>
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>人机交互(HCI)</category><category>社会互动</category><category>伦理</category><category>社交机器人</category><category>可解释 AI</category><category>AI 伦理</category><category>人机交互</category>
-    </item>    <item>
-      <title>人工智能时代的寻爱：当算法进入约会场景</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43283</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43283</guid>
-      <description>📝 人工智能时代的寻爱：当算法进入约会场景
-EN: Looking for Love in the Age of AI: When Algorithms Enter the Dating Scene
-
-💡 研究算法（如AI推荐、匹配系统）如何介入并改变现代约会场景。通过定性或定量方法，探讨算法对浪漫关系形成、用户行为及社会规范的影响。核心发现揭示了算法在重塑求爱实践、带来效率与个性化同时，也可能引发隐私、偏见与关系商品化等伦理问题。
-
-📚 CBSN · 2026 · 引用 0
-👤 Brenda K. Wiederhold
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <category>浪漫关系</category><category>人际关系</category><category>社交媒体</category><category>伦理</category><category>推荐算法</category><category>GenAI</category><category>AI 中介传播</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>探寻互联网中学生中心开放学习环境：学术实践虚拟社区中的自动化对话评估</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43275</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43275</guid>
-      <description>📝 探寻互联网中学生中心开放学习环境：学术实践虚拟社区中的自动化对话评估
-EN: Finding student-centered open learning environments on the internet: Automated dialogue assessment in academic virtual communities of practice
-
-💡 研究聚焦于如何在互联网上发现以学生为中心的开放学习环境。其核心方法是利用自动化对话评估技术，对学术性的虚拟实践社区进行分析与评估，旨在识别和衡量这些在线社群中支持学生中心学习的互动质量与特征。
-
-📚 CHB · 2015 · 引用 23
-👤 Nicolae Nistor, Ştefan Trăuşan-Matu, Mihai Dascălu, Heather Duttweiler, Costin Chiru
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <category>在线社群</category><category>计算机中介传播</category><category>社会互动</category><category>教育技术</category><category>对话式 AI</category><category>自然语言处理</category><category>AI 中介传播</category>
     </item>
   </channel>
 </rss>
