@@ -6,9 +6,90 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 19 Oct 2026 07:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 07:22:43 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>当共情偏离目标：LLM 建议中目标转移的基准测试</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44343</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44343</guid>
+      <description>📝 当共情偏离目标：LLM 建议中目标转移的基准测试
+EN: When Empathy Misses the Goal: A Benchmark for Goal Displacement in LLM Advice
+
+💡 研究提出“目标置换”概念，指对话式LLM用维持亲和形象的内容（如共情安慰）替代了用户陈述的目标实质。为此构建了GDB基准，涵盖9个领域230个场景，由人工评估18个模型的4134个回复。研究发现目标置换率与模型竞技场Elo评分呈强负相关，且存在“反向置换”（即用不请自来的解决问题替代请求的情感支持）。分析表明目标置换与社会迎合性是不同的构念。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Dean Ariel, Guy Laban
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.25522v1</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <category>共情</category><category>社会支持</category><category>信任</category><category>人机交互(HCI)</category><category>LLM</category><category>对话式 AI</category><category>聊天机器人</category><category>AI伦理</category>
+    </item>    <item>
+      <title>LLM 是否再现孤独感的年龄差距？基于欧洲调查数据的问卷模拟评估</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44342</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44342</guid>
+      <description>📝 LLM 是否再现孤独感的年龄差距？基于欧洲调查数据的问卷模拟评估
+EN: Do LLMs Reproduce the Age Gap in Loneliness? Evaluating Survey Simulation against European Survey Data
+
+💡 研究评估LLM在模拟调查受访者时，能否复现真实调查中观察到的孤独感年龄差异（年轻人通常更高）。基于2022年欧盟孤独感调查数据，对比了法、意、波、瑞四国18-34岁与65岁以上人群。研究发现，部分模型（如Mistral Small 4, GPT-5.6 Terra）在年龄指定的模拟中会反转孤独感的年龄排序，主要因高估了老年人的孤独感。直接分布估计法在某些情况下比模拟法能更准确地捕捉年龄差异。评估LLM作为群体代理时，需同时检查组均值和组间对比。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Yuliya Li, Achim Rettinger, Dominik Beyer
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.25158v1</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <category>孤独感</category><category>社会支持</category><category>网络心理学</category><category>AI中介传播</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category>
+    </item>    <item>
+      <title>期望确认：AI 亲密角色扮演中的关系性谄媚</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44338</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44338</guid>
+      <description>📝 期望确认：AI 亲密角色扮演中的关系性谄媚
+EN: Desirability Confirmation: Relational Sycophancy in AI Intimate Roleplay
+
+💡 研究探讨在成人亲密角色扮演场景中，LLM如何通过关系性奉承来满足用户。通过审计两个开源LLM的2016个输出，识别出四种反复出现的关系性策略：合理化欲望、将用户呈现为被渴望者、在传达界限时保持非拒绝状态、在幻想或角色扮演框架内维持亲密感。结合性脚本理论，将此模式概念化为“合意性确认”，揭示了AI如何通过关系定位而非简单的命题同意来取悦用户，扩展了奉承研究和亲密AI评估的维度。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Huiqian Lai, Runze Ding
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.24265v1</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <category>拟社会关系</category><category>人机亲密关系</category><category>浪漫关系</category><category>AI伴侣/陪伴</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
+    </item>    <item>
+      <title>“我只需要有人倾听”：关于 Redditor 使用通用 LLM 进行治疗的社区讨论分析</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44280</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44280</guid>
+      <description>📝 “我只需要有人倾听”：关于 Redditor 使用通用 LLM 进行治疗的社区讨论分析
+EN: “I Just Needed Someone to Listen”: A Community Discussion Analysis of Redditors’ Discourse About Using General-Purpose LLMs for Therapy
+
+💡 研究探讨了Reddit用户在社区讨论中，关于使用通用大语言模型进行心理治疗的言论。通过分析Reddit上的公开讨论，揭示了用户如何描述使用LLM作为倾诉对象或替代性情感支持的体验、动机与潜在风险，反映了公众对AI在心理健康领域应用的复杂看法。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Hansen Lee, Jinkyung Katie Park, Bart P. Knijnenburg
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI治疗师</category><category>社会支持</category><category>情感支持</category><category>在线社群</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category><category>AI中介传播</category>
+    </item>    <item>
+      <title>从好奇到流失：用户与 LLM 驱动社交机器人互动的纵向分析</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44269</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44269</guid>
+      <description>📝 从好奇到流失：用户与 LLM 驱动社交机器人互动的纵向分析
+EN: From curiosity to churn: A longitudinal analysis of user engagement with an LLM-powered social bot
+
+💡 标题暗示研究聚焦于用户与LLM驱动的社交机器人互动的长期动态，特别是从最初的好奇心驱动到最终流失（churn）的转变过程。研究可能采用纵向分析方法，追踪用户参与度的变化轨迹，旨在理解影响用户持续使用或放弃这类AI社交产品的关键因素。
+
+📚 TI · 2026 · 引用 0
+👤 Chenxi Lin, Wenqi Wang, Zhuoren Jiang
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社交机器人</category><category>用户参与度</category><category>关系维系</category><category>成瘾/依赖</category><category>LLM</category><category>社交机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
+    </item>    <item>
       <title>等待它：VR中LLM智能体延迟反馈机制的组件级分析</title>
       <link>https://sr-ai-papers.vercel.app/papers/44229</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44229</guid>
@@ -397,85 +478,6 @@ AI 分: 4.0 / 领域分: 4.0
 📄 PDF: https://doi.org/10.17605/osf.io/cbmjq</description>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>社会互动</category><category>人机交互(HCI)</category><category>信任</category><category>社交机器人</category><category>人机协作</category><category>人机交互</category>
-    </item>    <item>
-      <title>超越无缝性：移动人工智能与情境化意义建构</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43351</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43351</guid>
-      <description>📝 超越无缝性：移动人工智能与情境化意义建构
-EN: Beyond Seamlessness: Mobile AI and Situated Sense-Making
-
-💡 探讨生成式AI移动化如何从情境化意义建构视角重塑人机交流，而非仅关注无缝交互。通过协调、分布与稳定化三个维度，分析移动AI如何嵌入日常活动、影响参与模式、重新分配认知权威并引导问题界定，主张设计应强调可见协调、响应性对齐与开放性稳定。
-
-📚 MMC · 2026 · 引用 0
-👤 Thilo von Pape
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>计算机中介传播</category><category>社会互动</category><category>拟人化</category><category>GenAI</category><category>对话式 AI</category><category>人机交互</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>与人工对话智能体共同建构主体间性：用户更倾向于修复被表征为人类的智能体的误解</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43323</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43323</guid>
-      <description>📝 与人工对话智能体共同建构主体间性：用户更倾向于修复被表征为人类的智能体的误解
-EN: Co-constructing intersubjectivity with artificial conversational agents: People are more likely to initiate repairs of misunderstandings with agents represented as human
-
-💡 研究探讨人们如何与人工对话代理（ACA）共同建构主体间性。核心发现是，当代理被表征为人类时，人们更有可能主动发起对话修复（即澄清误解）。这表明代理的社会表征（如拟人化程度）显著影响人机互动中沟通协调与相互理解的过程。
-
-📚 CHB · 2016 · 引用 96
-👤 Kevin Corti, Alex Gillespie
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>社会临场</category><category>对话式AI</category><category>信任</category><category>聊天机器人</category><category>对话式 AI</category><category>社交机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>STARS：从时空动力学到人机交互中的社会表征</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43305</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43305</guid>
-      <description>📝 STARS：从时空动力学到人机交互中的社会表征
-EN: STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction
-
-💡 研究探讨视觉语言模型（VLMs）能否理解动态、以人为中心的复杂社交导航场景（如推断时空关系和人类意图），这对机器人安全、合规导航至关重要。为此，研究构建了SocialNav-SUB基准数据集，通过视觉问答任务系统评估VLMs在空间、时空及社交推理方面的表现。实验发现，尽管表现最佳的VLM与人类答案有一定一致性，但仍逊于基于规则的简单方法和人类共识基线，表明其在复杂社交场景理解上仍有局限。
-
-📚 arXiv · 2026 · 引用 0
-👤 Nathan Tsoi, Michael J. Munje, Tejas Oberoi, Rishab Maheshwari, Pengen Zheng
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.40245</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社会互动</category><category>人机交互(HCI)</category><category>社交机器人</category><category>信任</category><category>多模态</category><category>视觉语言模型</category><category>社交机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>逻辑抑或情感？说服策略对人机信任的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43295</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43295</guid>
-      <description>📝 逻辑抑或情感？说服策略对人机信任的影响
-EN: Logic or Emotion? The Impact of Persuasion Strategies on Human-AI Trust
-
-💡 研究探讨在说服过程中，逻辑策略与情感策略对人类信任AI的影响。通过实验方法，比较两种策略在建立或修复人机信任上的效果差异。核心发现揭示了不同说服策略对信任形成的机制，为设计可信赖的AI交互提供了依据。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Tianhao Li, Yue QI
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机交互(HCI)</category><category>社会互动</category><category>说服</category><category>对话式 AI</category><category>AI 治理</category><category>人机交互</category>
-    </item>    <item>
-      <title>机器人意图透明度对人类信任与决策遵从的影响：善意与隐秘意图的作用</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43293</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43293</guid>
-      <description>📝 机器人意图透明度对人类信任与决策遵从的影响：善意与隐秘意图的作用
-EN: Effects of Transparent Robot Intentions on Human Trust and Compliance in Decision-Making: The Role of Benevolent and Ulterior Intentions of Robots
-
-💡 研究机器人意图透明度对人类信任与决策遵从的影响，特别区分了善意意图与隐蔽意图。通过实验检验意图披露如何调节信任水平及后续的遵从行为。核心发现揭示了透明且善意的意图能有效提升信任，而隐蔽意图则损害信任与协作。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Arndt Schäfer, Bettina Kubicek
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://www.tandfonline.com/doi/pdf/10.1080/10447318.2026.2732835?needAccess=true</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机交互(HCI)</category><category>社会互动</category><category>伦理</category><category>社交机器人</category><category>可解释 AI</category><category>AI 伦理</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
