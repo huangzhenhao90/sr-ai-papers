@@ -6,7 +6,7 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 07:22:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:28:40 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
       <title>当共情偏离目标：LLM 建议中目标转移的基准测试</title>
@@ -69,7 +69,7 @@ EN: “I Just Needed Someone to Listen”: A Community Discussion Analysis of Re
 💡 研究探讨了Reddit用户在社区讨论中，关于使用通用大语言模型进行心理治疗的言论。通过分析Reddit上的公开讨论，揭示了用户如何描述使用LLM作为倾诉对象或替代性情感支持的体验、动机与潜在风险，反映了公众对AI在心理健康领域应用的复杂看法。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Hansen Lee, Jinkyung Katie Park, Bart P. Knijnenburg
+👤 Hansen Lee, Jinkyung Park, Bart P. Knijnenburg
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
@@ -116,9 +116,11 @@ EN: Who Uses Conversational AI and Why? Distinct User Profiles and Their Links t
 💡 研究探讨了对话式AI的用户群体差异及其与心理特质的关联。通过分析不同用户档案，考察人格特质、依恋风格与幸福感如何影响人们对对话式AI的使用动机和模式，揭示了用户采纳此类技术的深层心理与社会需求。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Nino Gugushvili, Petter Bae Brandtzaeg, Marita Bjaaland Skjuve
+👤 Nino Gugushvili, Petter Bae Brandtzæg, Marita Bjaaland Skjuve
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://www.tandfonline.com/doi/pdf/10.1080/10447318.2026.2744846?needAccess=true</description>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <category>对话式AI</category><category>人格特质</category><category>依恋</category><category>社会支持</category><category>聊天机器人</category><category>对话式 AI</category><category>社交机器人</category>
     </item>    <item>
