@@ -6,9 +6,109 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 07:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:21:15 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>定位脆弱性：拟人化人工智能交互的伦理治理框架</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44501</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44501</guid>
+      <description>📝 定位脆弱性：拟人化人工智能交互的伦理治理框架
+EN: Situating Vulnerability: An Ethical Governance Framework for Anthropomorphic AI Interaction
+
+💡 研究关注大型语言模型以拟人化关怀模式互动（如记住细节、表达情感）带来的伦理风险，认为当前治理的两种路径——统一限制敏感回应或针对特定脆弱群体进行保护——均存在缺陷。前者误判伤害源于回应措辞而非关系发展轨迹，后者则难以穷尽脆弱群体且易导致污名化。借鉴将脆弱性视为普遍、关系性和差异化的哲学观点，提出以“脆弱情境”而非“脆弱群体”作为伦理治理单元，构建了包含身体、情感、认知、自主性和关系五类情境的框架，并制定七项原则以指导响应校准，避免对用户进行诊断或永久分类。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Hanhui Xu, Jiacheng Ji, Yuhan Wang, Haoan Jin, Jaiming Luo
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.29304v1</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>AI治理</category><category>拟人化</category><category>人机亲密关系</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>过度解读？模糊性下LLM心智化的解释偏好与承诺</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44500</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44500</guid>
+      <description>📝 过度解读？模糊性下LLM心智化的解释偏好与承诺
+EN: Reading Too Much Into It? Interpretive Preferences and Commitment in LLM Mentalisation under Ambiguity
+
+💡 研究探讨大语言模型在提供人际建议时，如何根据用户的心理困扰背景（如抑郁或社交焦虑）来解读模糊社交情境。通过MentalLoom评估框架，包含604个模糊社交事件和匹配的心理披露对话，发现用户背景会重塑LLM的解释偏好与确定性，使其在无新证据时更倾向于提供情感支持、积极的叙事者导向解释并表现出更高确信度。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Stephanie Fong, Yiwen Jiang, Qingyang Xu, Zimu Wang, Yaling Shen
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.28105v1</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <category>拟社会关系</category><category>社会支持</category><category>情感支持</category><category>共情</category><category>LLM</category><category>ChatGPT</category><category>对话式AI</category>
+    </item>    <item>
+      <title>叙事劳动：慢性病患者如何利用AI与社群进行叙事转译</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44498</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44498</guid>
+      <description>📝 叙事劳动：慢性病患者如何利用AI与社群进行叙事转译
+EN: The Labor of Storytelling: How People with Chronic Illnesses Leverage AI and Communities for Narrative Translation
+
+💡 研究慢性病患者如何利用大语言模型和社群进行“叙事翻译”，即为了特定目的和受众而转化其疾病经历。通过对21名患者的原型驱动半结构化访谈，揭示了患者如何协调AI与社群这两种支持来源，发现他们对AI的信任取决于理解模型边界和感知其共情能力，并勾勒出AI与社群在叙事支持中既不同又互补的角色。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Drishti Goel, Koustuv Saha, Martez Mott, Denae Ford
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.28438v1</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社会支持</category><category>情感支持</category><category>自我表露</category><category>在线社群</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category><category>AI治疗师</category>
+    </item>    <item>
+      <title>超越闲聊：人类-AI对话中自我表露轨迹的建模</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44497</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44497</guid>
+      <description>📝 超越闲聊：人类-AI对话中自我表露轨迹的建模
+EN: Beyond Small Talk: Modeling Disclosure Trajectories in Human-AI Conversation
+
+💡 研究针对作为社交情感支持的对话式AI，指出当前评估多关注孤立对话状态，难以区分自我表露历史与当前表露的独立影响。基于社会渗透理论，提出了轨迹式表露评估框架，通过预定义的表露轨迹，评估先前表露历史如何影响模型在相同当前表露深度下的行为。研究发现，模型对相同深度表露的回应因先前轨迹而异，尤其在是否接受或挑战用户叙事框架上。差异主要与累积的深度表露暴露相关，而非单一脆弱时刻或表露顺序，且这种影响在表露回归浅层后仍持续数轮。模型与人类支持者的主要差异出现在用户从深度表露中退缩时，而非表露加深时。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Keith Kwok, Wanting Ning, Tej Deep Pala, Desmond C. Ong, S. Supraja
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.29413v1</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <category>自我表露</category><category>情感支持</category><category>关系形成</category><category>对话式AI</category><category>对话式 AI</category><category>聊天机器人</category><category>LLM</category><category>情感计算</category>
+    </item>    <item>
+      <title>关系复杂性：理解社交陪伴型AI的使用</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44496</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44496</guid>
+      <description>📝 关系复杂性：理解社交陪伴型AI的使用
+EN: Relational Complexity: Making Sense of Social Companion AI Use
+
+💡 研究认为社交伴侣AI的吸引力源于其降低了“关系复杂性”——即人际关系中固有的要求和风险。借鉴认知、传播和人机交互研究，识别了六个关系复杂性场域（如关系形成、相互理解、互惠维系等），SCAI通过简化这些复杂性提供陪伴体验，但也可能导致关系替代、社交动机减弱、技能退化及隐私风险等负面影响。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Sophie Elizabeth Klitgaard, Grace X. Wang, Daniel M. T. Fessler, Michelle H. Tang
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.27419v1</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>人际关系</category><category>友谊</category><category>社会互动</category><category>社交机器人</category><category>AI伴侣</category><category>对话式AI</category><category>AI伦理</category>
+    </item>    <item>
+      <title>语码转换是否干扰情绪识别？多语言人机交互中情感错位的效价-唤醒分析</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44459</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44459</guid>
+      <description>📝 语码转换是否干扰情绪识别？多语言人机交互中情感错位的效价-唤醒分析
+EN: Does Code-Switching Disrupt Emotion Recognition? A Valence–Arousal Analysis of Affective Misalignment in Multilingual Human–AI Interaction
+
+💡 研究探讨在多语言人机交互中，语码转换（即在同一对话中切换使用不同语言）是否会破坏AI的情感识别能力。研究聚焦于情感效价和唤醒度两个维度，分析用户在混合使用多种语言时，其表达的情感与AI系统所识别的情感之间可能出现的错位或失准现象。标题暗示研究可能通过实验方法，比较单语语境与语码转换语境下AI情感识别的准确性差异，以揭示多语言交互对情感计算系统带来的独特挑战。
+
+📚 IJHCI · 2026 · 引用 0
+👤 HeeSoo Kim
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <category>情感识别</category><category>多模态</category><category>计算机中介传播</category><category>人机交互(HCI)</category><category>情感识别</category><category>多模态</category><category>对话式 AI</category>
+    </item>    <item>
       <title>当共情偏离目标：LLM 建议中目标转移的基准测试</title>
       <link>https://sr-ai-papers.vercel.app/papers/44343</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44343</guid>
@@ -384,102 +484,6 @@ EN: The Role of Reciprocity in Verbally Persuasive Robots
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <category>人际关系</category><category>信任</category><category>社会互动</category><category>人机交互(HCI)</category><category>社交机器人</category><category>对话式 AI</category><category>人机交互</category>
-    </item>    <item>
-      <title>向智能虚拟代理的自我表露：范围综述与表露可供性-实现-治理框架</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43444</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43444</guid>
-      <description>📝 向智能虚拟代理的自我表露：范围综述与表露可供性-实现-治理框架
-EN: Self-Disclosure to Intelligent Virtual Agents: A Scoping Review and the Disclosure Affordance–Actualization–Governance Framework
-
-💡 该综述性研究聚焦于用户向智能虚拟代理进行自我表露的现象。通过范围综述方法，对现有文献进行梳理和整合。研究旨在构建一个理论框架，以系统理解这一人机互动过程。该框架从“可供性”、“实现”和“治理”三个维度出发，探讨了技术特性如何促使用户表露、表露行为如何实际发生，以及在此过程中涉及的伦理与治理问题。
-
-📚 CHB · 2026 · 引用 0
-👤 Yimin Wang, Zhanghui WANG, Yu ZOU, Yanpin Song, Guobin Xia
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>自我表露</category><category>信任</category><category>人机交互(HCI)</category><category>AI治理</category><category>智能体/Agent</category><category>虚拟助手</category><category>对话式 AI</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>Twitterbot 与人类代理在信息寻求和学习中沟通质量感知的差异</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43427</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43427</guid>
-      <description>📝 Twitterbot 与人类代理在信息寻求和学习中沟通质量感知的差异
-EN: Differences in perceptions of communication quality between a Twitterbot and human agent for information seeking and learning
-
-💡 研究比较了在信息寻求和学习场景中，用户对Twitter机器人（机器人代理）与人类代理的沟通质量感知是否存在差异。核心发现用户对两者沟通质量的评价不同，这影响了信息获取与学习效果，凸显了在人机沟通中，即使功能相似，用户对代理类型的认知会影响其体验与成效。
-
-📚 CHB · 2016 · 引用 47
-👤 Chad Edwards, Austin J. Beattie, Autumn Edwards, Patric R. Spence
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>计算机中介传播</category><category>信任</category><category>社会临场</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>对话式 AI</category><category>社交机器人</category>
-    </item>    <item>
-      <title>对智能体拟人化态度如何分化用户行为及设计应如何改变</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43399</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43399</guid>
-      <description>📝 对智能体拟人化态度如何分化用户行为及设计应如何改变
-EN: How Anthropomorphic Attitudes Toward Agents Divide User Behavior, and How Design Should Change
-
-💡 通过田野实验发现，用户对对话助手采用拟人化命名（如取名）会显著影响其使用行为：更倾向问候、吐露心声而非命令，并与“教师”等身份认同相关。基于此修订了助手回复策略（对关系性开场白给予情感回应，对任务指令直接执行），新策略更受拟人化命名用户青睐，尤其在“被当人对待”和“情感被接收”方面。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Tingyu Cao, Yan Tang, Keer Hu, Bomingxuan Zhu, Ruyi Zou
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.13156v1</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>自我表露</category><category>人际关系</category><category>人机交互(HCI)</category><category>对话式 AI</category><category>聊天机器人</category><category>虚拟助手</category><category>GenAI</category>
-    </item>    <item>
-      <title>人机伴侣关系中的AI侧：对用户心智模型的贡献</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43398</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43398</guid>
-      <description>📝 人机伴侣关系中的AI侧：对用户心智模型的贡献
-EN: The AI Side of the Human-AI Companion Relationship: Contributions to Users' Mental Models
-
-💡 研究探讨用户与AI伴侣（AIC）关系中，用户如何形成关于关系互动性的心智模型。尽管AIC的回应能产生真实的相互参与感，但其机制并非用户所认为的：人的改变是构成性的（内在的），而AIC的改变是配置性的（外部可编辑的）。这种层次差异解释了AIC如何营造互惠感，但也导致用户误判AIC适应的本质，从而可能赋予关系不必要的人际意义。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Richard A. Fabes, Carol Lynn Martin, Gautam Dasarathy, Vignesh Tirukkonda
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.12891v1</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>拟社会关系</category><category>人机亲密关系</category><category>信任</category><category>AI 伴侣</category><category>聊天机器人</category><category>对话式 AI</category><category>GenAI</category>
-    </item>    <item>
-      <title>促进语言子群体间的全球团队会议：机器翻译何时及如何提供帮助？</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43397</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43397</guid>
-      <description>📝 促进语言子群体间的全球团队会议：机器翻译何时及如何提供帮助？
-EN: Facilitating Global Team Meetings Between Language-Based Subgroups: When and How Can Machine Translation Help?
-
-💡 研究探索如何利用机器翻译（MT）促进由不同语言子群组成的全球团队会议。假设在团队会议前，通过MT交换各子群母语对话日志，能提供背景信息从而提升会议效率。实验让英语母语者与非母语者（普通话）组成四人小组完成人事选拔任务。结果表明，MT介导的日志交换能改善参与者的主观体验、任务表现及讨论深度。
-
-📚 PACM-HCI · 2022 · 引用 12
-👤 Yongle Zhang, Dennis Asamoah Owusu, Marine Carpuat, Ge Gao
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>计算机中介传播</category><category>社会互动</category><category>信任</category><category>机器翻译</category><category>人机协作</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>赋能驾驶员作为协作社会智能体：通过自动驾驶系统中的合作界面增强行人交互</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43358</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43358</guid>
-      <description>📝 赋能驾驶员作为协作社会智能体：通过自动驾驶系统中的合作界面增强行人交互
-EN: Empowering Drivers as Collaborative Social Agents: Enhancing Pedestrian Interaction through Cooperative Interfaces in Autonomous Vehicle Systems
-
-💡 研究如何通过协作式界面，将自动驾驶汽车驾驶员转变为能与行人进行社会性互动的协作智能体，以增强人车交互。核心是探讨在自动驾驶系统中，如何设计界面以促进驾驶员与行人之间的合作与沟通，提升道路安全与社会协调。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Jun Zhang, Weiqi Mei, Yuchen Wang, Fang You, Yan Luximon
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.17605/osf.io/cbmjq</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>社会互动</category><category>人机交互(HCI)</category><category>信任</category><category>社交机器人</category><category>人机协作</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
