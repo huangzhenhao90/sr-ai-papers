@@ -6,9 +6,69 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 07:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:03:09 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>行动中的相互依存性</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44773</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44773</guid>
+      <description>📝 行动中的相互依存性
+EN: Interdependence in Action
+
+💡 研究挑战了视障人士导航辅助技术以独立活动为主的传统设计思路。通过对4对视障者与明眼向导的定性分析，发现双方通过轮流发言、身体动作等互动资源共同构建导航空间并修复中断。这揭示了相互依赖的重要性，为设计强调协同行动而非独立导航的AI辅助技术提供了启示。
+
+📚 PACM-HCI · 2021 · 引用 50
+👤 Beatrice Vincenzi, Alex S. Taylor, Simone Stumpf
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>社会互动</category><category>儿童/老人/无障碍</category><category>人际关系</category><category>AI 伴侣</category><category>社交机器人</category><category>虚拟助手</category><category>人机协作</category>
+    </item>    <item>
+      <title>人工顺从：大型语言模型如何可能使层级沟通常态化</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44716</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44716</guid>
+      <description>📝 人工顺从：大型语言模型如何可能使层级沟通常态化
+EN: Artificial Obedience: How Large Language Models (LLMs) May Normalize Hierarchical Communication
+
+💡 研究探讨大型语言模型（LLMs）可能通过其响应模式，无意中强化或正常化层级化的沟通方式。标题暗示，LLMs的“服从性”输出可能影响用户的社会互动规范，使其更倾向于接受或模仿不平等的交流结构。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Nusse Mellgren, Sebastian K. T. S. Wärmländer
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>伦理</category><category>社会互动</category><category>计算机中介传播</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category><category>对话式 AI</category>
+    </item>    <item>
+      <title>性别歧视的人工智能：一项整合CASA与ELM的实验</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44707</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44707</guid>
+      <description>📝 性别歧视的人工智能：一项整合CASA与ELM的实验
+EN: Sexist AI: An Experiment Integrating CASA and ELM
+
+💡 研究探讨了当AI表现出性别偏见时，用户如何感知和评估其可信度。整合了“计算机作为社会行动者”和“详尽可能性模型”理论框架，通过实验方法检验AI的性别偏见言论对用户处理信息路径（中心路径与边缘路径）及最终可信度判断的影响。核心发现可能揭示了性别偏见如何触发不同的认知处理模式，并削弱用户对AI系统的信任。
+
+📚 IJHCI · 2020 · 引用 30
+👤 Joo-Wha Hong, Sukyoung Choi, Dmitri Williams
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <category>性别</category><category>信任</category><category>拟人化</category><category>社会临场</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伦理</category><category>人机交互</category>
+    </item>    <item>
+      <title>使用融合型2类模糊深度神经网络解码安卓游戏玩家情绪变化</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44671</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44671</guid>
+      <description>📝 使用融合型2类模糊深度神经网络解码安卓游戏玩家情绪变化
+EN: Decoding emotional changes of android-gamers using a fused Type-2 fuzzy deep neural network
+
+💡 研究旨在通过一种融合的Type-2模糊深度神经网络，来解码安卓游戏玩家在游戏过程中的情绪变化。标题表明，该研究结合了先进的计算方法（模糊逻辑与深度学习）来识别和追踪人机互动（特别是游戏）中的动态情感状态。
+
+📚 CHB · 2021 · 引用 14
+👤 Lidia Ghosh, Sriparna Saha, Amit Konar
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <category>情感计算</category><category>人机交互(HCI)</category><category>情感连接</category><category>成瘾/依赖</category><category>情感识别</category><category>多模态</category><category>智能体/Agent</category><category>深度学习</category>
+    </item>    <item>
       <title>X-表达亲密：Twitter 收购后的心理健康信息披露</title>
       <link>https://sr-ai-papers.vercel.app/papers/44649</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44649</guid>
@@ -426,66 +486,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2610.20051v1</description>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
       <category>情感支持</category><category>社会支持</category><category>共情</category><category>人机交互(HCI)</category><category>多模态</category><category>对话式 AI</category><category>情感计算</category><category>GenAI</category>
-    </item>    <item>
-      <title>AI主动式智能沙发的预期接受度：价值-抗拒双路径模型</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43683</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43683</guid>
-      <description>📝 AI主动式智能沙发的预期接受度：价值-抗拒双路径模型
-EN: Anticipated Acceptance of AI-Proactive Smart Sofas: A Value–Reactance Dual-Pathway Model
-
-💡 研究探讨用户对具备AI主动交互功能的智能沙发的预期接受度。基于标题推断，研究可能构建了一个“价值-抗拒”双路径模型，旨在解释用户在接受这种新型智能家居产品时，其感知价值（如便利性、舒适性）与心理抗拒（如对自主性丧失的担忧、隐私顾虑）如何共同影响最终的接受意愿。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Weiqi Hua, Yushu Chen
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>信任</category><category>隐私</category><category>AI治理</category><category>社交机器人</category><category>智能体/Agent</category><category>人机交互</category>
-    </item>    <item>
-      <title>从表征到关系式指导：AI中介非遗学习中用户对虚拟传承导师的感知</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43681</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43681</guid>
-      <description>📝 从表征到关系式指导：AI中介非遗学习中用户对虚拟传承导师的感知
-EN: From Representation to Relational Mentorship: User Perceptions of Virtual Heritage Mentors in AI-Mediated Intangible Cultural Heritage Learning
-
-💡 研究探索在AI中介的非物质文化遗产学习中，用户对虚拟遗产导师的感知如何从单纯的“代表性”角色转变为“关系型导师”角色。基于标题推断，研究可能调查了学习者与AI虚拟导师互动时，如何超越其作为文化知识载体的工具性功能，发展出包含指导、支持和情感连接在内的拟社会关系或 mentorship 关系，并分析这种关系转变对学习体验和效果的影响。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Quanyi Zhao, Xiangming Mu, Xun Zhu
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <category>拟社会关系</category><category>社会支持</category><category>人机交互(HCI)</category><category>在线社群</category><category>AI 伴侣</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>我可以教你吗？学生对机器人教师与人类教师授课的行为反应</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43632</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43632</guid>
-      <description>📝 我可以教你吗？学生对机器人教师与人类教师授课的行为反应
-EN: May I teach you? Students' behavior when lectured by robotic vs. human teachers
-
-💡 研究探讨学生在接受机器人教师与人类教师授课时的行为差异。通过对比实验，观察学生在不同教学主体下的课堂参与度、互动模式及学习反应。核心发现可能揭示机器人教学在特定情境下的接受度、局限性及其对学生行为塑造的独特影响。
-
-📚 CHB · 2018 · 引用 74
-👤 Camino Fernández-Llamas, Miguel A. Conde, Francisco J. Rodríguez-Lera, Francisco J. Rodríguez-Sedano, Francisco García
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社会互动</category><category>拟人化</category><category>人机交互(HCI)</category><category>信任</category><category>社交机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>感知型与实际型伙伴在人人及人机交互中的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43618</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43618</guid>
-      <description>📝 感知型与实际型伙伴在人人及人机交互中的影响
-EN: Impact of two types of partner, perceived or actual, in human–human and human–agent interaction
-
-💡 研究比较了人类与人类、人类与智能体互动中，两种伙伴类型（感知到的 vs. 实际的）所产生的影响。通过设计包含真实人类伙伴和虚拟智能体伙伴的实验情境，分析互动质量、合作效率及主观体验的差异。核心发现可能揭示伙伴的“真实性”感知如何中介不同互动模式的效果。
-
-📚 CHB · 2012 · 引用 19
-👤 Kazuhisa Miwa, Hitoshi Terai
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人际关系</category><category>社会互动</category><category>信任</category><category>拟社会关系</category><category>智能体/Agent</category><category>社交机器人</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
