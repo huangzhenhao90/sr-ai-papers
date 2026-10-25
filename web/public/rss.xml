@@ -6,7 +6,7 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 07:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 07:26:40 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
       <title>行动中的相互依存性</title>
@@ -33,9 +33,11 @@ EN: Artificial Obedience: How Large Language Models (LLMs) May Normalize Hierarc
 💡 研究探讨大型语言模型（LLMs）可能通过其响应模式，无意中强化或正常化层级化的沟通方式。标题暗示，LLMs的“服从性”输出可能影响用户的社会互动规范，使其更倾向于接受或模仿不平等的交流结构。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Nusse Mellgren, Sebastian K. T. S. Wärmländer
+👤 Nusse Mellgren, Sebastian K.T.S. Wärmländer
 
-AI 分: 5.0 / 领域分: 3.0</description>
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://doi.org/10.1080/10447318.2026.2748156</description>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <category>AI治理</category><category>伦理</category><category>社会互动</category><category>计算机中介传播</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category><category>对话式 AI</category>
     </item>    <item>
