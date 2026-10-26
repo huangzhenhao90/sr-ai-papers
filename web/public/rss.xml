@@ -6,9 +6,26 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 25 Oct 2026 07:26:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:36:23 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>何时可信？设计与评估基于LLM聊天机器人的事实性指标</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44898</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44898</guid>
+      <description>📝 何时可信？设计与评估基于LLM聊天机器人的事实性指标
+EN: When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots
+
+💡 研究探讨如何向普通用户传达基于大语言模型的聊天机器人的事实准确性。通过访谈、问卷调查和实验，考察了用户如何评估AI在园艺、数学和医疗查询中的回答，以及事实性指标（置信度和来源）如何影响感知。研究发现，用户会选择性验证AI回答，但对其置信度有不同且模糊的理解。来源信息被视为关键，但用户担忧其可靠性和验证成本。实验表明，置信度和来源指标影响初始感知，但一旦获知答案正确性，这些影响便消失。医疗查询尤其引发普遍怀疑。研究主张帮助用户理解模型置信度，并将来源信息整合到界面中，以培养对AI信息寻求的校准信任。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Greta Warren, Jessica Heal, Sila Eser, Denise M. Leto, Christine M. Lehane
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.32883v1</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机交互(HCI)</category><category>人机信任</category><category>AI治理</category><category>LLM</category><category>ChatGPT</category><category>聊天机器人</category><category>对话式 AI</category>
+    </item>    <item>
       <title>行动中的相互依存性</title>
       <link>https://sr-ai-papers.vercel.app/papers/44773</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44773</guid>
@@ -471,23 +488,6 @@ EN: How the social robot Sophia is mediated by a YouTube video
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <category>拟人化</category><category>社会临场</category><category>社交机器人</category><category>性别</category><category>社交机器人</category><category>多模态</category>
-    </item>    <item>
-      <title>FACES：面向多模态情感支持对话的细粒度门控语义对齐</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43784</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43784</guid>
-      <description>📝 FACES：面向多模态情感支持对话的细粒度门控语义对齐
-EN: FACES: Fine-grained Gated Semantic Alignment for Multimodal Emotional Support Conversation
-
-💡 多模态情感支持对话系统常因语义反馈弱、跨维度奖励补偿和粗粒度监督导致回应肤浅、策略不当。研究提出FACES框架，通过整合多源奖励构建多维语义与功能对齐信号，采用非补偿性门控融合机制减少跨维度奖励抵消，并利用结构化思维链锚点进行细粒度信用分配。在控制回复长度下，FACES将基于MLLM的评估平均分从3.61提升至4.04，对SOTA的成对胜率达80.22%，人工评估偏好率为75.3%，在外部数据集上验证了可迁移性。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Hang Ren, Peidong Wang, Yichen Gao, Wen Zhang, Jiayang Yu
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.20051v1</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <category>情感支持</category><category>社会支持</category><category>共情</category><category>人机交互(HCI)</category><category>多模态</category><category>对话式 AI</category><category>情感计算</category><category>GenAI</category>
     </item>
   </channel>
 </rss>
