@@ -6,9 +6,118 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:32:42 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>重写自我：用户对 AI 介导认知重构的感知</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45005</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45005</guid>
+      <description>📝 重写自我：用户对 AI 介导认知重构的感知
+EN: Rewriting the Self: User Perceptions of AI-Mediated Cognitive Reframing
+
+💡 研究探讨用户对AI介导认知重构（AIM-CR）的复杂感知。通过混合方法研究28名参与者使用AIM-CR工具重构压力叙事发现，尽管重构普遍减轻了负面情绪，但用户对重构后的叙事感到所有权和真实性降低。用户将AIM-CR视为一面验证的“镜子”、一个可能激励或疏远他们的“另一个自我”，或一个外部社会行动者，这些感知影响了治疗动态。研究为未来工具设计提出了保留用户能动性的建议。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Yuewen Yang, Olzhas Yessenbayev, Anna R. Van Meter, Tanzeem Choudhury, Daniel A. Adler
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.34647v1</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI治疗师</category><category>情感支持</category><category>自我表露</category><category>人机信任</category><category>对话式 AI</category><category>GenAI</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>AI 使用中的情感与功能需求：用户模式及其与现实支持及福祉的关系</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45003</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45003</guid>
+      <description>📝 AI 使用中的情感与功能需求：用户模式及其与现实支持及福祉的关系
+EN: Affective and Functional Needs in AI Use: User Patterns and Their Relation to Real-Life Support and Well-Being
+
+💡 研究挑战了将用户AI使用需求简单二分为功能性与情感性的做法。基于社会支持理论，通过对1090名参与者的调查，开发了AI支持量表，测量情感/自尊、社交陪伴、信息与工具性支持四个维度。研究发现用户可能同时高度依赖AI满足功能与情感需求，并探索了其与现实社会支持及幸福感的关系。强调理解用户个体差异对AI设计的重要性，而非假设所有用户获得统一益处。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Jessy Wang-Sun, Estelle Yiyuan Sun, Hualin Zhang, Zihan Xu
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.34732v1</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社会支持</category><category>情感支持</category><category>孤独感</category><category>人际关系</category><category>对话式 AI</category><category>聊天机器人</category><category>社交机器人</category><category>AI 伴侣</category>
+    </item>    <item>
+      <title>偏见线索与转向 AI：来自少数与边缘群体的视角</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44949</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44949</guid>
+      <description>📝 偏见线索与转向 AI：来自少数与边缘群体的视角
+EN: Bias Cues and the Turn to AI: Perspectives from Minority and Marginalized Groups
+
+💡 研究从少数与边缘群体的视角，探讨偏见线索如何影响其转向AI寻求支持或互动的决策。标题暗示可能涉及AI系统（如聊天机器人、推荐算法）中存在的偏见，以及这些群体如何感知和应对这些偏见，进而选择或回避使用AI。研究可能关注AI中介传播中的不平等、信任问题及伦理治理。
+
+📚 IJHCI · 2026 · 引用 0
+👤 S. Mo Jones-Jang, Yunju Kim
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>AI治理</category><category>信任</category><category>社会支持</category><category>AI 伦理</category><category>可解释 AI</category><category>聊天机器人</category><category>推荐算法</category>
+    </item>    <item>
+      <title>人群效应：公共人行道行人密度如何影响对自主移动机器人的不适感</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44947</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44947</guid>
+      <description>📝 人群效应：公共人行道行人密度如何影响对自主移动机器人的不适感
+EN: The Crowd Effect: How Does Pedestrian Density on Public Sidewalks Influence Discomfort Toward Autonomous Mobile Robots
+
+💡 研究公共人行道上行人密度如何影响人们对自主移动机器人的不适感。通过考察人群效应，探讨高密度行人环境是否加剧对机器人的负面感受。核心发现可能揭示社会临场感与空间共享中的心理不适，为机器人部署提供社会心理学依据。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Suhwan Jung, Hyo Chang Kim, Min Chul Cha, Young Woo Kim, Yong Gu Ji
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社会临场</category><category>社会互动</category><category>人机交互(HCI)</category><category>伦理</category><category>社交机器人</category><category>人机交互</category>
+    </item>    <item>
+      <title>以代价换取控制？跨任务情境下的定制化、认知负荷与感知 AI 能动性</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44919</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44919</guid>
+      <description>📝 以代价换取控制？跨任务情境下的定制化、认知负荷与感知 AI 能动性
+EN: Gaining Control at a Cost? Customization, Cognitive Load, and Perceived AI Agency Across Task Contexts
+
+💡 探究用户对AI系统的定制化控制是否以增加认知负荷为代价，以及在不同任务情境下用户感知的AI自主性如何变化。方法可能涉及实验操控定制化程度与任务类型。核心发现可能揭示人机协作中控制感、心智负担与对AI能动性认知的权衡关系。
+
+📚 CHB · 2026 · 引用 0
+👤 Qian Xu, Cheng Chen
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机信任</category><category>人机交互(HCI)</category><category>认知负荷</category><category>AI治理</category><category>对话式 AI</category><category>可解释 AI</category><category>人机协作</category><category>AI 治理</category>
+    </item>    <item>
+      <title>超越接入：对话式 AI 辅助反馈的参与度塑造数字游戏化学习中的认知负荷</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44918</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44918</guid>
+      <description>📝 超越接入：对话式 AI 辅助反馈的参与度塑造数字游戏化学习中的认知负荷
+EN: Beyond Access: Engagement with Conversational AI-Assisted Feedback Shapes Cognitive Load in Digital Game-Based Learning
+
+💡 研究在数字游戏化学习环境中，学习者与对话式AI辅助反馈的互动方式如何影响其认知负荷。超越简单的反馈可及性，关注互动深度与认知资源消耗的关系。核心发现可能揭示AI中介的教学反馈如何通过互动设计优化学习体验与认知效率。
+
+📚 CHB · 2026 · 引用 0
+👤 Anna Wenzel, Jan-Martin Geiger, Andreas Liening
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <category>对话式AI</category><category>人机交互(HCI)</category><category>认知负荷</category><category>教育技术</category><category>对话式 AI</category><category>聊天机器人</category><category>AI 中介传播</category><category>情感计算</category>
+    </item>    <item>
+      <title>利己与利他动机：如何诱导用户对不完美 AI 的帮助意愿</title>
+      <link>https://sr-ai-papers.vercel.app/papers/44914</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44914</guid>
+      <description>📝 利己与利他动机：如何诱导用户对不完美 AI 的帮助意愿
+EN: Egoistic and altruistic motivation: How to induce users’ willingness to help for imperfect AI
+
+💡 研究探讨如何激励用户帮助存在缺陷或不完美的AI系统。核心问题是用户帮助AI的动机，区分了利己（如获得回报）和利他（如纯粹助人）两种动机。研究通过实验方法，测试不同干预策略（如强调AI的学习潜力、提供社会认可或物质奖励）对用户帮助意愿的诱导效果。核心发现揭示了在AI不完美的情境下，如何有效设计激励框架以促进人机协作，这对于提升AI系统的迭代学习和用户体验至关重要。
+
+📚 CHB · 2019 · 引用 46
+👤 Yeonjoo Lee, Miyeon Ha, Sujeong Kwon, Yealin Shim, Jinwoo Kim
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>社会互动</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 治理</category>
+    </item>    <item>
       <title>何时可信？设计与评估基于LLM聊天机器人的事实性指标</title>
       <link>https://sr-ai-papers.vercel.app/papers/44898</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44898</guid>
@@ -379,115 +488,6 @@ EN: “I just shared your responses”
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
       <category>隐私</category><category>信任</category><category>拟人化</category><category>社会临场</category><category>聊天机器人</category><category>对话式 AI</category><category>虚拟助手</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>对话的双重路径：故事与统计数据如何关联疫苗科学怀疑内容在线辩论中的社区参与</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44031</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44031</guid>
-      <description>📝 对话的双重路径：故事与统计数据如何关联疫苗科学怀疑内容在线辩论中的社区参与
-EN: Two Paths of Conversation: How Stories and Statistics are Associated With Community Engagement in Online Debate Surrounding Vaccine Science Skeptical Content
-
-💡 研究探讨在Reddit疫苗辩论社区中，证据形式（统计vs叙事）如何影响在线参与。通过LLM辅助的大规模观察分析发现，统计证据路径引发集中、纠正性辩论，趋向单一“被认可”的真相；叙事证据路径则带来更广泛、分布式的生成性参与，更能包容多元观点。证据形式是塑造争议性科学话语对话演变的关键认识论逻辑。
-
-📚 CR · 2026 · 引用 0
-👤 Han Zao Li, Inhwan Bae, Pengfei Zhao, Natalya N. Bazarova, Drew Margolin
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <category>在线社群</category><category>计算机中介传播</category><category>社会互动</category><category>信任</category><category>LLM</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>高等教育学生使用生成式AI聊天机器人应对心理健康问题的普遍性与相关性</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44025</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44025</guid>
-      <description>📝 高等教育学生使用生成式AI聊天机器人应对心理健康问题的普遍性与相关性
-EN: Prevalence and Correlates of GenerativeAI Chatbot Use for Mental Health Concerns in Higher Education Students
-
-💡 研究调查高等教育学生使用生成式AI聊天机器人（如ChatGPT）处理心理健康问题的普遍程度及相关影响因素。标题暗示研究可能通过问卷调查等方法，探究学生使用AI寻求情感支持或心理帮助的现状，并分析其与人口学变量、心理状态（如孤独感、压力）或技术接受度等因素的关联。
-
-📚 CHB · 2026 · 引用 0
-👤 Elyse Joan Thulin
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1016/j.chb.2026.109221</description>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>情感支持</category><category>心理健康</category><category>成瘾/依赖</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category><category>聊天机器人</category>
-    </item>    <item>
-      <title>EchoWeave：面向产品设计研究访谈的 AI 驱动对话代理系统设计</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43940</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43940</guid>
-      <description>📝 EchoWeave：面向产品设计研究访谈的 AI 驱动对话代理系统设计
-EN: EchoWeave: Designing an AI-Driven Conversational Agent System for Product Design Research Interviews
-
-💡 研究如何设计一个名为EchoWeave的AI对话代理系统，以支持产品设计研究中的访谈环节。该方法聚焦于利用AI驱动的对话技术，旨在提升访谈的效率和深度。核心发现是提出了一种专门针对设计研究访谈场景的对话代理系统设计框架。
-
-📚 IJHCI · 2026 · 引用 0
-👤 X Chen, Lianye Zhang, Le Xu, Liyuan Bao, Cecilia García
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>人机协作</category><category>计算机中介传播</category><category>对话式 AI</category><category>聊天机器人</category><category>智能体/Agent</category>
-    </item>    <item>
-      <title>衡量人机协作中的成功合作：感知合作性与团队感知量表的开发与验证</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43938</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43938</guid>
-      <description>📝 衡量人机协作中的成功合作：感知合作性与团队感知量表的开发与验证
-EN: Measuring Successful Cooperation in Human-AI Teamwork: Development and Validation of the Perceived Cooperativity and Teaming Perception Scales
-
-💡 研究如何测量人机团队合作中的成功协作。方法是通过开发和验证两个量表：“感知合作性”量表和“团队感知”量表。核心发现是提供了用于量化评估人机团队合作质量的有效测量工具。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Christiane Attig, Christiane B. Wiebel-Herboth, Patricia Wollstadt, Tim Schrills, Mourad Zoubir
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2604.24461</description>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>人机协作</category><category>信任</category><category>人机协作</category><category>智能体/Agent</category>
-    </item>    <item>
-      <title>讨论什么？——面向健康辅导对话的蓝图主题模型与对话代理</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43935</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43935</guid>
-      <description>📝 讨论什么？——面向健康辅导对话的蓝图主题模型与对话代理
-EN: What to Discuss?—A Blueprint Topic Model for Health Coaching Dialogues With Conversational Agents
-
-💡 研究如何为健康教练对话中的对话代理生成或规划讨论话题。方法是通过提出一个蓝图主题模型，旨在结构化健康指导对话的内容。核心发现是提供了一个模型框架，以引导对话代理在健康辅导场景中进行更有效、有针对性的交流。
-
-📚 IJHCI · 2022 · 引用 12
-👤 Tessa Beinema, Harm op den Akker, Hermie J. Hermens, Lex van Velsen
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI治疗师</category><category>社会支持</category><category>健康行为</category><category>人机交互(HCI)</category><category>对话式 AI</category><category>聊天机器人</category><category>AI 治疗师</category>
-    </item>    <item>
-      <title>自动化影响：社交机器人如何重塑在线行动主义的话语机会</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43829</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43829</guid>
-      <description>📝 自动化影响：社交机器人如何重塑在线行动主义的话语机会
-EN: Automated Influence: How Social Bots Reshape Discursive Opportunities in Online Activism
-
-💡 研究探讨社交机器人如何重塑在线抗议活动中的话语机会结构。通过将话语机会结构框架（可见性、共鸣、合法性）适配于数字抗议，并对“黑人的命也是命”和“反抗灭绝”运动中机器人活动进行计算机辅助内容分析，发现机器人并非单一破坏力量。支持与反对抗议的机器人策略在不同维度上分布各异：在BLM中，支持抗议机器人聚焦文化共鸣，反对者则攻击合法性；在XR中，支持者用于建立合法性与参与可见性，反对者则削弱运动显著性。
-
-📚 SMS · 2026 · 引用 0
-👤 Linda Li, Helen Margetts
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社交媒体</category><category>计算机中介传播</category><category>在线社群</category><category>AI治理</category><category>社交机器人</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>社交机器人 Sophia 如何通过 YouTube 视频被中介化</title>
-      <link>https://sr-ai-papers.vercel.app/papers/43795</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/43795</guid>
-      <description>📝 社交机器人 Sophia 如何通过 YouTube 视频被中介化
-EN: How the social robot Sophia is mediated by a YouTube video
-
-💡 研究通过YouTube视频考察高度类人的机器人Sophia如何被感知。以大学生为便利样本，探究其对Sophia类人程度的感知、赋予其的心理能力与情感，以及设想的应用。研究发现，通过视频媒介，Sophia的形态学类人特征在参与者表征中并不突出。参与者仅赋予其部分心理功能，未赋予情感。对其用途的想象则与刻板化的女性职业和角色相关，但并非完全吻合。
-
-📚 NMS · 2022 · 引用 5
-👤 Leopoldina Fortunati, Anna Maria Manganelli, Joachim Höflich, Giovanni Ferrin
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>社会临场</category><category>社交机器人</category><category>性别</category><category>社交机器人</category><category>多模态</category>
     </item>
   </channel>
 </rss>
