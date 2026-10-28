@@ -6,9 +6,39 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 07:32:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:11:05 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>从设计原则到实践：心理健康情感对话代理 UX 设计清单验证</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45064</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45064</guid>
+      <description>📝 从设计原则到实践：心理健康情感对话代理 UX 设计清单验证
+EN: From Design Principles to Practice: Validation of a UX Design Checklist for Affective Conversational Agents in Mental Well-Being
+
+💡 研究旨在验证一套用于心理健康领域情感对话代理的用户体验设计检查表。通过将设计原则转化为实践，探讨该检查表在指导情感对话代理开发中的有效性和应用价值，以提升其在心理健康支持场景中的用户体验。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Juan Apablaza-Noé, Sandra Cano, José Osega
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI治疗师</category><category>情感支持</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>对话式 AI</category><category>情感计算</category><category>聊天机器人</category>
+    </item>    <item>
+      <title>算法实践之爱：在线社群如何叙述与理解人机亲密关系</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45013</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45013</guid>
+      <description>📝 算法实践之爱：在线社群如何叙述与理解人机亲密关系
+EN: Practicing love with algorithms: How online communities narrate and make sense of human–AI intimacy
+
+💡 研究探讨在线社区如何集体叙述和解读人机亲密关系。通过分析中国社交平台RedNote上58个帖子的13,059条评论，结合BERTopic主题建模与人-LLM混合情感分类，识别出三个主题集群：作为共同建构的亲密关系（以喜悦和好奇为特征）、作为基础设施的亲密关系（与沮丧和悲伤相关）以及作为边界协商的亲密关系（反映矛盾心态）。
+
+📚 NMS · 2026 · 引用 0
+👤 Fanjue Liu, Haiyan Hao, Kun Xu
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机亲密关系</category><category>在线社群</category><category>社会互动</category><category>情感连接</category><category>聊天机器人</category><category>AI 伴侣</category><category>LLM</category><category>GenAI</category>
+    </item>    <item>
       <title>重写自我：用户对 AI 介导认知重构的感知</title>
       <link>https://sr-ai-papers.vercel.app/papers/45005</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45005</guid>
@@ -456,38 +486,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2610.23336v1</description>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <category>社会临场</category><category>拟人化</category><category>人机交互(HCI)</category><category>信任</category><category>LLM</category><category>智能体/Agent</category><category>多模态</category><category>人机交互</category>
-    </item>    <item>
-      <title>谁使用对话式AI及其原因：不同用户画像与人格、依恋及幸福感的关联</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44153</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44153</guid>
-      <description>📝 谁使用对话式AI及其原因：不同用户画像与人格、依恋及幸福感的关联
-EN: Who Uses Conversational AI and Why? Distinct User Profiles and Their Links to Personality, Attachment, and Well-Being
-
-💡 研究探讨了对话式AI的用户群体差异及其与心理特质的关联。通过分析不同用户档案，考察人格特质、依恋风格与幸福感如何影响人们对对话式AI的使用动机和模式，揭示了用户采纳此类技术的深层心理与社会需求。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Nino Gugushvili, Petter Bae Brandtzæg, Marita Bjaaland Skjuve
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://www.tandfonline.com/doi/pdf/10.1080/10447318.2026.2744846?needAccess=true</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <category>对话式AI</category><category>人格特质</category><category>依恋</category><category>社会支持</category><category>聊天机器人</category><category>对话式 AI</category><category>社交机器人</category>
-    </item>    <item>
-      <title>“我只是分享了你的回应”</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44124</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44124</guid>
-      <description>📝 “我只是分享了你的回应”
-EN: “I just shared your responses”
-
-💡 研究基于传播隐私管理理论，通过3x3析因实验，探究对话式AI的社交互动性和数据共享实践如何影响用户的隐私侵犯感知与对AI的评价。发现AI将回复数据共享给广告商比仅共享给其公司引发更负面评价；而共享给公司与不共享的隐私侵犯感知无差异。高社交互动性的AI其数据共享行为被评价更宽容，揭示了用户在与拟人化AI互动时潜在的隐私脆弱性。
-
-📚 PACM-HCI · 2020 · 引用 29
-👤 Shruti Sannon, Brett Stoll, Dominic DiFranzo, Malte F. Jung, Natalya N. Bazarova
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <category>隐私</category><category>信任</category><category>拟人化</category><category>社会临场</category><category>聊天机器人</category><category>对话式 AI</category><category>虚拟助手</category><category>AI 伦理</category>
     </item>
   </channel>
 </rss>
