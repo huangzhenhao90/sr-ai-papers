@@ -6,9 +6,24 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Oct 2026 08:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:17:21 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>当人们认为AI可替代共情时，便会卸载自身共情能力</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45130</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45130</guid>
+      <description>📝 当人们认为AI可替代共情时，便会卸载自身共情能力
+EN: People Offload Empathy When They Think AI Can Give It Instead
+
+💡 当人们认为人工智能能够提供共情时，他们会倾向于将共情的责任转移给AI。这项研究探讨了AI作为共情来源的出现，如何改变了人类自身提供情感支持的意愿和行为。核心发现是，对AI共情能力的认知，可能导致人们在社交互动中减少主动共情投入，即产生一种“共情卸载”效应。
+
+📚 CHB · 2026 · 引用 0
+👤 Madhulika Shastry, Kurt Gray
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <category>共情</category><category>社会支持</category><category>情感支持</category><category>人机交互(HCI)</category><category>伦理</category><category>对话式AI</category><category>聊天机器人</category><category>情感计算</category>
+    </item>    <item>
       <title>从设计原则到实践：心理健康情感对话代理 UX 设计清单验证</title>
       <link>https://sr-ai-papers.vercel.app/papers/45064</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45064</guid>
@@ -469,23 +484,6 @@ EN: From curiosity to churn: A longitudinal analysis of user engagement with an 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <category>社交机器人</category><category>用户参与度</category><category>关系维系</category><category>成瘾/依赖</category><category>LLM</category><category>社交机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>等待它：VR中LLM智能体延迟反馈机制的组件级分析</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44229</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44229</guid>
-      <description>📝 等待它：VR中LLM智能体延迟反馈机制的组件级分析
-EN: Wait for It: A Component-Level Analysis of Latency Feedback Mechanisms for LLM Agents in VR
-
-💡 研究针对VR中LLM智能体响应延迟问题，比较了三种反馈机制：言语填充词、视觉加载指示器和具身手势。通过18名参与者的组内实验发现，具身手势在提升智能体拟人化程度和社会临场感方面显著优于视觉指示器，后者因迫使用户转向技术心智模型而损害沉浸感。研究结果为设计更自然的AI VR智能体提供了实证指导。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Pratham Arora, Abhinav Lodha, Siddharth Siddharth
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.23336v1</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社会临场</category><category>拟人化</category><category>人机交互(HCI)</category><category>信任</category><category>LLM</category><category>智能体/Agent</category><category>多模态</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
