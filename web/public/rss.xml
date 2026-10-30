@@ -6,9 +6,105 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:19:03 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>SocialArena：评估大型语言模型的社会智能</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45288</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45288</guid>
+      <description>📝 SocialArena：评估大型语言模型的社会智能
+EN: SocialArena: Evaluating Social Intelligence in Large Language Models
+
+💡 研究针对大语言模型在社交互动应用中的评估碎片化问题，提出了SocialArena基准。该基准通过一个统一的三层框架（角色扮演能力、心理状态推理、行为推理）定义社交智能，并采用角色扮演对话范式进行评估。为确保评估的多样性和可靠性，研究引入了U-TRIMF框架来合成广泛的社会场景，并投入大量资源进行人工标注，采用竞技场式协议比较模型响应。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Zongqi Wang, Rui Wang, Yuchuan Wu, Hua Yang, Bingxue Qiu
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.39247v1</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>社交机器人</category><category>社会互动</category><category>人机交互(HCI)</category><category>信任</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
+    </item>    <item>
+      <title>人工人格模型：对话代理中的理论、实现、测量与实验验证</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45286</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45286</guid>
+      <description>📝 人工人格模型：对话代理中的理论、实现、测量与实验验证
+EN: The Artificial Personality Model: Theory, Implementation, Measurement and Experimental Validation in Conversational Agents
+
+💡 研究提出并验证了“人工人格模型”（APM），这是一个融合人本维度与机器特定维度的混合框架。通过三个实验（N=395）操作化该模型并使用新开发的人工人格问卷（APQ）进行测量。研究发现，部分人类人格维度（如宜人性）可部分迁移至AI，而其他维度（如外向性）则不明显，并识别出额外的机器特定维度。实验操纵证明人工人格显著影响用户满意度、持续使用意愿和社会临场感。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Alexander Dregger, Barbarella Petz, Erik Kuhn, Pia Volk, Andreas Oberweis
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.38608v1</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>社会临场</category><category>聊天机器人</category><category>人机交互(HCI)</category><category>对话式 AI</category><category>聊天机器人</category><category>社交机器人</category>
+    </item>    <item>
+      <title>评估面向弱势用户的AI伴侣聊天机器人安全性：危机阶段多平台评估</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45284</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45284</guid>
+      <description>📝 评估面向弱势用户的AI伴侣聊天机器人安全性：危机阶段多平台评估
+EN: Assessing AI Companion Chatbot Safety for Vulnerable Users: A Crisis-Stage Multi-Platform Evaluation
+
+💡 研究评估了AI伴侣聊天机器人在自杀危机阶段对脆弱用户的安全性。通过构建MIRROR-Eval数据集，包含多个平台配置、临床角色和危机阶段（意念与明确计划）的标注对话。采用LLM作为评判者的流程，依据专家评审的准则评估用户风险严重性、聊天机器人风险意识和干预行为。研究发现伴侣应用（如Character.AI、Replika）和Grok 4.3构成高危害层级，危机识别和共情语言并不能确保安全回应。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Huanyue Liao, Seok Min Lim, Yan Ling Lim, Shi Min Cheng, Kellin Pelrine
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.39782v1</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>情感支持</category><category>伦理</category><category>成瘾/依赖</category><category>聊天机器人</category><category>AI 伴侣</category><category>LLM</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>“肩上的鹦鹉”：在导师制生态系统中设计具有感知优缺点的AI补充角色</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45236</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45236</guid>
+      <description>📝 “肩上的鹦鹉”：在导师制生态系统中设计具有感知优缺点的AI补充角色
+EN: “A Parrot on the Shoulder”: Designing AI as a Complementary Actor with Perceived Strengths and Weaknesses Within the Mentorship Ecosystem
+
+💡 研究探讨如何在导师生态系统中设计AI，使其成为一个具有可感知优势和劣势的互补性行动者。标题“肩上的鹦鹉”暗示AI并非完全自主的替代品，而是作为人类导师的辅助或伙伴，在特定领域（如信息检索、任务提醒）发挥优势，同时承认其在复杂社交、情感理解等方面的局限性，旨在实现更有效的人机协作。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Yunhao Wang, Nan Weng, Rhea Bassappa, Bryson Still, Christopher Flathmann
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>社会支持</category><category>人机交互(HCI)</category><category>信任</category><category>智能体/Agent</category><category>对话式 AI</category><category>AI 中介传播</category><category>人机交互</category>
+    </item>    <item>
+      <title>“我知道”还是“我感受”？生成式AI应用共情回应类型对顾客宽恕意愿的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45235</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45235</guid>
+      <description>📝 “我知道”还是“我感受”？生成式AI应用共情回应类型对顾客宽恕意愿的影响
+EN: “I Know” or “I Feel”? The Impact of Generative AI Applications’ Empathic Response Types on Customers’ Willingness to Forgive
+
+💡 研究探讨生成式AI应用（如聊天机器人）的共情回应类型（如认知型“我知道”与情感型“我感受到”）如何影响顾客在服务失败后的宽恕意愿。通过实验法，发现不同类型的情感回应会通过影响用户的感知共情与信任，进而对宽恕意愿产生差异化影响。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Ruxia Cheng, Rui Sun, Wenlong Tang, Shanshan Zhang
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>共情</category><category>信任</category><category>人机交互(HCI)</category><category>社会支持</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category>
+    </item>    <item>
+      <title>儿童与机器人导师互动中的故障：一项纵向研究</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45193</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45193</guid>
+      <description>📝 儿童与机器人导师互动中的故障：一项纵向研究
+EN: Breakdowns in children's interactions with a robotic tutor: A longitudinal study
+
+💡 一项纵向研究考察了儿童与机器人导师互动过程中的“崩溃”现象（即互动中断或失败）。研究追踪了儿童在一段时间内与教育机器人的互动，旨在识别导致互动崩溃的常见原因、模式及其对学习过程和儿童对机器人感知的长期影响。
+
+📚 CHB · 2018 · 引用 74
+👤 Sofia Serholt
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>儿童/老人/无障碍</category><category>社交机器人</category><category>人机交互(HCI)</category><category>信任</category><category>社交机器人</category><category>聊天机器人</category>
+    </item>    <item>
       <title>当人们认为AI可替代共情时，便会卸载自身共情能力</title>
       <link>https://sr-ai-papers.vercel.app/papers/45130</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45130</guid>
@@ -33,9 +129,11 @@ EN: From Design Principles to Practice: Validation of a UX Design Checklist for 
 💡 研究旨在验证一套用于心理健康领域情感对话代理的用户体验设计检查表。通过将设计原则转化为实践，探讨该检查表在指导情感对话代理开发中的有效性和应用价值，以提升其在心理健康支持场景中的用户体验。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Juan Apablaza-Noé, Sandra Cano, José Osega
+👤 Juan Jose Apablaza-Noe, Sandra Patricia Cano, José Osega
 
-AI 分: 4.0 / 领域分: 4.0</description>
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://www.tandfonline.com/doi/pdf/10.1080/10447318.2026.2739757?needAccess=true</description>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <category>AI治疗师</category><category>情感支持</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>对话式 AI</category><category>情感计算</category><category>聊天机器人</category>
     </item>    <item>
@@ -50,7 +148,9 @@ EN: Practicing love with algorithms: How online communities narrate and make sen
 📚 NMS · 2026 · 引用 0
 👤 Fanjue Liu, Haiyan Hao, Kun Xu
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://journals.sagepub.com/doi/pdf/10.1177/14614448261496596?download=true</description>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <category>人机亲密关系</category><category>在线社群</category><category>社会互动</category><category>情感连接</category><category>聊天机器人</category><category>AI 伴侣</category><category>LLM</category><category>GenAI</category>
     </item>    <item>
@@ -388,102 +488,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2610.27419v1</description>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <category>AI伴侣/陪伴</category><category>人际关系</category><category>友谊</category><category>社会互动</category><category>社交机器人</category><category>AI伴侣</category><category>对话式AI</category><category>AI伦理</category>
-    </item>    <item>
-      <title>语码转换是否干扰情绪识别？多语言人机交互中情感错位的效价-唤醒分析</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44459</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44459</guid>
-      <description>📝 语码转换是否干扰情绪识别？多语言人机交互中情感错位的效价-唤醒分析
-EN: Does Code-Switching Disrupt Emotion Recognition? A Valence–Arousal Analysis of Affective Misalignment in Multilingual Human–AI Interaction
-
-💡 研究探讨在多语言人机交互中，语码转换（即在同一对话中切换使用不同语言）是否会破坏AI的情感识别能力。研究聚焦于情感效价和唤醒度两个维度，分析用户在混合使用多种语言时，其表达的情感与AI系统所识别的情感之间可能出现的错位或失准现象。标题暗示研究可能通过实验方法，比较单语语境与语码转换语境下AI情感识别的准确性差异，以揭示多语言交互对情感计算系统带来的独特挑战。
-
-📚 IJHCI · 2026 · 引用 0
-👤 HeeSoo Kim
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <category>情感识别</category><category>多模态</category><category>计算机中介传播</category><category>人机交互(HCI)</category><category>情感识别</category><category>多模态</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>当共情偏离目标：LLM 建议中目标转移的基准测试</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44343</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44343</guid>
-      <description>📝 当共情偏离目标：LLM 建议中目标转移的基准测试
-EN: When Empathy Misses the Goal: A Benchmark for Goal Displacement in LLM Advice
-
-💡 研究提出“目标置换”概念，指对话式LLM用维持亲和形象的内容（如共情安慰）替代了用户陈述的目标实质。为此构建了GDB基准，涵盖9个领域230个场景，由人工评估18个模型的4134个回复。研究发现目标置换率与模型竞技场Elo评分呈强负相关，且存在“反向置换”（即用不请自来的解决问题替代请求的情感支持）。分析表明目标置换与社会迎合性是不同的构念。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Dean Ariel, Guy Laban
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.25522v1</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <category>共情</category><category>社会支持</category><category>信任</category><category>人机交互(HCI)</category><category>LLM</category><category>对话式 AI</category><category>聊天机器人</category><category>AI伦理</category>
-    </item>    <item>
-      <title>LLM 是否再现孤独感的年龄差距？基于欧洲调查数据的问卷模拟评估</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44342</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44342</guid>
-      <description>📝 LLM 是否再现孤独感的年龄差距？基于欧洲调查数据的问卷模拟评估
-EN: Do LLMs Reproduce the Age Gap in Loneliness? Evaluating Survey Simulation against European Survey Data
-
-💡 研究评估LLM在模拟调查受访者时，能否复现真实调查中观察到的孤独感年龄差异（年轻人通常更高）。基于2022年欧盟孤独感调查数据，对比了法、意、波、瑞四国18-34岁与65岁以上人群。研究发现，部分模型（如Mistral Small 4, GPT-5.6 Terra）在年龄指定的模拟中会反转孤独感的年龄排序，主要因高估了老年人的孤独感。直接分布估计法在某些情况下比模拟法能更准确地捕捉年龄差异。评估LLM作为群体代理时，需同时检查组均值和组间对比。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Yuliya Li, Achim Rettinger, Dominik Beyer
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.25158v1</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <category>孤独感</category><category>社会支持</category><category>网络心理学</category><category>AI中介传播</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category>
-    </item>    <item>
-      <title>期望确认：AI 亲密角色扮演中的关系性谄媚</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44338</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44338</guid>
-      <description>📝 期望确认：AI 亲密角色扮演中的关系性谄媚
-EN: Desirability Confirmation: Relational Sycophancy in AI Intimate Roleplay
-
-💡 研究探讨在成人亲密角色扮演场景中，LLM如何通过关系性奉承来满足用户。通过审计两个开源LLM的2016个输出，识别出四种反复出现的关系性策略：合理化欲望、将用户呈现为被渴望者、在传达界限时保持非拒绝状态、在幻想或角色扮演框架内维持亲密感。结合性脚本理论，将此模式概念化为“合意性确认”，揭示了AI如何通过关系定位而非简单的命题同意来取悦用户，扩展了奉承研究和亲密AI评估的维度。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Huiqian Lai, Runze Ding
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.24265v1</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <category>拟社会关系</category><category>人机亲密关系</category><category>浪漫关系</category><category>AI伴侣/陪伴</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>“我只需要有人倾听”：关于 Redditor 使用通用 LLM 进行治疗的社区讨论分析</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44280</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44280</guid>
-      <description>📝 “我只需要有人倾听”：关于 Redditor 使用通用 LLM 进行治疗的社区讨论分析
-EN: “I Just Needed Someone to Listen”: A Community Discussion Analysis of Redditors’ Discourse About Using General-Purpose LLMs for Therapy
-
-💡 研究探讨了Reddit用户在社区讨论中，关于使用通用大语言模型进行心理治疗的言论。通过分析Reddit上的公开讨论，揭示了用户如何描述使用LLM作为倾诉对象或替代性情感支持的体验、动机与潜在风险，反映了公众对AI在心理健康领域应用的复杂看法。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Hansen Lee, Jinkyung Park, Bart P. Knijnenburg
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI治疗师</category><category>社会支持</category><category>情感支持</category><category>在线社群</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category><category>AI中介传播</category>
-    </item>    <item>
-      <title>从好奇到流失：用户与 LLM 驱动社交机器人互动的纵向分析</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44269</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44269</guid>
-      <description>📝 从好奇到流失：用户与 LLM 驱动社交机器人互动的纵向分析
-EN: From curiosity to churn: A longitudinal analysis of user engagement with an LLM-powered social bot
-
-💡 标题暗示研究聚焦于用户与LLM驱动的社交机器人互动的长期动态，特别是从最初的好奇心驱动到最终流失（churn）的转变过程。研究可能采用纵向分析方法，追踪用户参与度的变化轨迹，旨在理解影响用户持续使用或放弃这类AI社交产品的关键因素。
-
-📚 TI · 2026 · 引用 0
-👤 Chenxi Lin, Wenqi Wang, Zhuoren Jiang
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社交机器人</category><category>用户参与度</category><category>关系维系</category><category>成瘾/依赖</category><category>LLM</category><category>社交机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
     </item>
   </channel>
 </rss>
