@@ -6,9 +6,54 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 08:19:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:10:36 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>感觉如同数字：AI忽视独特性如何削弱在线医疗咨询的用户接受度</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45334</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45334</guid>
+      <description>📝 感觉如同数字：AI忽视独特性如何削弱在线医疗咨询的用户接受度
+EN: Feeling Like a Number: How AI’s Neglect of Uniqueness Undermines User Acceptance in Online Medical Consultations
+
+💡 研究探讨在在线医疗咨询中，AI系统忽视用户独特性（如个体差异、具体病情）如何影响用户对AI的接受度。核心发现是，当AI提供的建议或互动显得标准化、缺乏个性化时，会削弱用户的感知价值与信任，从而降低其使用意愿。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Lifang Liao, Xia Hou, Chaohong Shen, Haotian Liu
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机交互(HCI)</category><category>社会支持</category><category>医疗健康</category><category>对话式 AI</category><category>AI 中介传播</category><category>推荐算法</category>
+    </item>    <item>
+      <title>初次接触LLMs：理解中国老年人信任形成与调整过程</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45332</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45332</guid>
+      <description>📝 初次接触LLMs：理解中国老年人信任形成与调整过程
+EN: Meeting LLMs for the First Time: Understanding Trust Formation and Adjustment Among Older Adults in China
+
+💡 研究关注中国老年人初次接触大型语言模型（LLMs）时的信任形成与调整过程。核心在于理解这一特定群体如何基于初次互动体验，建立、修正或维持对LLM技术的信任，涉及认知、情感与社会因素。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Xinyue Zou, Cheng Chen, Yaohui Cai, Qi Shen
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>老年人/无障碍</category><category>人机交互(HCI)</category><category>社会临场</category><category>LLM</category><category>ChatGPT</category><category>对话式 AI</category><category>社交机器人</category>
+    </item>    <item>
+      <title>线索生成与评价采纳：AI中介健康传播中的提示框架与用户判断</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45328</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45328</guid>
+      <description>📝 线索生成与评价采纳：AI中介健康传播中的提示框架与用户判断
+EN: Cue production and evaluative uptake: prompt framing and user judgments in AI-Mediated health communication
+
+💡 研究聚焦于AI中介的健康传播中，提示（prompt）的框架如何影响用户对AI生成内容的评价与判断。核心在于分析用户如何根据AI的“线索生产”（如信息呈现方式）进行“评价性接收”，从而形成对健康信息的可信度与有用性判断。
+
+📚 ICS · 2026 · 引用 0
+👤 Zhan Xu, Hao Guo
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机交互(HCI)</category><category>AI中介传播</category><category>医疗健康</category><category>GenAI</category><category>LLM</category><category>对话式 AI</category><category>可解释 AI</category>
+    </item>    <item>
       <title>SocialArena：评估大型语言模型的社会智能</title>
       <link>https://sr-ai-papers.vercel.app/papers/45288</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45288</guid>
@@ -244,7 +289,9 @@ EN: Beyond Access: Engagement with Conversational AI-Assisted Feedback Shapes Co
 📚 CHB · 2026 · 引用 0
 👤 Anna Wenzel, Jan-Martin Geiger, Andreas Liening
 
-AI 分: 5.0 / 领域分: 3.0</description>
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://www.sciencedirect.com/science/article/pii/S0747563226003146/pdf</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <category>对话式AI</category><category>人机交互(HCI)</category><category>认知负荷</category><category>教育技术</category><category>对话式 AI</category><category>聊天机器人</category><category>AI 中介传播</category><category>情感计算</category>
     </item>    <item>
@@ -437,57 +484,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2610.28105v1</description>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <category>拟社会关系</category><category>社会支持</category><category>情感支持</category><category>共情</category><category>LLM</category><category>ChatGPT</category><category>对话式AI</category>
-    </item>    <item>
-      <title>叙事劳动：慢性病患者如何利用AI与社群进行叙事转译</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44498</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44498</guid>
-      <description>📝 叙事劳动：慢性病患者如何利用AI与社群进行叙事转译
-EN: The Labor of Storytelling: How People with Chronic Illnesses Leverage AI and Communities for Narrative Translation
-
-💡 研究慢性病患者如何利用大语言模型和社群进行“叙事翻译”，即为了特定目的和受众而转化其疾病经历。通过对21名患者的原型驱动半结构化访谈，揭示了患者如何协调AI与社群这两种支持来源，发现他们对AI的信任取决于理解模型边界和感知其共情能力，并勾勒出AI与社群在叙事支持中既不同又互补的角色。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Drishti Goel, Koustuv Saha, Martez Mott, Denae Ford
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.28438v1</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社会支持</category><category>情感支持</category><category>自我表露</category><category>在线社群</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category><category>AI治疗师</category>
-    </item>    <item>
-      <title>超越闲聊：人类-AI对话中自我表露轨迹的建模</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44497</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44497</guid>
-      <description>📝 超越闲聊：人类-AI对话中自我表露轨迹的建模
-EN: Beyond Small Talk: Modeling Disclosure Trajectories in Human-AI Conversation
-
-💡 研究针对作为社交情感支持的对话式AI，指出当前评估多关注孤立对话状态，难以区分自我表露历史与当前表露的独立影响。基于社会渗透理论，提出了轨迹式表露评估框架，通过预定义的表露轨迹，评估先前表露历史如何影响模型在相同当前表露深度下的行为。研究发现，模型对相同深度表露的回应因先前轨迹而异，尤其在是否接受或挑战用户叙事框架上。差异主要与累积的深度表露暴露相关，而非单一脆弱时刻或表露顺序，且这种影响在表露回归浅层后仍持续数轮。模型与人类支持者的主要差异出现在用户从深度表露中退缩时，而非表露加深时。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Keith Kwok, Wanting Ning, Tej Deep Pala, Desmond C. Ong, S. Supraja
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.29413v1</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <category>自我表露</category><category>情感支持</category><category>关系形成</category><category>对话式AI</category><category>对话式 AI</category><category>聊天机器人</category><category>LLM</category><category>情感计算</category>
-    </item>    <item>
-      <title>关系复杂性：理解社交陪伴型AI的使用</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44496</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44496</guid>
-      <description>📝 关系复杂性：理解社交陪伴型AI的使用
-EN: Relational Complexity: Making Sense of Social Companion AI Use
-
-💡 研究认为社交伴侣AI的吸引力源于其降低了“关系复杂性”——即人际关系中固有的要求和风险。借鉴认知、传播和人机交互研究，识别了六个关系复杂性场域（如关系形成、相互理解、互惠维系等），SCAI通过简化这些复杂性提供陪伴体验，但也可能导致关系替代、社交动机减弱、技能退化及隐私风险等负面影响。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Sophie Elizabeth Klitgaard, Grace X. Wang, Daniel M. T. Fessler, Michelle H. Tang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.27419v1</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>人际关系</category><category>友谊</category><category>社会互动</category><category>社交机器人</category><category>AI伴侣</category><category>对话式AI</category><category>AI伦理</category>
     </item>
   </channel>
 </rss>
