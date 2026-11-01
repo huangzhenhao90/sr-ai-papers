@@ -6,9 +6,24 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 31 Oct 2026 08:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 08:56:17 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>歌词中的爱情</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45396</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45396</guid>
+      <description>📝 歌词中的爱情
+EN: Love in Lyrics
+
+💡 数字文本交流限制了浪漫关系中表达爱意的非语言线索。研究开发了交互系统Lily，在伴侣聊天时实时分析用户输入并推荐含义相近的浪漫歌词，以丰富其情感表达。一项为期三天的实证研究表明，真实情侣用户不仅从Lily获得了润色爱意表达的有用线索，还学会了通过其推荐启发新话题来丰富对话。研究结果为这类应用的实际部署提供了设计考量。
+
+📚 PACM-HCI · 2019 · 引用 26
+👤 Taewook Kim, Jung Soo Lee, Zhenhui Peng, Xiaojuan Ma
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <category>浪漫关系</category><category>情感支持</category><category>亲密关系</category><category>计算机中介传播</category><category>对话式AI</category><category>推荐算法</category><category>人机协作</category>
+    </item>    <item>
       <title>感觉如同数字：AI忽视独特性如何削弱在线医疗咨询的用户接受度</title>
       <link>https://sr-ai-papers.vercel.app/papers/45334</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45334</guid>
@@ -18,7 +33,7 @@ EN: Feeling Like a Number: How AI’s Neglect of Uniqueness Undermines User Acce
 💡 研究探讨在在线医疗咨询中，AI系统忽视用户独特性（如个体差异、具体病情）如何影响用户对AI的接受度。核心发现是，当AI提供的建议或互动显得标准化、缺乏个性化时，会削弱用户的感知价值与信任，从而降低其使用意愿。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Lifang Liao, Xia Hou, Chaohong Shen, Haotian Liu
+👤 L. Z. Liao, Xia Hou, Chaohong Shen, Haotian Liu
 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
@@ -114,7 +129,7 @@ EN: “A Parrot on the Shoulder”: Designing AI as a Complementary Actor with P
 💡 研究探讨如何在导师生态系统中设计AI，使其成为一个具有可感知优势和劣势的互补性行动者。标题“肩上的鹦鹉”暗示AI并非完全自主的替代品，而是作为人类导师的辅助或伙伴，在特定领域（如信息检索、任务提醒）发挥优势，同时承认其在复杂社交、情感理解等方面的局限性，旨在实现更有效的人机协作。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Yunhao Wang, Nan Weng, Rhea Bassappa, Bryson Still, Christopher Flathmann
+👤 Yunhao Wang, Nan Weng, Rhea Basappa, Bryson Still, Christopher Flathmann
 
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
@@ -467,23 +482,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2610.29304v1</description>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <category>伦理</category><category>AI治理</category><category>拟人化</category><category>人机亲密关系</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>过度解读？模糊性下LLM心智化的解释偏好与承诺</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44500</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44500</guid>
-      <description>📝 过度解读？模糊性下LLM心智化的解释偏好与承诺
-EN: Reading Too Much Into It? Interpretive Preferences and Commitment in LLM Mentalisation under Ambiguity
-
-💡 研究探讨大语言模型在提供人际建议时，如何根据用户的心理困扰背景（如抑郁或社交焦虑）来解读模糊社交情境。通过MentalLoom评估框架，包含604个模糊社交事件和匹配的心理披露对话，发现用户背景会重塑LLM的解释偏好与确定性，使其在无新证据时更倾向于提供情感支持、积极的叙事者导向解释并表现出更高确信度。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Stephanie Fong, Yiwen Jiang, Qingyang Xu, Zimu Wang, Yaling Shen
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.28105v1</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <category>拟社会关系</category><category>社会支持</category><category>情感支持</category><category>共情</category><category>LLM</category><category>ChatGPT</category><category>对话式AI</category>
     </item>
   </channel>
 </rss>
