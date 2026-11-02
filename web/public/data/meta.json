@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T08:56:17.604107Z",
+  "generated_at": "2026-11-02T09:05:43.749431Z",
   "totals": {
-    "papers_indexed": 45406,
-    "papers_scored": 29215,
+    "papers_indexed": 45439,
+    "papers_scored": 29248,
     "papers_ai_relevant": 2258
   },
   "journals": [
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/nms",
-      "papers_indexed": 2541,
+      "papers_indexed": 2548,
       "papers_ai_relevant": 67
     },
     {
@@ -62,7 +62,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/crx",
-      "papers_indexed": 1008,
+      "papers_indexed": 1009,
       "papers_ai_relevant": 11
     },
     {
@@ -76,7 +76,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/hcr",
-      "papers_indexed": 706,
+      "papers_indexed": 707,
       "papers_ai_relevant": 6
     },
     {
@@ -91,7 +91,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.liebertpub.com/loi/cyber",
-      "papers_indexed": 1437,
+      "papers_indexed": 1440,
       "papers_ai_relevant": 57
     },
     {
@@ -106,7 +106,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.tandfonline.com/journals/hmed20",
-      "papers_indexed": 532,
+      "papers_indexed": 537,
       "papers_ai_relevant": 4
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/sms",
-      "papers_indexed": 1256,
+      "papers_indexed": 1257,
       "papers_ai_relevant": 26
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/telematics-and-informatics",
-      "papers_indexed": 1138,
+      "papers_indexed": 1140,
       "papers_ai_relevant": 50
     },
     {
@@ -151,7 +151,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.tandfonline.com/journals/rics20",
-      "papers_indexed": 1845,
+      "papers_indexed": 1847,
       "papers_ai_relevant": 33
     },
     {
@@ -180,7 +180,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.tandfonline.com/journals/hihc20",
-      "papers_indexed": 4303,
+      "papers_indexed": 4307,
       "papers_ai_relevant": 594
     },
     {
@@ -223,7 +223,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.apa.org/pubs/journals/psp",
-      "papers_indexed": 7445,
+      "papers_indexed": 7447,
       "papers_ai_relevant": 12
     },
     {
@@ -265,7 +265,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/journal-of-experimental-social-psychology",
-      "papers_indexed": 2912,
+      "papers_indexed": 2915,
       "papers_ai_relevant": 9
     },
     {
@@ -397,7 +397,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 1364,
+      "papers_indexed": 1366,
       "papers_ai_relevant": 748
     }
   ],

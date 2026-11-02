@@ -6,7 +6,7 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 01 Nov 2026 08:56:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:05:43 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
       <title>歌词中的爱情</title>
@@ -174,9 +174,11 @@ EN: People Offload Empathy When They Think AI Can Give It Instead
 💡 当人们认为人工智能能够提供共情时，他们会倾向于将共情的责任转移给AI。这项研究探讨了AI作为共情来源的出现，如何改变了人类自身提供情感支持的意愿和行为。核心发现是，对AI共情能力的认知，可能导致人们在社交互动中减少主动共情投入，即产生一种“共情卸载”效应。
 
 📚 CHB · 2026 · 引用 0
-👤 Madhulika Shastry, Kurt Gray
+👤 Madhulika Shastry, Kurt J. Gray
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://doi.org/10.1016/j.chb.2026.109240</description>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <category>共情</category><category>社会支持</category><category>情感支持</category><category>人机交互(HCI)</category><category>伦理</category><category>对话式AI</category><category>聊天机器人</category><category>情感计算</category>
     </item>    <item>
