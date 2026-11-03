@@ -6,9 +6,58 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:15:53 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>大型语言模型能否将其代理能力扩展至开放式多轮交互中的目标追求？</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45508</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45508</guid>
+      <description>📝 大型语言模型能否将其代理能力扩展至开放式多轮交互中的目标追求？
+EN: Can Large Language Models Extend Their Agentic Capabilities to Goal Pursuit in Open-Ended Multi-Turn Interaction?
+
+💡 研究探讨大型语言模型在开放式多轮对话中追求社会目标的能力。通过将对话行动定义为工具调用，构建了无需训练的“工具中介交互”协议。在社交互动、情感支持等任务上的评估表明，该方法相比常规对话基线，能更有效地达成目标、提升互动质量，同时大幅减少推理开销和内容重复。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Mingyu Chen, Jingkai Lin, Xiaofen Xing, Liankai Huang, Ruiqi Xiong
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.01552v1</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>社会互动</category><category>情感支持</category><category>信任</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>智能体/Agent</category>
+    </item>    <item>
+      <title>通过AI实现自我扩展：AI陪伴与幸福感结果的潜在剖面分析</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45506</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45506</guid>
+      <description>📝 通过AI实现自我扩展：AI陪伴与幸福感结果的潜在剖面分析
+EN: Self-Expansion Through AI: Latent Profile Analysis of AI Companionship and Wellbeing Outcomes
+
+💡 研究采用以人为中心的方法，对467名活跃的对话AI用户进行潜在剖面分析，识别出五种人机关系类型，从工具化利用到亲密联结。研究发现，功利动机与伴侣式参与可以共存，深度陪伴无需用户赋予AI心智。关系剖面与关系需求满足度强相关，但与孤独感关联较弱，表明AI能满足即时关系需求，但未必能解决系统性的人际疏离。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Ali Sahandi, Jaime Banks
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.00436v1</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>人际关系</category><category>亲密关系</category><category>孤独感</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category><category>情感计算</category>
+    </item>    <item>
+      <title>“我分享你的情绪”——Facebook帖子情绪与分享行为的纵向研究</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45469</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45469</guid>
+      <description>📝 “我分享你的情绪”——Facebook帖子情绪与分享行为的纵向研究
+EN: “I Share Your Sentiment”—A Longitudinal Study of Facebook Post Sentiment and Sharing
+
+💡 研究分析了挪威主要政党十年间在Facebook上发布内容的情绪（积极、消极、中性）及其与分享行为的关系。结合大语言模型与人工标注的方法发现，虽然积极情绪仍占主导，但消极情绪随时间增加，尤其在挑战者和左翼政党中。总体而言，消极帖子获得更多分享，但这种优势随时间减弱，暗示了策略适应和可能的受众疲劳。
+
+📚 SMS · 2026 · 引用 0
+👤 Anders Olof Larsson
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>社交媒体</category><category>计算机中介传播</category><category>网络心理学</category><category>伦理</category><category>LLM</category><category>GenAI</category><category>情感识别</category><category>推荐算法</category>
+    </item>    <item>
       <title>歌词中的爱情</title>
       <link>https://sr-ai-papers.vercel.app/papers/45396</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45396</guid>
@@ -437,53 +486,6 @@ EN: When AI Enters the Pencil Box: A Longitudinal Study of Child–LLM Writing C
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <category>儿童/老人/无障碍</category><category>人机协作</category><category>教育</category><category>信任</category><category>LLM</category><category>聊天机器人</category><category>AI 伴侣</category><category>人机协作</category>
-    </item>    <item>
-      <title>黑人科技女性主义：对人工智能拟人化中生物本质主义的批判</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44557</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44557</guid>
-      <description>📝 黑人科技女性主义：对人工智能拟人化中生物本质主义的批判
-EN: Black technofeminism as critique of biological essentialism in AI anthropomorphization
-
-💡 研究探讨了将AI拟人化时，如何避免陷入生物本质主义的陷阱。通过引入黑人科技女性主义理论，批判了AI设计中常见的、基于生物性别的刻板印象和本质化倾向，主张一种更具批判性和包容性的AI拟人化路径。
-
-📚 ICS · 2026 · 引用 0
-👤 Melissa C. Brown
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>性别</category><category>伦理</category><category>AI治理</category><category>AI 伦理</category><category>AI 治理</category><category>社交机器人</category>
-    </item>    <item>
-      <title>修复爱人：人机浪漫互动中的关系破裂与修复</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44535</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44535</guid>
-      <description>📝 修复爱人：人机浪漫互动中的关系破裂与修复
-EN: Repairing the Lover: Relational Breakdown and Restoration in Human–AI Romantic Interaction
-
-💡 该研究探讨了人类与AI（如聊天机器人或虚拟伴侣）之间浪漫互动中关系破裂与修复的动态过程。研究可能通过访谈、实验或日志分析等方法，考察当用户感知到AI伴侣的行为不符合预期或出现“故障”时，双方如何协商、解释并尝试修复关系。核心发现可能揭示了用户如何将人类关系中的修复策略（如沟通、原谅）应用于人机互动，以及AI的可解释性或适应性设计在维系这种拟社会亲密关系中的关键作用。
-
-📚 CHB · 2026 · 引用 0
-👤 Yuqing Liu, Siyue Ren, Huizi Han, Yan Luximon
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机亲密关系</category><category>浪漫关系</category><category>关系维系</category><category>拟社会关系</category><category>AI伴侣</category><category>聊天机器人</category><category>对话式AI</category>
-    </item>    <item>
-      <title>定位脆弱性：拟人化人工智能交互的伦理治理框架</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44501</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44501</guid>
-      <description>📝 定位脆弱性：拟人化人工智能交互的伦理治理框架
-EN: Situating Vulnerability: An Ethical Governance Framework for Anthropomorphic AI Interaction
-
-💡 研究关注大型语言模型以拟人化关怀模式互动（如记住细节、表达情感）带来的伦理风险，认为当前治理的两种路径——统一限制敏感回应或针对特定脆弱群体进行保护——均存在缺陷。前者误判伤害源于回应措辞而非关系发展轨迹，后者则难以穷尽脆弱群体且易导致污名化。借鉴将脆弱性视为普遍、关系性和差异化的哲学观点，提出以“脆弱情境”而非“脆弱群体”作为伦理治理单元，构建了包含身体、情感、认知、自主性和关系五类情境的框架，并制定七项原则以指导响应校准，避免对用户进行诊断或永久分类。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Hanhui Xu, Jiacheng Ji, Yuhan Wang, Haoan Jin, Jaiming Luo
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.29304v1</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>AI治理</category><category>拟人化</category><category>人机亲密关系</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伦理</category>
     </item>
   </channel>
 </rss>
