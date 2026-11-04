@@ -6,9 +6,56 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 09:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 08:51:27 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>仅限你我？探索共享游戏情境中可穿戴设备介导的隐蔽人机交互通道</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45686</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45686</guid>
+      <description>📝 仅限你我？探索共享游戏情境中可穿戴设备介导的隐蔽人机交互通道
+EN: Just Between Us? Exploring a Wearable-Mediated Channel for Discreet Human-Agent Interaction in a Shared Game Setting
+
+💡 在共享游戏环境中，公开的语音和手势可能无法支持社交机器人与个体间的私密信息交换。研究探索了一种结合入耳音频和头部倾斜响应的可穿戴中介私密交互通道。通过20对参与者的卡牌游戏实验（采用Wizard-of-Oz控制的对话式智能体），发现该通道在40次交互中成功39次，穿戴者报告了低压力感和良好的可用性。但回顾性访谈揭示了非穿戴者对交互的不同察觉程度，以及对团队合作与公平性的矛盾感知。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Atikkhan Faridkhan Nilgar, Manuel Dietrich, Kristof Van Laerhoven
+
+AI 分: 4.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.04692v1</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <category>社会互动</category><category>人机交互(HCI)</category><category>信任</category><category>社交机器人</category><category>社交机器人</category><category>对话式 AI</category><category>人机交互</category>
+    </item>    <item>
+      <title>信任会溢出吗？探索合作游戏中队友 AI 与引导 AI 之间的非对称信任动态</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45667</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45667</guid>
+      <description>📝 信任会溢出吗？探索合作游戏中队友 AI 与引导 AI 之间的非对称信任动态
+EN: Does Trust Spill Over?: Exploring Asymmetric Trust Dynamics Between Teammate AI and Guide AI in Cooperative Games
+
+💡 在合作游戏中，玩家如何在执行任务的队友AI和提供建议的指导AI之间形成和转移信任尚不清楚。研究通过一个基于网络的合作烹饪游戏，操纵队友AI能力和指导AI准确性，探究信任溢出效应。结果发现信任溢出存在方向性不对称：队友AI的能力显著影响对指导AI的信任，但指导AI的准确性和存在与否不影响对队友AI的信任。这表明在认知限制下，信任从高显著性的任务执行智能体流向低显著性的建议智能体。此外，指导AI的存在（无论建议准确性）提升了玩家表现和感知控制感，而一致的智能体质量水平增强了玩家的关联感。
+
+📚 PACM-HCI · 2026 · 引用 0
+👤 Sota Ikejima, Ryo Ohara, Yusuke Koseki, Takuji Narumi, Hideaki Kuzuoka
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机信任</category><category>人机协作</category><category>社会互动</category><category>智能体/Agent</category><category>人机协作</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>被机器所识：与 AI NPC 建立关系在场以实现游戏中的无污名心理健康素养</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45616</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45616</guid>
+      <description>📝 被机器所识：与 AI NPC 建立关系在场以实现游戏中的无污名心理健康素养
+EN: Known by the Machine: Building Relational Presence with AI NPCs for Stigma-Free Mental Health Literacy in Games
+
+💡 心理健康素养低和污名化限制了相关讨论和求助行为。研究探讨了在游戏环境中，利用具有不同记忆设计的LLM（GPT-4o-mini）驱动的AI NPC，如何通过建立关系临场感来支持无污名的心理健康教育。一项为期四期的纵向混合方法研究表明，参与者获得了显著且持续的心理健康素养提升，但提升程度不因记忆设计而异。记忆主要作为一种关系设计特征，塑造了参与者对社会临场感的感知，许多参与者将对话式NPC描述为支持性伴侣。研究也识别了交互风险，如算法模糊性和隐私顾虑导致的犹豫，这些会降低对话舒适度。
+
+📚 PACM-HCI · 2026 · 引用 0
+👤 Soraya S. Anvari, Sandra Meier, Rina R. Wehbe
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI治疗师</category><category>心理健康/污名化</category><category>信任</category><category>社会临场</category><category>自我表露</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category>
+    </item>    <item>
       <title>大型语言模型能否将其代理能力扩展至开放式多轮交互中的目标追求？</title>
       <link>https://sr-ai-papers.vercel.app/papers/45508</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45508</guid>
@@ -439,53 +486,6 @@ EN: Sexist AI: An Experiment Integrating CASA and ELM
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <category>性别</category><category>信任</category><category>拟人化</category><category>社会临场</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伦理</category><category>人机交互</category>
-    </item>    <item>
-      <title>使用融合型2类模糊深度神经网络解码安卓游戏玩家情绪变化</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44671</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44671</guid>
-      <description>📝 使用融合型2类模糊深度神经网络解码安卓游戏玩家情绪变化
-EN: Decoding emotional changes of android-gamers using a fused Type-2 fuzzy deep neural network
-
-💡 研究旨在通过一种融合的Type-2模糊深度神经网络，来解码安卓游戏玩家在游戏过程中的情绪变化。标题表明，该研究结合了先进的计算方法（模糊逻辑与深度学习）来识别和追踪人机互动（特别是游戏）中的动态情感状态。
-
-📚 CHB · 2021 · 引用 14
-👤 Lidia Ghosh, Sriparna Saha, Amit Konar
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <category>情感计算</category><category>人机交互(HCI)</category><category>情感连接</category><category>成瘾/依赖</category><category>情感识别</category><category>多模态</category><category>智能体/Agent</category><category>深度学习</category>
-    </item>    <item>
-      <title>X-表达亲密：Twitter 收购后的心理健康信息披露</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44649</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44649</guid>
-      <description>📝 X-表达亲密：Twitter 收购后的心理健康信息披露
-EN: X-pressing Intimacy: Mental Health Disclosure After Twitter Acquisition
-
-💡 研究考察了Twitter被收购后，用户心理健康自我表露的变化。通过分析82.4万条关于焦虑、抑郁等主题的推文，结合LIWC和基于LLM的亲密感分类器，发现收购后情感和社会性语言减少，第一人称代词增加。亲密感模式因议题而异，例如焦虑相关帖子的低亲密感表露增加，而自杀相关帖子的高亲密感表露增多。研究强调了平台治理变化对敏感自我表露的影响。
-
-📚 arXiv:cs.SI · 2026 · 引用 0
-👤 Olivia Pal, Yunhao Yuan, Meghana Mandava, Talayeh Aledavood, Eshwar Chandrasekharan
-
-AI 分: 3.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.30413v1</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <category>自我表露</category><category>情感支持</category><category>社交媒体</category><category>计算机中介传播</category><category>LLM</category><category>情感识别</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>当 AI 进入铅笔盒：中国小学儿童-LLM 写作协作的纵向研究</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44568</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44568</guid>
-      <description>📝 当 AI 进入铅笔盒：中国小学儿童-LLM 写作协作的纵向研究
-EN: When AI Enters the Pencil Box: A Longitudinal Study of Child–LLM Writing Collaboration in a Chinese Primary School
-
-💡 一项在中国小学开展的为期六个月的纵向研究，探讨了9-12岁儿童与本地LLM（豆包）在写作上的协作。研究发现，学生对AI的认知经历了从新奇感到策略性使用、从拟人化“同伴/虚拟老师”到工具化定位、从快速求助到因依赖、公平和考试迁移担忧而谨慎使用的转变。学生看重AI的速度和广度，但也指出其语调机械、风格不匹配及对无AI考试的弱迁移性。研究提出了一个控制与依赖的分析框架，并建议在教学中进行过程可见、保留学生能动性的AI整合。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Junrong Song, Zheng Wei, Changyang He, Junxiang Liao, Xian Xu
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <category>儿童/老人/无障碍</category><category>人机协作</category><category>教育</category><category>信任</category><category>LLM</category><category>聊天机器人</category><category>AI 伴侣</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
