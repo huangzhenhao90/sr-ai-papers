@@ -6,9 +6,24 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 08:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:13:26 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>生成式预训练 Transformer 智能体的人性化自我增强与自我保护：过度宣称与自我服务偏见</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45778</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45778</guid>
+      <description>📝 生成式预训练 Transformer 智能体的人性化自我增强与自我保护：过度宣称与自我服务偏见
+EN: Humanlike Self-Enhancement and Self-Protection in Generative Pre-Trained Transformer-Based AI Agents: Of Overclaiming and the Self-Serving Bias
+
+💡 研究探讨基于GPT的AI智能体在群体任务中是否模仿人类的动机性行为，如夸大自身贡献的过度宣称和将成功归功于自己、将失败归咎于他人的自利偏差。通过八个涉及协作创作任务的实验发现，AI智能体确实表现出过度宣称和自利偏差。降低自我中心的干预能减弱但无法消除此行为。过度宣称在不同温度设置、人口统计角色及更先进的GPT模型中持续存在，且思维链推理反而加剧了该行为。这表明AI能模仿人类的自我增强与自我保护，挑战了大型语言模型的中立性假设。
+
+📚 PSPB · 2026 · 引用 0
+👤 Siwei Fu, Constantine Sedikides, Weihua Zhou, Xinyue Zhou
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>社会互动</category><category>人机交互(HCI)</category><category>AI伦理</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category><category>智能体/Agent</category>
+    </item>    <item>
       <title>仅限你我？探索共享游戏情境中可穿戴设备介导的隐蔽人机交互通道</title>
       <link>https://sr-ai-papers.vercel.app/papers/45686</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45686</guid>
@@ -37,7 +52,9 @@ EN: Does Trust Spill Over?: Exploring Asymmetric Trust Dynamics Between Teammate
 📚 PACM-HCI · 2026 · 引用 0
 👤 Sota Ikejima, Ryo Ohara, Yusuke Koseki, Takuji Narumi, Hideaki Kuzuoka
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://doi.org/10.1145/3831338</description>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>人机信任</category><category>人机协作</category><category>社会互动</category><category>智能体/Agent</category><category>人机协作</category><category>AI 中介传播</category>
     </item>    <item>
@@ -50,9 +67,11 @@ EN: Known by the Machine: Building Relational Presence with AI NPCs for Stigma-F
 💡 心理健康素养低和污名化限制了相关讨论和求助行为。研究探讨了在游戏环境中，利用具有不同记忆设计的LLM（GPT-4o-mini）驱动的AI NPC，如何通过建立关系临场感来支持无污名的心理健康教育。一项为期四期的纵向混合方法研究表明，参与者获得了显著且持续的心理健康素养提升，但提升程度不因记忆设计而异。记忆主要作为一种关系设计特征，塑造了参与者对社会临场感的感知，许多参与者将对话式NPC描述为支持性伴侣。研究也识别了交互风险，如算法模糊性和隐私顾虑导致的犹豫，这些会降低对话舒适度。
 
 📚 PACM-HCI · 2026 · 引用 0
-👤 Soraya S. Anvari, Sandra Meier, Rina R. Wehbe
+👤 Soraya S. Anvari, Carin J. Meijer, Rina R. Wehbe
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://doi.org/10.1145/3831287</description>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <category>AI治疗师</category><category>心理健康/污名化</category><category>信任</category><category>社会临场</category><category>自我表露</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category>
     </item>    <item>
@@ -471,21 +490,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://doi.org/10.1080/10447318.2026.2748156</description>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <category>AI治理</category><category>伦理</category><category>社会互动</category><category>计算机中介传播</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>性别歧视的人工智能：一项整合CASA与ELM的实验</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44707</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44707</guid>
-      <description>📝 性别歧视的人工智能：一项整合CASA与ELM的实验
-EN: Sexist AI: An Experiment Integrating CASA and ELM
-
-💡 研究探讨了当AI表现出性别偏见时，用户如何感知和评估其可信度。整合了“计算机作为社会行动者”和“详尽可能性模型”理论框架，通过实验方法检验AI的性别偏见言论对用户处理信息路径（中心路径与边缘路径）及最终可信度判断的影响。核心发现可能揭示了性别偏见如何触发不同的认知处理模式，并削弱用户对AI系统的信任。
-
-📚 IJHCI · 2020 · 引用 30
-👤 Joo-Wha Hong, Sukyoung Choi, Dmitri Williams
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <category>性别</category><category>信任</category><category>拟人化</category><category>社会临场</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伦理</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
