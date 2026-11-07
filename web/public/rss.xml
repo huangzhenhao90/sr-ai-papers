@@ -6,9 +6,24 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 09:22:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 08:33:43 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>社区护理中的对话式人工智能：范围综述</title>
+      <link>https://sr-ai-papers.vercel.app/papers/45916</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45916</guid>
+      <description>📝 社区护理中的对话式人工智能：范围综述
+EN: Conversational Artificial Intelligence in Community Care: A Scoping Review
+
+💡 本研究通过范围综述方法，系统梳理了对话式人工智能在社区护理领域的应用现状。研究旨在探索该技术如何被整合到社区健康支持体系中，以提供情感陪伴、日常协助或健康管理。综述可能涵盖聊天机器人、虚拟助手等AI形式，分析其在减轻护理负担、提供社会支持、改善服务可及性方面的潜力与挑战，为未来研究和实践提供方向性概览。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Minseo Cho, Marco Da Re, Tori Simpson, Matthew Harrison, Rafael Calvo
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>社会支持</category><category>情感支持</category><category>社区护理</category><category>人机交互(HCI)</category><category>无障碍</category><category>对话式 AI</category><category>聊天机器人</category>
+    </item>    <item>
       <title>记忆陷阱：语言智能体在良性交互中的过度泛化</title>
       <link>https://sr-ai-papers.vercel.app/papers/45875</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45875</guid>
@@ -54,7 +69,9 @@ EN: Humanlike Self-Enhancement and Self-Protection in Generative Pre-Trained Tra
 📚 PSPB · 2026 · 引用 0
 👤 Siwei Fu, Constantine Sedikides, Weihua Zhou, Xinyue Zhou
 
-AI 分: 5.0 / 领域分: 3.0</description>
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://doi.org/10.1177/01461672261499423</description>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <category>拟人化</category><category>社会互动</category><category>人机交互(HCI)</category><category>AI伦理</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category><category>智能体/Agent</category>
     </item>    <item>
@@ -475,23 +492,6 @@ EN: Egoistic and altruistic motivation: How to induce users’ willingness to he
 AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>信任</category><category>社会互动</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 治理</category>
-    </item>    <item>
-      <title>何时可信？设计与评估基于LLM聊天机器人的事实性指标</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44898</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44898</guid>
-      <description>📝 何时可信？设计与评估基于LLM聊天机器人的事实性指标
-EN: When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots
-
-💡 研究探讨如何向普通用户传达基于大语言模型的聊天机器人的事实准确性。通过访谈、问卷调查和实验，考察了用户如何评估AI在园艺、数学和医疗查询中的回答，以及事实性指标（置信度和来源）如何影响感知。研究发现，用户会选择性验证AI回答，但对其置信度有不同且模糊的理解。来源信息被视为关键，但用户担忧其可靠性和验证成本。实验表明，置信度和来源指标影响初始感知，但一旦获知答案正确性，这些影响便消失。医疗查询尤其引发普遍怀疑。研究主张帮助用户理解模型置信度，并将来源信息整合到界面中，以培养对AI信息寻求的校准信任。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Greta Warren, Jessica Heal, Sila Eser, Denise M. Leto, Christine M. Lehane
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.32883v1</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机交互(HCI)</category><category>人机信任</category><category>AI治理</category><category>LLM</category><category>ChatGPT</category><category>聊天机器人</category><category>对话式 AI</category>
     </item>
   </channel>
 </rss>
