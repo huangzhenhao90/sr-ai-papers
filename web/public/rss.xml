@@ -6,9 +6,24 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 08:33:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 08:47:57 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>社会影响导致多样化本地趋势的形成</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46041</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46041</guid>
+      <description>📝 社会影响导致多样化本地趋势的形成
+EN: Social Influence Leads to the Formation of Diverse Local Trends
+
+💡 研究探讨社交信号（如他人行为信息）如何影响算法生成图像（混合动物）的流行度。通过复刻音乐实验室实验，在数字平台上随机分配社交信息及其视觉呈现方式。研究发现，社交影响确实会复制音乐领域的“赢家通吃”现象，导致成功结果不平等且不可预测。但同时也发现，社交影响能催生不同于主流现状的、更多样化的本地文化趋势。研究对平台设计及动物保护工作具有启示。
+
+📚 PACM-HCI · 2021 · 引用 4
+👤 Ziv Epstein, Matthew Groh, Abhimanyu Dubey, Alex Pentland
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <category>社会影响</category><category>社交媒体</category><category>在线社群</category><category>人机交互(HCI)</category><category>GenAI</category><category>图像生成</category><category>推荐算法</category>
+    </item>    <item>
       <title>社区护理中的对话式人工智能：范围综述</title>
       <link>https://sr-ai-papers.vercel.app/papers/45916</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45916</guid>
@@ -18,9 +33,11 @@ EN: Conversational Artificial Intelligence in Community Care: A Scoping Review
 💡 本研究通过范围综述方法，系统梳理了对话式人工智能在社区护理领域的应用现状。研究旨在探索该技术如何被整合到社区健康支持体系中，以提供情感陪伴、日常协助或健康管理。综述可能涵盖聊天机器人、虚拟助手等AI形式，分析其在减轻护理负担、提供社会支持、改善服务可及性方面的潜力与挑战，为未来研究和实践提供方向性概览。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Minseo Cho, Marco Da Re, Tori Simpson, Matthew Harrison, Rafael Calvo
+👤 Minseo Cho, Marco Da Re, Tori Simpson, Matthew Harrison, Rafael A. Calvo
 
-AI 分: 5.0 / 领域分: 4.0</description>
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://doi.org/10.1080/10447318.2026.2751902</description>
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
       <category>AI伴侣/陪伴</category><category>社会支持</category><category>情感支持</category><category>社区护理</category><category>人机交互(HCI)</category><category>无障碍</category><category>对话式 AI</category><category>聊天机器人</category>
     </item>    <item>
@@ -477,21 +494,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://www.sciencedirect.com/science/article/pii/S0747563226003146/pdf</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <category>对话式AI</category><category>人机交互(HCI)</category><category>认知负荷</category><category>教育技术</category><category>对话式 AI</category><category>聊天机器人</category><category>AI 中介传播</category><category>情感计算</category>
-    </item>    <item>
-      <title>利己与利他动机：如何诱导用户对不完美 AI 的帮助意愿</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44914</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44914</guid>
-      <description>📝 利己与利他动机：如何诱导用户对不完美 AI 的帮助意愿
-EN: Egoistic and altruistic motivation: How to induce users’ willingness to help for imperfect AI
-
-💡 研究探讨如何激励用户帮助存在缺陷或不完美的AI系统。核心问题是用户帮助AI的动机，区分了利己（如获得回报）和利他（如纯粹助人）两种动机。研究通过实验方法，测试不同干预策略（如强调AI的学习潜力、提供社会认可或物质奖励）对用户帮助意愿的诱导效果。核心发现揭示了在AI不完美的情境下，如何有效设计激励框架以促进人机协作，这对于提升AI系统的迭代学习和用户体验至关重要。
-
-📚 CHB · 2019 · 引用 46
-👤 Yeonjoo Lee, Miyeon Ha, Sujeong Kwon, Yealin Shim, Jinwoo Kim
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>社会互动</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 治理</category>
     </item>
   </channel>
 </rss>
