@@ -6,9 +6,26 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 08:47:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:26:05 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>关系能力框架：AI 中介关系性的透镜</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46058</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46058</guid>
+      <description>📝 关系能力框架：AI 中介关系性的透镜
+EN: The Relational Capacity Framework: A Lens for AI-Mediated Relationality
+
+💡 研究探讨人们如何将通用AI聊天机器人用于社会情感需求，及其对人类建立、维系和退出人际关系能力（关系性）的影响。通过对100名参与者的调查，发现使用方式多样，包括练习社交技能、获取信息以应对社交情境等。研究提出8种状态，解释AI如何因个人技能、精力与信息水平的不同而扩展或压缩其关系性，并构建了“关系能力框架”这一统一概念模型，以理解技术在调节人类关系性中的作用，为未来设计AI在人际连接中的适当角色指明方向。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Emily Tseng, Patrick Gage Kelley, Renee Shelby, Ashley M. Walker
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.08877v1</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人际关系</category><category>社会支持</category><category>情感支持</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>对话式 AI</category><category>GenAI</category><category>LLM</category>
+    </item>    <item>
       <title>社会影响导致多样化本地趋势的形成</title>
       <link>https://sr-ai-papers.vercel.app/papers/46041</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46041</guid>
@@ -477,23 +494,6 @@ EN: Gaining Control at a Cost? Customization, Cognitive Load, and Perceived AI A
 AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <category>人机信任</category><category>人机交互(HCI)</category><category>认知负荷</category><category>AI治理</category><category>对话式 AI</category><category>可解释 AI</category><category>人机协作</category><category>AI 治理</category>
-    </item>    <item>
-      <title>超越接入：对话式 AI 辅助反馈的参与度塑造数字游戏化学习中的认知负荷</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44918</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44918</guid>
-      <description>📝 超越接入：对话式 AI 辅助反馈的参与度塑造数字游戏化学习中的认知负荷
-EN: Beyond Access: Engagement with Conversational AI-Assisted Feedback Shapes Cognitive Load in Digital Game-Based Learning
-
-💡 研究在数字游戏化学习环境中，学习者与对话式AI辅助反馈的互动方式如何影响其认知负荷。超越简单的反馈可及性，关注互动深度与认知资源消耗的关系。核心发现可能揭示AI中介的教学反馈如何通过互动设计优化学习体验与认知效率。
-
-📚 CHB · 2026 · 引用 0
-👤 Anna Wenzel, Jan-Martin Geiger, Andreas Liening
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://www.sciencedirect.com/science/article/pii/S0747563226003146/pdf</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>对话式AI</category><category>人机交互(HCI)</category><category>认知负荷</category><category>教育技术</category><category>对话式 AI</category><category>聊天机器人</category><category>AI 中介传播</category><category>情感计算</category>
     </item>
   </channel>
 </rss>

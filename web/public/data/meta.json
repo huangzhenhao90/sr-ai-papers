@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-08T08:47:57.940977Z",
+  "generated_at": "2026-11-09T09:26:05.767177Z",
   "totals": {
-    "papers_indexed": 46042,
-    "papers_scored": 29851,
-    "papers_ai_relevant": 2269
+    "papers_indexed": 46059,
+    "papers_scored": 29868,
+    "papers_ai_relevant": 2270
   },
   "journals": [
     {
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/nms",
-      "papers_indexed": 2576,
+      "papers_indexed": 2577,
       "papers_ai_relevant": 67
     },
     {
@@ -62,7 +62,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/crx",
-      "papers_indexed": 1029,
+      "papers_indexed": 1031,
       "papers_ai_relevant": 11
     },
     {
@@ -151,7 +151,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.tandfonline.com/journals/rics20",
-      "papers_indexed": 1868,
+      "papers_indexed": 1873,
       "papers_ai_relevant": 33
     },
     {
@@ -166,7 +166,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/mmc",
-      "papers_indexed": 340,
+      "papers_indexed": 341,
       "papers_ai_relevant": 5
     },
     {
@@ -195,7 +195,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/spr",
-      "papers_indexed": 1815,
+      "papers_indexed": 1816,
       "papers_ai_relevant": 10
     },
     {
@@ -209,7 +209,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14756811",
-      "papers_indexed": 739,
+      "papers_indexed": 740,
       "papers_ai_relevant": 2
     },
     {
@@ -223,7 +223,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.apa.org/pubs/journals/psp",
-      "papers_indexed": 7511,
+      "papers_indexed": 7513,
       "papers_ai_relevant": 12
     },
     {
@@ -237,7 +237,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/home/psp",
-      "papers_indexed": 3640,
+      "papers_indexed": 3641,
       "papers_ai_relevant": 5
     },
     {
@@ -397,8 +397,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 1375,
-      "papers_ai_relevant": 753
+      "papers_indexed": 1378,
+      "papers_ai_relevant": 754
     }
   ],
   "facets": {
@@ -419,12 +419,12 @@
       "2023": 240,
       "2024": 317,
       "2025": 565,
-      "2026": 809,
+      "2026": 810,
       "2027": 2
     },
     "journals": {
       "IJHCI": 595,
-      "arXiv:cs.HC": 384,
+      "arXiv:cs.HC": 385,
       "PACM-HCI": 292,
       "CHB": 271,
       "arXiv:cs.CL": 149,
@@ -457,26 +457,26 @@
       "arXiv:cs.MM": 1
     },
     "topic_tags": {
-      "人机交互(HCI)": 1315,
+      "人机交互(HCI)": 1316,
       "拟人化": 634,
       "信任": 520,
       "人机信任": 437,
       "计算机中介传播": 348,
       "伦理": 341,
-      "情感支持": 307,
+      "情感支持": 308,
       "社会互动": 296,
       "AI治理": 293,
       "人机协作": 272,
       "社交机器人": 263,
       "社会临场": 258,
-      "社会支持": 239,
+      "社会支持": 240,
       "聊天机器人": 233,
       "AI伴侣/陪伴": 225,
       "情感连接": 214,
       "共情": 203,
       "AI伦理": 191,
       "社交媒体": 191,
-      "人际关系": 182,
+      "人际关系": 183,
       "AI治疗师": 137,
       "儿童/老人/无障碍": 132,
       "自我表露": 131,
@@ -509,10 +509,10 @@
       "教育": 12
     },
     "ai_type_tags": {
-      "对话式 AI": 747,
-      "LLM": 737,
-      "聊天机器人": 624,
-      "GenAI": 584,
+      "对话式 AI": 748,
+      "LLM": 738,
+      "聊天机器人": 625,
+      "GenAI": 585,
       "社交机器人": 476,
       "智能体/Agent": 420,
       "人机交互": 392,
