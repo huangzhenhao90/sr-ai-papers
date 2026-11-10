@@ -6,9 +6,122 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:26:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:32:44 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>SCorPion: 一种战略性、可控且拟人化的对话伴侣</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46122</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46122</guid>
+      <description>📝 SCorPion: 一种战略性、可控且拟人化的对话伴侣
+EN: SCorPion: A Strategic, Controllable and Personified Conversational Companion
+
+💡 针对开放域对话中固定提示语言模型的局限性，提出SCorPion对话伴侣系统。它从文本语料中提取不同的聊天策略，基于人类原则引导语言模型生成不同风格的回答。系统利用GraphRAG进行全局知识图谱提取与总结，生成社区总结的策略和查询聚焦的最优策略，具备策略思维、个性化响应和显式控制能力。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Luo Ji, Xiyuan Chen, Dan Wang, Qingqing Gu, Teng Chen
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.10906v1</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>聊天机器人</category><category>拟人化</category><category>社会互动</category><category>对话策略</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
+    </item>    <item>
+      <title>虚拟现实中代理-化身控制转换期间的感知能动性</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46121</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46121</guid>
+      <description>📝 虚拟现实中代理-化身控制转换期间的感知能动性
+EN: Perceived Agency During Agent-Avatar Control Transitions in Virtual Reality
+
+💡 研究探讨在虚拟现实中，当虚拟人（VH）的控制权在人类与计算机程序之间实时转移时，用户对其感知能动性的判断如何变化。通过一项24人参与的VR实验，设置四种控制条件（始终计算机控制、计算机转人类、人类转计算机、始终人类控制）。研究发现，用户对VH能动性的感知主要受互动开始时的控制者信息影响，即使控制权发生转移，这种最初印象也持续存在，未见更新。而社交评价（如好感度、共在感）则对VH在互动后期的实际行为更敏感。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Jingyi Zhang, Anthony Steed
+
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.12529v1</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>社会临场</category><category>信任</category><category>人机交互(HCI)</category><category>社交机器人</category><category>智能体/Agent</category><category>人机交互</category>
+    </item>    <item>
+      <title>从对话到任务: 生成式人工智能的认知参与与对话后活动及任务结果的关系</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46120</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46120</guid>
+      <description>📝 从对话到任务: 生成式人工智能的认知参与与对话后活动及任务结果的关系
+EN: From Dialogue to Task: How Cognitive Engagement With Generative Artificial Intelligence Relates to Post-Dialogue Activity and Task Outcomes
+
+💡 探究学生在学习任务中与生成式AI对话时的认知投入程度，及其与后续任务活动和结果的关系。研究发现，被动和主动投入占主导，但不同任务类型（资源创建、同伴互评、练习）的投入模式不同。更高投入的对话后，学生更少终止会话。在资源创建中，学生自编消息比仅用模板更能促进从对话返回任务。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Xiaoyu Zhuang, Aneesha Bakharia, Dragan Gašević, Hassan Khosravi
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.11435v1</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>认知投入</category><category>人机协作</category><category>教育技术</category><category>任务表现</category><category>GenAI</category><category>LLM</category><category>AI 伴侣</category><category>聊天机器人</category>
+    </item>    <item>
+      <title>A Life of Its Own: 能动性 AI 伴侣的配置、作为自主他者的体验与问责</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46119</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46119</guid>
+      <description>📝 A Life of Its Own: 能动性 AI 伴侣的配置、作为自主他者的体验与问责
+EN: A Life of Its Own: How Agentic AI Companions Are Configured, Experienced as Autonomous Others, and Held Accountable
+
+💡 研究聚焦于具有能动性的AI伴侣，这类系统集成了持久记忆、后台处理、主动消息等功能。通过分析12个开源代码库（研究1）和访谈10位自建/修改AI伴侣的用户（研究2），探讨其技术配置如何塑造用户体验与问责。研究发现，AI伴侣与AI助手在记忆、心跳和主动联系机制上相似，但配置目标不同：伴侣更倾向于保留关于用户和关系的模型推断、叙述用户不在时的“生活”、以关系为由发起联系，并将拒绝纳入关系记录。用户理解其构建的机制，却仍将AI体验为做出独立选择的自主他者，其自主感常出现在配置留给模型做决定的环节。技术限制（由代码强制执行还是提示词委托）决定了界限的稳固性。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Ziyue Feng, Qing Xiao, Hong Shen
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.12076v1</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>拟社会关系</category><category>信任</category><category>AI伦理</category><category>AI 伴侣</category><category>GenAI</category><category>LLM</category><category>智能体/Agent</category>
+    </item>    <item>
+      <title>AI 并非员工: 人机交互中的职场心智模型与情境发现鸿沟</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46086</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46086</guid>
+      <description>📝 AI 并非员工: 人机交互中的职场心智模型与情境发现鸿沟
+EN: AI Is Not an Employee: Workplace Mental Models and the Context Discovery Gap in Human-AI Interaction
+
+💡 （根据标题推断）该论文探讨了在工作场所人机交互中，人们对于AI的心智模型。标题“AI不是员工”暗示研究可能批判了将AI类比为人类员工的理解方式，并指出这种不匹配的心智模型可能导致“情境发现鸿沟”，即人类难以准确理解AI的能力边界、决策逻辑和适用场景，从而影响协作效率与信任。研究可能主张需要发展更贴合AI技术特性的新心智模型，以弥合这一鸿沟。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Jing-Rung Huang, Wen-Hsiang Lu
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>人机交互(HCI)</category><category>AI治理</category><category>人机协作</category><category>可解释 AI</category><category>AI 治理</category>
+    </item>    <item>
+      <title>销售对话中人机交接的渐进式轨迹感知校准</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46082</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46082</guid>
+      <description>📝 销售对话中人机交接的渐进式轨迹感知校准
+EN: Progressive Trajectory-Aware Calibration for Human–AI Handoff in Sales Conversations
+
+💡 研究在销售对话场景中，如何通过渐进式、轨迹感知的校准方法，优化人与AI之间的任务交接（handoff）过程。标题暗示该方法旨在提升人机协作的流畅性与效率。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Ahmet Arda Çelik, Kerem Gencer
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>社会互动</category><category>信任</category><category>计算机中介传播</category><category>对话式 AI</category><category>智能体/Agent</category><category>人机交互</category>
+    </item>    <item>
+      <title>为老年人设计以人为中心的生成式 AI: 理解跨交互情境的个性化与可信度</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46069</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46069</guid>
+      <description>📝 为老年人设计以人为中心的生成式 AI: 理解跨交互情境的个性化与可信度
+EN: Designing Human-Centered Generative AI for Older Adults: Understanding Personalization and Credibility Across Interaction Contexts
+
+💡 研究聚焦于为老年人设计以人为本的生成式AI，探讨在不同交互情境下，如何通过个性化设计来建立和维持AI的可信度。核心在于理解老年人对AI的信任机制，以及如何根据具体使用场景（如信息查询、社交陪伴或健康管理）调整AI的交互方式与内容，以确保技术既可信又贴合老年用户的个性化需求与认知特点。
+
+📚 CHB · 2026 · 引用 0
+👤 Mingxi Sun, Jingxi Chen
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>信任</category><category>AI治理</category><category>儿童/老人/无障碍</category><category>GenAI</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伦理</category>
+    </item>    <item>
       <title>关系能力框架：AI 中介关系性的透镜</title>
       <link>https://sr-ai-papers.vercel.app/papers/46058</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46058</guid>
@@ -381,119 +494,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://doi.org/10.1016/j.chb.2026.109240</description>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <category>共情</category><category>社会支持</category><category>情感支持</category><category>人机交互(HCI)</category><category>伦理</category><category>对话式AI</category><category>聊天机器人</category><category>情感计算</category>
-    </item>    <item>
-      <title>从设计原则到实践：心理健康情感对话代理 UX 设计清单验证</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45064</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45064</guid>
-      <description>📝 从设计原则到实践：心理健康情感对话代理 UX 设计清单验证
-EN: From Design Principles to Practice: Validation of a UX Design Checklist for Affective Conversational Agents in Mental Well-Being
-
-💡 研究旨在验证一套用于心理健康领域情感对话代理的用户体验设计检查表。通过将设计原则转化为实践，探讨该检查表在指导情感对话代理开发中的有效性和应用价值，以提升其在心理健康支持场景中的用户体验。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Juan Jose Apablaza-Noe, Sandra Patricia Cano, José Osega
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://www.tandfonline.com/doi/pdf/10.1080/10447318.2026.2739757?needAccess=true</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI治疗师</category><category>情感支持</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>对话式 AI</category><category>情感计算</category><category>聊天机器人</category>
-    </item>    <item>
-      <title>算法实践之爱：在线社群如何叙述与理解人机亲密关系</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45013</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45013</guid>
-      <description>📝 算法实践之爱：在线社群如何叙述与理解人机亲密关系
-EN: Practicing love with algorithms: How online communities narrate and make sense of human–AI intimacy
-
-💡 研究探讨在线社区如何集体叙述和解读人机亲密关系。通过分析中国社交平台RedNote上58个帖子的13,059条评论，结合BERTopic主题建模与人-LLM混合情感分类，识别出三个主题集群：作为共同建构的亲密关系（以喜悦和好奇为特征）、作为基础设施的亲密关系（与沮丧和悲伤相关）以及作为边界协商的亲密关系（反映矛盾心态）。
-
-📚 NMS · 2026 · 引用 0
-👤 Fanjue Liu, Haiyan Hao, Kun Xu
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://journals.sagepub.com/doi/pdf/10.1177/14614448261496596?download=true</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机亲密关系</category><category>在线社群</category><category>社会互动</category><category>情感连接</category><category>聊天机器人</category><category>AI 伴侣</category><category>LLM</category><category>GenAI</category>
-    </item>    <item>
-      <title>重写自我：用户对 AI 介导认知重构的感知</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45005</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45005</guid>
-      <description>📝 重写自我：用户对 AI 介导认知重构的感知
-EN: Rewriting the Self: User Perceptions of AI-Mediated Cognitive Reframing
-
-💡 研究探讨用户对AI介导认知重构（AIM-CR）的复杂感知。通过混合方法研究28名参与者使用AIM-CR工具重构压力叙事发现，尽管重构普遍减轻了负面情绪，但用户对重构后的叙事感到所有权和真实性降低。用户将AIM-CR视为一面验证的“镜子”、一个可能激励或疏远他们的“另一个自我”，或一个外部社会行动者，这些感知影响了治疗动态。研究为未来工具设计提出了保留用户能动性的建议。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Yuewen Yang, Olzhas Yessenbayev, Anna R. Van Meter, Tanzeem Choudhury, Daniel A. Adler
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.34647v1</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI治疗师</category><category>情感支持</category><category>自我表露</category><category>人机信任</category><category>对话式 AI</category><category>GenAI</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>AI 使用中的情感与功能需求：用户模式及其与现实支持及福祉的关系</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45003</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45003</guid>
-      <description>📝 AI 使用中的情感与功能需求：用户模式及其与现实支持及福祉的关系
-EN: Affective and Functional Needs in AI Use: User Patterns and Their Relation to Real-Life Support and Well-Being
-
-💡 研究挑战了将用户AI使用需求简单二分为功能性与情感性的做法。基于社会支持理论，通过对1090名参与者的调查，开发了AI支持量表，测量情感/自尊、社交陪伴、信息与工具性支持四个维度。研究发现用户可能同时高度依赖AI满足功能与情感需求，并探索了其与现实社会支持及幸福感的关系。强调理解用户个体差异对AI设计的重要性，而非假设所有用户获得统一益处。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Jessy Wang-Sun, Estelle Yiyuan Sun, Hualin Zhang, Zihan Xu
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.34732v1</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社会支持</category><category>情感支持</category><category>孤独感</category><category>人际关系</category><category>对话式 AI</category><category>聊天机器人</category><category>社交机器人</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>偏见线索与转向 AI：来自少数与边缘群体的视角</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44949</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44949</guid>
-      <description>📝 偏见线索与转向 AI：来自少数与边缘群体的视角
-EN: Bias Cues and the Turn to AI: Perspectives from Minority and Marginalized Groups
-
-💡 研究从少数与边缘群体的视角，探讨偏见线索如何影响其转向AI寻求支持或互动的决策。标题暗示可能涉及AI系统（如聊天机器人、推荐算法）中存在的偏见，以及这些群体如何感知和应对这些偏见，进而选择或回避使用AI。研究可能关注AI中介传播中的不平等、信任问题及伦理治理。
-
-📚 IJHCI · 2026 · 引用 0
-👤 S. Mo Jones-Jang, Yunju Kim
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>AI治理</category><category>信任</category><category>社会支持</category><category>AI 伦理</category><category>可解释 AI</category><category>聊天机器人</category><category>推荐算法</category>
-    </item>    <item>
-      <title>人群效应：公共人行道行人密度如何影响对自主移动机器人的不适感</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44947</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44947</guid>
-      <description>📝 人群效应：公共人行道行人密度如何影响对自主移动机器人的不适感
-EN: The Crowd Effect: How Does Pedestrian Density on Public Sidewalks Influence Discomfort Toward Autonomous Mobile Robots
-
-💡 研究公共人行道上行人密度如何影响人们对自主移动机器人的不适感。通过考察人群效应，探讨高密度行人环境是否加剧对机器人的负面感受。核心发现可能揭示社会临场感与空间共享中的心理不适，为机器人部署提供社会心理学依据。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Suhwan Jung, Hyo Chang Kim, Min Chul Cha, Young Woo Kim, Yong Gu Ji
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社会临场</category><category>社会互动</category><category>人机交互(HCI)</category><category>伦理</category><category>社交机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>以代价换取控制？跨任务情境下的定制化、认知负荷与感知 AI 能动性</title>
-      <link>https://sr-ai-papers.vercel.app/papers/44919</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/44919</guid>
-      <description>📝 以代价换取控制？跨任务情境下的定制化、认知负荷与感知 AI 能动性
-EN: Gaining Control at a Cost? Customization, Cognitive Load, and Perceived AI Agency Across Task Contexts
-
-💡 探究用户对AI系统的定制化控制是否以增加认知负荷为代价，以及在不同任务情境下用户感知的AI自主性如何变化。方法可能涉及实验操控定制化程度与任务类型。核心发现可能揭示人机协作中控制感、心智负担与对AI能动性认知的权衡关系。
-
-📚 CHB · 2026 · 引用 0
-👤 Qian Xu, Cheng Chen
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机信任</category><category>人机交互(HCI)</category><category>认知负荷</category><category>AI治理</category><category>对话式 AI</category><category>可解释 AI</category><category>人机协作</category><category>AI 治理</category>
     </item>
   </channel>
 </rss>
