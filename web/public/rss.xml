@@ -6,9 +6,41 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:32:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:05:16 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>当推理看似隐性理解：思维链如何助长拟人化、认知优越感与认知顺从</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46184</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46184</guid>
+      <description>📝 当推理看似隐性理解：思维链如何助长拟人化、认知优越感与认知顺从
+EN: When Reasoning looks like Hidden Understanding: How Chain-of-Thought Fosters Anthropomorphism, Perceptions of Epistemic Superiority, and Cognitive Deference
+
+💡 研究探讨用户如何因生成式AI（如链式思维推理）的语言形式而将其误解为具备‘理解’能力，从而产生拟人化认知。这种误解与感知到的AI认知优越性结合，可能导致用户过度信赖AI，在决策上让渡人类能动性，并错误地将AI在特定任务上的表现泛化为广泛能力（组合谬误）。论文以医疗领域为例，分析了链式思维作为‘解释’如何成为认知顺从的载体。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Oliver Lack, Lana Tikhomirov, Humphrey Thompson, Carolyn Semmler, Melissa McCradden
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.13456v1</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>拟人化</category><category>信任</category><category>人机信任</category><category>伦理</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category>
+    </item>    <item>
+      <title>认知投降：当人工智能为我们思考时</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46142</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46142</guid>
+      <description>📝 认知投降：当人工智能为我们思考时
+EN: Cognitive Surrender: When Artificial Intelligence Does Our Thinking for Us
+
+💡 根据标题推断，该研究可能探讨人工智能（AI）在替代人类进行思考过程中所引发的‘认知投降’现象。研究问题可能聚焦于人类过度依赖AI进行决策、问题解决或信息处理时，如何导致自身认知能力、批判性思维或能动性的削弱或让渡，并涉及相关的社会心理机制与潜在风险。
+
+📚 CBSN · 2026 · 引用 0
+👤 Brenda K. Wiederhold
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机信任</category><category>伦理</category><category>社会互动</category><category>认知依赖</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>AI 治理</category>
+    </item>    <item>
       <title>SCorPion: 一种战略性、可控且拟人化的对话伴侣</title>
       <link>https://sr-ai-papers.vercel.app/papers/46122</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46122</guid>
@@ -86,7 +118,7 @@ EN: AI Is Not an Employee: Workplace Mental Models and the Context Discovery Gap
 💡 （根据标题推断）该论文探讨了在工作场所人机交互中，人们对于AI的心智模型。标题“AI不是员工”暗示研究可能批判了将AI类比为人类员工的理解方式，并指出这种不匹配的心智模型可能导致“情境发现鸿沟”，即人类难以准确理解AI的能力边界、决策逻辑和适用场景，从而影响协作效率与信任。研究可能主张需要发展更贴合AI技术特性的新心智模型，以弥合这一鸿沟。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Jing-Rung Huang, Wen-Hsiang Lu
+👤 Jing Rung Huang, Wen Hsiang Lu
 
 AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
@@ -103,7 +135,9 @@ EN: Progressive Trajectory-Aware Calibration for Human–AI Handoff in Sales Con
 📚 IJHCI · 2026 · 引用 0
 👤 Ahmet Arda Çelik, Kerem Gencer
 
-AI 分: 5.0 / 领域分: 3.0</description>
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://doi.org/10.1080/10447318.2026.2751302</description>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>社会互动</category><category>信任</category><category>计算机中介传播</category><category>对话式 AI</category><category>智能体/Agent</category><category>人机交互</category>
     </item>    <item>
@@ -462,38 +496,6 @@ EN: “I Know” or “I Feel”? The Impact of Generative AI Applications’ Em
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <category>共情</category><category>信任</category><category>人机交互(HCI)</category><category>社会支持</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>儿童与机器人导师互动中的故障：一项纵向研究</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45193</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45193</guid>
-      <description>📝 儿童与机器人导师互动中的故障：一项纵向研究
-EN: Breakdowns in children's interactions with a robotic tutor: A longitudinal study
-
-💡 一项纵向研究考察了儿童与机器人导师互动过程中的“崩溃”现象（即互动中断或失败）。研究追踪了儿童在一段时间内与教育机器人的互动，旨在识别导致互动崩溃的常见原因、模式及其对学习过程和儿童对机器人感知的长期影响。
-
-📚 CHB · 2018 · 引用 74
-👤 Sofia Serholt
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <category>儿童/老人/无障碍</category><category>社交机器人</category><category>人机交互(HCI)</category><category>信任</category><category>社交机器人</category><category>聊天机器人</category>
-    </item>    <item>
-      <title>当人们认为AI可替代共情时，便会卸载自身共情能力</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45130</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45130</guid>
-      <description>📝 当人们认为AI可替代共情时，便会卸载自身共情能力
-EN: People Offload Empathy When They Think AI Can Give It Instead
-
-💡 当人们认为人工智能能够提供共情时，他们会倾向于将共情的责任转移给AI。这项研究探讨了AI作为共情来源的出现，如何改变了人类自身提供情感支持的意愿和行为。核心发现是，对AI共情能力的认知，可能导致人们在社交互动中减少主动共情投入，即产生一种“共情卸载”效应。
-
-📚 CHB · 2026 · 引用 0
-👤 Madhulika Shastry, Kurt J. Gray
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://doi.org/10.1016/j.chb.2026.109240</description>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <category>共情</category><category>社会支持</category><category>情感支持</category><category>人机交互(HCI)</category><category>伦理</category><category>对话式AI</category><category>聊天机器人</category><category>情感计算</category>
     </item>
   </channel>
 </rss>
