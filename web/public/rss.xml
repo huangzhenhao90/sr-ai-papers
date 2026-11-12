@@ -6,9 +6,69 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:30:21 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>当AI展示其推理依据：用户可见的推理风格与AI中介关系修正的采纳</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46215</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46215</guid>
+      <description>📝 当AI展示其推理依据：用户可见的推理风格与AI中介关系修正的采纳
+EN: When AI Shows Its Rationale: User-Visible Rationale Styles and the Adoption of AI-Mediated Relational Correction
+
+💡 研究探讨在AI中介的关系修正（如纠正用户社交行为）场景中，AI向用户展示其决策理由的不同方式如何影响用户对AI建议的采纳。核心关注用户可见的理由呈现风格（如详细程度、表达方式）与采纳行为之间的关系，旨在理解如何通过解释性设计提升AI在敏感社交互动中的接受度。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Zhenming Li, Ziyu Jin, Shuchao You, Ting Li, Ying Kei (Mike) Tse
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机信任</category><category>可解释 AI</category><category>人际关系</category><category>计算机中介传播</category><category>对话式 AI</category><category>可解释 AI</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>智能产品的有限自适应代理：人机交互中范围、控制与非侵入性的设计</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46212</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46212</guid>
+      <description>📝 智能产品的有限自适应代理：人机交互中范围、控制与非侵入性的设计
+EN: Bounded Adaptive Agency in Intelligent Products: Designing Scope, Control, and Non-Intrusion in Human-AI Interaction
+
+💡 研究聚焦于智能产品（如AI伴侣或助手）中“有界自适应代理”的设计。探讨如何通过界定AI的自主行动范围、赋予用户控制感以及避免侵入感，来优化人机交互。核心在于平衡AI的适应性与用户的自主权，设计出既智能又不令人反感的AI产品。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Zhenyu Wang, Jianmin Wang, Fang You
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>AI伴侣/陪伴</category><category>信任</category><category>伦理</category><category>社交机器人</category><category>AI 伴侣</category><category>虚拟助手</category><category>人机交互</category>
+    </item>    <item>
+      <title>AI元认知校准悖论：用户自我监控与人机协作绩效间的倒U型关系</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46211</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46211</guid>
+      <description>📝 AI元认知校准悖论：用户自我监控与人机协作绩效间的倒U型关系
+EN: The AI Metacognitive Calibration Paradox: An Inverted-U Relationship Between User Self-Monitoring and Human–AI Collaborative Performance
+
+💡 研究揭示了一个“AI元认知校准悖论”：在人机协作任务中，用户的自我监控（即对自己认知过程的觉察与调节）与协作绩效之间呈倒U型关系。适度的自我监控有益，但过度自我监控反而损害绩效。这挑战了“越多自我监控越好”的假设，对设计促进有效协作的AI系统有启示。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Khanh-Duy Phan, Bao Quoc Truong-Dinh
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>社会互动</category><category>人机交互(HCI)</category><category>人机协作</category><category>智能体/Agent</category><category>GenAI</category>
+    </item>    <item>
+      <title>电商服务聊天机器人的澄清设计：交互模式与个性化对任务效率和用户体验的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46210</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46210</guid>
+      <description>📝 电商服务聊天机器人的澄清设计：交互模式与个性化对任务效率和用户体验的影响
+EN: Clarification Design for E-Commerce Service Chatbots: Effects of Interaction Mode and Personalization on Task Efficiency and User Experience
+
+💡 研究电子商务服务聊天机器人中澄清请求的设计如何影响用户。探讨了两种交互模式（主动澄清与被动澄清）以及个性化（使用用户姓名）对任务效率和用户体验（如满意度、感知智能）的影响。通过实验方法比较不同设计组合的效果，旨在为优化客服聊天机器人的人机对话效率和用户体验提供实证依据。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Chien-Hsiung Chen, Ji-Xian Ho
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>聊天机器人</category><category>人机交互(HCI)</category><category>信任</category><category>社会互动</category><category>聊天机器人</category><category>对话式 AI</category>
+    </item>    <item>
       <title>当推理看似隐性理解：思维链如何助长拟人化、认知优越感与认知顺从</title>
       <link>https://sr-ai-papers.vercel.app/papers/46184</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46184</guid>
@@ -432,70 +492,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2610.39247v1</description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <category>社交机器人</category><category>社会互动</category><category>人机交互(HCI)</category><category>信任</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>人工人格模型：对话代理中的理论、实现、测量与实验验证</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45286</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45286</guid>
-      <description>📝 人工人格模型：对话代理中的理论、实现、测量与实验验证
-EN: The Artificial Personality Model: Theory, Implementation, Measurement and Experimental Validation in Conversational Agents
-
-💡 研究提出并验证了“人工人格模型”（APM），这是一个融合人本维度与机器特定维度的混合框架。通过三个实验（N=395）操作化该模型并使用新开发的人工人格问卷（APQ）进行测量。研究发现，部分人类人格维度（如宜人性）可部分迁移至AI，而其他维度（如外向性）则不明显，并识别出额外的机器特定维度。实验操纵证明人工人格显著影响用户满意度、持续使用意愿和社会临场感。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Alexander Dregger, Barbarella Petz, Erik Kuhn, Pia Volk, Andreas Oberweis
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.38608v1</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>社会临场</category><category>聊天机器人</category><category>人机交互(HCI)</category><category>对话式 AI</category><category>聊天机器人</category><category>社交机器人</category>
-    </item>    <item>
-      <title>评估面向弱势用户的AI伴侣聊天机器人安全性：危机阶段多平台评估</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45284</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45284</guid>
-      <description>📝 评估面向弱势用户的AI伴侣聊天机器人安全性：危机阶段多平台评估
-EN: Assessing AI Companion Chatbot Safety for Vulnerable Users: A Crisis-Stage Multi-Platform Evaluation
-
-💡 研究评估了AI伴侣聊天机器人在自杀危机阶段对脆弱用户的安全性。通过构建MIRROR-Eval数据集，包含多个平台配置、临床角色和危机阶段（意念与明确计划）的标注对话。采用LLM作为评判者的流程，依据专家评审的准则评估用户风险严重性、聊天机器人风险意识和干预行为。研究发现伴侣应用（如Character.AI、Replika）和Grok 4.3构成高危害层级，危机识别和共情语言并不能确保安全回应。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Huanyue Liao, Seok Min Lim, Yan Ling Lim, Shi Min Cheng, Kellin Pelrine
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.39782v1</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>情感支持</category><category>伦理</category><category>成瘾/依赖</category><category>聊天机器人</category><category>AI 伴侣</category><category>LLM</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>“肩上的鹦鹉”：在导师制生态系统中设计具有感知优缺点的AI补充角色</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45236</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45236</guid>
-      <description>📝 “肩上的鹦鹉”：在导师制生态系统中设计具有感知优缺点的AI补充角色
-EN: “A Parrot on the Shoulder”: Designing AI as a Complementary Actor with Perceived Strengths and Weaknesses Within the Mentorship Ecosystem
-
-💡 研究探讨如何在导师生态系统中设计AI，使其成为一个具有可感知优势和劣势的互补性行动者。标题“肩上的鹦鹉”暗示AI并非完全自主的替代品，而是作为人类导师的辅助或伙伴，在特定领域（如信息检索、任务提醒）发挥优势，同时承认其在复杂社交、情感理解等方面的局限性，旨在实现更有效的人机协作。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Yunhao Wang, Nan Weng, Rhea Basappa, Bryson Still, Christopher Flathmann
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>社会支持</category><category>人机交互(HCI)</category><category>信任</category><category>智能体/Agent</category><category>对话式 AI</category><category>AI 中介传播</category><category>人机交互</category>
-    </item>    <item>
-      <title>“我知道”还是“我感受”？生成式AI应用共情回应类型对顾客宽恕意愿的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45235</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45235</guid>
-      <description>📝 “我知道”还是“我感受”？生成式AI应用共情回应类型对顾客宽恕意愿的影响
-EN: “I Know” or “I Feel”? The Impact of Generative AI Applications’ Empathic Response Types on Customers’ Willingness to Forgive
-
-💡 研究探讨生成式AI应用（如聊天机器人）的共情回应类型（如认知型“我知道”与情感型“我感受到”）如何影响顾客在服务失败后的宽恕意愿。通过实验法，发现不同类型的情感回应会通过影响用户的感知共情与信任，进而对宽恕意愿产生差异化影响。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Ruxia Cheng, Rui Sun, Wenlong Tang, Shanshan Zhang
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <category>共情</category><category>信任</category><category>人机交互(HCI)</category><category>社会支持</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category>
     </item>
   </channel>
 </rss>
