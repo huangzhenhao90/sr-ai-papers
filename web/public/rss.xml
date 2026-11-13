@@ -6,9 +6,24 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:18:38 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>以人为本的护理聊天机器人设计：肯尼亚药房避孕护理的启示</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46333</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46333</guid>
+      <description>📝 以人为本的护理聊天机器人设计：肯尼亚药房避孕护理的启示
+EN: Designing Chatbots for Person-Centered Care: Insights from Contraceptive Care in Kenyan Pharmacies
+
+💡 研究探讨在肯尼亚药店环境中，如何设计聊天机器人以支持青少年及年轻女性（AGYW）的避孕决策。通过与原用户（AGYW）和药店工作人员的共同设计研讨会，呈现聊天机器人原型，探讨其机遇、担忧及理想应用。研究发现，聊天机器人被视为可提供私密、无评判的信息空间，但会转移对药剂师的信任和权威，揭示了在用户、药剂师和机器人之间关于权威、依赖和控制权的紧张关系。据此，研究提出了设计指南，以引导聊天机器人应对社区观念，促进用户与药剂师的共同决策。
+
+📚 PACM-HCI · 2026 · 引用 0
+👤 Lisa Orii, Elizabeth K Harrington, Merceline Awuor, Cellestine Aoko, Krisha Khandelwal
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>社会支持</category><category>信任</category><category>人机交互(HCI)</category><category>伦理</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 治理</category><category>AI 伦理</category>
+    </item>    <item>
       <title>当AI展示其推理依据：用户可见的推理风格与AI中介关系修正的采纳</title>
       <link>https://sr-ai-papers.vercel.app/papers/46215</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46215</guid>
@@ -18,9 +33,11 @@ EN: When AI Shows Its Rationale: User-Visible Rationale Styles and the Adoption 
 💡 研究探讨在AI中介的关系修正（如纠正用户社交行为）场景中，AI向用户展示其决策理由的不同方式如何影响用户对AI建议的采纳。核心关注用户可见的理由呈现风格（如详细程度、表达方式）与采纳行为之间的关系，旨在理解如何通过解释性设计提升AI在敏感社交互动中的接受度。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Zhenming Li, Ziyu Jin, Shuchao You, Ting Li, Ying Kei (Mike) Tse
+👤 Zhenming Li, Ziyu Jin, Shuchao You, Ting Li, Ying Kei Tse
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://orca.cardiff.ac.uk/id/eprint/190560/4/Provisional%20File%20This%20article%20is%20currently%20in%20press.pdf</description>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <category>人机信任</category><category>可解释 AI</category><category>人际关系</category><category>计算机中介传播</category><category>对话式 AI</category><category>可解释 AI</category><category>AI 中介传播</category>
     </item>    <item>
@@ -33,7 +50,7 @@ EN: Bounded Adaptive Agency in Intelligent Products: Designing Scope, Control, a
 💡 研究聚焦于智能产品（如AI伴侣或助手）中“有界自适应代理”的设计。探讨如何通过界定AI的自主行动范围、赋予用户控制感以及避免侵入感，来优化人机交互。核心在于平衡AI的适应性与用户的自主权，设计出既智能又不令人反感的AI产品。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Zhenyu Wang, Jianmin Wang, Fang You
+👤 Jianmin Wang, Zhenyu Wang, Fang You
 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
@@ -48,7 +65,7 @@ EN: The AI Metacognitive Calibration Paradox: An Inverted-U Relationship Between
 💡 研究揭示了一个“AI元认知校准悖论”：在人机协作任务中，用户的自我监控（即对自己认知过程的觉察与调节）与协作绩效之间呈倒U型关系。适度的自我监控有益，但过度自我监控反而损害绩效。这挑战了“越多自我监控越好”的假设，对设计促进有效协作的AI系统有启示。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Khanh-Duy Phan, Bao Quoc Truong-Dinh
+👤 Phan Khanh Duy, Bao Quoc Truong-Dinh
 
 AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
@@ -63,7 +80,7 @@ EN: Clarification Design for E-Commerce Service Chatbots: Effects of Interaction
 💡 研究电子商务服务聊天机器人中澄清请求的设计如何影响用户。探讨了两种交互模式（主动澄清与被动澄清）以及个性化（使用用户姓名）对任务效率和用户体验（如满意度、感知智能）的影响。通过实验方法比较不同设计组合的效果，旨在为优化客服聊天机器人的人机对话效率和用户体验提供实证依据。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Chien-Hsiung Chen, Ji-Xian Ho
+👤 Chien‐Hsiung Chen, Ji-Xian Ho
 
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
@@ -475,23 +492,6 @@ EN: Cue production and evaluative uptake: prompt framing and user judgments in A
 AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>人机交互(HCI)</category><category>AI中介传播</category><category>医疗健康</category><category>GenAI</category><category>LLM</category><category>对话式 AI</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>SocialArena：评估大型语言模型的社会智能</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45288</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45288</guid>
-      <description>📝 SocialArena：评估大型语言模型的社会智能
-EN: SocialArena: Evaluating Social Intelligence in Large Language Models
-
-💡 研究针对大语言模型在社交互动应用中的评估碎片化问题，提出了SocialArena基准。该基准通过一个统一的三层框架（角色扮演能力、心理状态推理、行为推理）定义社交智能，并采用角色扮演对话范式进行评估。为确保评估的多样性和可靠性，研究引入了U-TRIMF框架来合成广泛的社会场景，并投入大量资源进行人工标注，采用竞技场式协议比较模型响应。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Zongqi Wang, Rui Wang, Yuchuan Wu, Hua Yang, Bingxue Qiu
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.39247v1</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <category>社交机器人</category><category>社会互动</category><category>人机交互(HCI)</category><category>信任</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
     </item>
   </channel>
 </rss>
