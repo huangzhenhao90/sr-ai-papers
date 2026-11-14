@@ -6,9 +6,24 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:18:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:48:45 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>探索纠正格式与素养干预作为基于机器人的假新闻纠正边界条件</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46375</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46375</guid>
+      <description>📝 探索纠正格式与素养干预作为基于机器人的假新闻纠正边界条件
+EN: Exploring Correction Format and Literacy Intervention as Boundary Conditions of Bot-Based Fake News Corrections
+
+💡 研究探讨了在聊天机器人进行假新闻纠正时，纠正信息的格式（如叙事式与事实式）和用户的媒介素养干预（如事前培训）如何作为边界条件影响纠正效果。通过实验法，考察这些因素对用户接受纠正、态度改变及分享意图的影响。核心发现是，纠正格式和用户素养水平会显著调节机器人纠正假新闻的有效性，为设计更有效的人机纠错互动提供了依据。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Ruqin Ren, Qian Wu, Jian Xu
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>聊天机器人</category><category>计算机中介传播</category><category>网络心理学</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 中介传播</category>
+    </item>    <item>
       <title>以人为本的护理聊天机器人设计：肯尼亚药房避孕护理的启示</title>
       <link>https://sr-ai-papers.vercel.app/papers/46333</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46333</guid>
@@ -18,9 +33,11 @@ EN: Designing Chatbots for Person-Centered Care: Insights from Contraceptive Car
 💡 研究探讨在肯尼亚药店环境中，如何设计聊天机器人以支持青少年及年轻女性（AGYW）的避孕决策。通过与原用户（AGYW）和药店工作人员的共同设计研讨会，呈现聊天机器人原型，探讨其机遇、担忧及理想应用。研究发现，聊天机器人被视为可提供私密、无评判的信息空间，但会转移对药剂师的信任和权威，揭示了在用户、药剂师和机器人之间关于权威、依赖和控制权的紧张关系。据此，研究提出了设计指南，以引导聊天机器人应对社区观念，促进用户与药剂师的共同决策。
 
 📚 PACM-HCI · 2026 · 引用 0
-👤 Lisa Orii, Elizabeth K Harrington, Merceline Awuor, Cellestine Aoko, Krisha Khandelwal
+👤 Lisa Orii, Elizabeth K. Harrington, Merceline Awuor, Cellestine Aoko, Krisha Khandelwal
 
-AI 分: 4.0 / 领域分: 4.0</description>
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://doi.org/10.1145/3858357</description>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <category>社会支持</category><category>信任</category><category>人机交互(HCI)</category><category>伦理</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 治理</category><category>AI 伦理</category>
     </item>    <item>
@@ -477,21 +494,6 @@ EN: Meeting LLMs for the First Time: Understanding Trust Formation and Adjustmen
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>老年人/无障碍</category><category>人机交互(HCI)</category><category>社会临场</category><category>LLM</category><category>ChatGPT</category><category>对话式 AI</category><category>社交机器人</category>
-    </item>    <item>
-      <title>线索生成与评价采纳：AI中介健康传播中的提示框架与用户判断</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45328</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45328</guid>
-      <description>📝 线索生成与评价采纳：AI中介健康传播中的提示框架与用户判断
-EN: Cue production and evaluative uptake: prompt framing and user judgments in AI-Mediated health communication
-
-💡 研究聚焦于AI中介的健康传播中，提示（prompt）的框架如何影响用户对AI生成内容的评价与判断。核心在于分析用户如何根据AI的“线索生产”（如信息呈现方式）进行“评价性接收”，从而形成对健康信息的可信度与有用性判断。
-
-📚 ICS · 2026 · 引用 0
-👤 Zhan Xu, Hao Guo
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机交互(HCI)</category><category>AI中介传播</category><category>医疗健康</category><category>GenAI</category><category>LLM</category><category>对话式 AI</category><category>可解释 AI</category>
     </item>
   </channel>
 </rss>
