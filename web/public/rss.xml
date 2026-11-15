@@ -6,7 +6,7 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:48:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 08:59:24 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
       <title>探索纠正格式与素养干预作为基于机器人的假新闻纠正边界条件</title>
