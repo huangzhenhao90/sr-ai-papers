@@ -6,9 +6,90 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:27:19 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>MemEmo：记忆系统中的情绪评估</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46668</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46668</guid>
+      <description>📝 MemEmo：记忆系统中的情绪评估
+EN: MemEmo: Evaluating Emotion in Memory Systems
+
+💡 研究关注大型语言模型记忆系统处理情感信息的能力。通过构建包含情感信息提取、更新、问答与冲突检测四个维度的评估基准MemEmo，以及人类相似记忆情感数据集HLME，对五种主流记忆系统进行评估。实验结果显示，所有系统的综合得分最高仅为45%，远低于满分，揭示了当前记忆系统在情感智能方面存在显著差距。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Peng Liu, Zhen Tao, Jihao Zhao, Ding Chen, Yansong Zhang
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.20733v1</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <category>情感计算</category><category>人机交互(HCI)</category><category>AI伴侣/陪伴</category><category>情感支持</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category><category>对话式 AI</category>
+    </item>    <item>
+      <title>有何差异？AI辅助自我诊断中的语音设计与确认偏误：拟人化与机器化语音输出</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46666</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46666</guid>
+      <description>📝 有何差异？AI辅助自我诊断中的语音设计与确认偏误：拟人化与机器化语音输出
+EN: What's the Difference? Voice Design and Confirmation Bias in AI-Assisted Self-Diagnosis: Anthropomorphic vs. Machine-Like Voice Output
+
+💡 研究探讨AI症状检查器的语音设计（拟人化 vs. 机器化）是否影响用户在自我诊断中的确认偏误。通过一项被试内在线实验发现，当AI建议与用户初始诊断矛盾时，用户更改诊断的比例远高于建议一致时，且信心变化和决策时间也呈现显著差异。然而，语音设计类型（拟人化或机器化）并未显著调节这种AI影响效应。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Niklas Roethlingshoefer, Emma Winkler, Melanie Loeffler, Emely Rosbach
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.21379v1</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>拟人化</category><category>人机信任</category><category>AI治疗师</category><category>对话式 AI</category><category>语音助手</category><category>情感识别</category><category>AI 中介传播</category>
+    </item>    <item>
+      <title>从伴侣到守护者：为老年人设计基于四足机器人的紧急支持系统</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46665</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46665</guid>
+      <description>📝 从伴侣到守护者：为老年人设计基于四足机器人的紧急支持系统
+EN: From Companion to Guardian: Designing an Emergency Support System Using a Quadruped Robot for Older Adults
+
+💡 针对独居老年人，研究设计并实现了一个结合日常陪伴与紧急响应的四足机器人系统。该系统采用包含陪伴、危险感知和紧急模式的三阶段交互模型，通过基于规则的升级策略，综合视觉和语音输入来评估风险等级，并动态调整等待用户确认安全的时间。自动化与物理测试验证了决策规则和响应时间的有效性，系统能在未获确认时进入紧急模式。
+
+📚 arXiv:cs.RO · 2026 · 引用 0
+👤 Chunyang Meng, Eduardo B. Sandoval, Josh Andres, Francisco Cruz, Mari Velonaki
+
+AI 分: 4.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.19932v1</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>社会支持</category><category>儿童/老人/无障碍</category><category>社交机器人</category><category>社交机器人</category><category>多模态</category><category>智能体/Agent</category><category>人机交互</category>
+    </item>    <item>
+      <title>战术层面解释不足：解释自动驾驶车辆换道决策对驾驶员决策、信任与情绪体验的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46625</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46625</guid>
+      <description>📝 战术层面解释不足：解释自动驾驶车辆换道决策对驾驶员决策、信任与情绪体验的影响
+EN: Tactical-Level Explanation is Not Enough: Effect of Explaining AV’s Lane-Changing Decisions on Drivers’ Decision-Making, Trust, and Emotional Experience
+
+💡 研究考察了自动驾驶汽车（AV）在变道时，仅提供战术层面的决策解释（如“前方有慢车”）是否足够。通过实验方法，测量了不同详细程度的解释对驾驶员决策、对AV的信任以及情绪体验（如焦虑、安心）的影响。核心发现可能指出，简单的战术解释不足以建立或维持驾驶员的高水平信任和积极情绪，暗示需要更全面或战略层面的沟通。
+
+📚 IJHCI · 2022 · 引用 26
+👤 Yiwen Zhang, Wenjia Wang, Xinyan Zhou, Qi Wang, Xiaohua Sun
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机信任</category><category>社会临场</category><category>伦理</category><category>可解释 AI</category><category>AI 治理</category><category>人机交互</category>
+    </item>    <item>
+      <title>解读动态社交场景中的情绪：视频多模态生成式人工智能的社会认知识别</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46598</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46598</guid>
+      <description>📝 解读动态社交场景中的情绪：视频多模态生成式人工智能的社会认知识别
+EN: Reading emotions in dynamic social scenes: social-cognitive recognition by video-capable multimodal generative artificial intelligence (AI)
+
+💡 研究探讨了具备视频处理能力的多模态生成式人工智能（AI）在识别动态社交场景中情绪的能力。通过评估AI对视频中社会认知线索（如面部表情、肢体语言、情境互动）的解读，考察其社会情绪识别的准确性与局限性。核心发现可能涉及AI在复杂、流动的人际互动背景下面临的挑战，以及多模态生成技术在此类高级认知任务上的潜力与不足。
+
+📚 CHB · 2026 · 引用 0
+👤 Gunther Meinlschmidt, Andrii Boiko, Gilles von Steiger, Rainer Schaefert, Hadar Dery
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <category>情感识别</category><category>社会互动</category><category>共情</category><category>拟人化</category><category>GenAI</category><category>多模态</category><category>情感计算</category>
+    </item>    <item>
       <title>缓解面试压力：机器人角色与反应性反馈对高压模拟面试的影响</title>
       <link>https://sr-ai-papers.vercel.app/papers/46581</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46581</guid>
@@ -417,85 +498,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://doi.org/10.1145/3831287</description>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <category>AI治疗师</category><category>心理健康/污名化</category><category>信任</category><category>社会临场</category><category>自我表露</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category>
-    </item>    <item>
-      <title>大型语言模型能否将其代理能力扩展至开放式多轮交互中的目标追求？</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45508</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45508</guid>
-      <description>📝 大型语言模型能否将其代理能力扩展至开放式多轮交互中的目标追求？
-EN: Can Large Language Models Extend Their Agentic Capabilities to Goal Pursuit in Open-Ended Multi-Turn Interaction?
-
-💡 研究探讨大型语言模型在开放式多轮对话中追求社会目标的能力。通过将对话行动定义为工具调用，构建了无需训练的“工具中介交互”协议。在社交互动、情感支持等任务上的评估表明，该方法相比常规对话基线，能更有效地达成目标、提升互动质量，同时大幅减少推理开销和内容重复。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Mingyu Chen, Jingkai Lin, Xiaofen Xing, Liankai Huang, Ruiqi Xiong
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.01552v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>社会互动</category><category>情感支持</category><category>信任</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>智能体/Agent</category>
-    </item>    <item>
-      <title>通过AI实现自我扩展：AI陪伴与幸福感结果的潜在剖面分析</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45506</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45506</guid>
-      <description>📝 通过AI实现自我扩展：AI陪伴与幸福感结果的潜在剖面分析
-EN: Self-Expansion Through AI: Latent Profile Analysis of AI Companionship and Wellbeing Outcomes
-
-💡 研究采用以人为中心的方法，对467名活跃的对话AI用户进行潜在剖面分析，识别出五种人机关系类型，从工具化利用到亲密联结。研究发现，功利动机与伴侣式参与可以共存，深度陪伴无需用户赋予AI心智。关系剖面与关系需求满足度强相关，但与孤独感关联较弱，表明AI能满足即时关系需求，但未必能解决系统性的人际疏离。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Ali Sahandi, Jaime Banks
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.00436v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>人际关系</category><category>亲密关系</category><category>孤独感</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category><category>情感计算</category>
-    </item>    <item>
-      <title>“我分享你的情绪”——Facebook帖子情绪与分享行为的纵向研究</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45469</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45469</guid>
-      <description>📝 “我分享你的情绪”——Facebook帖子情绪与分享行为的纵向研究
-EN: “I Share Your Sentiment”—A Longitudinal Study of Facebook Post Sentiment and Sharing
-
-💡 研究分析了挪威主要政党十年间在Facebook上发布内容的情绪（积极、消极、中性）及其与分享行为的关系。结合大语言模型与人工标注的方法发现，虽然积极情绪仍占主导，但消极情绪随时间增加，尤其在挑战者和左翼政党中。总体而言，消极帖子获得更多分享，但这种优势随时间减弱，暗示了策略适应和可能的受众疲劳。
-
-📚 SMS · 2026 · 引用 0
-👤 Anders Olof Larsson
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>社交媒体</category><category>计算机中介传播</category><category>网络心理学</category><category>伦理</category><category>LLM</category><category>GenAI</category><category>情感识别</category><category>推荐算法</category>
-    </item>    <item>
-      <title>歌词中的爱情</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45396</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45396</guid>
-      <description>📝 歌词中的爱情
-EN: Love in Lyrics
-
-💡 数字文本交流限制了浪漫关系中表达爱意的非语言线索。研究开发了交互系统Lily，在伴侣聊天时实时分析用户输入并推荐含义相近的浪漫歌词，以丰富其情感表达。一项为期三天的实证研究表明，真实情侣用户不仅从Lily获得了润色爱意表达的有用线索，还学会了通过其推荐启发新话题来丰富对话。研究结果为这类应用的实际部署提供了设计考量。
-
-📚 PACM-HCI · 2019 · 引用 26
-👤 Taewook Kim, Jung Soo Lee, Zhenhui Peng, Xiaojuan Ma
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <category>浪漫关系</category><category>情感支持</category><category>亲密关系</category><category>计算机中介传播</category><category>对话式AI</category><category>推荐算法</category><category>人机协作</category>
-    </item>    <item>
-      <title>感觉如同数字：AI忽视独特性如何削弱在线医疗咨询的用户接受度</title>
-      <link>https://sr-ai-papers.vercel.app/papers/45334</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/45334</guid>
-      <description>📝 感觉如同数字：AI忽视独特性如何削弱在线医疗咨询的用户接受度
-EN: Feeling Like a Number: How AI’s Neglect of Uniqueness Undermines User Acceptance in Online Medical Consultations
-
-💡 研究探讨在在线医疗咨询中，AI系统忽视用户独特性（如个体差异、具体病情）如何影响用户对AI的接受度。核心发现是，当AI提供的建议或互动显得标准化、缺乏个性化时，会削弱用户的感知价值与信任，从而降低其使用意愿。
-
-📚 IJHCI · 2026 · 引用 0
-👤 L. Z. Liao, Xia Hou, Chaohong Shen, Haotian Liu
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机交互(HCI)</category><category>社会支持</category><category>医疗健康</category><category>对话式 AI</category><category>AI 中介传播</category><category>推荐算法</category>
     </item>
   </channel>
 </rss>
