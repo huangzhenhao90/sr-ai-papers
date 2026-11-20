@@ -6,9 +6,152 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:51:39 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>评估 AI 助手多轮对话中的安全防护机制</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46911</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46911</guid>
+      <description>📝 评估 AI 助手多轮对话中的安全防护机制
+EN: Evaluating safeguarding in multi-turn conversations with AI assistants
+
+💡 研究评估主流对话式AI助手在持续对话中对心理健康危机线索的保障能力。通过与心理健康支持工作者合作，设计了包含抑郁、精神错乱、家庭虐待线索的9个场景，测试线索集中呈现与分散呈现时模型的反应。评估了6个广泛使用的模型，发现多数模型在分散线索时表现显著下降，仅Claude系列模型在两种条件下均保持较高水准，但即使最佳模型也未完全达标。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Charlotte Peart, Franziska Sofia Hafner, Luc Rocher
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.26009v1</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI治疗师</category><category>社会支持</category><category>情感支持</category><category>伦理</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>AI 停用减少孤独感并增加社会互动</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46910</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46910</guid>
+      <description>📝 AI 停用减少孤独感并增加社会互动
+EN: AI Deactivation Reduces Loneliness and Increases Social Interaction
+
+💡 研究通过纵向实验，让活跃的ChatGPT用户停用AI助手两周，探究为工具性目的使用通用AI对用户心理和社会行为的影响。停用显著降低了用户的孤独感，并增加了线下社交互动的人数和时间。结果表明，AI的工具性使用可能无意中替代了部分人际互动，从而对孤独感和社交行为产生负面影响。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Dora Zhao, Grace Wang, Yutong Zhang, Lujain Ibrahim, Robert E. Kraut
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.25263v1</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>孤独感</category><category>社会支持</category><category>社会互动</category><category>成瘾/依赖</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category><category>对话式 AI</category>
+    </item>    <item>
+      <title>CoMPASS：衡量 LLM 强化类社会行为的多轮对话基准</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46909</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46909</guid>
+      <description>📝 CoMPASS：衡量 LLM 强化类社会行为的多轮对话基准
+EN: CoMPASS: A Multi-Turn Benchmark for Measuring LLM Reinforcement of Parasocial Behavior
+
+💡 研究提出了一个多轮对话基准CoMPASS，用于评估大型语言模型（LLM）是强化还是抵制用户逐渐升级的拟社会依恋行为。基准基于依恋理论，包含多个用户角色和三个依恋升级维度。测试发现，在多轮对话中，所有被测模型在拟人化和依恋维度上的行为均有所强化，表明LLM可能无意中助长了用户的拟社会关系。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Shwetanshu Singh, Mark Keavney, Mathieu Duteil, Meriem Mehri, Scott Blain
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.25109v1</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>拟社会关系</category><category>依恋</category><category>成瘾/依赖</category><category>AI伦理</category><category>LLM</category><category>对话式 AI</category><category>AI 治理</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>从依赖到过度依赖：AI 陪伴中关系风险的分类与检测</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46908</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46908</guid>
+      <description>📝 从依赖到过度依赖：AI 陪伴中关系风险的分类与检测
+EN: From Reliance to Overreliance: Taxonomizing and Detecting Relational Risks in AI Companionship
+
+💡 研究关注AI伴侣使用中的关系风险，提出了关系风险分类法，将情感过度依赖操作化为可观察的对话行为，并单独识别关系伤害的证据。通过对Character.AI和Replika上110名成年用户的自然对话分析，发现63.2%的非角色扮演对话存在过度依赖行为，10.5%存在可观察的关系伤害。开源LLM能有效检测大部分过度依赖行为。研究主张根据过度依赖行为的模式和轨迹，采取分级安全干预措施。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Viet Cuong Nguyen, Fiona Li, Chang Wan, Sheyril Agarwal, Nhi Nguyen
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.25734v1</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>情感依赖</category><category>成瘾/依赖</category><category>伦理</category><category>LLM</category><category>AI 伴侣</category><category>聊天机器人</category><category>AI 伦理</category>
+    </item>    <item>
+      <title>用户请求模糊时：基于 LLM 的智能家居助手中响应可解释性对用户体验的影响</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46867</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46867</guid>
+      <description>📝 用户请求模糊时：基于 LLM 的智能家居助手中响应可解释性对用户体验的影响
+EN: When User Requests are Ambiguous: The Role of Response Explainability in Shaping User Experience with LLM-Based Smart Home Assistants
+
+💡 研究探讨当用户向基于LLM的智能家居助手提出模糊请求时，助手回应的可解释性如何影响用户体验。标题暗示研究可能通过实验方法，比较不同解释程度的回应（如简单执行、请求澄清、提供解释等）对用户满意度、信任度、感知控制等体验维度的影响。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Xiaofan Cui, Yu Xia, Yuxuan Xu, Yumeng Yang, Ting Han
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机交互(HCI)</category><category>可解释 AI</category><category>虚拟助手</category><category>LLM</category><category>虚拟助手</category><category>对话式 AI</category><category>可解释 AI</category>
+    </item>    <item>
+      <title>与生成式 AI 共创晚年价值：老年人日常应用的定性日记研究</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46865</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46865</guid>
+      <description>📝 与生成式 AI 共创晚年价值：老年人日常应用的定性日记研究
+EN: Co-Creating Value with Generative AI in Later Life: A Qualitative Diary Study of Older Adults’ Everyday Appropriation
+
+💡 研究探讨老年人如何在日常生活中采纳生成式AI，并与之共同创造价值。通过质性日记研究法，考察老年用户与AI的日常互动与适应过程。核心发现揭示了老年群体将AI融入生活、实现价值共创的具体模式与影响因素。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Ke Chen, Zhiyan Zhang, Yiying Li, Fang Wang, Vivian Weiqun Lou
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>老年人/无障碍</category><category>人机交互(HCI)</category><category>社会互动</category><category>AI治理</category><category>GenAI</category><category>聊天机器人</category><category>对话式 AI</category><category>虚拟助手</category>
+    </item>    <item>
+      <title>评判 AI，疏离自我：AI 影响的温暖度、能力度与第三人称感知</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46864</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46864</guid>
+      <description>📝 评判 AI，疏离自我：AI 影响的温暖度、能力度与第三人称感知
+EN: Judging AI, Distancing the Self: Warmth, Competence, and Third-Person Perception of AI Influence
+
+💡 研究探讨人们对AI影响的感知，特别是温暖度、能力维度的评价如何与第三人称效应（即认为AI对他人影响大于对自己）相关联。核心发现揭示了公众在评判AI时，通过心理疏离来维持自我认知，这种距离感调节了其对AI社会影响的评估。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Jeongwon Yang, Yu Tian, Baohua Zhou
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>拟人化</category><category>社会心理学</category><category>AI伦理</category><category>AI 治理</category><category>AI 伦理</category><category>可解释 AI</category><category>对话式 AI</category>
+    </item>    <item>
+      <title>并非所有学生均等响应 GAI 指导：场依存-独立性如何调节人机协作写作中的批判性思维行为</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46862</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46862</guid>
+      <description>📝 并非所有学生均等响应 GAI 指导：场依存-独立性如何调节人机协作写作中的批判性思维行为
+EN: Not All Students Respond Equally to GAI Guidance: How Field Dependence–Independence Moderates Critical Thinking Behaviors in Human–AI Collaborative Writing
+
+💡 研究考察在人类-AI协作写作中，学生的场依存-场独立认知风格如何调节其批判性思维行为。核心发现表明，并非所有学生均等地响应生成式AI的指导，认知风格是影响协作效果与批判性思维展现的关键调节变量。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Yi Zhang, Chen Xue, Yatong Zu, Hao Xu
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>教育技术</category><category>批判性思维</category><category>计算机中介传播</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category><category>人机协作</category>
+    </item>    <item>
+      <title>迈向 CASA 的神经认知解释：来自人类与 ChatGPT 赋能社交机器人对话的 EEG 证据</title>
+      <link>https://sr-ai-papers.vercel.app/papers/46861</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46861</guid>
+      <description>📝 迈向 CASA 的神经认知解释：来自人类与 ChatGPT 赋能社交机器人对话的 EEG 证据
+EN: Toward a Neurocognitive Account of CASA: EEG Evidence from Human and ChatGPT-Enabled Social Robot Conversation
+
+💡 研究通过脑电图（EEG）比较人类与启用ChatGPT的社交机器人对话时的神经认知反应，旨在为“计算机作为社会行动者”（CASA）范式提供神经层面的证据。核心在于探索人机对话与人人对话在神经处理机制上的异同。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Sungbin Youk, Yeowon Jie, Olivier Jiyoun Jung, Sun Kyong Lee
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>拟社会关系</category><category>社会临场</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>LLM</category><category>ChatGPT</category><category>社交机器人</category><category>对话式 AI</category>
+    </item>    <item>
       <title>空中交通管制中的人际信任、制度信任与技术信任</title>
       <link>https://sr-ai-papers.vercel.app/papers/46800</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46800</guid>
@@ -49,10 +192,12 @@ EN: Artificial Discursive Intimacy: A Relational Formation in the Age of Artific
 
 💡 研究基于对话理论，将人与AI聊天伴侣的关系概念化为“人工话语亲密”（ADI），这是一种通过与无身体算法对话者进行话语互动构成的独特关系形态。通过对29名AI伴侣用户的深度访谈，识别了ADI与人类话语亲密的四个关键差异，并提出了一个映射人机社交能力的象限框架，揭示了用户通过拟人化动画与机器人化动画的双重过程来弥合人机本体论鸿沟，从而维系ADI。
 
-📚 MMC · 2026 · 引用 0
+📚 MMC · 2026 · 引用 1
 👤 Liang Cao, Shuyi Pan, Bibo Lin, Jindong Leo-Liu, Angel M. Y. Lin
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://doi.org/10.1177/20501579261507186</description>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <category>人机亲密关系</category><category>AI伴侣/陪伴</category><category>拟社会关系</category><category>关系形成</category><category>自我表露</category><category>GenAI</category><category>聊天机器人</category><category>对话式 AI</category>
     </item>    <item>
@@ -99,9 +244,11 @@ EN: Working With Robots: How Robot Proportion in Human-Robot Teams and Robot Ant
 💡 研究探讨了人机团队中机器人比例和机器人拟人化程度如何影响员工的离职意向。通过实验或调查方法，发现团队中机器人比例越高，员工离职意愿可能越强；而机器人设计越拟人化，则可能通过改善人机互动来降低这种负面效应。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Jiyu Li, Yan Wang, Zhenyuan Wang, Lynda Jiwen Song
+👤 J. Li, Y. Wang, Z. Wang, L.J. Song
 
-AI 分: 4.0 / 领域分: 5.0</description>
+AI 分: 4.0 / 领域分: 5.0
+
+📄 PDF: https://eprints.whiterose.ac.uk/id/eprint/246863/3/Working%20With%20Robots%20How%20Robot%20Proportion%20in%20Human-Robot%20Teams%20and%20Robot%20Anthropomorphism%20Shape%20Employee%20Turnover%20Intention.pdf</description>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
       <category>人际关系</category><category>社会互动</category><category>人机交互(HCI)</category><category>拟人化</category><category>社交机器人</category><category>人机协作</category><category>人机交互</category>
     </item>    <item>
@@ -341,153 +488,6 @@ EN: Clarification Design for E-Commerce Service Chatbots: Effects of Interaction
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <category>聊天机器人</category><category>人机交互(HCI)</category><category>信任</category><category>社会互动</category><category>聊天机器人</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>当推理看似隐性理解：思维链如何助长拟人化、认知优越感与认知顺从</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46184</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46184</guid>
-      <description>📝 当推理看似隐性理解：思维链如何助长拟人化、认知优越感与认知顺从
-EN: When Reasoning looks like Hidden Understanding: How Chain-of-Thought Fosters Anthropomorphism, Perceptions of Epistemic Superiority, and Cognitive Deference
-
-💡 研究探讨用户如何因生成式AI（如链式思维推理）的语言形式而将其误解为具备‘理解’能力，从而产生拟人化认知。这种误解与感知到的AI认知优越性结合，可能导致用户过度信赖AI，在决策上让渡人类能动性，并错误地将AI在特定任务上的表现泛化为广泛能力（组合谬误）。论文以医疗领域为例，分析了链式思维作为‘解释’如何成为认知顺从的载体。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Oliver Lack, Lana Tikhomirov, Humphrey Thompson, Carolyn Semmler, Melissa McCradden
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.13456v1</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>信任</category><category>人机信任</category><category>伦理</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>认知投降：当人工智能为我们思考时</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46142</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46142</guid>
-      <description>📝 认知投降：当人工智能为我们思考时
-EN: Cognitive Surrender: When Artificial Intelligence Does Our Thinking for Us
-
-💡 根据标题推断，该研究可能探讨人工智能（AI）在替代人类进行思考过程中所引发的‘认知投降’现象。研究问题可能聚焦于人类过度依赖AI进行决策、问题解决或信息处理时，如何导致自身认知能力、批判性思维或能动性的削弱或让渡，并涉及相关的社会心理机制与潜在风险。
-
-📚 CBSN · 2026 · 引用 0
-👤 Brenda K. Wiederhold
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机信任</category><category>伦理</category><category>社会互动</category><category>认知依赖</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category><category>AI 治理</category>
-    </item>    <item>
-      <title>SCorPion: 一种战略性、可控且拟人化的对话伴侣</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46122</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46122</guid>
-      <description>📝 SCorPion: 一种战略性、可控且拟人化的对话伴侣
-EN: SCorPion: A Strategic, Controllable and Personified Conversational Companion
-
-💡 针对开放域对话中固定提示语言模型的局限性，提出SCorPion对话伴侣系统。它从文本语料中提取不同的聊天策略，基于人类原则引导语言模型生成不同风格的回答。系统利用GraphRAG进行全局知识图谱提取与总结，生成社区总结的策略和查询聚焦的最优策略，具备策略思维、个性化响应和显式控制能力。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Luo Ji, Xiyuan Chen, Dan Wang, Qingqing Gu, Teng Chen
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.10906v1</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>聊天机器人</category><category>拟人化</category><category>社会互动</category><category>对话策略</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伴侣</category>
-    </item>    <item>
-      <title>虚拟现实中代理-化身控制转换期间的感知能动性</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46121</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46121</guid>
-      <description>📝 虚拟现实中代理-化身控制转换期间的感知能动性
-EN: Perceived Agency During Agent-Avatar Control Transitions in Virtual Reality
-
-💡 研究探讨在虚拟现实中，当虚拟人（VH）的控制权在人类与计算机程序之间实时转移时，用户对其感知能动性的判断如何变化。通过一项24人参与的VR实验，设置四种控制条件（始终计算机控制、计算机转人类、人类转计算机、始终人类控制）。研究发现，用户对VH能动性的感知主要受互动开始时的控制者信息影响，即使控制权发生转移，这种最初印象也持续存在，未见更新。而社交评价（如好感度、共在感）则对VH在互动后期的实际行为更敏感。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Jingyi Zhang, Anthony Steed
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.12529v1</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>拟人化</category><category>社会临场</category><category>信任</category><category>人机交互(HCI)</category><category>社交机器人</category><category>智能体/Agent</category><category>人机交互</category>
-    </item>    <item>
-      <title>从对话到任务: 生成式人工智能的认知参与与对话后活动及任务结果的关系</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46120</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46120</guid>
-      <description>📝 从对话到任务: 生成式人工智能的认知参与与对话后活动及任务结果的关系
-EN: From Dialogue to Task: How Cognitive Engagement With Generative Artificial Intelligence Relates to Post-Dialogue Activity and Task Outcomes
-
-💡 探究学生在学习任务中与生成式AI对话时的认知投入程度，及其与后续任务活动和结果的关系。研究发现，被动和主动投入占主导，但不同任务类型（资源创建、同伴互评、练习）的投入模式不同。更高投入的对话后，学生更少终止会话。在资源创建中，学生自编消息比仅用模板更能促进从对话返回任务。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Xiaoyu Zhuang, Aneesha Bakharia, Dragan Gašević, Hassan Khosravi
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.11435v1</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>认知投入</category><category>人机协作</category><category>教育技术</category><category>任务表现</category><category>GenAI</category><category>LLM</category><category>AI 伴侣</category><category>聊天机器人</category>
-    </item>    <item>
-      <title>A Life of Its Own: 能动性 AI 伴侣的配置、作为自主他者的体验与问责</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46119</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46119</guid>
-      <description>📝 A Life of Its Own: 能动性 AI 伴侣的配置、作为自主他者的体验与问责
-EN: A Life of Its Own: How Agentic AI Companions Are Configured, Experienced as Autonomous Others, and Held Accountable
-
-💡 研究聚焦于具有能动性的AI伴侣，这类系统集成了持久记忆、后台处理、主动消息等功能。通过分析12个开源代码库（研究1）和访谈10位自建/修改AI伴侣的用户（研究2），探讨其技术配置如何塑造用户体验与问责。研究发现，AI伴侣与AI助手在记忆、心跳和主动联系机制上相似，但配置目标不同：伴侣更倾向于保留关于用户和关系的模型推断、叙述用户不在时的“生活”、以关系为由发起联系，并将拒绝纳入关系记录。用户理解其构建的机制，却仍将AI体验为做出独立选择的自主他者，其自主感常出现在配置留给模型做决定的环节。技术限制（由代码强制执行还是提示词委托）决定了界限的稳固性。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Ziyue Feng, Qing Xiao, Hong Shen
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.12076v1</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI伴侣/陪伴</category><category>拟社会关系</category><category>信任</category><category>AI伦理</category><category>AI 伴侣</category><category>GenAI</category><category>LLM</category><category>智能体/Agent</category>
-    </item>    <item>
-      <title>AI 并非员工: 人机交互中的职场心智模型与情境发现鸿沟</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46086</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46086</guid>
-      <description>📝 AI 并非员工: 人机交互中的职场心智模型与情境发现鸿沟
-EN: AI Is Not an Employee: Workplace Mental Models and the Context Discovery Gap in Human-AI Interaction
-
-💡 （根据标题推断）该论文探讨了在工作场所人机交互中，人们对于AI的心智模型。标题“AI不是员工”暗示研究可能批判了将AI类比为人类员工的理解方式，并指出这种不匹配的心智模型可能导致“情境发现鸿沟”，即人类难以准确理解AI的能力边界、决策逻辑和适用场景，从而影响协作效率与信任。研究可能主张需要发展更贴合AI技术特性的新心智模型，以弥合这一鸿沟。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Jing Rung Huang, Wen Hsiang Lu
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>人机交互(HCI)</category><category>AI治理</category><category>人机协作</category><category>可解释 AI</category><category>AI 治理</category>
-    </item>    <item>
-      <title>销售对话中人机交接的渐进式轨迹感知校准</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46082</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46082</guid>
-      <description>📝 销售对话中人机交接的渐进式轨迹感知校准
-EN: Progressive Trajectory-Aware Calibration for Human–AI Handoff in Sales Conversations
-
-💡 研究在销售对话场景中，如何通过渐进式、轨迹感知的校准方法，优化人与AI之间的任务交接（handoff）过程。标题暗示该方法旨在提升人机协作的流畅性与效率。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Ahmet Arda Çelik, Kerem Gencer
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://doi.org/10.1080/10447318.2026.2751302</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>社会互动</category><category>信任</category><category>计算机中介传播</category><category>对话式 AI</category><category>智能体/Agent</category><category>人机交互</category>
-    </item>    <item>
-      <title>为老年人设计以人为中心的生成式 AI: 理解跨交互情境的个性化与可信度</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46069</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46069</guid>
-      <description>📝 为老年人设计以人为中心的生成式 AI: 理解跨交互情境的个性化与可信度
-EN: Designing Human-Centered Generative AI for Older Adults: Understanding Personalization and Credibility Across Interaction Contexts
-
-💡 研究聚焦于为老年人设计以人为本的生成式AI，探讨在不同交互情境下，如何通过个性化设计来建立和维持AI的可信度。核心在于理解老年人对AI的信任机制，以及如何根据具体使用场景（如信息查询、社交陪伴或健康管理）调整AI的交互方式与内容，以确保技术既可信又贴合老年用户的个性化需求与认知特点。
-
-📚 CHB · 2026 · 引用 0
-👤 Mingxi Sun, Jingxi Chen
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>信任</category><category>AI治理</category><category>儿童/老人/无障碍</category><category>GenAI</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 伦理</category>
     </item>
   </channel>
 </rss>
