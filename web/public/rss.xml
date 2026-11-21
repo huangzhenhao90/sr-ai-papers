@@ -6,7 +6,7 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 09:51:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:25:03 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
       <title>评估 AI 助手多轮对话中的安全防护机制</title>
