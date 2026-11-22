@@ -6,7 +6,7 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 09:25:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:32:46 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
       <title>评估 AI 助手多轮对话中的安全防护机制</title>
@@ -101,7 +101,7 @@ EN: Co-Creating Value with Generative AI in Later Life: A Qualitative Diary Stud
 💡 研究探讨老年人如何在日常生活中采纳生成式AI，并与之共同创造价值。通过质性日记研究法，考察老年用户与AI的日常互动与适应过程。核心发现揭示了老年群体将AI融入生活、实现价值共创的具体模式与影响因素。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Ke Chen, Zhiyan Zhang, Yiying Li, Fang Wang, Vivian Weiqun Lou
+👤 Ke Chen, Zhiyan Zhang, Yiying Li, Fang Wang, VIVIAN W. Q. LOU
 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
@@ -131,7 +131,7 @@ EN: Not All Students Respond Equally to GAI Guidance: How Field Dependence–Ind
 💡 研究考察在人类-AI协作写作中，学生的场依存-场独立认知风格如何调节其批判性思维行为。核心发现表明，并非所有学生均等地响应生成式AI的指导，认知风格是影响协作效果与批判性思维展现的关键调节变量。
 
 📚 IJHCI · 2026 · 引用 0
-👤 Yi Zhang, Chen Xue, Yatong Zu, Hao Xu
+👤 Yi Zhang, Chen Xue, Yatong ZU, Hao Xu
 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
