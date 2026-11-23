@@ -6,9 +6,56 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 09:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:30:28 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>增加一个智能体：AI 团队规模与构成如何影响人机头脑风暴团队的生产力与多样性</title>
+      <link>https://sr-ai-papers.vercel.app/papers/47101</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/47101</guid>
+      <description>📝 增加一个智能体：AI 团队规模与构成如何影响人机头脑风暴团队的生产力与多样性
+EN: Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams
+
+💡 研究探讨了在人类-AI头脑风暴团队中，AI伙伴的数量（一个vs两个）和行为模式（校准为平均人类行为vs由参与者定制）如何影响生产力和想法多样性。实验发现，两个AI的房间产生了更多想法，但人类贡献的想法大幅减少。单个AI时，行为模式影响显著；两个AI时此效应消失。AI的存在增加了人类想法整体的多样性，但只有第二个AI增加了会话内的差异化。AI伙伴的数量和形成方式重塑了人类的贡献。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Rong-Ching Chang, Hao-Chuan Wang
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.26663v1</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>社会互动</category><category>人际关系</category><category>信任</category><category>GenAI</category><category>LLM</category><category>智能体/Agent</category><category>人机协作</category>
+    </item>    <item>
+      <title>人行道设计促进人机共存：空间分隔如何影响公众对移动机器人的接受度</title>
+      <link>https://sr-ai-papers.vercel.app/papers/47091</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/47091</guid>
+      <description>📝 人行道设计促进人机共存：空间分隔如何影响公众对移动机器人的接受度
+EN: Designing Sidewalks for Human-Robot Coexistence: How Spatial Separation Affects Pedestrian Acceptance of Public Mobile Robots
+
+💡 研究探讨了公共空间中行人与移动机器人共存的设计问题，特别是空间分隔如何影响行人对机器人的接受度。通过设计人行道等物理环境，考察不同空间布局对行人心理接受和行为反应的影响，旨在为人机和谐共处提供设计依据。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Suhwan Jung, Young Woo Kim, Kyuho Maeng, Jieun Lee, Tram Thi Minh Tran
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <category>社会互动</category><category>人机交互(HCI)</category><category>社会临场</category><category>信任</category><category>社交机器人</category><category>人机交互</category>
+    </item>    <item>
+      <title>AI 语音助手使用与幸福感：通过连接感与感知孤独的条件路径</title>
+      <link>https://sr-ai-papers.vercel.app/papers/47090</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/47090</guid>
+      <description>📝 AI 语音助手使用与幸福感：通过连接感与感知孤独的条件路径
+EN: AI Speaker Use and Happiness: Conditional Pathways Through Connectedness and Perceived Isolation
+
+💡 研究探索了智能音箱使用与幸福感之间的关系，并检验了连接感和感知孤独感在其中可能起到的条件性中介作用。通过考察用户与AI设备的互动，分析其如何通过影响社会心理状态（如孤独感与连接感）进而影响主观幸福感。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Mi Yeon Choi
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <category>孤独感</category><category>社会支持</category><category>情感连接</category><category>人机交互(HCI)</category><category>语音助手</category><category>对话式 AI</category><category>AI 伴侣</category>
+    </item>    <item>
       <title>评估 AI 助手多轮对话中的安全防护机制</title>
       <link>https://sr-ai-papers.vercel.app/papers/46911</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46911</guid>
@@ -443,51 +490,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://orca.cardiff.ac.uk/id/eprint/190560/4/Provisional%20File%20This%20article%20is%20currently%20in%20press.pdf</description>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <category>人机信任</category><category>可解释 AI</category><category>人际关系</category><category>计算机中介传播</category><category>对话式 AI</category><category>可解释 AI</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>智能产品的有限自适应代理：人机交互中范围、控制与非侵入性的设计</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46212</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46212</guid>
-      <description>📝 智能产品的有限自适应代理：人机交互中范围、控制与非侵入性的设计
-EN: Bounded Adaptive Agency in Intelligent Products: Designing Scope, Control, and Non-Intrusion in Human-AI Interaction
-
-💡 研究聚焦于智能产品（如AI伴侣或助手）中“有界自适应代理”的设计。探讨如何通过界定AI的自主行动范围、赋予用户控制感以及避免侵入感，来优化人机交互。核心在于平衡AI的适应性与用户的自主权，设计出既智能又不令人反感的AI产品。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Jianmin Wang, Zhenyu Wang, Fang You
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机交互(HCI)</category><category>AI伴侣/陪伴</category><category>信任</category><category>伦理</category><category>社交机器人</category><category>AI 伴侣</category><category>虚拟助手</category><category>人机交互</category>
-    </item>    <item>
-      <title>AI元认知校准悖论：用户自我监控与人机协作绩效间的倒U型关系</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46211</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46211</guid>
-      <description>📝 AI元认知校准悖论：用户自我监控与人机协作绩效间的倒U型关系
-EN: The AI Metacognitive Calibration Paradox: An Inverted-U Relationship Between User Self-Monitoring and Human–AI Collaborative Performance
-
-💡 研究揭示了一个“AI元认知校准悖论”：在人机协作任务中，用户的自我监控（即对自己认知过程的觉察与调节）与协作绩效之间呈倒U型关系。适度的自我监控有益，但过度自我监控反而损害绩效。这挑战了“越多自我监控越好”的假设，对设计促进有效协作的AI系统有启示。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Phan Khanh Duy, Bao Quoc Truong-Dinh
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>社会互动</category><category>人机交互(HCI)</category><category>人机协作</category><category>智能体/Agent</category><category>GenAI</category>
-    </item>    <item>
-      <title>电商服务聊天机器人的澄清设计：交互模式与个性化对任务效率和用户体验的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46210</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46210</guid>
-      <description>📝 电商服务聊天机器人的澄清设计：交互模式与个性化对任务效率和用户体验的影响
-EN: Clarification Design for E-Commerce Service Chatbots: Effects of Interaction Mode and Personalization on Task Efficiency and User Experience
-
-💡 研究电子商务服务聊天机器人中澄清请求的设计如何影响用户。探讨了两种交互模式（主动澄清与被动澄清）以及个性化（使用用户姓名）对任务效率和用户体验（如满意度、感知智能）的影响。通过实验方法比较不同设计组合的效果，旨在为优化客服聊天机器人的人机对话效率和用户体验提供实证依据。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Chien‐Hsiung Chen, Ji-Xian Ho
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>聊天机器人</category><category>人机交互(HCI)</category><category>信任</category><category>社会互动</category><category>聊天机器人</category><category>对话式 AI</category>
     </item>
   </channel>
 </rss>
