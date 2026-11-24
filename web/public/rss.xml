@@ -6,9 +6,71 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:30:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:27:26 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>面向个性化视频游戏交互的情境感知与情感感知对话代理</title>
+      <link>https://sr-ai-papers.vercel.app/papers/47229</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/47229</guid>
+      <description>📝 面向个性化视频游戏交互的情境感知与情感感知对话代理
+EN: Emotion-Aware and Context-Grounded Dialogue Agents for Personalized Video Game Interactions
+
+💡 研究提出ChatNPC，一个基于玩家情绪变化实时个性化响应的游戏伴侣，旨在增强用户沉浸感。它整合序列数据、游戏上下文和记忆，利用LLM的工具调用能力进行推理，使对话更自然、符合叙事连续性。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Michael Adjeisah, Jin Zhang, Pierluigi Vito Amadori, Ryan Spick, Eshani Kawshika Fernando
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.29372v1</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI伴侣/陪伴</category><category>情感连接</category><category>共情</category><category>人机交互(HCI)</category><category>LLM</category><category>聊天机器人</category><category>对话式 AI</category><category>情感识别</category>
+    </item>    <item>
+      <title>“我困惑于它，它困惑于我：”探索视障人士与移动服务机器人的交互体验</title>
+      <link>https://sr-ai-papers.vercel.app/papers/47228</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/47228</guid>
+      <description>📝 “我困惑于它，它困惑于我：”探索视障人士与移动服务机器人的交互体验
+EN: "I was Confused by It; It was Confused by Me:" Exploring the Experiences of People with Visual Impairments around Mobile Service Robots
+
+💡 移动服务机器人日益普及，但对视障人士（PVI）可能带来可访问性、安全和隐私问题。研究通过访谈17名PVI，探讨他们作为直接用户和旁观者，与扫地机器人、配送机器人和无人机三类机器人互动时的体验。研究发现，机器人缺乏无障碍反馈机制，导致PVI难以精确控制、定位和追踪机器人状态。作为旁观者，意外遭遇移动机器人会引发困惑甚至恐惧，构成安全和隐私障碍。研究进一步提炼了为PVI设计更具可访问性和安全性机器人的考量。
+
+📚 PACM-HCI · 2022 · 引用 18
+👤 Prajna Bhat, Yuhang Zhao
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>社会互动</category><category>儿童/老人/无障碍</category><category>隐私</category><category>社交机器人</category><category>人机交互</category>
+    </item>    <item>
+      <title>人机交互中AI诱发的技术压力：压力源、后果与缓解路径的系统综述与概念框架</title>
+      <link>https://sr-ai-papers.vercel.app/papers/47147</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/47147</guid>
+      <description>📝 人机交互中AI诱发的技术压力：压力源、后果与缓解路径的系统综述与概念框架
+EN: AI-Induced Technostress in Human–Computer Interaction: A Systematic Review and Conceptual Framework of Stressors, Consequences, and Mitigation Pathways
+
+💡 研究探讨人机交互中由人工智能引发的技术压力，通过系统综述和概念框架，识别AI相关的压力源、其导致的后果以及可能的缓解路径。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Mulyana Abdullah, Achmad Faqihuddin, Edi Suresman, Dina Mayadiana Suwarma, Jenuri Jenuri
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机交互(HCI)</category><category>伦理</category><category>成瘾/依赖</category><category>AI 伦理</category><category>AI 治理</category><category>人机交互</category>
+    </item>    <item>
+      <title>CollaGraph：通过结构化共享上下文协调人机协同创建交互式数学可视化</title>
+      <link>https://sr-ai-papers.vercel.app/papers/47144</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/47144</guid>
+      <description>📝 CollaGraph：通过结构化共享上下文协调人机协同创建交互式数学可视化
+EN: CollaGraph: Mediating Human-AI Co-Creation of Interactive Mathematical Visualization through Structured Shared Context
+
+💡 研究提出CollaGraph系统，旨在通过结构化的共享上下文，中介人类与AI在交互式数学可视化领域的协同创作过程。
+
+📚 IJHCI · 2026 · 引用 0
+👤 Liangyou Lu, Jianyang Liu, Chun Yu
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>人机交互(HCI)</category><category>人机协作</category><category>智能体/Agent</category><category>可解释 AI</category>
+    </item>    <item>
       <title>增加一个智能体：AI 团队规模与构成如何影响人机头脑风暴团队的生产力与多样性</title>
       <link>https://sr-ai-papers.vercel.app/papers/47101</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/47101</guid>
@@ -424,72 +486,6 @@ EN: Reading emotions in dynamic social scenes: social-cognitive recognition by v
 AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
       <category>情感识别</category><category>社会互动</category><category>共情</category><category>拟人化</category><category>GenAI</category><category>多模态</category><category>情感计算</category>
-    </item>    <item>
-      <title>缓解面试压力：机器人角色与反应性反馈对高压模拟面试的影响</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46581</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46581</guid>
-      <description>📝 缓解面试压力：机器人角色与反应性反馈对高压模拟面试的影响
-EN: Alleviating Interview Stress: Effects of Robot Persona and Reactive Backchanneling on High-Pressure Mock Interviews
-
-💡 高压面试引发焦虑，现有模拟训练在成本、标准化和临场感间难以平衡。研究探索机器人面试官的言语人设（支持性 vs. 挑战性）与非言语反馈（积极 vs. 消极）如何影响用户在模拟面试中的心理状态与面部表情。2x2组间实验（N=28）发现：支持性人设降低任务负荷，提升感知到的机器人温暖度与心智感知，减少被监视感和机器人不适感；积极反馈增加了非中性及焦虑-紧张的面部表情。人设与反馈在社交临场感上存在交互效应。结果为人机交互中的社会缓冲假说提供了初步支持。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Haochen Yang, Zhuoran Gao, Geqing Tao, Yusi Dong, Pei-Luen Patrick Rau
-
-AI 分: 4.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.17830v1</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <category>社会支持</category><category>社会临场</category><category>拟人化</category><category>信任</category><category>社交机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>探索纠正格式与素养干预作为基于机器人的假新闻纠正边界条件</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46375</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46375</guid>
-      <description>📝 探索纠正格式与素养干预作为基于机器人的假新闻纠正边界条件
-EN: Exploring Correction Format and Literacy Intervention as Boundary Conditions of Bot-Based Fake News Corrections
-
-💡 研究探讨了在聊天机器人进行假新闻纠正时，纠正信息的格式（如叙事式与事实式）和用户的媒介素养干预（如事前培训）如何作为边界条件影响纠正效果。通过实验法，考察这些因素对用户接受纠正、态度改变及分享意图的影响。核心发现是，纠正格式和用户素养水平会显著调节机器人纠正假新闻的有效性，为设计更有效的人机纠错互动提供了依据。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Ruqin Ren, Qian Wu, Jian Xu
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>聊天机器人</category><category>计算机中介传播</category><category>网络心理学</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 中介传播</category>
-    </item>    <item>
-      <title>以人为本的护理聊天机器人设计：肯尼亚药房避孕护理的启示</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46333</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46333</guid>
-      <description>📝 以人为本的护理聊天机器人设计：肯尼亚药房避孕护理的启示
-EN: Designing Chatbots for Person-Centered Care: Insights from Contraceptive Care in Kenyan Pharmacies
-
-💡 研究探讨在肯尼亚药店环境中，如何设计聊天机器人以支持青少年及年轻女性（AGYW）的避孕决策。通过与原用户（AGYW）和药店工作人员的共同设计研讨会，呈现聊天机器人原型，探讨其机遇、担忧及理想应用。研究发现，聊天机器人被视为可提供私密、无评判的信息空间，但会转移对药剂师的信任和权威，揭示了在用户、药剂师和机器人之间关于权威、依赖和控制权的紧张关系。据此，研究提出了设计指南，以引导聊天机器人应对社区观念，促进用户与药剂师的共同决策。
-
-📚 PACM-HCI · 2026 · 引用 0
-👤 Lisa Orii, Elizabeth K. Harrington, Merceline Awuor, Cellestine Aoko, Krisha Khandelwal
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1145/3858357</description>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <category>社会支持</category><category>信任</category><category>人机交互(HCI)</category><category>伦理</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 治理</category><category>AI 伦理</category>
-    </item>    <item>
-      <title>当AI展示其推理依据：用户可见的推理风格与AI中介关系修正的采纳</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46215</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46215</guid>
-      <description>📝 当AI展示其推理依据：用户可见的推理风格与AI中介关系修正的采纳
-EN: When AI Shows Its Rationale: User-Visible Rationale Styles and the Adoption of AI-Mediated Relational Correction
-
-💡 研究探讨在AI中介的关系修正（如纠正用户社交行为）场景中，AI向用户展示其决策理由的不同方式如何影响用户对AI建议的采纳。核心关注用户可见的理由呈现风格（如详细程度、表达方式）与采纳行为之间的关系，旨在理解如何通过解释性设计提升AI在敏感社交互动中的接受度。
-
-📚 IJHCI · 2026 · 引用 0
-👤 Zhenming Li, Ziyu Jin, Shuchao You, Ting Li, Ying Kei Tse
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://orca.cardiff.ac.uk/id/eprint/190560/4/Provisional%20File%20This%20article%20is%20currently%20in%20press.pdf</description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机信任</category><category>可解释 AI</category><category>人际关系</category><category>计算机中介传播</category><category>对话式 AI</category><category>可解释 AI</category><category>AI 中介传播</category>
     </item>
   </channel>
 </rss>
