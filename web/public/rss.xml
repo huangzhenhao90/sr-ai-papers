@@ -6,9 +6,26 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 12:27:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:05:13 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>面向儿童生成式AI的防护设计预占</title>
+      <link>https://sr-ai-papers.vercel.app/papers/47325</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/47325</guid>
+      <description>📝 面向儿童生成式AI的防护设计预占
+EN: Protective-Design Pre-Emption in Child-Facing Generative AI
+
+💡 儿童正快速采用通用生成式AI，而非专为儿童设计的平台，导致‘保护性设计抢占’问题。市场延迟、低门槛、功能差距、习惯养成和同伴影响使儿童被锁定在无限制的通用模型中，可能加剧拟社会依赖、技能退化和错误信息等风险。研究呼吁量化抢占现象、理解其社会技术驱动因素，并开发干预措施，确保儿童友好型AI被主动采用，而非仅作为选项。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Verena Jasmin Hallitschke, Mahelie Dissanayake, Elisa Nguyen
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.32352v1</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <category>儿童/老人/无障碍</category><category>AI治理</category><category>伦理</category><category>成瘾/依赖</category><category>GenAI</category><category>AI治理</category><category>AI伦理</category>
+    </item>    <item>
       <title>面向个性化视频游戏交互的情境感知与情感感知对话代理</title>
       <link>https://sr-ai-papers.vercel.app/papers/47229</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/47229</guid>
@@ -471,21 +488,6 @@ EN: Tactical-Level Explanation is Not Enough: Effect of Explaining AV’s Lane-C
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>人机信任</category><category>社会临场</category><category>伦理</category><category>可解释 AI</category><category>AI 治理</category><category>人机交互</category>
-    </item>    <item>
-      <title>解读动态社交场景中的情绪：视频多模态生成式人工智能的社会认知识别</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46598</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46598</guid>
-      <description>📝 解读动态社交场景中的情绪：视频多模态生成式人工智能的社会认知识别
-EN: Reading emotions in dynamic social scenes: social-cognitive recognition by video-capable multimodal generative artificial intelligence (AI)
-
-💡 研究探讨了具备视频处理能力的多模态生成式人工智能（AI）在识别动态社交场景中情绪的能力。通过评估AI对视频中社会认知线索（如面部表情、肢体语言、情境互动）的解读，考察其社会情绪识别的准确性与局限性。核心发现可能涉及AI在复杂、流动的人际互动背景下面临的挑战，以及多模态生成技术在此类高级认知任务上的潜力与不足。
-
-📚 CHB · 2026 · 引用 0
-👤 Gunther Meinlschmidt, Andrii Boiko, Gilles von Steiger, Rainer Schaefert, Hadar Dery
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <category>情感识别</category><category>社会互动</category><category>共情</category><category>拟人化</category><category>GenAI</category><category>多模态</category><category>情感计算</category>
     </item>
   </channel>
 </rss>
