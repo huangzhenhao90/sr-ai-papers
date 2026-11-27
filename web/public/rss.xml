@@ -6,9 +6,24 @@
     <atom:link href="https://sr-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI 社交关系 / 人机关系领域论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 10:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:42:28 +0000</lastBuildDate>
     <generator>sr-ai-papers export pipeline</generator>
     <item>
+      <title>正确性代价可信度？AI 驱动事实核查中的情感循环</title>
+      <link>https://sr-ai-papers.vercel.app/papers/47541</link>
+      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/47541</guid>
+      <description>📝 正确性代价可信度？AI 驱动事实核查中的情感循环
+EN: Correctness Costs Credibility? The Emotional Loop in AI-Powered Fact-Checking
+
+💡 研究探讨情感在基于大语言模型的事实核查中的作用，提出‘情感循环’概念：用户提问中的情感线索影响模型回复的准确性与情感强度，而回复的情感基调又反过来影响用户对可信度的感知。三项研究发现，负面情感提示能提升模型识别部分虚假信息的准确性，但模型输出的负面情感回复会降低处于负面情绪中的用户对核查结果的信任度，揭示了‘准确性损害可信度’的悖论。
+
+📚 SMS · 2026 · 引用 0
+👤 Wenbo Zhao, Jingtai Tang
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机交互(HCI)</category><category>计算机中介传播</category><category>情感计算</category><category>LLM</category><category>GenAI</category><category>聊天机器人</category><category>对话式 AI</category>
+    </item>    <item>
       <title>平台信息过载下的决策与支持机制：基于生成智能体的大学申请实验</title>
       <link>https://sr-ai-papers.vercel.app/papers/47486</link>
       <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/47486</guid>
@@ -174,7 +189,9 @@ EN: Social Influence in the Age of Artificial Intelligence: Preference for Human
 📚 PSPB · 2026 · 引用 0
 👤 Constanza Musso, Andreas Kappes
 
-AI 分: 5.0 / 领域分: 4.0</description>
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://doi.org/10.1177/01461672261506408</description>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>社会影响</category><category>信任</category><category>算法厌恶</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>对话式 AI</category><category>AI 中介传播</category>
     </item>    <item>
@@ -461,23 +478,6 @@ EN: Toward a Neurocognitive Account of CASA: EEG Evidence from Human and ChatGPT
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <category>拟社会关系</category><category>社会临场</category><category>人机交互(HCI)</category><category>聊天机器人</category><category>LLM</category><category>ChatGPT</category><category>社交机器人</category><category>对话式 AI</category>
-    </item>    <item>
-      <title>空中交通管制中的人际信任、制度信任与技术信任</title>
-      <link>https://sr-ai-papers.vercel.app/papers/46800</link>
-      <guid isPermaLink="true">https://sr-ai-papers.vercel.app/papers/46800</guid>
-      <description>📝 空中交通管制中的人际信任、制度信任与技术信任
-EN: Interpersonal trust, institutional trust and trust in technology in Air Traffic Control
-
-💡 研究探讨了在航空交通管制（ATC）这一复杂任务中，人际信任、制度信任与技术信任所扮演的角色。研究为考察空管人员与基于智能体等技术创新的信任关系建立与维持所需条件奠定了基础，旨在确保这些技术安全可靠地融入ATC工作。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Rob Procter, Mark Rouncefield
-
-AI 分: 3.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.24715v1</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机交互(HCI)</category><category>人机信任</category><category>社会互动</category><category>智能体/Agent</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
